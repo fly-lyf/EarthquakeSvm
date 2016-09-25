@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">“震设人心”首届上海市大学生防震减灾科普作品征集活动正式启动<span>发布时间：2015-05-19</span></div>
+                <p><p>
+	　　5月12日正值我国第7个&ldquo;防灾减灾日&rdquo;，由上海市科委指导，上海市地震局和上海市学生联合会共同主办的&ldquo;震设人心&mdash;&mdash;首届上海市大学生防震减灾科普作品征集活动&rdquo;在同济大学海洋与地球科学学院正式启动。</p>
+<p>
+	　　启动仪式上，市地震局副局长李红芳、团市委学校部部长徐速及同济大学海洋与地球科学学院党委书记耿建华共同为本次活动触亮了启动球，标志着&ldquo;震设人心&rdquo;首届上海市大学生防震减灾科普作品征集活动正式开始。</p>
+<p>
+	　　本次活动将历时半年，通过作品征集的方式激发大学生们进行防震减灾科普创作的兴趣，有利于加深这一群体对防震减灾科普知识的认识，切实增强大学生的防震减灾意识和应急避险技能，同时也为我市防震减灾科普宣传方式注入新鲜血液，丰富了日常科普作品的种类与数量，搭建了新的科普创作和宣传平台。</p>
+<p>
+	　　活动现场还为同学们安排了一场防震减灾科普盛宴，特邀上海市地震监测中心于海英博士从&ldquo;地震监测科技发展情况&rdquo;的角度为在场学生作主题报告，并就不同场景下如何避震这一知识点及大学生们普遍关心的问题，邀请上海市地震灾害防御中心吕恒俭博士与大家进行互动，答疑解惑。</p>
+<p>
+	　　互动环节同学们积极提问，专家们耐心解答，现场气氛轻松热烈，在场师生纷纷表示受益颇丰。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1505/201505190211245684.jpg" title="图像" wdimgid="image_322" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1505/201505190211523.jpg" title="图像" wdimgid="image_324" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1505/201505190211243035.jpg" title="图像" wdimgid="image_323" /></p>
+<p align="center">
+	&nbsp;</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1505/201505190211246033.jpg" title="图像" wdimgid="image_325" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

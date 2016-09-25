@@ -1,0 +1,10 @@
+上海市地震局
+
+            	DB/T 31.2－2008《地震观测仪器进网技术要求 地壳形变观测仪 发布时间：2009-11-09
+                标准名称：DB/T 31.2－2008《地震观测仪器进网技术要求&nbsp;地壳形变观测仪
+第2部分：应变仪》
+英文名称：Technical requirements of instruments in network for earthquake monitoring&nbsp;The instrument for crustal deformation observation&nbsp;Part 2：Strainmeter
+发布日期：2008年08月11日
+实施日期：2008年12月01日
+起草单位：中国地震局地震研究所、中国地震台网中心、中国地震局地壳应力研究所。
+内容范围：本部分规定了地壳形变观测中应变仪进网的技术指标及其测试方法，适用于应变仪的设计、生产、使用、维护、引进和质量监督。

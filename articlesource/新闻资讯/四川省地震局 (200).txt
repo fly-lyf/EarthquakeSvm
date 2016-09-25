@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">图片新闻</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>甘孜州扎实开展防灾减灾宣传周各项活动 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '？甘孜州防震减灾局';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-05-22 11:18:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-05-22 11:18:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-05-22 11:18:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-05-22 11:18:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <P class=Custom_UnionStyle>　　<SPAN>5</SPAN><SPAN>月<SPAN>11</SPAN>日</SPAN><SPAN>至<SPAN>17</SPAN>日是全国防灾减灾宣传周，甘孜州精心组织扎实开展了各项宣传活动。</SPAN></P>
+<P class=Custom_UnionStyle>　　<SPAN>甘孜州防灾减灾局在情歌广场<SPAN>LED</SPAN>显示屏上滚动播放防灾减灾宣传片《公众自救互救常识》；在甘孜日报上开辟防灾宣传专栏，刊登了《常见自然灾害避险口诀》、《甘孜藏族自治州突发事件应对条例》解析等篇目材料，悬挂防灾减灾宣传横幅，局<SPAN>LED</SPAN>显示屏<SPAN>24</SPAN>小时滚动播放宣传知识，积极营造活动氛围。</SPAN></P>
+<P class=Custom_UnionStyle>　　<SPAN>雅江、德格、甘孜、九龙、康定、巴塘、乡城等县通过开展广场集中宣传，电视台播放宣传片，深入企业、村组、寺庙、学校开展宣传，开展应急疏散演练等活动。道孚县开展平安中国?平安道孚防灾宣导千城大行动，共集中放映电影<SPAN>6</SPAN>场次，观众共计达到近<SPAN>5000</SPAN>人次。康定县<SPAN>重点对各乡镇及水电企事业的应急值守、应急预案、应急准备等情况进行了检查。</SPAN></SPAN><SPAN>德格县组织县幼儿园开展地震应急疏散演练。</SPAN><SPAN>九龙县召开<SPAN>2015</SPAN>年防灾减灾和应急管理暨第一次应急会商会议。甘孜县组织城区二完高年级学生<SPAN>600</SPAN>余人在县气象局院内开展“防灾减灾”主题宣讲活动。</SPAN></P>
+<P class=Custom_UnionStyle>　　<SPAN>据不完全统计，宣传周期间，共悬挂宣传横幅<SPAN>1321</SPAN>条，制作展板<SPAN>1410</SPAN>张，咨询人数达<SPAN>17065</SPAN>余人次，发放《防灾减灾常识》、《抗震救灾知识》、《防震减灾知识十讲与汶川地震》、《避震小常识》等各类涉灾宣传资料<SPAN>97910</SPAN>余份、宣传画册和挂图近<SPAN>2160</SPAN>套、光碟<SPAN>1330</SPAN>余张，组织开展不同规模的应急演练<SPAN>165</SPAN>场，达到了预期效果。&nbsp;</SPAN></P>
+<P class=Custom_UnionStyle><SPAN></SPAN>&nbsp;</P>
+<P class=Custom_UnionStyle align=center><SPAN><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020150522411025627735.jpg" width=515 height=359 _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020150522407835931267.jpg" OLDSRC=W020150522411025627735.jpg/></SPAN></P>
+<P class=Custom_UnionStyle align=center><SPAN></SPAN>&nbsp;</P>
+<P class=Custom_UnionStyle align=center><SPAN><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020150522411025629330.jpg" width=518 height=376 _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020150522409726568062.jpg" OLDSRC=W020150522411025629330.jpg/></SPAN></P>
+<P class=Custom_UnionStyle align=center><SPAN></SPAN>&nbsp;</P>
+<P class=Custom_UnionStyle align=center><SPAN><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020150522411025624347.jpg" width=520 height=358 _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020150522409273903730.jpg" OLDSRC=W020150522411025624347.jpg/></SPAN></P>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     <a href="./t20150522_33044.html"><img src="./W020150522411041098140.jpg" alt="0339.1.jpg"/></a>
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

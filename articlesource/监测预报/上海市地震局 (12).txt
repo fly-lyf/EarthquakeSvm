@@ -1,0 +1,491 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海地震监测能力（三）<span>发布时间：2007-06-06</span></div>
+                <p><p align="center"><font face="Arial"><font size="4"><strong>三、地震观测环境保护<br />
+</strong></font></font>
+<p><font face="Arial">　　《中华人民共和国防震减灾法》是规定了地震监测设施和地震观测环境保护的基本法律制度，2004年9月1日，国务院以防震减灾法为依据，颁布实施了《地震监测管理条例》。这部行政法规，以单独一章的篇幅，详细规定了&ldquo;地震监测设施和地震观测环境的保护&rdquo;有关内容。</font></p>
+<p><font face="Arial">　　地震监测工作是为保护当地人民生命财产安全、为当地经济建设服务的。按照有关法律法规和中国地震局《关于加强地震监测台站观测环境保护工作的通知》（中震测函〔2005〕83号）的要求，我局对上海市行政区内专业地震台站以及无人值守地震观测台的设施和周边环境进行了有效保护。2005年12月，由我局牵头，与上海市公安局、上海市城市规划管理局、上海市房屋土地资源管理局联合发文《关于加强地震监测设施和地震观测环境保护的通知》（沪震发〔2005〕229号）。2006年，我局先后在佘山台和崇明台安装了地震观测环境保护的&ldquo;公告牌&rdquo;，在24个无人值守地震观测台安装了&ldquo;警示牌&rdquo;。由于准备充分，目的明确，各方配合，地震观测环境保护工作取得了较好的成效。一是扩大了防震减灾法律法规的影响，进一步引起了政府领导及有关部门对防震减灾工作的重视。二是解决了防震减灾工作中一些亟待解决的问题。</font></p>
+<p align="center"><font face="Arial"><font face="Arial">&nbsp; </font></font>
+<p align="center"><font face="Arial"><font face="Arial">上海市地震监测设施分布地点一览表</font><br />
+</font></p>
+<p align="center"><font face="Arial"></font></p>
+<p align="left"><font face="Arial">&nbsp; </font>
+<p class="MsoNormal" align="center"><font face="Arial"><img height="198" width="264" alt="" src="/resource/image013.jpg" /></font></p>
+<p class="MsoNormal" align="center"><img height="198" width="264" alt="" src="/resource/image015.jpg" /></p>
+<p align="center"><font face="Arial"></font></p>
+<p align="left"><font face="Arial"></font></p>
+</p>
+<p class="MsoNormal" style="TEXT-INDENT: 21pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"><span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal"><font face="Arial">　　保护范围：<br />
+　　测震、强震测项的保护范围参见GB/T 19531.1-2004《地震台站观测环境技术要求&nbsp; 第一部分：测震》。<br />
+　　地电、地磁、流磁、电磁波观测的保护范围参见GB/T 19531.2-2004《地震台站观测环境技术要求&nbsp; 第二部分：电磁观测》。<br />
+　　重力、地形变、地应力、短水准（形变）、跨断层水准观测的保护范围参见GB/T 19531.3-2004《地震台站观测环境技术要求&nbsp; 第三部分：地壳形变观测》。<br />
+　　水化、地下水、地下流体观测的保护范围参见GB/T 19531.4-2004《地震台站观测环境技术要求&nbsp; 第四部分：地下流体观测》。<br />
+</font></p>
+</p>
+<div align="center">
+<table style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 458.9pt; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt" cellspacing="0" cellpadding="0" width="612" border="1">
+    <tbody>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">台站名<span lang="EN-US"><o:p></o:p></span></span></strong></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">监测内容<span lang="EN-US"><o:p></o:p></span></span></strong></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">地点<span lang="EN-US"><o:p></o:p></span></span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">台网中心<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">综合<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">普陀区兰溪路<span lang="EN-US">87号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">曹杨公园<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">普陀区枫桥路<span lang="EN-US">1号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">虹桥<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震、流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">长宁区虹桥机场内<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">凤城中学<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">杨浦区黄兴路<span lang="EN-US">605号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">上海工大<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">闸北区延长路<span lang="EN-US">149号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">上戏<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">静安区华山路<span lang="EN-US">630号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">南汇中学<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震、流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">南汇区惠南镇卫星东路<span lang="EN-US">16号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">吴泾电化厂<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">闵行区元江路<span lang="EN-US">38号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">造漆厂<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">闵行区春光路<span lang="EN-US">699弄5号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span lang="EN-US" style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">810所<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">浦东新区东方路<span lang="EN-US">3333号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">张江<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">综合<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">浦东新区沈括路<span lang="EN-US">449号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">海运<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">浦东新区崂山西路<span lang="EN-US">500号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">通用汽车<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">浦东新区申江路<span lang="EN-US">1500号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">秦皇山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">金山区秦皇山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">东海啤酒厂<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">金山区张堰镇松金公路<span lang="EN-US">2688号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">商榻<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">综合<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">青浦区金泽镇<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">白鹤水厂<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">青浦区白鹤镇<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">天马山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">松江区天马山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">小昆山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">松江区小昆山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">松江二中<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">松江区松江镇中山东路<span lang="EN-US">250号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">佘山台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">长水准观测点（<span lang="EN-US">10个）<o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">松江区西佘山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">佘山台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">地磁<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">松江区西佘山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">佘山台阵<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">台阵子台（<span lang="EN-US">15个）<o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">松江区西佘山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">佘山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震、形变<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">松江区西佘山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">大新中学<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明县新河镇<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">三烈中学<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震、流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明县竖新镇新烈南路<span lang="EN-US">226号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">东滩<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">综合<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明县东滩湿地<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明中学<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明县陈桥镇北门路<span lang="EN-US">58号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">长兴岛<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明县长兴乡北兴村<span lang="EN-US">5队<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">新海农场<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明县创新路<span lang="EN-US">1号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">前进农场<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">流体<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明县原前进锁厂<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">长江农场<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">地电<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明县黄河路<span lang="EN-US">2号（北沿公路口）<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">地磁绝对观测标志<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">崇明县竖新镇新烈南路<span lang="EN-US">206号<o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">佘山岛<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">佘山岛<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">天平山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">江苏<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">大洋山<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">浙江<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 107.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">横湖<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 153pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="204">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">测震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="264">
+            <p class="MsoNormal" style="TEXT-ALIGN: center" align="center"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">浙江<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

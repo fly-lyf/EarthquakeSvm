@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../">首页</a>><a href="../../">新闻资讯</a>><a href="../">行业动态</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>中国地震局专家：地震预警信息发布应遵从法律 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '科技日报';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-08-19 13:56:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-08-19 13:56:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-08-19 13:56:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-08-19 13:56:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<DIV>
+<DIV>
+<P><SPAN></P>
+<P><SPAN>　　</SPAN><SPAN>8</SPAN><SPAN>月<SPAN>11</SPAN>日</SPAN><SPAN>，成都高新减灾研究所发出了一条地震预警信息，预警了一场并未发生的地震。中国地震台网官方微博认定其为<SPAN>“</SPAN>误报<SPAN>”</SPAN>；而高新所表示，这是<SPAN>“</SPAN>演习<SPAN>”</SPAN>。</SPAN></P>
+<P><SPAN>　　<SPAN>“</SPAN>鉴于误报地震极易引起社会恐慌，震长认为地震预警信息应该由国家统一发布，不能由企业或者个人发布，大家觉得呢？<SPAN>”</SPAN>地震台网的这条微博，也引来一些网友的<SPAN>“</SPAN>吐槽<SPAN>”</SPAN>：地震局为什么不做地震预警，反而让民企<SPAN>“</SPAN>扛大旗<SPAN>”</SPAN>？</SPAN></P>
+<P><SPAN>　　<SPAN>“</SPAN>国家队<SPAN>”</SPAN>在地震预警方面做了些啥，谁能够发布地震预警信息？中国地震局专家接受了科技日报记者的采访。</SPAN></P>
+<P><SPAN>　　<STRONG>民企扛起地震预警大旗？其实国家队也在研究</STRONG></SPAN></P>
+<P><SPAN>　　地震预警，是在地震仪器记录到从震源发射出的纵波<SPAN>(P</SPAN>波<SPAN>)</SPAN>后，快速自动计算地震参数，在横波<SPAN>(S</SPAN>波<SPAN>)</SPAN>到达之前发出地震信息。从某种程度上来说，这是一场与<SPAN>“S</SPAN>波<SPAN>”</SPAN>的赛跑。它的目的是告诉那些尚未被地震波及的地区：地震已经来了！</SPAN></P>
+<P><SPAN>　 　<SPAN>“</SPAN>地震预警的核心技术是如何快速可靠地判定地震、确定地震位置、大小并估计其影响范围。<SPAN>”</SPAN>中国地震局工程力学研究所副所长、研究员李山有告诉科技日报记者，这一技术已经<SPAN>“</SPAN>基本成熟<SPAN>”</SPAN>。中国地震局在<SPAN>“</SPAN>十一五<SPAN>”</SPAN>期间便开展了关于地震预警的前期探索，也在国家科技支撑项目支持下全面推进了地震预警系统研究与示范应用。<SPAN>“2013</SPAN>年<SPAN>6</SPAN>月这一项目通过了科技部组织的验收，这是唯一通过国家级验收的地震预警技术系统。<SPAN>”</SPAN></SPAN></P>
+<P><SPAN>　　地震预警系统，其实已经开始布局。<SPAN>2014</SPAN>年首都圈和兰州地区地震预警示范系统完成软件部署，进入试运行。唐山地区建成由<SPAN>150</SPAN>套简易烈度计组成的地震烈度速报试验网，广东珠江三角洲地震预警台网项目完成主体建设任务。</SPAN></P>
+<P><SPAN>　　更让网友关注的，是<SPAN>8</SPAN>月<SPAN>11</SPAN>日<SPAN>“</SPAN>中国地震台网速报<SPAN>”</SPAN>发出一条微博，表示国家地震烈度速报与预警工程已经获得国务院批复。</SPAN></P>
+<P><SPAN>　　据李山有介绍，这一项目拟利用<SPAN>5</SPAN>年时间建成由<SPAN>5000</SPAN>多个强震、测震台站以及<SPAN>1</SPAN>万个左右烈度观测点组成的地震烈度速报与预警观测系统，建设可靠的数据处 理和紧急地震信息发布系统，实现全国范围地震烈度速报和覆盖南北地震带、华北、东南沿海、新疆西北部等地区的地震预警，同时显著提高我国的地震监测能力。</SPAN></P>
+<P><SPAN>　　<STRONG>谁能发信息？还是按照法律来</STRONG></SPAN></P>
+<P><SPAN>　　<SPAN>“</SPAN>目前我国有企业开展了社会地震预警系统的研发，并在部分地区进行了示范应用。<SPAN>”</SPAN>面对这一现状，李山有指出，社会地震预警系统是国家地震预警系统的重要补充和延伸，不过如果事关地震预警信息的发布，则必须慎重，要<SPAN>“</SPAN>在我国相关法律法规的框架之内进行<SPAN>”</SPAN>。</SPAN></P>
+<P><SPAN>　　现有的法律法规是什么呢？还没有法律专门为地震预警信息发布主体作出规定，但在<SPAN>“</SPAN>公共地震信息发布<SPAN>”</SPAN>这一国家标准中，规定<SPAN>“</SPAN>向社会公众发布的国内公共地震信息应来源于地震和相关主管部门公布的地震信息<SPAN>”</SPAN>。</SPAN></P>
+<P><SPAN>　　还有其他相关法律，也可以作为参考。《突发事件应对法》第<SPAN>43</SPAN>条指出，可以预警的自然灾害、事故灾难或者公共卫生事件即将发生或者发生的可能性增大时，县级以上地方各级人民政府应当根据有关法律、行政法规和国务院规定的权限和程序，发布相应级别的警报。</SPAN></P>
+<P><SPAN>　　李山有告诉科技日报记者，中国地震局已经于<SPAN>2010</SPAN>年着手《防震减灾法》修订研究，开始了预警相关法律法规的预研究工作。</SPAN></P>
+<P><SPAN>　 　<SPAN>2014</SPAN>年<SPAN>7</SPAN>月，在《关于加强地震预警管理的通知》中，国家地震局提出，地震预警发布级别应由国务院或者国务院确定的部门制定，预警信息应由县以上地震行政主管部门负责提供并由县级以上人民政府授权发布。<SPAN>“</SPAN>任何组织与个人不得以<SPAN>‘</SPAN>试验<SPAN>’‘</SPAN>演练<SPAN>’</SPAN>等名义自行发布和提供地震预警信息服务。对于任何未获得政府 授权擅自发布预警信息的行为，一旦引发社会恐慌造成人员伤亡和财产损失，按照国家有关法律，预警信息发布方须承担相关经济和法律责任<SPAN>”</SPAN>。</SPAN></P>
+<P><SPAN>　　<STRONG>错报怎么办？若非人为原因不追责</STRONG></SPAN></P>
+<P><SPAN>　　那么，如果发布的预警信息有误，需要承担责任吗？</SPAN></P>
+<P><SPAN>　　其实，即使是在地震预警系统已经相当发达的日本，也难保次次无误。</SPAN></P>
+<P><SPAN>　　地震预警最关键技术，是快速判断地震，根据<SPAN>P</SPAN>波到来后前<SPAN>3</SPAN>秒的信息，判定是否发生了大地震。<SPAN>2011</SPAN>年日本<SPAN>“3·11”</SPAN>地震预警的第<SPAN>1</SPAN>报震级仅仅为<SPAN>5.7</SPAN>级，与实际震级里氏<SPAN>9.0</SPAN>级有较大差距。</SPAN></P>
+<P><SPAN>　　不过，日本气象厅发布地震预警系统投入使用时就明确指出，由于地震预警技术本身和地震台站环境的问题，包括其他震动的干扰、雷电干扰、仪器设备故障及地震判定技术的复杂，地震预警可能出现漏、误、错报的情况。<SPAN>“</SPAN>我们不能对地震预警求全责备。<SPAN>”</SPAN>中国地震台网中心研究员张晁军等人在其论文中这样写道。但是， 这也意味着地震预警系统应具备警报的快速确认和解除功能。如果报错了，快速更正，减小损失。</SPAN></P>
+<P><SPAN>　　但错误警报已经发出，有没有相应的处罚机制？中国地震应急指挥系统首席专家聂高众曾在接受媒体采访时指出，在日本，按法律程序实施地震预警，如果出错，也是免责的。</SPAN></P></SPAN></DIV></DIV></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

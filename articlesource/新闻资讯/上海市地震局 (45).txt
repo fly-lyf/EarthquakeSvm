@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局评审专家组赴各区县开展示范社区创建情况检查<span>发布时间：2015-11-12&nbsp;&nbsp;&nbsp;&nbsp;信息来源：震害防御处</span></div>
+                <p><p>
+	　　为推进社区防震减灾工作，提升市民防震减灾意识和应急避险能力，我局震防处于10月27日至11月5日组织专家赴区县开展2015年度&ldquo;上海市地震安全示范社区&rdquo;评审认定工作。</p>
+<p>
+	　　为使评审工作公开透明、合理合规，同时便于各区县间的交流学习，我局继续延续市区协作模式，邀请部分有示范社区创建经验的区县地震办同志担任专家组成员。</p>
+<p>
+	　　本次评审共收到11个区21个社区提交的认定申请，专家组在参评社区所在区县地震办、街镇领导的陪同下，通过两个星期的走访，实地查看了各个参评社区的硬件设施建设情况，集中审阅了相关台账材料，认真听取了示范社区创建工作的总体汇报。评审组专家结合自身创建经验逐一对各个社区的创建工作进行了点评，充分肯定了大家在示范社区创建工作中所做出的努力和成绩，并对今后如何更好的推进示范社区工作提出了建设性意见。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

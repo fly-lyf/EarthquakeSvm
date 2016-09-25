@@ -1,0 +1,441 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>吉林前郭5.5级地震简报</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/515/index.html' class='navigation_style'>热点报道</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">吉林前郭5.5级地震简报</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2013-11-01 17:04:20 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：吉林省地震局
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><p style="text-align: center"><strong>吉林前郭5.5级地震简报（一）</strong></p>
+<p>　　吉林省松原市前郭尔罗斯蒙古族自治县发生5.5级、5.0级地震</p>
+<p>　　2013年10月31日11时03分34秒,吉林省松原市前郭尔罗斯蒙古族自治县(北纬44.6度,东经124.2度)发生5.5级地震，震源深度8千米。11时10分07秒,吉林省松原市前郭尔罗斯蒙古族自治县(北纬44.6度,东经124.2度)发生5.0级地震，震源深度6千米。</p>
+<p>　　两次地震全省大部有震感，松原、白城地区震感强烈。&nbsp;</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（二）&nbsp;</strong></p>
+<p>　　吉林省地震局启动Ⅲ级应急响应迅速有效处置前郭地震&nbsp;</p>
+<p>　　2013年10月31日11时,吉林省松原市前郭尔罗斯蒙古族自治县先后发生5.5级、5.0级地震。震后，吉林省地震局立即向省委、省政府和中国地震局报告地震信息。根据地震应急预案，立即启动Ⅲ级应急响应。</p>
+<p>　　11时28分，派出由孙继刚副局长带队的14人工作队赶赴现场。17时25分，任利生局长带领相关人员赶赴灾区。</p>
+<p>　　&nbsp;地震发生后，省局迅速收集和上报震情和灾情信息；组织专家召开紧急会商会，分析研判震后趋势；启动视频会议系统，向中国地震局汇报震情；现场接受中央电视台、省电台等10余家新闻媒体采访。同时要求全省监测台网加强地震监测，密切监视震情变化。</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（三）</strong></p>
+<p>　　中国地震局及吉林省委省政府分别对前郭地震应急处置工作作出指示&nbsp;</p>
+<p>　　松原前郭地震发生后，中国地震局及吉林省委省政府高度重视，先后作出指示，要求妥善处置。中国地震局陈建民局长亲自指示：一是中国地震台网中心与吉林局做好联合会商。二是要求周边省局和研究所协助吉林省局完成现场应急工作。震后省委、省政府领导迅速作出重要批示，省委书记王儒林和省长巴音朝鲁指示要求做好震后应急处置相关工作。&nbsp;</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（四）</strong></p>
+<p>　　吉林省委书记王儒林、省长巴音朝鲁等省领导赴吉林省地震局现场调度指挥应对前郭地震&nbsp;</p>
+<p>　　前郭地震发生后，省领导高度重视地震应急处置工作。下午15时，省委书记王儒林，省长巴音朝鲁，省委常委、常务副省长马俊清，省委常委、省委秘书长房俐，省委常委、省委宣传部部长庄严等省领导及应急、民政等单位主要负责同志来到吉林省地震局，听取了吉林省地震局任利生局长及相关部门负责人关于震情、灾情、应急处置等情况汇报，研究部署震后应对工作。</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（五）吉林省副省长谷春立赶赴地震现场领导抗震救灾工作</strong></p>
+<p>　　10月31日14时30分，谷春立副省长赶赴地震现场，领导抗震救灾工作。18时，谷春立副省长主持召开会议，听取吉林省地震局及前郭县、乾安县的灾情和处置情况汇报，成立了现场抗震救灾指挥部，开展抗震救灾各项工作。</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（六）吉林省地震局任利生局长赶赴灾区地震现场</strong></p>
+<p>　　10月31日下午17时25分，吉林省地震局任利生局长在参加完王儒林书记和巴音朝鲁省长主持召开的抗震救灾工作调度会后，立即赶赴震区，领导地震现场应急工作。目前，我局在地震现场架设了5台流动测震仪，成立了7个灾害评估工作组开展现场工作。</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（七）4支地震部门现场工作队正在灾区开展工作&nbsp;</strong></p>
+<p>　　截至10月31日20时30分，地震现场共有4支地震部门现场工作队伍联合开展地震现场工作。分别是：一、吉林省地震局地震现场工作队。共计14人，孙继刚副局长带队，3台车携带海事卫星、2套流动地震监测仪等设备，14时10分抵达现场；二、黑龙江省地震局现场工作队。共计10人，杨金山副局长带队，2台车携带3套流动地震监测仪等设备，17时抵达现场；三、中国地震局工程力学研究所现场工作队。共计5人，余世舟研究员带队，重点对现场灾害进行调查评估。17时30分抵达灾区；四、黑龙江省大庆市地震局现场工作队。共计5人，石兴才副局长带队，1台车，20时20分抵达现场。&nbsp;</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（八）地震部门现场工作队已完成8个流动监测仪器布设工作</strong></p>
+<p>　　截至10月31日20时20分，4支地震部门现场工作队伍主要完成了如下工作：一、分别在腰英吐小学，瑟子小学、大什门村部架设了3台（套）地震流动监测仪。二、在东三家子、乌兰塔拉、宝甸、达呈巴、风华完成5个强震台布台工作。三、开展地震灾评工作。16名灾评人员分成4个小队，在极震区开展工作。四、31日18时至19时20分，参加&ldquo;松原市抗震救灾指挥部第一次联席会议&rdquo;。会议由谷春立副省长主持。孙继刚副局长汇报了现场工作队情况。&nbsp;</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（九）地震系统现场工作队召开会议明确分工部署工作</strong></p>
+<p>　　31日21时，根据&ldquo;松原市抗震救灾指挥部第一次联席会议&rdquo;谷春立副省长对地震系统现场工作队伍下达&ldquo;要加强监测及研判，做好灾情收集评估工作&rdquo;两项工作任务。在现场的4支现场工作队全体人员举行会议，对现场工作进行了分工部署。会议由孙继刚副局长主持。&nbsp;</p>
+<p>　　一是成立了由孙继刚、杨金山、王晓峰、孟繁斌、高双喜同志组成的工作领导小组，负责地震系统现场工作队指挥、协调工作。下设流动监测队、灾害调查队、综合协调队等三个工作队，分别按职责开展工作。二是流动监测队由刘希龙负责，在架设3台套基础上，于11月1日10时前，分别在东三家子、乌兰塔拉两地再架设2台套流动仪，对震情实时进行监测。三是整合灾评人员力量。4支现场工作队灾评人员合并分成4个小队，由近至远分别对6个乡（村）进行评估调查，每天16时向领导小组汇报灾情，做好具体数字、文字记录工作。四是提出了&ldquo;确保安全，集体行动，不怕吃苦，践行为民&rdquo;的16字工作要求。&nbsp;</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（十）省抗震救灾现场指挥部召开 第二次现场工作会议</strong></p>
+<p>　　2013年11月1日10时，谷春立副省长在松原前郭查干花镇抗震救灾指挥部主持召开了第二次地震现场工作会议,听取了省地震局任利生局长有关余震监测、震后趋势及现场工作的汇报;听取了民政厅关于灾害损失调查、救灾物资准备和发放情况的汇报;听取了松原市抗震救灾开展情况的汇报,包括房屋损坏及灾民安置的情况;听取了住建厅对房屋破损程度及损毁房屋的汇报。&nbsp;</p>
+<p>　　谷春立副省长对各部门工作给予了肯定，就进一步做好抗震救灾工作提出6个方面的要求。一是全力对伤员进行及时救治。二是做好震后的地震趋势研判工作。三是注意救助保障工作。四是做好房屋损坏、鉴定、修善工作。五是做好地震灾害损失评估工作。六是及时发布地震信息，做好地震宣传工作。</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（十一）吉林省地震局任利生局长在地震 现场接受媒体采访</strong></p>
+<p>　　11月1日12时，任利生局长在吉林前郭5.5级地震现场接受了吉林电视台等多家媒体的采访。任利生局长介绍了省地震局监测的余震情况和震后趋势研判情况，通报了地震专家会商意见，指出此次地震为震群型地震，未来发生更大震级的地震可能性不大，但一定要做好4级强余震的预防和做好余震的监测。</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（十二）吉林省副省长谷春立深入地震现场流动监测站 关心慰问现场工作人员</strong></p>
+<p>　　11月1日11时，在现场指挥部第二次会议后，谷春立副省长在省地震局任利生局长、孙继刚副局长的陪同下，先后到腰英台、东大什门地震流动监测站慰问了现场工作人员，询问了地震观测设备的观测情况，余震监测情况，震后趋势情况和数据采集情况。听取了现场工作人员关于地震流动监测仪器的布设要求和地震实时监测情况的汇报。</p>
+<p>　　谷春利副省长指出地震趋势的判断非常重要，关系到整个抗震救灾的指挥和部署，要求地震部门要继续做好余震监测和分析研判为抗震救灾提供可靠依据。</p>
+<p style="text-align: center"><strong>吉林前郭5.5级地震简报（十三）吉林电视台各频道聚焦地震现场工作队伍</strong></p>
+<p>　　11月1日14时，吉林电视台卫星频道就地震现场应急工作的主要任务及地震现场应急联动机制建设等方面的内容，对吉林省地震局孙继刚副局长进行了专访。孙继刚副局长介绍了东北地区地震系统地震应急联动机制建立情况，以及应急联动机制在本次地震处置中发挥的作用。孙继刚副局长还详细说明了在震中区域布设的5个流动地震观测站工作情况和现场灾害评估调查的工作开展情况，通报了地震趋势意见和下一步工作部署。</p>
+<p>　　随后，吉林电视台公共新闻频道对吉林省地震局、黑龙江省地震局、中国地震局工程力学研究所的各支现场工作队伍工作开展情况进行了采访和报道。</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p>
+<p>　　&nbsp;</p></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

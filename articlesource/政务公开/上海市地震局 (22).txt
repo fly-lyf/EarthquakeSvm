@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">政府采购公开事项</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/zwgk/n107/n108/index.html" target="_parent" title="政策规定"><span>政策规定</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/zwgk/n107/n109/index.html" class="now" target="_parent" title="公开事项"><span>公开事项</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/zwgk/n107/n109/n111/index.html" target="_parent" title="政府采购公告"><span>政府采购公告</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/index.html" target="_parent" title="采购结果公示"><span>采购结果公示</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../../index.html">政务公开</A> &gt; <A class=black-y-text HREF="../index.html">政府采购公开事项</A> &gt; <A class=black-y-text HREF="index.html">公开事项</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>公开事项</h2>
+            </div>
+            <ul class="listTxt">
+                <li><a href="http://www.ccgp.gov.cn/cggg/dfgg/gkzb/201504/t20150414_5189878.htm" title="上海市地震局物业服务采购项目第二次招标公告">上海市地震局物业服务采购项目第二次招标公告</a><span>2015-04-15</span></li>
+                
+                <li><a href="http://www.ccgp.gov.cn/cggg/dfgg/zbgg/201504/t20150413_5185153.htm" title="上海市地震局物业服务采购项目失败公告">上海市地震局物业服务采购项目失败公告</a><span>2015-04-13</span></li>
+                
+                <li><a href="http://www.ccgp.gov.cn/cggg/dfgg/gkzb/201503/t20150315_5095063.htm" title="上海市地震局物业服务采购项目招标公告">上海市地震局物业服务采购项目招标公告</a><span>2015-03-16</span></li>
+                
+            </ul>
+            <div class="page">
+<A HREF=index.html> 首页 </A><A  HREF="/gb\dzj/zwgk/n107/n109/index7.html"> 上一页 </A><font color=gray> 下一页 </font><font color=gray> 尾页 </font>
+                <span>第9页&nbsp;共9页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

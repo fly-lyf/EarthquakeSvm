@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" class="now" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">区县动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">市教委一行来静安区市西中学防震减灾科普馆督导调研<span>发布时间：2015-06-08</span></div>
+                <p><p>
+	　　5月12日下午，上海市教育局基教处督导办一行来静安区市西中学进行全方位的课程与教学调研。市教研员及地图出版社、教育出版社的专家详细了解了市西中学地理基础教学的情况，参观了市西中学防震减灾科普馆，并对地震教学、生命教育、防震减灾科普馆的设备进行了仔细的检查考评。</p>
+<p>
+	　　地震实验室由地震火灾模拟室和防震减灾科普馆两个部分组成。地震火灾模拟室中不仅可以模拟选择不同场所的最佳躲避处、了解每个场所各个位置点对于逃生的利弊情况分析，更可以切身体验到不同震级地震的实际震感以及火灾发生发展的实际情况。专家们也亲身体验了火灾逃生通道的使用。防震减灾科普馆中包含了知识竞答、地震模拟观看、大陆漂移科普、横波纵波模型、断层模型等多种类型的知识普及与体验类活动，以动态效果呈现生动的知识。</p>
+<p>
+	　　在了解和体验过程中，专家们对每一个项目都进行了详细的询问、记录、体验和考评，尤其是在地震模拟和火灾模拟过程中，专家们兴致盎然地完整体验了模拟全过程。市西中学地震实验室的建设得到了专家们的一致肯定和赞扬。静安区将发挥市西中学防震减灾科普示范学校的作用，充分利用该地震实验室的资源，更好地为学生和社区居民进行地震教学与生命教育。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/hydt/index.html" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局召开2007年第一次地办主任工作例会<span>发布时间：2007-06-02</span></div>
+                <p><p align="center"><font face="Arial"><font face="Arial" size="4"><strong>我局召开2007年第一次地办主任工作例会</strong></font></font></p>
+<p><font face="Arial">　　4月10日至11日，我局在闵行区召开了今年第一次地办主任工作例会，局震防处、宣教中心负责人和各区县地办领导参加了会议，王建军副局长出席会议并传达了有关文件精神。&nbsp;</font></p>
+<p><font face="Arial">　　闵行区地震办在会上作了区县工作交流发言，局震防处张辞处长传达了中国地震局召开的2007年全国震害防御与法制建设工作会议精神。会议由王建军副局长传达了《国务院防震减灾工作联席会议纪要》、《回良玉副总理在国务院防震减灾联席会议上的讲话》精神，以及中国地震局陈建民局长在2007年全国地震局长会议上的讲话精神。</font></p>
+<p><font face="Arial">　　根据国务院和中国地震局提出的目标要求，王建军副局长结合本市目前的防震减灾工作现状，在会上向各区县介绍了市局对下一步工作开展的设想和安排要求。王建军副局长要求各区县，要认真学习落实回良玉副总理和陈建民局长对搞好我国防震减灾工作的重要指示；要抓紧做好2006年防震减灾总结、回顾工作；要切实部署和完成好本区县2007年的各项防震减灾工作任务，努力提高上海市的地震灾害应对能力。</font></p>
+<p>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<font face="Arial">刘洪建</font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

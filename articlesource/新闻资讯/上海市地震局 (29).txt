@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局举办财务报账员专题培训<span>发布时间：2016-01-19&nbsp;&nbsp;&nbsp;&nbsp;信息来源：财会室</span></div>
+                <p><div id="cke_pastebin" style="position: absolute; width: 1px; height: 1px; overflow: hidden; top: 8px; left: -1000px">
+	<p style="text-indent: 28pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0">
+		<span style="font-family: 宋体; font-size: 14pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: 宋体; mso-bidi-theme-font: minor-fareast"><font color="#000000">为加强局财务报销管理，<span lang="EN-US">2016</span></font><font color="#000000">年</font><span lang="EN-US"><font color="#000000">1</font></span><font color="#000000">月</font><span lang="EN-US"><font color="#000000">14</font></span><font color="#000000">号下午，局财会室组织财务报账员专题培训。李红芳副局长、李平副局长、纪检组长王硕卿同志出席培训，局属各单位、机关各处室报账员及财会室、纪检审计处全体人员参加了本次培训。</font><a name="_GoBack"></a></span></p>
+	<p style="text-indent: 28pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0">
+		<span style="font-family: 宋体; font-size: 14pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: 宋体; mso-bidi-theme-font: minor-fareast"><font color="#000000">财会室张瑶围绕财务报销四要点：票据规范性、预算符合性、支出合规性、附件完整性结合财务报销中出现的具体问题为参训人员授课。</font></span></p>
+	<p style="text-indent: 28pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0">
+		<span style="font-family: 宋体; font-size: 14pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: 宋体; mso-bidi-theme-font: minor-fareast"><font color="#000000">纪检组长王硕卿结合财务管理十大风险及地震系统财务审查发现的突出问题提出五大重要启示。</font></span></p>
+	<p style="text-indent: 28pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0">
+		<span style="font-family: 宋体; font-size: 14pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: 宋体; mso-bidi-theme-font: minor-fareast"><font color="#000000">李红芳副局长在总结讲话中指出，报账员是财务规章政策的宣传员和践行者，是财会室与各单位联系的桥梁和纽带。要求各报账员尽快进入工作角色，学懂弄通《报销细则》，严格按照有关财务报销规则预审，把好财务报销第一关。</font></span></p>
+	<p style="text-indent: 28pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0">
+		<span lang="EN-US" style="font-family: 宋体; font-size: 14pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: 宋体; mso-bidi-theme-font: minor-fareast"><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为</font></span></p>
+</div>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为加强财务报销管理，2016年1月14日，局财会室组织开展了全局财务报账员专题培训，围绕财务报销中的票据规范性、预算符合性、支出合规性、附件完整性四个要点，结合财务报销中出现的具体问题为报账员进行了授课。</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

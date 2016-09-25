@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" class="now" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">应急救援</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海市地震灾害紧急救援队简介<span>发布时间：2007-06-08</span></div>
+                <p><p><font face="Arial">　　经上海市人民政府批准，上海市地震灾害紧急救援队（以下简称救援队）于2006年12月22日正式成立。救援队以&ldquo;一队多用，一专多能，突出震害，兼顾多灾种抢险救援&rdquo;为建队定位，在充分利用现有资源的基础上，积极依托市消防特勤支队和市地震局等部门优势，组建一支现代化救援队伍。</font></p>
+<p align="center"><font face="Arial"><img style="WIDTH: 460px; HEIGHT: 298px" height="577" alt="" width="396" src="/resource/00001.jpg" />　　</font></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><img style="WIDTH: 468px; HEIGHT: 345px" height="640" alt="" width="588" src="/resource/00002.jpg" /></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><img style="WIDTH: 464px; HEIGHT: 350px" height="535" alt="" width="494" src="/resource/00003.jpg" /></p>
+<p><font face="Arial">　　上海市地震灾害紧急救援队走精兵强队之路，引进当今世界最新技术装备，具有救援功能和手段较全和反应快速的特点，提升承担跨地区、适应不同地理和气候环境的重、特大灾害事故综合性抢险救援能力。<br />
+救援队正式注册队员总人数为250人，主要由市消防局特勤支队、市地震局、市卫生局等多个单位委派人员组成。其人员原管理和隶属关系不变</font></p>
+<font face="Arial">
+<p align="center">&nbsp; </p>
+<p align="center">
+<table style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; mso-border-alt: solid windowtext .5pt; mso-table-lspace: 9.0pt; mso-table-rspace: 9.0pt; mso-table-anchor-vertical: paragraph; mso-table-anchor-horizontal: margin; mso-table-left: left; mso-table-top: 204.1pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt" cellspacing="0" cellpadding="0" align="left" border="1">
+    <tbody>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 41.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid" width="56">
+            <p class="MsoNormal" style="LINE-HEIGHT: 26pt; TEXT-ALIGN: center; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">序号<span lang="EN-US"><o:p></o:p></span></span></strong></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 127.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt" width="170" colspan="3">
+            <p class="MsoNormal" style="TEXT-INDENT: 24.1pt; LINE-HEIGHT: 26pt; TEXT-ALIGN: center; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 12.05pt" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">名<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp; </span>称<o:p></o:p></span></span></strong></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 43.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt" width="58">
+            <p class="MsoNormal" style="LINE-HEIGHT: 26pt; TEXT-ALIGN: center; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">数 量<span lang="EN-US"><o:p></o:p></span></span></strong></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 213.15pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt" width="284">
+            <p class="MsoNormal" style="TEXT-INDENT: 24.1pt; LINE-HEIGHT: 26pt; TEXT-ALIGN: center; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 12.05pt" align="center"><strong style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">职<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp; </span>责<o:p></o:p></span></span></strong></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 22.25pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 41.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 22.25pt; mso-border-top-alt: solid windowtext .5pt" width="56" rowspan="2">
+            <p class="MsoNormal" style="TEXT-INDENT: 18pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 1.5; mso-char-indent-size: 12.0pt" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">1<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 40.95pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 22.25pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="55" rowspan="2">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">搜救队<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 86.8pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 22.25pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="116" colspan="2">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">特种搜索分队<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 43.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 22.25pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="58">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">30人<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 213.15pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 22.25pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="284">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">犬搜索、化学侦测等特种搜索<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 86.8pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="116" colspan="2">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">搜索抢险分队<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 43.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="58">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">90人<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 213.15pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="284">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">搜救、抢险、救援<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 41.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="56">
+            <p class="MsoNormal" style="TEXT-INDENT: 18pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 1.5; mso-char-indent-size: 12.0pt" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">2<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 127.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="170" colspan="3">
+            <p class="MsoNormal" style="TEXT-INDENT: 24pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 12.0pt" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">地震现场队<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 43.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="58">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">40人<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 213.15pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="284">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">现场监测、震后趋势判定、震害评估、建筑物安全性鉴定、科学考察<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 28.2pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 41.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 28.2pt; mso-border-top-alt: solid windowtext .5pt" width="56">
+            <p class="MsoNormal" style="TEXT-INDENT: 18pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 1.5; mso-char-indent-size: 12.0pt" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">3<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 127.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 28.2pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="170" colspan="3">
+            <p class="MsoNormal" style="TEXT-INDENT: 24pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 12.0pt" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">医救队<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 43.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 28.2pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="58">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">30人<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 213.15pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 28.2pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="284">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">现场救治护理、疫情控制、卫生消毒等<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 30.7pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 41.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.7pt; mso-border-top-alt: solid windowtext .5pt" width="56" rowspan="2">
+            <p class="MsoNormal" style="TEXT-INDENT: 18pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 1.5; mso-char-indent-size: 12.0pt" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">4<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 50.85pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.7pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="68" colspan="2" rowspan="2">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">技术队<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 76.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.7pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="103">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">信息分队<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 43.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.7pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="58">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">10人<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 213.15pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.7pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="284">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">现场通讯、信息保障、技术装备操作等<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 76.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="103">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">后勤分队<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 43.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="58">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">10人<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 213.15pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="284">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">队伍食宿等生活保障、现场治保等<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 30.1pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 41.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.1pt; mso-border-top-alt: solid windowtext .5pt" width="56">
+            <p class="MsoNormal" style="TEXT-INDENT: 18pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 1.5; mso-char-indent-size: 12.0pt" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">5<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 127.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.1pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="170" colspan="3">
+            <p class="MsoNormal" style="TEXT-INDENT: 24pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 12.0pt" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">指挥部<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 43.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.1pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="58">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">10人<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 213.15pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.1pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="284">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">现场指挥、新闻发布、通联协调<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 30.5pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 41.9pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.5pt; mso-border-top-alt: solid windowtext .5pt" width="56">
+            <p class="MsoNormal" style="TEXT-INDENT: 18pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly; mso-char-indent-count: 1.5; mso-char-indent-size: 12.0pt" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">6<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 127.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="170" colspan="3">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">地震救援保障中心<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 43.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="58">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">30人<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 213.15pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="284">
+            <p class="MsoNormal" style="LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: paragraph; mso-element-anchor-horizontal: margin; mso-element-top: 204.1pt; mso-height-rule: exactly" align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 10.5pt">装备管理、培训与特殊训练、后方指挥、通讯、信息保障<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p align="center"><br />
+&nbsp; </p>
+<p align="center">　　</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p>&nbsp;</p>
+<p align="center"><img alt="" src="http://dreamcat.vicp.net:86/resource/slide0025_image056(1).gif" /></p>
+<p align="center"><img height="357" alt="" width="476" src="/resource/slide0023_image062.jpg" /></p>
+<p align="center">&nbsp;</p>
+<p align="center"><img height="350" alt="" width="467" src="/resource/slide0024_image064.jpg" /></p>
+<p>　　为充分体现市委、市政府和市应急委的统一领导原则，由市防震减灾联席会议负责救援队的领导，行使指挥与管理职能，日常事务由市防震减灾联席会议办公室一并承担。</p>
+<p>&nbsp;</p>
+<p>　　救援队挂牌在市消防局特勤支队（浦东杨高南路1190号）。特勤支队原任务和管理体制不变，以市地震紧急救援队或上海国际救援队名义参加的救援队行动受市防震减灾联席会议领导，本市地震灾害抢险救援由市抗震救灾指挥部指挥调度，市应急联动中心可视灾情，指令救援队作先期处置。本市非地震灾害抢险救援与消防抢险救援指挥调动程序相同。</p>
+<p>&nbsp;</p>
+<p align="center"><img height="308" alt="" width="449" src="/resource/slide0011_image018.jpg" /><br />
+</p>
+<p>　　根据救援队&ldquo;一队多用，一专多能&rdquo;的特定任务要求，在上海市地震局浦东地震监测中心拟增挂&ldquo;上海市地震救援保障中心&rdquo;（以下简称&ldquo;中心&rdquo;）。已建成的上海市浦东地震监测中心建有全球地震监测与预警系统和上海市地震应急指挥备份系统为救援队提供指挥、信息和通讯保障。浦东地震监测中心还提供数千平方米办公用房和10亩备用场地供救援队培训、训练和装备储存、维护与保养使用，拟建的市地震救援保障中心承担救援队参加跨地区救援的后方指挥部。&ldquo;中心&rdquo;由市地震局、市应急办和市消防局三方人员组成，主要功能与任务为：<br />
+</p>
+<p>1、保障功能：救援队将承担不同气候、地理环境和各类灾害事故抢险救援任务，依托&rdquo;中心&rdquo;原有资源提供强有力的后方信息、通讯和指挥保障，现代救援更注重保障需求。 <br />
+</p>
+<p>2、储存功能：救援队技术装备配置种类繁多，配件量较大，要求集中管理、储存和维护，保证各类装备的完好率和效能。 <br />
+</p>
+<p>3、培训功能：救援队承担高危和高技术的特种救援，技能、心理培训和训练是救援队重要日常工作之一。&ldquo;</p>
+<p align="center">　　<img alt="" src="/resource/image003.gif" /></p>
+<p>　　</p>
+<p align="center"><img alt="" src="/resource/slide0008_image028.jpg" /></p>
+<p>　　中心&rdquo;作为开放性平台，充分利用现有的先进专用教育、训练场地与设施，为本市其它专业队伍、应急志愿者和应急管理人员提供培训服务，并定期向社会公众开放，成为我市抢险救援和防灾避险科普宣传窗口。<br />
+</p>
+<p>救援队参与本市与国内救援时名称为：<br />
+</p>
+<p>上海市地震灾害紧急救援队<br />
+Shanghai Earthquake Search &amp; Rescue Team<br />
+</p>
+<p>参与国际人道主义救援时名称为：<br />
+</p>
+<p>中国上海市国际救援队<br />
+International Search &amp; Rescue Team of Shanghai, China<br />
+</p>
+<p align="center">救援队队徽标识为：</p>
+<p align="center"><img style="WIDTH: 214px; HEIGHT: 200px" height="439" alt="" width="418" src="/resource/00-1.jpg" /></p>
+<p align="center">&nbsp;</p>
+<p align="center"><font face="Arial">救援队队旗标识为：</font></p>
+<p align="center"><img height="212" alt="" width="296" src="/resource/image007.jpg" /></p>
+<p>&nbsp;</p>
+</font></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

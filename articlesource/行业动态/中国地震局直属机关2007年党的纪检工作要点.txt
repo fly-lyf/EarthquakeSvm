@@ -1,0 +1,409 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中国地震局直属机关2007年党的纪检工作要点</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">中国地震局直属机关2007年党的纪检工作要点</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2007-02-05 08:37:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局直属机关党委
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">中国地震局直属</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 仿宋_GB2312; mso-hansi-font-family: 'Times New Roman'">机关</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 仿宋_GB2312; mso-hansi-font-family: 'Times New Roman'">年党的</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">纪检工作总体思路是：坚持以邓小平理论和“三个代表”重要思想为指导，全面落实科学发展观，深入贯彻十六大及十六大以来历次全会精神、中央纪委关于反腐败的一系列重大部署和要求，把反腐败工作融入到防震减灾各项工作之中，努力拓展从源头上防治腐败工作领域。加强党员领导干部作风建设。贯彻落实《实施纲要》，继续抓好党员干部的教育、监督和廉洁自律，加大党风廉政文化建设的力度，积极推进机制制度创新。为构建社会主义和谐社会，促进防震减灾各项工作任务又好又快地发展提供可靠保证。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 黑体; mso-hansi-font-family: 'Times New Roman'">一、加强廉政文化建设，筑牢拒腐防变的思想道德防线</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 黑体; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（一）认真学习贯彻中央纪委第七次全会、国务院第五次廉政工作会议精神，紧密结合本单位实际，以思想道德教育为基础，继续学习贯彻党章，深入开展党纪和国家法律法规教育，教育和引导党员干部牢固树立立党为公、执政为民的思想。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（二）加强廉政文化建设，充分发挥廉政文化激浊扬清、扶正祛邪的功能，用健康向上的廉政文化占领思想阵地。大力弘扬优良传统和作风，抵制各种腐朽落后的思想意识，帮助广大党员干部树立正确的世界观、人生观、价值观和权利观、地位观、利益观，筑牢思想道德防线，提高拒腐防变的能力。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（三）坚持科学发展观，营造具有行业特色的、有利于自主创新的科学文化氛围。坚持以人为本的理念，诚实守信的准则，提倡尊重科学、尊重人才、实事求是的价值观念。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（四）加大宣传教育的力度，提高廉政文化系列活动的内涵和效果，要采取舆论宣传、信息交流、文化活动、专题报告、组织参观、专题生活会、廉政谈话等形式多样的活动，形成“以廉为荣、以贪为耻”的浓厚氛围。要紧密结合党风廉政和反腐败工作实际，提出具体措施，加强督促检查，认真抓好落实。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 黑体; mso-hansi-font-family: 'Times New Roman'">二、加强领导干部作风建设</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 黑体; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><SPAN style="mso-spacerun: yes">&nbsp; </SPAN></SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 黑体; mso-hansi-font-family: 'Times New Roman'">从教育、监督和廉洁自律上下功夫</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 黑体; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（一）按照胡锦涛同志关于加强领导干部作风建设的总体要求，大力倡导勤奋好学、学以致用</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">心系群众、服务人民</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">真抓实干、务求时效</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">艰苦奋斗、勤俭节约</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">顾全大局、令行禁止</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">发扬民主、团结共事</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">秉公用权、廉洁从政</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">;</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">生活正派、情趣健康八个方面的良好风气，认真组织党委中心组的学习和讨论，深刻领会全面加强新形势下领导干部作风建设的极端重要性和紧迫性。组织召开专题民主生活会，从思想作风、学风、工作作风、领导作风、干部生活作风方面进行对照检查，认真开展批评与自我批评。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">大力提倡党员干部深入实际开展调查研究，认真解决影响改革发展稳定的突出问题，解决职工干部最关心、最直接、最现实的利益问题；定期分析党员干部作风方面的情况和问题，提出研究解决的对策和措施；针对本单位、本部门一个时期领导干部作风方面存在的突出问题抓好专项治理。加强监督检查，在落实整改上下工夫。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（二）加大机关作风建设的力度。注重在机关全体党员干部中大力提倡求真务实、真抓实干、民主公正、依法办事的作风；努力推进学习型、团结型、服务型、实干型机关建设；大力精简会议、活动、文件，不断提高机关工作效率。把作风建设融入到“创建文明机关，争做人民满意的公务员”活动中，使机关作风建设取得明显成效。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（三）加强科技队伍作风建设，在地震科学队伍中大力提倡团结协作、淡泊名利；抵制急功近利、心浮气躁；坚持操守职业，杜绝学术造假的良好职业道德风尚。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 黑体; mso-hansi-font-family: 'Times New Roman'">三、积极推进惩防体系建设，把党风廉政建设责任制落到实处</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 黑体; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（一）深入贯彻《实施纲要》，积极推进惩防体系建设。按照中国地震局贯彻落实《实施纲要》具体意见和</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 仿宋_GB2312; mso-hansi-font-family: 'Times New Roman'">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">底前任务安排，进一步加大预防腐败工作的力度，抓紧完善预防腐败体系，把反腐倡廉工作融入到党的建设、精神文明建设、长效机制建设、惩防体系建设之中，拓展从源头上防治腐败工作领域。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（二）按照深化行政管理机制改革的要求，配合有关部门积极推进深化干部人事制度改革、行政审批制度、财务管理制度、项目管理制度、政府采购管理体制和机制建设等方面的工作。认真履行监督检查职能，狠抓党风廉政建设责任制的落实，以党风促政风带行风。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（三）坚持和完善民主集中制，扩大党内民主，推进党务公开、政务公开，加强对权力运行的制约和监督。认真执行中央关于党员领导干部个人重大事项的报告制度，推动领导干部述职述廉、民主评议、诫勉谈话、经济责任审计等制度的落实。不断拓宽监督渠道，增强监督的合力和实效。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（四）坚持制度建设，建立相应的学术准则、科学评价制度和评价机制，完善科技计划项目评价评审行为准则与督察办法，规范管理，加强督察，遏制不良学术风气，认真查处学术不端行为。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（五）加强党风廉政建设责任制执行情况的督促检查，加大查处违反制度行为的力度，要把责任制的落实情况作为民主生活会、评议干部的重要内容，发现问题及时解决。不断增强党员领导干部的责任意识、表率意识。要及时研究总结抓党风廉政建设责任制落实情况的新鲜经验和有效做法，努力形成用制度管权、按制度办事、靠制度管人的有效机制。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 黑体; mso-hansi-font-family: 'Times New Roman'">四、做好案件查办的协调督促工作，提高依纪依法办案的能力和水平</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 黑体; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（一）要认真研究新形势下党员干部违纪违法的特点和规律，针对违纪违法案件暴露出来的问题和薄弱环节，提出整改意见和建议，及时堵塞漏洞，完善规章制度。加强对苗头性、倾向性问题的分析研究，积极探索建立预防职务违纪违法的措施。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（二）按照中央纪委</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 仿宋_GB2312; mso-hansi-font-family: 'Times New Roman'">七次全会精神要求，</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">2007</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 仿宋_GB2312; mso-hansi-font-family: 'Times New Roman'">年</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">要重点查办领导干部滥用职权、贪污贿赂、腐化堕落、失职渎职的案件，严肃查办利用人事权、司法权、审批权、行政执法权、谋取私利的案件，严肃查办官商勾结、权钱交易的案件，严肃查办以各种手段侵吞国有资产的案件，继续深入开展治理商业贿赂专项工作，严肃查处严重危害国家利益、侵害群众利益的违纪违法案件。要结合单位的实际，抓好落实。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（三）进一步加强信访举报工作，畅通、拓宽信访举报渠道，加大对反映问题的核查和督办的力度。认真贯彻执行党员权利保障条例，作好申诉复查工作，切实维护党员的权利。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 黑体; mso-hansi-font-family: 'Times New Roman'">五、加强纪检队伍建设，不断提高自身素质</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 黑体; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（一）进一步落实好机关纪委《工作规则》，进一步建立健全纪委各项工作制度，落实好信息反馈、情况通报、联席会议、全委会议等项制度。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">（二）认真履行党章所规定的各项任务，进一步明确职责，充分发挥监督检查的职能作用，加强协调与配合，形成工作合力。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"><o:p></o:p></SPAN></P>
+<P class=MsoBodyTextIndent style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">各级党组织要多关心、支持纪检干部队伍建设，从工作、学习上为他们创造条件，通过加强学习培训与交流，举办党风廉政建设讲座等多种形式，提高纪检干部的政治素质和业务能力。</SPAN><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体"> <o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly"><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 16.0pt; mso-fareast-font-family: 宋体">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly"><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: 宋体">&nbsp;<o:p></o:p></SPAN></P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

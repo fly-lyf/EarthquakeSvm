@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">公开事项</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/zwgk/n107/n109/n111/index.html" target="_parent" title="政府采购公告"><span>政府采购公告</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/index.html" class="now" target="_parent" title="采购结果公示"><span>采购结果公示</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../../../index.html">政务公开</A> &gt; <A class=black-y-text HREF="../../index.html">政府采购公开事项</A> &gt; <A class=black-y-text HREF="../index.html">公开事项</A> &gt; <A class=black-y-text HREF="index.html">采购结果公示</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>采购结果公示</h2>
+            </div>
+            <ul class="listTxt">
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai5468.html" title="上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150200001026）">上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150200...</a><span>2015-05-06</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai5466.html" title="上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150200000371）">上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150200...</a><span>2015-05-06</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai5465.html" title="上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150100004920）">上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150100...</a><span>2015-05-06</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai5464.html" title="上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150100004909）">上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150100...</a><span>2015-05-06</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai5463.html" title="上海市地震局照相机采购成交公示（合同编号：150100000665）">上海市地震局照相机采购成交公示（合同编号：150100000665）</a><span>2015-05-06</span></li>
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/290256" title="上海市地震局移动图形工作站采购项目（GDC-20150423152490256）网上竞价废标公告">上海市地震局移动图形工作站采购项目（GDC-2015042315249...</a><span>2015-05-05</span></li>
+               
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai5455.html" title="上海市地震局便携式计算机采购成交公示（合同编号：150100001065）">上海市地震局便携式计算机采购成交公示（合同编号：15010000106...</a><span>2015-04-23</span></li>
+                
+                <li><a href="http://www.ccgp.gov.cn/cggg/dfgg/zbgg/201504/t20150413_5185153.htm" title="上海市地震局物业服务采购项目失败公告">上海市地震局物业服务采购项目失败公告</a><span>2015-04-13</span></li>
+               
+                
+            </ul>
+            <div class="page">
+<A HREF=index.html> 首页 </A><A  HREF="/gb\dzj/zwgk/n107/n109/n112/index5.html"> 上一页 </A><font color=gray> 下一页 </font><font color=gray> 尾页 </font>
+                <span>第7页&nbsp;共7页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,298 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="../../../../images/dzj.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>四川防震减灾信息网</title>
+
+<style type="text/css">
+<!--
+ body{
+	text-align:center;
+	font-family:"宋体" Arial, Helvetica, sans-serif;
+	background:#c0c0c0;
+	margin-top: 0px;
+}
+.gd {
+	font-size: 18px;
+}
+.STYLE8 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.STYLE10 {color: #FF0000}
+.STYLE12 {color: #000000}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+ul{
+    margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+.pwdzs{
+	width:780px;
+}
+.pwdzs ul{
+	float:left;
+}
+.pwdzs ul li{
+	float:left;
+	width:180px;
+	margin:5px 0px 0px 7px;
+	
+}
+-->
+</style>
+<script language="javascript">
+// JavaScript Document
+function createPageHTML(_nPageCount, _nCurrIndex, _sPageName, _sPageExt){
+	var pagefanye= _nCurrIndex/10;
+	if(_nPageCount == null || _nPageCount<=1){
+		return;
+	}
+	var nCurrIndex = _nCurrIndex || 0;
+		var wenzis="<font style='font-size:12px'>";//文字样式
+	var shuzisc="<font style='font-size:14px' color='red'>";//数字颜色样式
+	var shuzis="<font style='font-size:14px'>";//数字样式
+	var ends="</font>";//文字样式
+	if(nCurrIndex == 0)
+		{
+			document.write(wenzis+"[首页]"+ends+"&nbsp;");
+			document.write(wenzis+"[上一页]"+ends+"&nbsp;");
+			if(pagefanye<1)
+			{
+				document.write(shuzisc+"1"+ends+"&nbsp;");
+			}
+			
+		}
+	else
+		{		
+			document.write("<a href=\""+_sPageName+"."+_sPageExt+"\"   class='share'>"+wenzis+"[首页]"+ends+"</a>&nbsp;");
+			if(nCurrIndex==1)
+			{
+				document.write("<a href=\""+_sPageName+"."+_sPageExt+"\"   class='share'>"+wenzis+"[上一页]"+ends+"</a>&nbsp;");
+			}
+			else
+			{
+				document.write("<a href=\""+_sPageName+"_" +(nCurrIndex-1)+"."+_sPageExt+"\"   class='share'>"+wenzis+"[上一页]"+ends+"</a>&nbsp;");
+			}
+			if(pagefanye<1)
+			{
+				document.write("<a href=\""+_sPageName+"."+_sPageExt+"\"  class='share'>"+shuzis+"1"+ends+"</a>&nbsp;");
+			}
+		}
+	var j;
+	var h;
+	if(pagefanye<1)
+	{
+		j=1;
+		h=10;		
+	}
+	else
+	{
+		 j=Math.floor(pagefanye)*10;
+		 h=j+10;
+	}
+		for(var i=j; i<(_nPageCount-h<0?_nPageCount:h); i++)
+		{
+			if(nCurrIndex == i)
+			{				
+					document.write(shuzisc+(i+1)+ends+"&nbsp;");
+			}
+		else
+			{
+				document.write("<a href=\""+_sPageName+"_" + i + "."+_sPageExt+"\">"+shuzis+(i+1)+ends+"</a>&nbsp;");				
+			}		
+		}
+	
+	
+	if(nCurrIndex ==(_nPageCount-1))
+		{
+			document.write(wenzis+"[下一页]"+ends+"&nbsp;");
+			document.write(wenzis+"[尾页]"+ends+"&nbsp;");
+			document.write(wenzis+"&nbsp;[共"+ends+shuzisc+_nPageCount+ends+wenzis+"页]"+ends+"&nbsp;");
+			
+			
+			
+		}
+	else
+		{		
+			document.write("<a href=\""+_sPageName+"_" + (nCurrIndex+1)+"."+_sPageExt+"\"  class='share'>"+wenzis+"[下一页]"+ends+"</a>&nbsp;");
+			document.write("<a href=\""+_sPageName+"_" + (_nPageCount-1)+"."+_sPageExt+"\"  class='share'>"+wenzis+"[尾页]"+ends+"</a>&nbsp;");
+			document.write(wenzis+"&nbsp;[共"+ends+shuzisc+_nPageCount+ends+wenzis+"页]"+ends+"&nbsp;");
+					}
+
+}
+</script>
+</head>
+
+<script>  
+<!--   
+/*第一种形式 第二种形式 更换显示样式*/   
+
+function setTab(name,cursel,n){   
+for(i=1;i<=n;i++){   
+var menu=document.getElementById(name+i);   
+var con=document.getElementById("con_"+name+"_"+i);   
+menu.className=i==cursel?"hover":"";   
+con.style.display=i==cursel?"block":"none";   
+}   
+
+}   
+//-->  
+</script> 
+
+
+<body bottommargin="30" bgcolor="#f1f2e4">
+<table width="780" border="0" align="center" cellspacing="0" bgcolor="#F7F7F7">
+  <tr>
+    <td colspan="3" valign="top">
+	<div class="banner"><img src="../../../../images/top.jpg" width="780" height="150"/></div>	</td>
+  </tr>
+  <tr>
+    <td height="135" colspan="3" align="left" valign="top"><div style="width:100%; line-height:150%; margin-top:10px;  font-size: 14px; color:#000099; border-width:1px;">　　<span class="STYLE12">为深入贯彻落实党的十七大精神，大力加强廉政文化建设，自2008年4月起，中央纪委、中央宣传部、工商总局、广电总局的有关部门联合组织开展了“扬正气，促和谐”全国廉政公益广告创作评选展播活动。经过专家评审委员会严格评审，产生了一批主题鲜明、创意新颖、制作精美、具有较强艺术感染力的优秀廉政公益广告。<br />
+      　　为此，我们搜集整理了这些寓意深刻、视觉冲击力强的廉政公益广告作品，希望通过这个专栏，能够使广大党员干部在潜移默化中受到教育和启迪，使大家有所悟，有所学。</span><br />
+    </div>
+      <table width="780" border="0">
+        <tr>
+          <td colspan="4"><div align="center"><img src="../../../../images/title1.jpg" width="85" height="25"/>            </div>
+            <div align="right" class="STYLE8"> 
+              <div align="center" class="STYLE10"></div>
+            </div></td>
+        </tr>
+		<tr>
+			<td>
+				<div class="pwdzs">
+                                        <ul> 
+										
+                                            <li>
+												<a href="./201011/t20101103_16703.html" target="_blank"><img src="./201011/W020101103517874150299.jpg" alt="11.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16703.html" target="_blank">影视类优秀展播作品：天下正气篇</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16704.html" target="_blank"><img src="./201011/W020101103551333212420.jpg" alt="12.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16704.html" target="_blank">影视类优秀展播作品：毛毛熊</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16705.html" target="_blank"><img src="./201011/W020101103551474308597.jpg" alt="13.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16705.html" target="_blank">影视类优秀展播作品：育廉篇</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16706.html" target="_blank"><img src="./201011/W020101103551607589829.jpg" alt="14.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16706.html" target="_blank">影视类优秀展播作品：精彩人生</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16718.html" target="_blank"><img src="./201011/W020101103551799930284.jpg" alt="15.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16718.html" target="_blank">影视类优秀展播作品：广而兼...</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16717.html" target="_blank"><img src="./201011/W020101103551950406319.jpg" alt="16.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16717.html" target="_blank">影视类优秀展播作品：廉洁救...</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16716.html" target="_blank"><img src="./201011/W020101103552100243020.jpg" alt="17.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16716.html" target="_blank">影视类优秀展播作品：廉吏篇</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16715.html" target="_blank"><img src="./201011/W020101103552268523968.jpg" alt="18.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16715.html" target="_blank">影视类优秀展播作品：尊重自...</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16714.html" target="_blank"><img src="./201011/W020101103552411654106.jpg" alt="19.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16714.html" target="_blank">影视类优秀展播作品：清风正气</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16713.html" target="_blank"><img src="./201011/W020101103552559462127.jpg" alt="100.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16713.html" target="_blank">影视类优秀展播作品：12388</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16712.html" target="_blank"><img src="./201011/W020101103552708219036.jpg" alt="101.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16712.html" target="_blank">影视类优秀展播作品：姚明篇</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16711.html" target="_blank"><img src="./201011/W020101103552843520360.jpg" alt="102.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16711.html" target="_blank">影视类优秀展播作品：体操篇</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16710.html" target="_blank"><img src="./201011/W020101103552987118961.jpg" alt="103.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16710.html" target="_blank">影视类优秀展播作品：廉洁是...</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16709.html" target="_blank"><img src="./201011/W020101103553121024526.jpg" alt="104.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16709.html" target="_blank">影视类优秀展播作品：天地有正气</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16708.html" target="_blank"><img src="./201011/W020101103553288361577.jpg" alt="105.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16708.html" target="_blank">影视类优秀展播作品：黄恒荣篇</a></div>
+											</li>
+										
+                                            <li>
+												<a href="./201011/t20101103_16707.html" target="_blank"><img src="./201011/W020101103553591495418.jpg" alt="106.jpg" width='175' height='126' border='0'/></a>
+												<div align="center"><a href="./201011/t20101103_16707.html" target="_blank">影视类优秀展播作品：诸葛村篇</a></div>
+											</li>
+											
+                                        </ul>
+                                    </div>
+				<div class="STYLE5" style=" text-align: center; height: 30px; line-height: 30px; border-top:#ECF3FB dashed 1px; padding-top:20px;" align="center">		
+					<SCRIPT LANGUAGE="JavaScript"> 
+                  createPageHTML(1, 0, "index","html");   
+         </SCRIPT>
+
+		</div>					
+			</td>
+		</tr>
+        
+      </table>
+      <p>&nbsp;</p>
+     <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+
+    <td align="center"><div align="left"></div></td>
+			
+
+  </tr>
+  
+  <tr>
+    <td height="50" colspan="3" align="center">&nbsp;</td>
+  </tr>
+<tr>
+    <td align="center" bgcolor="#D0D0DB">
+  <div style="line-height:150%; margin-top:5px;  font-size: 14px;" >
+  版权所有:四川省地震局 地址：成都市人民南路三段29号<br/>
+
+蜀ICP备05030409号
+
+  </div>
+</td>
+
+  </tr>
+</table>
+
+</body>
+</html>

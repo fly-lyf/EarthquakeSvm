@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">地震科普</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>建筑防震也是百年大计 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2007-07-14 15:19:28&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2007-07-14 15:19:28&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2007-07-14 15:19:28&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2007-07-14 15:19:28&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <p class="MsoNormal" style="text-indent: 28pt;"><span style="font-size: 14pt; font-family: 宋体;"><span style="font-size: small;">在建筑施工行业，人们常说工程质量是&ldquo;百年大计&rdquo;。殊不知，在建筑施工行业的决策者和设计者中普及防震减灾知识，在建筑物设计付诸实施之前，进行必要的地震安全性评价并采用相应措施，可以说是防患于未然的更重要的&ldquo;百年大计&rdquo;。</span></span></p> <p class="MsoNormal" style="text-indent: 28pt;"><span style="font-size: 14pt; font-family: 宋体;"><span style="font-size: small;">近年来，我国由于未发生巨大的破坏性地震，因而对防震抗灾意识和知识的宣传很不够，不少建筑设计、施工队伍缺乏防震意识和知识。</span></span></p> <p class="MsoNormal" style="text-indent: 28pt;"><span style="font-size: small;"><span style="font-size: 14pt; font-family: 宋体;">地震专家指出，普及防震减灾知识的一个重要方面，就是如何提高建筑物抗震能力，科学的防震避险。当前，加强对建筑设计、施工部门防震减灾意识和知识的普及与宣传尤为重要。地震灾害主要是由于建筑物的破坏、坍塌引起人员伤亡、财产损失。提高建筑物、工程设施和设备的抗震能力，按地震部门确定的设防烈度标准设防，同时对老旧房屋工程进行改造和加固是减轻震灾损失的主要途径。但现在建筑市场比较混乱，不少建筑设计、施工部门缺乏防震意识，一些工程建设项目不按防震抗灾标准设计建设，甚至存在着降低抗震设计标准的现象，施工中也缺乏质量监督。专家指出，建设时只要增加</span><span style="font-size: 14pt;" lang="BO">3%</span><span style="font-size: 14pt; font-family: 宋体;">至</span><span style="font-size: 14pt;" lang="BO">5%</span><span style="font-size: 14pt; font-family: 宋体;">的投资，就可以实现防御</span><span style="font-size: 14pt;" lang="BO">6</span><span style="font-size: 14pt; font-family: 宋体;">级左右地震。</span></span></p>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

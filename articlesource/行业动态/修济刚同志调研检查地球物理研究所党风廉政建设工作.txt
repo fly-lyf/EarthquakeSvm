@@ -1,0 +1,383 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>修济刚同志调研检查地球物理研究所党风廉政建设工作</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">修济刚同志调研检查地球物理研究所党风廉政建设工作</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-07-20 11:57:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局直属机关党委
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;">&nbsp;&nbsp;&nbsp; 7月19日，中国地震局党组成员、副局长、直属机关党委书记修济刚同志带领检查组到中国地震局地球物理研究所调研检查党风廉政建设工作。直属机关党委常务副书记刘连柱同志、监察司纪检监察室主任傅宏同志等参加了调研检查。<BR>&nbsp;&nbsp;&nbsp; 地球物理研究所所长、党委副书记吴忠良同志从所领导班子对党风廉政建设工作的认识、加强党风廉政建设的思路、研究所制度建设和文化建设的思路、党风廉政建设工作在研究所发展中的重要作用、目前研究所党风廉政建设应该加强的工作等方面进行了汇报。纪委书记曹学锋同志汇报了研究所贯彻落实中国地震局党风廉政建设工作会议的情况。<BR>&nbsp;&nbsp;&nbsp; 修济刚同志对地球物理研究所党风廉政建设工作给予充分肯定。他在听取汇报后指出，研究所领导班子高度重视党风廉政建设，处理好科研业务工作和党风廉政建设工作的关系，建立了经常性教育机制，各项规章制度比较健全。<BR>&nbsp;&nbsp;&nbsp; 修济刚同志指出，做好基层单位的党风廉政建设工作，要注意把握好四个环节。第一，党风廉政学习教育要坚持经常化。发挥基层党组织作用，坚持长期对党员干部进行反腐倡廉教育，注意工作的经常化，不搞一阵风。第二，要健全制度规则。制定的制度要涉及管理工作的方方面面，明确工作程序、工作步骤。要制定好政府采购、固定资产管理、科研经费使用等方面的制度。第三，要严格执行规章制度。有了制度，不能当摆设。要严格执行，不走样。第四，监督要到位。有了制度，要有检查监督机制，保证各项工作有序推进。只有坚持学习教育长流水，推进各项工作扎扎实实，才能保证队伍的健康成长，保障防震减灾工作顺利发展。<BR>&nbsp;&nbsp;&nbsp; 修济刚同志强调，针对这次调研检查反映出的局机关党风廉政建设工作中存在的问题，局党组从十五网络项目管理&nbsp;&nbsp; 入手，着手抓学习教育、制度建设、制度执行、监督检查等环节的工作，重点抓机关作风建设，为基层单位服好务。基层单位要对机关进行监督，形成良好的机制，保证工作的顺利进行。<BR>&nbsp;&nbsp;&nbsp; 修济刚同志指出，地球所要在国家地球科学发展、地球科学科技创新过程中发挥重要作用。用更加宽广的视野，站在更高的起点，充分发挥科研专家的作用，谋划十一五立项规划，拓展工作领域，搞好研究布局，建设好全国地球科学监测体系这一地球科学科技创新的基础平台，在为国家防震减灾工作服务的同时，为国家资源开发提供服务。同时，继续发扬研究所干部职工队伍特别能吃苦、特别能战斗的精神。研究所文安地震现场工作队抵达震区后，顾不上休息吃饭，立刻架设仪器，投入现场监测工作，他们不计条件、不计待遇，表现出强烈的敬业精神，给当地政府和群众留下了深刻的印象。<BR>&nbsp;&nbsp;&nbsp; 地球所党政领导班子成员、管理部门和研究室负责人、党支部书记参加了汇报会。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">各学科组及水氡各区县测报点<span>发布时间：2007-06-01</span></div>
+                <p><p align="center"><font face="Arial"><font face="Arial" size="4"><strong>各学科技术协调组</strong></font></font></p>
+<p><font face="Arial">测震学科技术协调组&nbsp;　　　　北京市复兴路63号中国地震台网中心&nbsp;</font></p>
+<p><font face="Arial">地壳形变学科技术协调组&nbsp;　　武汉市武昌小洪山中国地震局地震研究所&nbsp;</font></p>
+<p><font face="Arial">地下流体学科技术协调组&nbsp;　　北京市德外祁家豁子中国地震局地质研究所&nbsp;</font></p>
+<p><font face="Arial">电磁学科技术协调组&nbsp;　　　　北京市海淀区民族学院南路5号中国地震局地球物理研究所&nbsp;</font></p>
+<p><font face="Arial">信息通讯技术协调组&nbsp;　　　　&nbsp;北京市复兴路63号中国地震台网中心&nbsp;</font></p>
+<p>&nbsp;</p>
+<p align="center"><font face="Arial" size="4"><strong>水氡各区县测报点</strong></font></p>
+<p align="left"><font face="Arial">闵行区&nbsp;：</font><font face="Arial">水科学中心&nbsp;　　</font><font face="Arial">上海电化厂&nbsp;&nbsp;　　</font><font face="Arial">锦绣人家&nbsp;</font></p>
+<p align="left"><font face="Arial">南汇区：&nbsp;</font><font face="Arial">南汇中学&nbsp;</font></p>
+<p align="left"><font face="Arial">松江区：&nbsp;</font><font face="Arial">松江二中&nbsp;</font></p>
+<p align="left"><font face="Arial">崇明县：&nbsp;</font><font face="Arial">新海农场&nbsp;</font></p>
+<p align="left"><font face="Arial">金山区&nbsp;：</font><font face="Arial">东海啤酒厂&nbsp;</font></p>
+<p align="left"><font face="Arial">青浦区&nbsp;：</font><font face="Arial">梅桥水厂&nbsp;</font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

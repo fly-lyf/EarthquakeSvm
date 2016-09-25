@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../">首页</a>><a href="../../">新闻资讯</a>><a href="../">行业动态</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>新版《中国及邻区地震震中分布图》出版 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '中国新闻网';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-05-18 16:12:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-05-18 16:12:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-05-18 16:12:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-05-18 16:12:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<P align=left>　　<SPAN>&nbsp;由中国地震台网中心制作的新版《中国及邻区地震震中分布图》日前由地震出版社正式出版，该分布图共收集了近<SPAN>4</SPAN>万条地震条目。</SPAN></P>
+<P align=left><SPAN>　　 　据悉，在所有地震条目中，包括中国国内公元前<SPAN>23</SPAN>世纪至公元<SPAN>1969</SPAN>年底震级<SPAN>4?</SPAN>级以上地震，公元<SPAN>1970</SPAN>年至<SPAN>2014</SPAN>年底震级<SPAN>3</SPAN>级以上地震，中国邻区公元<SPAN>1900</SPAN>年至<SPAN>2014</SPAN>年底震级<SPAN>5</SPAN>级以上地震。</SPAN></P>
+<P align=left>　　<SPAN><SPAN>“</SPAN>震中分布图<SPAN>”</SPAN>红色实心圆表示公元<SPAN>1900</SPAN>年至<SPAN>2014</SPAN>年的地震，以绿色实心圆表示公元<SPAN>1900</SPAN>年以前的历史地震。</SPAN></P>
+<P align=left>　　 <SPAN>图中对中国大陆地区震级<SPAN>6</SPAN>级以上的地震、台湾地区和中国邻区震级<SPAN>7</SPAN>级以上的地震标注了震级和发震日期。</SPAN></P>
+<P align=left>　　 <SPAN>图中对地震点加标深色实线边框表示震源深度在<SPAN>70</SPAN>至<SPAN>300</SPAN>千米的地震，加标深色实线边框和斜纹表示震源深度在<SPAN>300</SPAN>千米以上的地震，形象说明了不同深度地震的地理分布。<SPAN>(</SPAN>张尼<SPAN>)</SPAN></SPAN></P>
+<P align=center><SPAN><SPAN><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020150518584785317943.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020150518584470312625.jpg" OLDSRC=W020150518584785317943.jpg/></SPAN></SPAN></P></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

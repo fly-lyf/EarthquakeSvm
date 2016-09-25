@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">联合国国际搜索与救援咨询团亚太地震应急演练</a>><a href="../">媒体关注</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>联合国国际搜索与救援咨询团在蓉开展亚太地震应急演练 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2014-08-30 11:20:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2014-08-30 11:20:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2014-08-30 11:20:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2014-08-30 11:20:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<P>　　<IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020140830409711808205.jpg" OLDSRC="W020140830409711808205.jpg" _fcksavedurl="/webpic/W0201408/W020140830/W020140830409711808205.jpg"/>　四川新闻网成都8月29日讯(记者&nbsp;何雪)四川新闻网记者从省地震局获悉，2014年8月25日至30日，联合国国际搜索与救援咨询团在我国举行亚太地震应急演练。此次演练是中美两国在亚太地区联合支持的第3次地震演练，演练活动分别在北京和成都举行，其中，成都地区的演练活动主要包括现场考察和桌面演练。今(29)日上午，联合国国际搜索与救援咨询团核心演练活动在成都正式启幕并举行“中国和国际地震应急经验分享”研讨会。　　据悉，此次演练由中美双方共同资助，由联合国人道主义协调办公室(OCHA)下属的现场协调与支持中心(FCSS)和中国地震局联合主办，中国地震应急搜救中心、四川省地震局等单位具体承办，旨在通过演练增强参与各方对国际搜索与救援咨询团(INSARAG)灾害响应系统的认知和熟悉程度，加强各国际人道主义救援力量在灾害现场的沟通协调能力和联合开展救援工作的能力。　　四川省地震局向四川新闻网记者介绍，来自美国、日本、澳大利亚、新加坡等17个国家及联合国代表在内的95名应急救援专家和救援队员参与了演练。其中，中方34名，分别来自中国地震局、四川省地震局、中国国际救援队及四川省救援队。　　据了解，此次演练的核心演练活动将于今、明两日在成都举行。其中，今日为正式演练活动的准备阶段，将以PPT汇报的研讨会模式使参演人员熟悉受灾国的应急管理机制及基于国际搜索与救援咨询团(INSARAG)指南的国际搜救行动的派遣和协调程序。这部分内容的目的是为参演人员提供关于国际搜索与救援咨询团(INSARAG)和灾害评估与协调队伍(UNDAC)程序方法的培训，使其熟悉在后续演练中将要用到的地震灾区相关情况，也为不同组织的相关人员提供一个相互熟悉了解的平台和机会。</P></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     <a href="./t20140830_30013.html"><img src="./W020140830424938055646.jpg" alt="第一支救援队成立协调中心.jpg"/></a>
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 | 防震减灾公众信箱：fzjz@scdzj.gov.cn <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="../../../../../images/dzj.css" rel="stylesheet" type="text/css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>四川防震减灾信息网</title>
+
+<style type="text/css">
+<!--
+ body{
+	text-align:center;
+	font-family:"宋体" Arial, Helvetica, sans-serif;
+	background:#c0c0c0;
+	margin-top: 0px;
+}
+.gd {
+	font-size: 18px;
+}
+.STYLE14 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.STYLE15 {color: #FF0000}
+.STYLE16 {color: #000000}
+-->
+</style>
+</head>
+
+<script>  
+<!--   
+/*第一种形式 第二种形式 更换显示样式*/   
+
+function setTab(name,cursel,n){   
+for(i=1;i<=n;i++){   
+var menu=document.getElementById(name+i);   
+var con=document.getElementById("con_"+name+"_"+i);   
+menu.className=i==cursel?"hover":"";   
+con.style.display=i==cursel?"block":"none";   
+}   
+
+}   
+//-->  
+</script> 
+
+
+<body bottommargin="30" bgcolor="#f1f2e4">
+<table width="780" border="0" align="center" cellspacing="0" bgcolor="#F7F7F7">
+  <tr>
+    <td colspan="3" valign="top">
+	<div class="banner"><img src="../../../../../images/top.jpg" width="780" height="150"/></div>	</td>
+  </tr>
+  <tr>
+    <td height="135" colspan="3" align="left" valign="top"><div style="width:100%; line-height:150%; margin-top:10px;  font-size: 14px; color:#000099; border-width:1px;">　　<span class="STYLE12">为深入贯彻落实党的十七大精神，大力加强廉政文化建设，自2008年4月起，中央纪委、中央宣传部、工商总局、广电总局的有关部门联合组织开展了“扬正气，促和谐”全国廉政公益广告创作评选展播活动。经过专家评审委员会严格评审，产生了一批主题鲜明、创意新颖、制作精美、具有较强艺术感染力的优秀廉政公益广告。<br />
+      　　为此，我们搜集整理了这些寓意深刻、视觉冲击力强的廉政公益广告作品，希望通过这个专栏，能够使广大党员干部在潜移默化中受到教育和启迪，使大家有所悟，有所学。</span><br />
+    </div>
+      <table width="780" border="0">
+        <tr>
+          <td><table width="780" border="0">
+            <tr>
+              <td><div align="center" class="STYLE14">“扬正气，促和谐”全国优秀廉政公益广告展播作品：向人民交一本明白帐</div></td>
+            </tr>
+            <tr>
+              <td><div align="center" class="STYLE15">
+			  <script language="javascript">
+			  var ly = '新华网';
+			  if(ly.length!=0){
+			  document.write('来源：'+ly);
+			  }
+			  </script>
+			  </div></td>
+            </tr>
+            <tr>
+              <td><div align="center">
+			  <P>　　　　　　　　　　&nbsp;</P>
+<P align=center><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020101103424215084132.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020101103424188990071.jpg" OLDSRC=W020101103424215084132.jpg/></P>
+<P>&nbsp; </P>
+<P align=center>作品名称：向人民交一本明白帐　 作品编号：05号</P>
+<P align=center>主办单位：中央纪委宣传教育室&nbsp; 中央宣传部宣传教育局&nbsp; 国家工商总局广告监管司</P>
+<P align=center>国家广电总局传媒机构管理司&nbsp; 新闻出版总署新闻报刊司</P>
+			  
+              </div>
+			  <div style="display:none">
+			      
+			  </div>
+			  </td>
+            </tr>
+          </table></td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+     <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+
+    <td align="center"><div align="left"></div></td>
+			
+
+  </tr>
+  
+  <tr>
+    <td height="50" colspan="3" align="center">&nbsp;</td>
+  </tr>
+<tr>
+    <td align="center" bgcolor="#D0D0DB">
+  <div style="line-height:150%; margin-top:5px;  font-size: 14px;" >
+  版权所有:四川省地震局 地址：成都市人民南路三段29号<br/>
+
+蜀ICP备05030409号
+
+  </div>
+</td>
+
+  </tr>
+</table>
+
+</body>
+</html>

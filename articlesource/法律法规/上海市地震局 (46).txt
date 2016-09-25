@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" class="now" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/flfg/hybz/index.html" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/qt/index.html" target="_parent" title="其他"><span>其他</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">地方管理条例</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">关于重新发布《上海市地震局强震动监测数据使用和管理办法》的通知<span>发布时间：2015-07-15</span></div>
+                <p><p>
+	各单位、机关各处室：</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 《上海市地震局强震动监测数据使用和管理办法》经评估需继续实施，现予重新发布。有效期至2020年7月31日。</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 特此通知。</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: right">
+	上海市地震局</p>
+<p style="text-align: right">
+	2015年7月10日</p>
+<p style="text-align: center">
+	<br clear="all" />
+	<strong>上海市地震局强震动监测数据</strong></p>
+<p style="text-align: center">
+	<strong>使用和管理办法</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>第一条（目的和依据）</strong></p>
+<p>
+	为了进一步加强强震动监测数据的使用和管理，使其更好地为科学研究、经济建设、社会发展和国家安全服务，根据国家有关规定，制定本办法。</p>
+<p>
+	<strong>第二条（定义）</strong></p>
+<p>
+	本办法所称的强震动监测数据，是指本市自由场地上建设的强震动监测点以及特定建筑物（构筑物）中布设的强震动监测设施，在监测过程中所收集到的各种数据、图形，以及经过处理、分析、研究形成的成果等。</p>
+<p>
+	<strong>第三条（适用范围）</strong></p>
+<p>
+	本办法适用于我局强震动数据监测和管理部门、强震动监测设施的投资方或产权所有人（以下简称数据生产方），以及其他相关单位和相关人员。</p>
+<p>
+	<strong>第四条（数据所有权）</strong></p>
+<p>
+	根据投资建设的性质和数据管理的原则，我局所收集到的强震动原始数据以及经加工处理分析形成的技术数据，归数据生产方和我局共同拥有。</p>
+<p>
+	经过分析研究形成的研究成果，所有权归研究单位或研究者。</p>
+<p>
+	<strong>第五条（数据的性质）</strong></p>
+<p>
+	强震动监测数据根据其数据所有权可分为：</p>
+<p>
+	<strong>（一）共享数据。</strong>凡由国家财政投入安装建设的强震动设施所收集并存档的强震动监测数据，具有社会共享需求和应用价值、并符合国家有关科学数据共享规定与要求的，均属共享强震动监测数据。</p>
+<p>
+	<strong>（二）非共享数据。</strong>凡由数据生产方自行出资，或与我局共同出资安装建设的强震动设施所收集并存档的，未经数据生产方同意，不允许向第三方公开披露的强震动监测数据，属于非共享强震动监测数据。</p>
+<p>
+	<strong>（三）特殊数据。</strong>当非共享数据涉及社会公共安全的情况下，非共享数据性质即转变为特殊强震动监测数据，我局有权及时向政府有关部门提供使用。</p>
+<p>
+	<strong>第六条（管理与使用）</strong></p>
+<p>
+	强震动监测数据的管理和使用方式如下：</p>
+<p>
+	（一）本市强震动监测设施分别由国家、单位或产权所有人投资安装建设。</p>
+<p>
+	凡属于单位或产权所有人投资安装建设的强震动监测设施，我局将实行协商有偿管理服务。</p>
+<p>
+	我局强震动数据监测和管理部门应当对属于我局管辖范围内的强震动监测设施的运行情况进行定期检查和技术指导，并负责对监测数据进行收集、处理、研究、汇交、保管和服务。</p>
+<p>
+	（二）提供、使用、保管涉密强震动监测数据，应当遵守国家法律、法规和规章有关涉密管理的规定。</p>
+<p>
+	（三）我局强震动数据监测和管理部门应当及时组织有关人员对监测数据进行处理、分析和研究。</p>
+<p>
+	根据与数据生产方之间的相关约定，我局强震动数据监测部门应当定期将处理后的数据情况通报给对方。</p>
+<p>
+	（四）我局其他科研人员需要使用强震动监测数据或相关资料的，应当征得强震动数据监测部门的领导同意，并对使用的强震数据、资料进行妥善保管，不得丢失，严禁外流。</p>
+<p>
+	（五）强震动数据监测和管理部门应当严格维护数据生产方的利益，未经局领导批准并办理有关手续，不得擅自泄露有关数据信息。</p>
+<p>
+	（六）凡我局有关部门或个人需要利用非共享数据进行研究并公开向社会发表研究成果的，应当事先征得数据生产方的同意，以免发生争议。</p>
+<p>
+	（七）除我局以外需要利用非共享数据的，应当事先征得数据生产方的同意。</p>
+<p>
+	（八）强震动数据监测和管理部门应当根据局档案管理的有关规定，定期将有关数据资料整理归档。</p>
+<p>
+	<strong>第七条（数据使用原则）</strong></p>
+<p>
+	强震动监测数据的使用应遵循以下原则：</p>
+<p>
+	（一）其他单位或个人需要使用属我局管辖强震动设施的监测数据，应当向我局提出正式书面使用申请。</p>
+<p>
+	（二）数据使用方不得利用强震动监测数据及其研究成果从事危害国家安全、社会公共利益的活动。</p>
+<p>
+	（三）数据使用方应当保证仅在申请的范围内使用强震动监测数据。</p>
+<p>
+	（四）数据使用方应当保证强震动监测数据使用仅限于科研目的，不能有损于数据来源方的利益，不能用于如商业赢利、自身单位宣传等目的。</p>
+<p>
+	（五）数据使用方应当保证在利用我局强震动监测数据研究形成的成果上明确注明数据资料的来源。</p>
+<p>
+	<strong>第八条（批准权限）</strong></p>
+<p>
+	收到使用单位或个人提交的使用申请后，我局强震动数据监测和管理部门负责人应当提出拟办意见，并交分管局领导审核。</p>
+<p>
+	<strong>第九条（使用方式）</strong></p>
+<p>
+	强震动监测数据的使用，分为无偿和有偿两种方式。共享数据在批准同意后无偿向社会提供。</p>
+<p>
+	<strong>第十条（责任追究）</strong></p>
+<p>
+	凡是违反本办法有关规定的我局相关人员，应当按照我局有关规章制度处理；其他单位或人员，由我局责令其及时改正，消除影响，弥补过失，并列入今后不宜提供相关数据的名单。</p>
+<p>
+	违反国家法律、法规和规章有关涉密管理的规定，情节严重或造成严重影响的，应当按照相关规定追究其责任。</p>
+<p>
+	<strong>第十一条（解释部门）</strong></p>
+<p>
+	本办法由震害防御处负责解释。</p>
+<p>
+	<strong>第十二条（施行日期）</strong></p>
+<p style="margin-left: 11.15pt">
+	本办法自印发之日起施行。</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

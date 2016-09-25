@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" class="now" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">震害防御</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海市防震减灾行政执法人员上岗培训暨行政执法证考试在我局举行<span>发布时间：2015-12-11&nbsp;&nbsp;&nbsp;&nbsp;信息来源：震防处</span></div>
+                <p><p>
+	　　为贯彻落实十八届四中、五中全会精神，提升区县地震干部和我局工作人员的防震减灾政策意识和法律素养，增强上海市防震减灾行政执法能力，我局于12月9日至10日组织召开上海市防震减灾行政执法人员上岗培训，各区县地震办工作人员、各防震减灾执法分队队员及我局行政执法岗位工作人员参加了本次培训。</p>
+<p>
+	　　培训邀请到中国地震局政策法规处陈明金处长，天津市地震局新闻发言人、政策法规处处长，《地震行政执法案例选编》编委会成员刘允秀，上海市法制办监督处张志晟老师及复议处刘建平处长，分别从防震减灾依法行政、抗震设防要求行政执法实务、行政处罚和行政复议过程中理论和实践问题等方面对参训学员进行了专题培训。</p>
+<p>
+	　　培训课程结束后还举行了上海市行政执法人员考试。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1512/201512110621123442.jpg" title="图像" wdimgid="image_440" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1512/201512110621123998.jpg" title="图像" wdimgid="image_441" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1512/201512110621143791.jpg" title="图像" wdimgid="image_439" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

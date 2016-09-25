@@ -1,0 +1,489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>局长会议</title>
+<LINK href="../../../images/jzhy_style.css" type="text/css" rel="stylesheet" ignoreapd="1"/>
+</head>
+
+<body>
+<div id="box">
+	<div class="logo"><img src="../../../images/jzhylogo2012.jpg"/></div>
+	<div class="main">
+		<div class="flashxx">
+<SCRIPT type=text/javascript> 
+var picArray=[];
+var linkArray=[];
+var textArray=[];
+
+
+var  countpic =0;
+		  var  countdoc=0;
+		
+		var arr = new Array();
+		
+			     var pic1 = './jzhytp/201202/W020120229565815610361.jpg';        var appdescs='2012年度全省防震减灾局长会议现场.jpg';
+		 
+		var  title="2012年度全省防震减灾局长会议现场";
+		var  url = "./jzhytp/201202/t20120229_21611.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			countdoc++;
+
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./jzhytp/201202/t20120229_21611.html');
+				//text.push('2012年度全省防震减灾局长会议现场');
+		
+			}
+		
+		
+			     var pic1 = './jzhytp/201202/W020120229565454521842.jpg';        var appdescs='张宏卫局长作工作报告.jpg';
+		 
+		var  title="张宏卫局长作工作报告";
+		var  url = "./jzhytp/201202/t20120229_21610.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			countdoc++;
+
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./jzhytp/201202/t20120229_21610.html');
+				//text.push('张宏卫局长作工作报告');
+		
+			}
+		
+		
+			     var pic1 = './jzhytp/201202/W020120229564716084258.jpg';        var appdescs='四川省地震局党组全体成员在大会主席台就坐.jpg';
+		 
+		var  title="四川省地震局党组全体成员在大会主席台就坐";
+		var  url = "./jzhytp/201202/t20120229_21609.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			countdoc++;
+
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./jzhytp/201202/t20120229_21609.html');
+				//text.push('四川省地震局党组全体成员在大会主席台就坐');
+		
+			}
+		
+		
+			     var pic1 = './jzhytp/201202/W020120229564001402400.jpg';        var appdescs='2012年度全省防震减灾局长会议于2月29日在成都开幕.jpg';
+		 
+		var  title="2012年度全省防震减灾局长会议于2月29日...";
+		var  url = "./jzhytp/201202/t20120229_21608.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			countdoc++;
+
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./jzhytp/201202/t20120229_21608.html');
+				//text.push('2012年度全省防震减灾局长会议于2月29日在成都开幕');
+		
+			}
+		
+		
+                 
+		for(var i=0;i<countdoc;i++){
+		   picArray.push(arr[i][2]);
+		   linkArray.push(arr[i][1]);
+
+                  if(arr[i][3].indexOf(".jpg")>0){
+		    textArray.push(arr[i][0]);
+		  }else{
+                     textArray.push(arr[i][3]);
+
+                 }
+                }
+
+
+
+
+
+<!-- 
+var focus_width=440;
+var focus_height=275; 
+var text_height=22;
+var swf_height = focus_height+text_height 
+var pics='';
+var links='';
+var texts='';
+for(var i=0;i<picArray.length;i++){
+	if(i==0){
+		pics+=picArray[i];
+		links+=linkArray[i];
+		texts+=textArray[i];
+	}else{
+		pics+="|"+picArray[i];
+		links+="|"+linkArray[i];
+		texts+="|"+textArray[i];
+	}
+}
+
+document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase=" http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ focus_width +'" height="'+ swf_height +'">'); 
+document.write('<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="../../../images/chinafocus.swf"><param name=wmode value=transparent><param name="quality" value="high">'); 
+document.write('<param name="menu" value="false"><param name=wmode value="opaque">'); 
+document.write('<param name="FlashVars" value="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'">'); 
+document.write('<embed src="../../../images/chinafocus.swf" wmode="opaque" FlashVars="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'" menu="false" bgcolor="#DADADA" quality="high" width="'+ focus_width +'" height="'+ swf_height +'" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage=" http://www.macromedia.com/go/getflashplayer">'); document.write('</object>'); 
+//--> 
+</SCRIPT>
+		</div>
+		<div class="mxx">
+			本站讯：为深入贯彻党的十七届六中全会和省委九届九次全会精神，以科学发展观为统领，全面落实省委、省政府和中国地震局的防震减灾工作重大部署，传达贯彻2012年全国地震局长会议和省防震减灾领导小组扩大会议精神，回顾总结2011年工作，研究部署2012年我省防震减灾工作任务，四川省地震局于2012年2月29日-3月1日在成都召开2012年度全省防震减灾局长会议。
+		</div>
+		
+		<div class="hyxx">
+			<h1><span>会议议程</span><a href="./hyyc/">更多>></a></h1>
+			<ul>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./hyyc/201202/t20120228_21604.html" target="_blank">2月29日上午  会议开幕</a><span>2012-02-28</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./hyyc/201202/t20120228_21603.html" target="_blank">2月29日下午  分组会议</a><span>2012-02-28</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./hyyc/201202/t20120228_21602.html" target="_blank">3月1日上午   分组会议、会议闭幕</a><span>2012-02-28</span></li>
+				
+			</ul>
+		</div>
+		
+		<div class="hyxx">
+			<h1><span>会议聚焦</span><a href="./hyjj/">更多>></a></h1>
+			<ul>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./hyjj/201203/t20120302_21634.html" target="_blank">聚精会神谋发展 突出重点明目标—...</a><span>2012-03-02</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./hyjj/201203/t20120302_21632.html" target="_blank">全省防震减灾局长会议代表进行分...</a><span>2012-03-02</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./hyjj/201202/t20120229_21607.html" target="_blank">张宏卫在全省防震减灾局长会议上...</a><span>2012-02-29</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./hyjj/201202/t20120229_21606.html" target="_blank">2012年度全省防震减灾局长会议在...</a><span>2012-02-29</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./hyjj/201202/t20120229_21605.html" target="_blank">四川省政府副省长曲木史哈对2012...</a><span>2012-02-29</span></li>
+				
+			</ul>
+		</div>
+		
+		<div class="hyxx">
+			<h1><span>各地贯彻落实动态</span><a href="./gdgc/">更多>></a></h1>
+			<ul>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./gdgc/201204/t20120409_22217.html" target="_blank">广元市召开防震减灾工作会议</a><span>2012-04-09</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./gdgc/201204/t20120409_22216.html" target="_blank">乐山市防震减灾局认真传达学习贯...</a><span>2012-04-09</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./gdgc/201204/t20120401_22136.html" target="_blank">甘孜州政府召开防震减灾领导小组...</a><span>2012-03-29</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./gdgc/201204/t20120401_22135.html" target="_blank">阿坝州防震减灾局七项措施强化201...</a><span>2012-03-27</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./gdgc/201204/t20120401_22134.html" target="_blank">宜宾市召开防震减灾领导小组（扩...</a><span>2012-03-27</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./gdgc/201204/t20120401_22133.html" target="_blank">凉山州政府同各县市政府签订防震...</a><span>2012-03-27</span></li>
+				
+			</ul>
+		</div>
+		
+		
+		
+		<div class="hxjy">
+			<h1><span>会议剪影</span><a href="./hyjy/">更多>></a></h1>		
+  <div id="demo" style=" overflow:hidden;float:left;width:980px;height:170px;background:url(images/jzhyicon05.jpg) repeat-x;border:1px solid #DFA92D;border-top:none;"> 
+
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><td id="demo1" valign="top" align="center"> 
+<table cellpadding="2" cellspacing="0" border="0"> 
+<tr align="center"> 
+  
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21666.html" target="_blank"><img src="./hyjy/201203/W020120302475372418149.jpg" alt="省地震局副局长吕弋培主持闭幕式.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21666.html" class='piclink1'>省地震局副局长吕弋培主持...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21665.html" target="_blank"><img src="./hyjy/201203/W020120302475116788404.jpg" alt="省地震局副局长邓昌文作会议总结.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21665.html" class='piclink1'>省地震局副局长邓昌文作会...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21664.html" target="_blank"><img src="./hyjy/201203/W020120302474807721853.jpg" alt="一等奖获奖单位领奖.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21664.html" class='piclink1'>一等奖获奖单位领奖</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21663.html" target="_blank"><img src="./hyjy/201203/W020120302474447104178.jpg" alt="8---省地震局局长张宏卫向2011年度市县工作先进单位颁奖.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21663.html" class='piclink1'>省地震局局长张宏卫向2011...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21662.html" target="_blank"><img src="./hyjy/201203/W020120302474129910914.jpg" alt="二等奖获奖单位领奖.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21662.html" class='piclink1'>二等奖获奖单位领奖</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21660.html" target="_blank"><img src="./hyjy/201203/W020120302472523031383.jpg" alt="三等奖获奖单位领奖.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21660.html" class='piclink1'>三等奖获奖单位领奖</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21659.html" target="_blank"><img src="./hyjy/201203/W020120302472043193378.jpg" alt="5---省地震局副局长李广俊宣读2011年度市县工作先进表彰通报.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21659.html" class='piclink1'>省地震局副局长李广俊宣读...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21658.html" target="_blank"><img src="./hyjy/201203/W020120302471677885618.jpg" alt="三组汇报讨论情况.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21658.html" class='piclink1'>三组汇报讨论情况</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21657.html" target="_blank"><img src="./hyjy/201203/W020120302471297412132.jpg" alt="二组汇报讨论情况.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21657.html" class='piclink1'>二组汇报讨论情况</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21656.html" target="_blank"><img src="./hyjy/201203/W020120302470871318182.jpg" alt="一组汇报讨论情况.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21656.html" class='piclink1'>一组汇报讨论情况</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21655.html" target="_blank"><img src="./hyjy/201203/W020120302470554133067.jpg" alt="闭幕式会场.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21655.html" class='piclink1'>闭幕式会场</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21654.html" target="_blank"><img src="./hyjy/201203/W020120302468345065255.jpg" alt="自贡市防震减灾局局长陈文康在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21654.html" class='piclink1'>自贡市防震减灾局局长陈文...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21653.html" target="_blank"><img src="./hyjy/201203/W020120302468121948937.jpg" alt="宜宾市防震减灾局局长王辉在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21653.html" class='piclink1'>宜宾市防震减灾局局长王辉...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21652.html" target="_blank"><img src="./hyjy/201203/W020120302467900690197.jpg" alt="雅安市防震减灾局局长陈光明在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21652.html" class='piclink1'>雅安市防震减灾局局长陈光...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21651.html" target="_blank"><img src="./hyjy/201203/W020120302467663351051.jpg" alt="攀枝花市防震减灾局局长卢开南在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21651.html" class='piclink1'>攀枝花市防震减灾局局长卢...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21650.html" target="_blank"><img src="./hyjy/201203/W020120302467363190586.jpg" alt="南充市防震减灾办公室副主任何芒果在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21650.html" class='piclink1'>南充市防震减灾办公室副主...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21649.html" target="_blank"><img src="./hyjy/201203/W020120302467123664354.jpg" alt="内江市地震办公室主任尹建昌在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21649.html" class='piclink1'>内江市地震办公室主任尹建...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21648.html" target="_blank"><img src="./hyjy/201203/W020120302466876316052.jpg" alt="绵阳市防震减灾局局长周时光在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21648.html" class='piclink1'>绵阳市防震减灾局局长周时...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21647.html" target="_blank"><img src="./hyjy/201203/W020120302466351169291.jpg" alt="凉山州防震减灾局局长环江红在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21647.html" class='piclink1'>凉山州防震减灾局局长环江...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21646.html" target="_blank"><img src="./hyjy/201203/W020120302466047102020.jpg" alt="乐山市防震减灾局局长彭云金在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21646.html" class='piclink1'>乐山市防震减灾局局长彭云...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21645.html" target="_blank"><img src="./hyjy/201203/W020120302465768971832.jpg" alt="广元市防震减灾局局长李待德在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21645.html" class='piclink1'>广元市防震减灾局局长李待...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21644.html" target="_blank"><img src="./hyjy/201203/W020120302465514136983.jpg" alt="广安市防震减灾办公室主任陈文华在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21644.html" class='piclink1'>广安市防震减灾办公室主任...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21643.html" target="_blank"><img src="./hyjy/201203/W020120302465273195525.jpg" alt="甘孜州防灾减灾局局长李德在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21643.html" class='piclink1'>甘孜州防灾减灾局局长李德...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21642.html" target="_blank"><img src="./hyjy/201203/W020120302464949603419.jpg" alt="德阳市防震减灾局局长黄声德在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21642.html" class='piclink1'>德阳市防震减灾局局长黄声...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21641.html" target="_blank"><img src="./hyjy/201203/W020120302464700851933.jpg" alt="达州市防震办公室主任谭秀成在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21641.html" class='piclink1'>达州市防震办公室主任谭秀...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21640.html" target="_blank"><img src="./hyjy/201203/W020120302464454914975.jpg" alt="成都市防震减灾局局长肖亚西在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21640.html" class='piclink1'>成都市防震减灾局局长肖亚...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21639.html" target="_blank"><img src="./hyjy/201203/W020120302464225228336.jpg" alt="巴中市地震办公室副主任郑波在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21639.html" class='piclink1'>巴中市地震办公室副主任郑...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21638.html" target="_blank"><img src="./hyjy/201203/W020120302463972565023.jpg" alt="阿坝州防震减灾局局长田伟在讨论中发言.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21638.html" class='piclink1'>阿坝州防震减灾局局长田伟...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21637.html" target="_blank"><img src="./hyjy/201203/W020120302463626784057.jpg" alt="三组讨论会场.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21637.html" class='piclink1'>三组讨论会场</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21636.html" target="_blank"><img src="./hyjy/201203/W020120302463046784223.jpg" alt="二组讨论会场.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21636.html" class='piclink1'>二组讨论会场</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201203/t20120302_21635.html" target="_blank"><img src="./hyjy/201203/W020120302462760389283.jpg" alt="一组讨论会场.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201203/t20120302_21635.html" class='piclink1'>一组讨论会场</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201202/t20120229_21620.html" target="_blank"><img src="./hyjy/201202/W020120229571672967911.jpg" alt="2012年度全省防震减灾局长会议现场.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201202/t20120229_21620.html" class='piclink1'>2012年度全省防震减灾局长...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201202/t20120229_21619.html" target="_blank"><img src="./hyjy/201202/W020120229571201558077.jpg" alt="8----王继斌纪检组长传达2012年全国地震局长会精神.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201202/t20120229_21619.html" class='piclink1'>王继斌纪检组长传达2012年...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201202/t20120229_21618.html" target="_blank"><img src="./hyjy/201202/W020120229570845301318.jpg" alt="李广俊副局长出席会议.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201202/t20120229_21618.html" class='piclink1'>李广俊副局长出席会议</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201202/t20120229_21617.html" target="_blank"><img src="./hyjy/201202/W020120229570489366135.jpg" alt="6---吕弋培副局长出席会议.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201202/t20120229_21617.html" class='piclink1'>吕弋培副局长出席会议</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201202/t20120229_21616.html" target="_blank"><img src="./hyjy/201202/W020120229570117966383.jpg" alt="5---王力副局长持会议.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201202/t20120229_21616.html" class='piclink1'>王力副局长持会议</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201202/t20120229_21615.html" target="_blank"><img src="./hyjy/201202/W020120229569725307953.jpg" alt="4---邓昌文副局长传达省防震减灾领导小组扩大会议精神.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201202/t20120229_21615.html" class='piclink1'>邓昌文副局长传达省防震减...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201202/t20120229_21614.html" target="_blank"><img src="./hyjy/201202/W020120229569404523204.jpg" alt="张宏卫局长作工作报告.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201202/t20120229_21614.html" class='piclink1'>张宏卫局长作工作报告</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201202/t20120229_21613.html" target="_blank"><img src="./hyjy/201202/W020120229568436407038.jpg" alt="四川省地震局党组全体成员在大会主席台就坐.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201202/t20120229_21613.html" class='piclink1'>四川省地震局党组全体成员...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./hyjy/201202/t20120229_21612.html" target="_blank"><img src="./hyjy/201202/W020120229566488274749.jpg" alt="2012年度全省防震减灾局长会议于2月29日在成都开幕.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./hyjy/201202/t20120229_21612.html" class='piclink1'>2012年度全省防震减灾局长...</a>
+	  </div></td>
+	  
+
+</tr> 
+</table> 
+</td>
+
+<td id="demo2" valign="top"></td> 
+</tr> 
+</table> 
+</div> 
+<script> 
+var speed=28 //速度数值越大速度越慢 
+demo2.innerHTML=demo1.innerHTML 
+function Marquee(){ 
+if(demo.scrollLeft<=0) 
+demo.scrollLeft+=demo2.offsetWidth 
+else{ 
+demo.scrollLeft-- 
+} 
+} 
+var MyMar=setInterval(Marquee,speed) 
+demo.onmouseover=function() {clearInterval(MyMar)} 
+demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+</script>	
+</div>	
+		
+		<div class="foot">
+			 四川地震局<br>
+2008 All Rights Reserved
+		</div>
+	</div>
+	
+
+</div>
+</body>
+</html>

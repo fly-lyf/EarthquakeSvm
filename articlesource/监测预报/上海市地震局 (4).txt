@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">预测分析中心赴福建局调研学习<span>发布时间：2015-12-22&nbsp;&nbsp;&nbsp;&nbsp;信息来源：预测分析中心</span></div>
+                <p><p>
+	　　12月14日-16日，预测分析中心一行5人赴福建省地震局进行前兆数据跟踪分析工作调研学习。</p>
+<p>
+	　　福建局数据跟踪分析工作多次在全国评比中位列第一，福建局预测分析中心前兆管理室主任张清秀向我局一行人介绍了福建省前兆台网的现状、省局前兆管理的规程制度、省局和地方台的职能划分以及合作方式等，并重点对福建局的前兆数据跟踪分析的工作体系进行了介绍。张主任还将前兆数据跟踪分析工作中的主要注意事项和易疏漏的地方一一做了分析，对优秀的跟踪分析事件进行了解构，还针对上海局的跟踪分析事件进行全面梳理，对其中存在不足的记录做了详细的指导。为如何提升我局前兆数据跟踪分析工作的成绩，提出了针对性极强的宝贵意见。</p>
+<p>
+	　　经过此次调研学习，福建局工作人员积极认真的态度和细致的管理规程给大家留下了深刻的印象，我局技术人员将对照差距，总结经验和不足，认真梳理此行所学，设计改进方案，争取将我局的数据跟踪分析成绩提升一个台阶。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

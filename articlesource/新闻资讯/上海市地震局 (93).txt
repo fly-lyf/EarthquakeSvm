@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">中国地震局启动地震应急预案Ⅲ级应急响应决定<span>发布时间：2008-09-01</span></div>
+                <p><div><span>&nbsp;&nbsp;&nbsp; 2008</span>年<span>8</span>月<span>30</span>日四川省攀枝花市仁和区、凉山彝族自治州会理县发生<span>6.1</span>级地震，截至<span>8</span>月<span>30</span>日<span>18</span>时，造成<span>2</span>人死亡，数人受伤，给当地群众的生产生活将造成灾害。</div>
+<div>&nbsp;&nbsp;&nbsp; 根据上述情况，中国地震局决定：</div>
+<div>一、经初步判定，此次地震为较大地震灾害，根据《国家地震应急预案》，启动Ⅲ级应急响应。</div>
+<div>二、中国地震局办公室、监测预报司、震灾应急救援司、中国地震台网中心、中国地震应急搜救中心、四川省地震局、云南省地震局立即进入Ⅲ级应急响应状态。做好应急值守、地震监测、地震趋势预测、灾害损失调查评估、社会稳定等各项工作。有关单位启动地震区域应急联动机制。</div>
+<div>三、四川省地震局、云南省地震局、攀枝花地震局、凉山州地震局、楚雄州地震局及有关县级地震部门迅速派出人员开展灾情调查和现场应急工作，并及时向中国地震局报告。</div>
+<div>四、派出国家地震现场工作队赴地震现场协助开展抗震救灾工作。</div>
+<div>五、中国地震局其他有关部门和直属单位，按《中国地震局地震应急预案》的要求开展相关工作。</div></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

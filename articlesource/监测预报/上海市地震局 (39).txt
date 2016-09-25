@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">“全国区域台网一维速度模型建设及推广使用”项目通过年度检查<span>发布时间：2014-11-06</span></div>
+                <p><p>
+	　　10月17日，中国地震局监测预报司组织相关专家在我局对&ldquo;全国区域台网一维速度模型建设及推广使用&rdquo;项目进行了年度检查。以地球物理研究所所长吴忠良为组长的专家组认真听取了项目组的汇报，在进行质询和讨论后一致认为项目组很好地完成了2014年度工作任务，并对下一步工作提出宝贵建议。</p>
+<p>
+	　　震源深度一直是广大地震工作者密切关注的一个问题，准确测定震源深度和区域速度模型密不可分。在中国地震局监测预报司的高度重视下，由上海市地震局牵头，全国31个省局、台网中心和球所积极参加的&ldquo;全国区域台网一维速度模型建设及推广使用&rdquo;专项任务于2014年开展了地壳分层、典型震相识别等一系列研究工作。</p>
+<p>
+	　　在十多个月的时间里，项目组收集了大量前人关于速度模型的研究资料，研究完成各区域康拉德面和莫霍面深度，建立了可供全国各区域台网日常使用的一维速度模型，并借助集中授课、网络答疑、片区检查等各种形式，培养了一批地震一线的骨干力量，提升了项目组成员的理论水平以及实际工作的应用能力。</p>
+<p>
+	　　在接下来的工作阶段中，全体项目组成员将充分吸取年度检查中专家组提出的宝贵建议，致力于中国大陆地壳速度结构研究，进一步提高在速报及编目工作中的地震定位精度。</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

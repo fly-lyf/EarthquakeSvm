@@ -1,0 +1,384 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>“十五”项目《测震台网数据采集与常规处理软件（测试版）》培训班在广州成功举行</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">“十五”项目《测震台网数据采集与常规处理软件（测试版）》培训班在广州成功举行</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-11-01 13:52:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局监测预报司
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><DIV><br>
+<P><SPAN&nbsp;style="FONT-SIZE:&nbsp;16pt;&nbsp;COLOR:&nbsp;black;&nbsp;FONT-FAMILY:&nbsp;仿宋_GB2312;&nbsp;mso-hansi-font-family:&nbsp;宋体;&nbsp;mso-bidi-font-family:&nbsp;宋体;&nbsp;mso-ansi-language:&nbsp;EN-US;&nbsp;mso-fareast-language:&nbsp;ZH-CN;&nbsp;mso-bidi-language:&nbsp;AR-SA"><FONT&nbsp;face=宋体&nbsp;size=4>&nbsp;&nbsp;&nbsp;&nbsp;根据“十五”网络项目测震分项实施计划，《测震台网数据采集与常规处理软件（测试版）》培训班于10月9日至14日在广州举行。中国地震局监测预报司司长李克、广东省地震局局长黄剑涛、副局长吕金水以及测震分项首席专家高景春等出席开班仪式，来自全国各建设单位测震台网技术骨干70余人参加了培训。<BR>&nbsp;&nbsp;&nbsp;&nbsp;培训班举行了简短的开班仪式。李克司长在开班仪式上的讲话中指出，大规模的基建任务基本完成后，专业仪器的生产与安装能力、专业软件研发能力成已成为制约网络项目实施的两大重要因素。从测震分项看，台网基建任务已完成90％以上，但仪器安装仅完成了38％左右，有很多台网由于软件原因推迟了安装计划。根据测震台网软件研发的计划，10月份完成初步测试版，2006年底前完成完整体测试版，2007年3月份完成正式版。他说，经过研发单位的努力，初步测试版已完成，在提交给建设单位试用前举办这个培训班是非常及时和必要的。他希望，参加培训的各省测震台网技术人员要认真学习，做到学以致用，并预祝培训班圆满成功。高景春首席专家从技术的角度详细阐述了《数据采集与常规处理》软件的重要性和主要功能。黄剑涛局长在发言中表示一定按照中国地震局的要求和总体部署，全力以赴组织好软件的研发、培训，为各建设单位做好服务。<BR>&nbsp;&nbsp;&nbsp;&nbsp;《数据采集与常规处理（测试版）》软件是由广东省地震局组织研发的数字测震台网核心软件，其功能涉及数据采集、事件触发、自动定位、人机交互、目录产出等各个方面。该软件的部署对推进数字测震台网项目的建设和功能的实现将起到重要作用。<BR>&nbsp;&nbsp;&nbsp;&nbsp;培训班采取授课、演示和上机实习的方式进行。由软件开发人员担任授课教师，通过多媒体演示的方式对软件的功能和配置进行了深入浅出的讲解。晚上，利用广东省测震台网的数据进行上机实习，让学员实际体会整个测震台网的运行流程。<BR>&nbsp;&nbsp;&nbsp;&nbsp;培训结束时，每个学员认真填写了研发单位印制的“十五”测震台网数据采集与常规处理软件反馈表。研发单位将软件安装盘和恢复盘交由参加培训的同志带回各建设单位。为协助各单位及时解决软件安装、运行中出现的问题，研发单位建立了网上论坛，供学员互相切磋交流和解答问询。<BR>&nbsp;&nbsp;&nbsp;&nbsp;通过培训，学员们对测震台网数据采集与常规处理软件构架、功能和安装使用有了较全面的了解，普遍表示一定把培训班学到的知识和广东测震台网的建设经验带回本单位，加快和促进测震台网项目的建设。</FONT></SPAN></P></DIV>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

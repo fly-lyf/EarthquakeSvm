@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局举办2007年度上海市水氡观测技术培训班<span>发布时间：2007-12-17</span></div>
+                <p><p align="center"><font face="Arial" size="3"><strong>我局举办2007年度上海市水氡观测技术培训班</strong></font> </p>
+<p><font style="BACKGROUND-COLOR: #cce8cf" face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2007年9月18日下午，我局在闵行区龙通商务酒店举办了&ldquo;2007年度上海市水氡观测技术培训班&rdquo;。这次培训活动得到了闵行区地办的大力支持。参加会议的有上海市地震局监测预报处、水氡资料评比方面的专家以及各个区县地办的领导和地震观测员代表等。会上首先由闵行区地办和我局监测预报处的领导先后致词，欢迎各位参加本次培训班的区县地办代表和观测员们。接着，参加过国家局评比会的几位专家针对在水氡资料评审过程中遵循的一些扣分规则和标准进行了全面详细的阐释。培训过程中，各个观测台的代表也针对自身情况，展开了热烈的讨论，并提出了一系列的问题和建议。最后，监测预报处代表我局对各地办和地震观测台的工作表示了肯定和感谢，并预祝大家再接再厉，在未来的工作中更上一层楼，为防震减灾事业站岗放哨。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></p>
+<p align="right"><font style="BACKGROUND-COLOR: #cce8cf" face="Arial">监测预报处&nbsp; 朱寅</font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" class="now" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/flfg/hybz/index.html" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">地方管理条例</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>地方管理条例</h2>
+            </div>
+            <ul class="listTxt">
+            	<li><a href="/gb/dzj/flfg/dfgltl/u1ai5540.html" title="关于重新发布《上海市地震局强震动监测数据使用和管理办法》的通知">关于重新发布《上海市地震局强震动监测数据使用和管理办法》的通知</a><span>2015-07-15</span></li>
+                
+            	<li><a href="/gb/dzj/flfg/dfgltl/u1ai37.html" title="上海市实施〈中华人民共和国防震减灾法〉办法">上海市实施〈中华人民共和国防震减灾法〉办法</a><span>2012-05-23</span></li>
+                
+            </ul>
+            <div class="page">
+<font color=gray>首页 </font><font color=gray> 上一页 </font><font color=gray> 下一页 </font><font color=gray> 尾页 </font>
+                <span>第1页&nbsp;共1页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

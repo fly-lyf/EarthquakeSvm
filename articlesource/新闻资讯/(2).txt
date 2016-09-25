@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>坚定信念、勇于创新、为防震减灾事业而不懈努力——观渣滓洞、白公馆有感 </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '张永久';
+					var sourcecontent = '预报研究所党支部副书记';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-06-30 15:09:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:09:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:张永久  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:09:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者:张永久 &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:09:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P>　　在党的90岁生日即将来临之际，四川省地震局机关党委组织各支部党务工作者到重庆歌乐山白公馆、渣滓洞参观，重温革命历史，缅怀革命先烈。&nbsp;</P>
+<P>　　“渣滓洞”、“白公馆”——那曾被魔鬼统治的地方，每一寸土地，每一块岩石，乃至每一株小草，都记载着烈士们不屈的痕迹。先烈们吃的是霉米饭，睡的是湿地板，坐的是老虎凳……，置身先烈们曾经流血战斗的地方，踏进阴森的牢房，红岩英烈可歌可泣的故事浮现眼前……，诵读着“愿以我血献后土，换得神州永太平”等烈士诗稿，革命先烈“临难勿苟免、以身殉真理”的感人事迹，使我们的心灵受到震撼。在渣滓洞前，怀着沉重的心情重温入党誓词，对我们来说是刻骨铭心、永生难忘的。&nbsp;</P>
+<P>　　通过参观，我们再次深刻感受到：先烈们坚定的共产主义信念，面对肉体上、精神上的折磨和诱惑没有低头、没有动摇；即使在狱中，先烈们也从没有放弃为共产主义理想信念而斗争的努力；先烈们用生命诠释了为真理而献身的革命精神；最后，正是无数先烈的无私奉献，才换来了革命的最后胜利和今天的美好生活。&nbsp;</P>
+<P>　　只有继承和发扬革命先烈们为真理和自由而奋斗的精神，才是对先烈们最好的缅怀。作为一名防震减灾工作者，深深的感受到把革命先烈们的坚韧不拨、勇于斗争、善于斗争和无私奉献精神融入我们实际的工作是尤为重要和刻不容缓的事。新世纪以来接踵而至的巨大地震，包括2008年5月12日发生在我们身边的汶川8.0级大地震，给人民带来了巨大的生命和财产损失，也给我们的防震减灾工作提出了严峻的挑战。面对地震预测这个世界难题，我们怎么办？是放弃吗？不！无数先烈在看着我们呢，不能放弃！！！&nbsp;</P>
+<P>　　首先，我们必须坚定信念，地震预测再难，也必将有被攻克的一天，我们必须一往无前的做下去，坚持不懈地推进地震预测预报探索和实践，才可能有美好的明天。&nbsp;</P>
+<P>　　其次，实事求是、敢闯新路。对地震预测既不悲观失望，也不盲目乐观，而是脚踏实地的开展监测和研究，一步一步的深入进行。同时，创新地震监测预报体制机制，重新规划地震预测整体布局，整合地震预测力量，建立长中短临多路探索的工作机制和组织体系，着重加强中长期地震预测研究。加强台网功能和布局的设计研究，增强监测台网的开放性、创新性和应用性。　</P>
+<P>　　再次，防震减灾工作要充分依靠群众。作好防震减灾工作，最终目的是为人民服务。同时，要做好防震减灾工作，也必须依靠群众，从群众中来，到群众中去。在防震减灾的最基础工作——监测方面，仅靠我们的专业台站的监测信息是远远不够的，必须要加大防震减灾的宣传教育力度，让广大人民群众，特别是多震区的人民群众充分了解防震减灾的重要性和必要性，了解和察觉到异常信息及时报告防震减灾部门，就如当年的海城地震前和松平地震前那样。&nbsp;</P>
+<P>　　防震减灾工作主要是为了保障广大人民群众的生命和财产安全，是国家公益性事业，只有发扬为真理、为科学、为人民无私奉献的精神、发扬先烈们的无私奉献精神，才可能长期坚持并真正做好防震减灾工作，为党的每个生日献礼！</P><br/>
+					  
+				  <div style="display:none">
+				     
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

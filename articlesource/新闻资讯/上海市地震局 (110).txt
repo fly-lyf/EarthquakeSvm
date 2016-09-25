@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">开展“三严三实”专题教育 树立防震减灾干事创业行为准则<span>发布时间：2015-06-02</span></div>
+                <p><p>
+	　　5月29日，党组书记、局长吴建春同志围绕&ldquo;三严三实&rdquo;为全局处级以上干部和党员作专题党课，传达了中国地震局党组书记、局长陈建民同志关于&ldquo;践行三严三实要求，全面推进防震减灾事业改革发展&rdquo;专题党课的主要精神，并对我局深入开展&ldquo;三严三实&rdquo;专题教育进行了动员部署。</p>
+<p>
+	　　党课内容着重从四个方面展开：一是要求党员领导干部充分认识开展&ldquo;三严三实&rdquo;专题教育的重要意义，开展&ldquo;三严三实&rdquo;专题教育是中央深入推进全面从严治党的重要部署，是党的群众路线教育实践活动的延展深化，是持续深入推进党的思想政治建设和作风建设的重要举措，是严肃党内政治生活、严明党的政治纪律和政治规矩的重要抓手；二是深入阐述了对&ldquo;三严三实&rdquo;重要内涵的认识体会，&ldquo;三严&rdquo;紧扣的是&ldquo;严&rdquo;，严以修身、严以用权、严以律已，是对领导干部思想的要求，&ldquo;三实&rdquo;落实的是&ldquo;实&rdquo;，谋事要实、创业要实、做人要实，是对领导干部行动实践的要求；三是提出了开展&ldquo;三严三实&rdquo;专题教育的实践要求，要把践行&ldquo;三严三实&rdquo;体现到贯彻中国地震局党组的决策部署上来，体现到推动上海防震减灾重点工作上来，落实到立规执纪、强化制度建设和执行上来，落实到切实解决问题上来；四是强调要精心组织，确保&ldquo;三严三实&rdquo;专题教育顺利推进，要认真贯彻中央和中国地震局党组的部署，严格按照专题教育实施方案的要求，抓好专题教育过程的关键环节，要求党员干部在深化学习上下功夫，在示范带头上下功夫，在从严从实上下功夫，切实取得好的成效。</p>
+<p>
+	　　吴建春同志最后强调，我们一定要以高度的政治责任感，组织好、开展好这次专题教育，树立好防震减灾干事创业的行为准则，围绕建设&ldquo;地震安全城市&rdquo;的目标，加快推进上海防震减灾事业的发展。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" class="now" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">震害防御</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海市地震安全性评价从业单位一览表<span>发布时间：2012-06-08</span></div>
+                <p><p align="center">&nbsp; </p>
+<div align="center">
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 532.5pt; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt" border="1" cellspacing="0" cellpadding="0" width="710">
+    <tbody>
+        <tr style="HEIGHT: 25.3pt">
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 25.3pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm" width="35">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><strong><span style="FONT-FAMILY: 宋体">序号<o:p></o:p></span></strong><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 193.5pt; PADDING-RIGHT: 5.4pt; HEIGHT: 25.3pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt" width="258">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><strong><span style="FONT-FAMILY: 宋体">单 位 名 称<o:p></o:p></span></strong><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 36.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 25.3pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt" width="49">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><strong><span style="FONT-FAMILY: 宋体">资<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp; </span>质<o:p></o:p></span></span></strong><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 72.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 25.3pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt" width="97">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><strong><span style="FONT-FAMILY: 宋体">联 系 电 话<o:p></o:p></span></strong><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 146.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 25.3pt; BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt" width="195">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><strong><span style="FONT-FAMILY: 宋体">地<span lang="EN-US"><span style="mso-spacerun: yes">&nbsp; </span>址<o:p></o:p></span></span></strong><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 24pt; mso-yfti-irow: 2">
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-top-alt: solid windowtext .5pt" width="35">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><span style="FONT-FAMILY: 宋体" lang="EN-US">1</span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 193.5pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="258">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体">中国电力工程顾问集团华东电力设计院<o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 36.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="49">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><span style="FONT-FAMILY: 宋体">乙级<o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 72.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="97">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体" lang="EN-US">66083815<o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 146.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="195">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体">上海市武宁路<span lang="EN-US">409号<o:p></o:p></span></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 24pt; mso-yfti-irow: 3">
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-top-alt: solid windowtext .5pt" width="35">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><span style="FONT-FAMILY: 宋体" lang="EN-US">2</span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 193.5pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="258">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体">上海岩土工程勘察设计研究院有限公司<o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 36.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="49">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><span style="FONT-FAMILY: 宋体">乙级<o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 72.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="97">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体" lang="EN-US">63233634<o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 146.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="195">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体">上海市延安东路<span lang="EN-US">34号<o:p></o:p></span></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 24pt; mso-yfti-irow: 5">
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-top-alt: solid windowtext .5pt" width="35">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><span style="FONT-FAMILY: 宋体" lang="EN-US">3</span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 193.5pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="258">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体">北京勘察技术工程有限公司</span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 36.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="49">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><span style="FONT-FAMILY: 宋体">乙级</span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 72.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="97">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体" lang="EN-US">50459251</span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 146.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="195">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体">上海市荣成路9弄7号2804室</span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 24pt; mso-yfti-irow: 6">
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 26.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-top-alt: solid windowtext .5pt" width="35">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><span style="FONT-FAMILY: 宋体" lang="EN-US"><o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p><font face="宋体">4</font></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 193.5pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="258">
+            <p class="MsoNormal" align="left"><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p><font face="宋体">上海神龙防灾技术有限公司 </font></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 36.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="49">
+            <p style="TEXT-ALIGN: center" class="MsoNormal" align="center"><span style="FONT-FAMILY: 宋体"><o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p><font face="宋体">丙级 </font></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 72.75pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="97">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体" lang="EN-US"><o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p><font face="宋体">52262896 </font></o:p></span></p>
+            </td>
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 146.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 24pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="195">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体"><span lang="EN-US"><o:p></o:p></span></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p><font face="宋体">上海市闵行区华漕镇闵北路200号 </font></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 68.85pt; mso-yfti-irow: 7; mso-yfti-lastrow: yes">
+            <td style="BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 68.85pt; BORDER-TOP: medium none; BORDER-RIGHT: windowtext 0.5pt solid; PADDING-TOP: 0cm; mso-border-top-alt: solid windowtext .5pt" colspan="5"><span style="FONT-FAMILY: 宋体">
+            <p style="LINE-HEIGHT: 150%; TEXT-INDENT: -40.3pt; MARGIN-LEFT: 40.3pt; mso-char-indent-count: -3.84; mso-char-indent-size: 10.45pt" class="MsoNormal" align="left">&nbsp;</p>
+            <p style="LINE-HEIGHT: 150%; TEXT-INDENT: -40.3pt; MARGIN-LEFT: 40.3pt; mso-char-indent-count: -3.84; mso-char-indent-size: 10.45pt" class="MsoNormal" align="left">备注：</p>
+            <p style="LINE-HEIGHT: 150%; TEXT-INDENT: -40.3pt; MARGIN-LEFT: 40.3pt; mso-char-indent-count: -3.84; mso-char-indent-size: 10.45pt" class="MsoNormal" align="left"><span style="FONT-FAMILY: 宋体" lang="EN-US">&nbsp;&nbsp;&nbsp; 1.<span class="grame">安评收费标准</span>应参照市物价局<a target="_blank" href="http://web.shea.gov.cn/news/20110812/n094751_6443.html"><strong><font color="#ff0000">《关于加强本市建设工程地震安全性评价收费管理的通知》（<span class="grame">沪价费</span>〔2011〕011号）</font></strong></a>执行</span></p>
+            <p style="LINE-HEIGHT: 150%; TEXT-INDENT: -40.3pt; MARGIN-LEFT: 40.3pt; mso-char-indent-count: -3.84; mso-char-indent-size: 10.45pt" class="MsoNormal" align="left"><span style="FONT-FAMILY: 宋体" lang="EN-US"></span><span style="FONT-FAMILY: 宋体" lang="EN-US">&nbsp;&nbsp;&nbsp; 2.<span class="grame">上述安评从业</span>单位按照资质排序，同等资质排名不分先后。<o:p></o:p></span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></p>
+            </span><span style="mso-bidi-font-size: 10.5pt" lang="EN-US"><o:p></o:p></span></td>
+        </tr>
+    </tbody>
+</table>
+</div></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

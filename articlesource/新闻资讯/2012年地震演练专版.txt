@@ -1,0 +1,447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>2012年地震演练专版</title>
+<link href="../../../images/2012_dzyl.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="top">
+  <p>在第四个全国"防灾减灾日"和汶川大地震4周年来临之际，我省将举行全省防灾救灾大演练，这是省委、省政府为广泛普及群众灾害自救互救知识、提高公民防灾避险意识和自救互救技能、增强各级政府应对自然灾害能力做出的一项重大部署，将是我省规模最大、范围最宽、实战性最强的一次防灾救灾综合实战演练。根据省委、省政府"要把演练准备过程作为提高防灾减灾能力的过程"的要求，为充分宣传防震减灾知识，全面展示我省防震减灾工作，从4月12日起，本网特推出2012年"5&middot;12"全省防灾救灾大演练专栏。</p>
+</div>
+<div class="fla_news div_mar">
+    <div class="fla">
+	  <span id="focusViewer"></span>
+	<script src="../../../images/lhflash.js" type="text/javascript" language="javascript">
+</script>
+	<script type="text/javascript" language="javascript">
+		var focus_width = 398;
+		var focus_height = 302;
+		var text_height = 24;
+		var swf_height = focus_height + text_height;
+		var curhref = document.location.href;
+
+		var pic = new Array();
+		var linka = new Array();
+		var text = new Array();
+		
+		
+		pic.push('./ywbb/201205/W020120508352517385661.jpg');
+		linka.push('./ywbb/201205/t20120508_22513.html');
+		text.push('四川省地震局参加2012年全省防灾救灾大演练第二次综合实战预演活动');
+		
+		pic.push('./mtjj/201205/W020120508349287535150.jpg');
+		linka.push('./mtjj/201205/t20120508_22512.html');
+		text.push('四川新闻网:如何科学防震 专家做客四川新闻网支招');
+		
+		pic.push('../../bmdt/201205/W020120507637531756912.jpg');
+		linka.push('../../bmdt/201205/t20120507_22509.html');
+		text.push('四川省地震局局参加2012年全省防灾救灾大演练综合预演活动');
+		
+		pic.push('./ywbb/201204/W020120416582713144156.jpg');
+		linka.push('./ywbb/201204/t20120416_22286.html');
+		text.push('四川省地震局开展“2012年省级防灾救灾大演练”预演活动');
+			
+		var pics = pic.join('|');
+		var links = linka.join('|');
+		var texts = text.join('|');					
+
+		var FocusFlash = new sinaFlash("../../../images/pixviewer.swf", "focusflash", focus_width, swf_height, "7", "#FFFFFF", false, "High");
+		FocusFlash.addParam("allowScriptAccess", "sameDomain");
+		FocusFlash.addParam("menu", "false");
+		FocusFlash.addParam("wmode", "opaque");
+		FocusFlash.addVariable("pics", pics);
+		FocusFlash.addVariable("links", links);
+		FocusFlash.addVariable("texts", texts);
+		FocusFlash.addVariable("borderwidth", focus_width);
+		FocusFlash.addVariable("borderheight", focus_height);
+		FocusFlash.addVariable("textheight", text_height);
+		FocusFlash.addVariable("curhref", curhref);
+		FocusFlash.write("focusViewer");
+	</script>	
+  </div>
+    <div class="news">
+      <div class="tit"><span><a href="./ywbb/" class="more" style="color:#333;">更多</a></span><a href="./ywbb/" target="_blank">要闻播报</a>  </div>
+<ul class="list">
+ 
+      <li><a href="./ywbb/201205/t20120518_22658.html" title="科学精神的伟力 以人为本的华章——四川省2012年“5·12”防灾救灾综合实战演练启示录" target="_blank">科学精神的伟力 以人为本的华章——四川省2012年“5·12”防灾救灾综合实战演练...</a> </li>
+
+      <li><a href="./ywbb/201205/t20120514_22608.html" title="科学精神的伟力  以人为本的华章" target="_blank">科学精神的伟力  以人为本的华章</a> </li>
+
+      <li><a href="./ywbb/201205/t20120514_22607.html" title="把防灾减灾能力建设提高到新的水平" target="_blank">把防灾减灾能力建设提高到新的水平</a> </li>
+
+      <li><a href="./ywbb/201205/t20120514_22606.html" title="这，就是一场实战——四川省2012年“5·12”防灾救灾综合实战演练全记录" target="_blank">这，就是一场实战——四川省2012年“5·12”防灾救灾综合实战演练全记录</a> </li>
+
+      <li><a href="./ywbb/201205/t20120514_22605.html" title="四川省2012年“5.12”防灾救灾综合实战演练成功举行" target="_blank">四川省2012年“5.12”防灾救灾综合实战演练成功举行</a> </li>
+
+      <li><a href="./ywbb/201205/t20120511_22545.html" title="四川省2012年“5.12”防灾救灾综合实战演练今日举行" target="_blank">四川省2012年“5.12”防灾救灾综合实战演练今日举行</a> </li>
+
+      <li><a href="./ywbb/201205/t20120511_22544.html" title="四川省2012年“5.12”防灾救灾综合实战演练准备就绪" target="_blank">四川省2012年“5.12”防灾救灾综合实战演练准备就绪</a> </li>
+
+      <li><a href="./ywbb/201205/t20120508_22513.html" title="四川省地震局参加2012年全省防灾救灾大演练第二次综合实战预演活动" target="_blank">四川省地震局参加2012年全省防灾救灾大演练第二次综合实战预演活动</a> </li>
+
+      <li><a href="./ywbb/201205/t20120504_22478.html" title="四川省2012年“5·12”防灾救灾综合实战演练举行合练" target="_blank">四川省2012年“5·12”防灾救灾综合实战演练举行合练</a> </li>
+
+      <li><a href="./ywbb/201204/t20120426_22393.html" title="刘奇葆蒋巨峰视察“5.12”省级防灾救灾综合实战演练准备情况" target="_blank">刘奇葆蒋巨峰视察“5.12”省级防灾救灾综合实战演练准备情况</a> </li>
+
+      <li><a href="./ywbb/201204/t20120416_22277.html" title="省地震局参加2012年省级防灾救灾大演练第二梯队拉动演练" target="_blank">省地震局参加2012年省级防灾救灾大演练第二梯队拉动演练</a> </li>
+
+      <li><a href="./ywbb/201204/t20120416_22286.html" title="四川省地震局开展“2012年省级防灾救灾大演练”预演活动" target="_blank">四川省地震局开展“2012年省级防灾救灾大演练”预演活动</a> </li>
+
+ 
+     </ul>
+  </div>
+    <p class="clear"></p>
+</div>
+<div class="div_mar">
+ <div class="left">
+  
+  <div class="border">
+  <div class="tit01"><span><a href="./dtxx/" class="more" style="color:#333;">更多</a></span><a href="./dtxx/" target="_blank">动态信息</a> </div>
+   
+    <div class="div_list">
+      <ul class="list list01">
+   
+      <li><a href="./dtxx/201205/t20120518_22696.html" title="雅安市荥经县举行2012年防震减灾综合大演练" target="_blank">雅安市荥经县举行2012年防震减灾综合大演练</a> </li>
+    
+      <li><a href="./dtxx/201205/t20120518_22685.html" title="雅安市芦山县开展2012年防灾救灾综合大演练" target="_blank">雅安市芦山县开展2012年防灾救灾综合大演练</a> </li>
+    
+      <li><a href="./dtxx/201205/t20120518_22683.html" title="雅安市举行2012年防灾救灾综合实战演练" target="_blank">雅安市举行2012年防灾救灾综合实战演练</a> </li>
+    
+      <li><a href="./dtxx/201205/t20120518_22681.html" title="眉山市东坡区悦兴镇初中开展防震减灾应急疏散演练" target="_blank">眉山市东坡区悦兴镇初中开展防震减灾应急疏散演练</a> </li>
+    
+      <li><a href="./dtxx/201205/t20120518_22679.html" title="雅安市宝兴县成功举办2012年防灾减灾应急大演练" target="_blank">雅安市宝兴县成功举办2012年防灾减灾应急大演练</a> </li>
+ 
+    </ul>
+</div>
+
+
+    <div class="div_list">
+      <ul class="list list01">
+   
+      <li><a href="./dtxx/201205/t20120518_22677.html" title="成都市金堂县开展防灾减灾疏散大演练" target="_blank">成都市金堂县开展防灾减灾疏散大演练</a> </li>
+    
+      <li><a href="./dtxx/201205/t20120518_22673.html" title="眉山市彭山县开展2012年防灾救灾大演练" target="_blank">眉山市彭山县开展2012年防灾救灾大演练</a> </li>
+    
+      <li><a href="./dtxx/201205/t20120518_22672.html" title="成都市温江区学校防灾救灾应急演练在温江区实验学校举行" target="_blank">成都市温江区学校防灾救灾应急演练在温江区实验学...</a> </li>
+    
+      <li><a href="./dtxx/201205/t20120518_22670.html" title="甘孜州甘孜县开展防灾救灾综合大演练" target="_blank">甘孜州甘孜县开展防灾救灾综合大演练</a> </li>
+    
+      <li><a href="./dtxx/201205/t20120518_22669.html" title="广元市2012防灾救灾大演练取得圆满成功" target="_blank">广元市2012防灾救灾大演练取得圆满成功</a> </li>
+ 
+    </ul>
+</div>
+
+
+ 
+  <p class="clear"></p>
+</div>
+<div class="border">
+  <div class="tit01"><span><a href="./fzzs/" class="more" style="color:#333;">更多</a></span><a href="./fzzs/" target="_blank">防震知识</a></div>
+
+  <div class="div_list">
+    <ul class="list list01">
+	  
+      <li><a href="../../../kpxc/kzzs/201403/t20140331_28876.html" title="雅安市荥经县防震减灾局参加“科技之春”科普宣传活动" target="_blank">雅安市荥经县防震减灾局参加“科技之春”科普宣传活动</a> </li>
+	     
+      <li><a href="../../../kpxc/dzzs/201309/t20130910_28113.html" title="“防灾演习可以救命”" target="_blank">“防灾演习可以救命”</a> </li>
+	     
+      <li><a href="../../../kpxc/dzzs/201304/t20130425_25982.html" title="谈芦山地震余震" target="_blank">谈芦山地震余震</a> </li>
+	     
+      <li><a href="../../../kpxc/dzzs/201304/t20130425_25977.html" title="自动地震速报你知道的和你不知道的" target="_blank">自动地震速报你知道的和你不知道的</a> </li>
+	     
+      <li><a href="../../../kpxc/dzzs/201304/P020130420669006504537.pdf" title="防震避震常识画册" target="_blank">防震避震常识画册</a> </li>
+	   
+    </ul>
+  </div>
+
+  <div class="div_list">
+    <ul class="list list01">
+	  
+      <li><a href="../../../kpxc/dzzs/201304/P020130420652507919422.jpg" title="地震救灾和抢救指导手册" target="_blank">地震救灾和抢救指导手册</a> </li>
+	     
+      <li><a href="../../../kpxc/dzzs/201304/t20130420_25524.html" title="自救互救方法" target="_blank">自救互救方法</a> </li>
+	     
+      <li><a href="../../../kpxc/dzzs/201304/t20130420_25523.html" title="震后避险方法" target="_blank">震后避险方法</a> </li>
+	     
+      <li><a href="../../../kpxc/dzzs/201304/t20130420_25508.html" title="进入灾区的救援人员务必注意" target="_blank">进入灾区的救援人员务必注意</a> </li>
+	     
+      <li><a href="../../../kpxc/dzzs/201304/t20130420_25506.html" title="地震救灾和抢救指导手册" target="_blank">地震救灾和抢救指导手册</a> </li>
+	   
+    </ul>
+  </div>
+
+ 
+  <p class="clear"></p>
+</div>
+<div class="border">
+  <div class="tit01"><a href="./jzgz/" class="more" style="color:#333;">更多</a><a href="./jzgz/" target="_blank">减灾工作</a></div>
+
+  <div class="div_list">
+    <ul class="list list01">
+	  
+      <li><a href="./jzgz/201207/t20120720_23579.html" title="四川GNSS基准站分布及观测网络" target="_blank">四川GNSS基准站分布及观测网络</a> </li>
+	     
+      <li><a href="./jzgz/201205/t20120502_22465.html" title="四川省市县防震减灾综合信息服务系统" target="_blank">四川省市县防震减灾综合信息服务系统</a> </li>
+	     
+      <li><a href="./jzgz/201205/t20120502_22463.html" title="四川省地震应急指挥技术系统" target="_blank">四川省地震应急指挥技术系统</a> </li>
+	     
+      <li><a href="./jzgz/201205/t20120502_22462.html" title="四川省地震信息服务技术系统" target="_blank">四川省地震信息服务技术系统</a> </li>
+	     
+      <li><a href="./jzgz/201204/t20120428_22442.html" title="阿坝州防震减灾局对防灾减灾基础设施建设进行检查督导" target="_blank">阿坝州防震减灾局对防灾减灾基础设施建设进行检查督导</a> </li>
+	   
+    </ul>
+  </div>
+
+  <div class="div_list">
+    <ul class="list list01">
+	  
+      <li><a href="./jzgz/201204/t20120416_22285.html" title="我省防震减灾示范社区建设深入推进" target="_blank">我省防震减灾示范社区建设深入推进</a> </li>
+	     
+      <li><a href="./jzgz/201204/t20120416_22284.html" title="我省已创建146所省级防震减灾科普示范学校" target="_blank">我省已创建146所省级防震减灾科普示范学校</a> </li>
+	     
+      <li><a href="../../hydt/201203/t20120313_21726.html" title="地震救援现场智能化生命探测系统荣获国家重点新产品证书" target="_blank">地震救援现场智能化生命探测系统荣获国家重点新产...</a> </li>
+	     
+      <li><a href="../../fzjzyw/201112/t20111229_21220.html" title="四川防震减灾40年赛思特杯防震减灾知识网络竞赛正式启动" target="_blank">四川防震减灾40年赛思特杯防震减灾知识网络竞赛正...</a> </li>
+	   
+    </ul>
+  </div>
+
+  <p class="clear"></p>
+</div>
+ </div>
+ <div class="right">
+  <div class="video"> 
+    <div class="tit02"><a href="./spzl/" target="_blank">视频资料</a></div>
+	
+	
+	<a class="pic">
+	<script type="text/javascript" language="JavaScript">
+					var swf_width=198;
+					var swf_height=150;
+					var texts='视频';
+					var flv='';
+					//flv = "./1_"+flv.substring(flv.lastIndexOf("/")+1,flv.length);
+					//var flv = 'http://10.51.20.20/kpxc/dzkpsp/201204/P020120416850146279786.flv';
+					var hz='';
+					var url =document.location.href;
+					//var files=url.substring(0,url.lastIndexOf("/")+1)+flv;
+					var files=flv;
+					function setflv(){
+					document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ swf_width +'" height="'+ swf_height +'">');
+					document.write('<param name="movie" value="../../../images/vcastr.swf"><param name="quality" value="high">');
+					document.write('<param name="menu" value="false"><param name="wmode" value="opaque">');
+					//document.write('<param name="FlashVars" value="vcastr_file='+files+'&vcastr_title='+texts+'&IsAutoPlay=0");
+					document.write('<param name="FlashVars" value="vcastr_file='+files+'&vcastr_title='+texts+'">');
+					document.write('<embed src="../../../images/vcastr.swf" wmode="opaque" FlashVars="vcastr_file='+files+'&vcastr_title='+texts+'" menu="false" quality="high" width="'+ swf_width +'" height="'+ swf_height +'" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">'); document.write('</object>');
+					}
+ 
+					 
+					 
+					 
+					 
+					setflv();
+ 
+					 
+      </script>
+</a>
+	
+    <ul class="list list01">
+		
+      <li><a href="../../../kpxc/dzkpsp/201305/t20130502_26270.html" title="防震科普公益广告" target="_blank">防震科普公益广告</a></li>
+	  
+      <li><a href="../../../kpxc/dzkpsp/201305/t20130502_26268.html" title="专家答疑：地震中倒塌的房屋都是豆腐渣工程吗？" target="_blank">专家答疑：地震中倒塌的房屋...</a></li>
+	  
+      <li><a href="../../../kpxc/dzkpsp/201305/t20130502_26267.html" title="专家答疑：室外是绝对安全地带吗？" target="_blank">专家答疑：室外是绝对安全地...</a></li>
+	  
+      <li><a href="../../../kpxc/dzkpsp/201305/t20130502_26266.html" title="专家答疑：紧急撤离如何避免踩踏事故？" target="_blank">专家答疑：紧急撤离如何避免...</a></li>
+	  
+      <li><a href="../../../kpxc/dzkpsp/201305/t20130502_26265.html" title="专家答疑：黑暗中如何避震？" target="_blank">专家答疑：黑暗中如何避震？</a></li>
+	  
+      <li><a href="../../../kpxc/dzkpsp/201305/t20130502_26264.html" title="专家答疑：如何判断室内安全地带？" target="_blank">专家答疑：如何判断室内安全...</a></li>
+	  
+      <li><a href="../../../kpxc/dzkpsp/201305/t20130502_26263.html" title="专家答疑：跑和躲哪个更明智？" target="_blank">专家答疑：跑和躲哪个更明智？</a></li>
+	  
+     </ul>
+	 
+  </div>
+  <div class="media">
+   <div class="tit02"><span><a href="./mtjj/" class="more" style="color:#333;">更多</a></span><a href="./mtjj/" target="_blank">媒体聚焦</a></div>
+   <ul class="list list02">
+   
+      <li><a href="./mtjj/201205/t20120508_22512.html" title="四川新闻网:如何科学防震 专家做客四川新闻网支招" target="_blank">四川新闻网:如何科学防震 专...</a></li>
+
+      <li><a href="./mtjj/201204/t20120424_22374.html" title="手帕大小的气垫 能“扛”30吨重物" target="_blank">手帕大小的气垫 能“扛”30吨...</a></li>
+
+      <li><a href="./mtjj/201204/t20120424_22373.html" title="这个“旅行箱”能测地震烈度" target="_blank">这个“旅行箱”能测地震烈度</a></li>
+
+      <li><a href="./mtjj/201204/t20120416_22278.html" title="做好防震减灾 杜绝野蛮装修" target="_blank">做好防震减灾 杜绝野蛮装修</a></li>
+
+      <li><a href="./mtjj/201204/t20120416_22276.html" title="四川日报：地震来时怎么办？专家说保持镇定科学避震废墟下也不要绝望" target="_blank">四川日报：地震来时怎么办？...</a></li>
+
+     </ul>
+  </div>
+ </div>
+ <p class="clear"></p>
+</div>
+<div class="img">
+  <div class="tit04"><span><a href="./hdly/" class="more" style="color:#333;">更多</a></span><a href="./hdly/" target="_blank">活动掠影</a></div>
+  <div class="border pic">
+    <ul>
+	
+	  <!--图片滚动-->
+		<div  style="padding:10px;">
+<!--图片滚动开始-->
+<div id="demo" style="overflow:hidden;width:950px;"> 
+
+<table cellpadding="0" cellspacing="0" border="0"> 
+<tr><td id="demo1" valign="top" align="center"> 
+<table cellpadding="0" cellspacing="0" border="0"> 
+<tr align="center"> 
+<td>
+<!--图片列表-->
+<table cellpadding="2" cellspacing="2" border="0"> 
+<tr align="center"> 
+  
+   
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120427_22410.html" target="_blank"><img src="./hdly/201204/W020120427544770494658.jpg" alt="（11）4月23日省地震局参加2012年全省防灾救灾大演练综合预演" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120427_22410.html" TARGET="_blank" title="（11）4月23日省地震局参加2012年全省防灾救灾大演练综合预演">（11）4月23日省地震局参加...</a>
+	 </td>
+	
+
+
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120427_22409.html" target="_blank"><img src="./hdly/201204/W020120427544101431862.jpg" alt="（10）4月23日省地震局参加2012年全省防灾救灾大演练综合预演" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120427_22409.html" TARGET="_blank" title="（10）4月23日省地震局参加2012年全省防灾救灾大演练综合预演">（10）4月23日省地震局参加...</a>
+	 </td>
+	
+
+
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120427_22408.html" target="_blank"><img src="./hdly/201204/W020120427423517991604.jpg" alt="（9）4月23日省地震局参加2012年全省防灾救灾大演练综合预演" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120427_22408.html" TARGET="_blank" title="（9）4月23日省地震局参加2012年全省防灾救灾大演练综合预演">（9）4月23日省地震局参加2...</a>
+	 </td>
+	
+
+
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120416_22269.html" target="_blank"><img src="./hdly/201204/W020120416394351746417.jpg" alt="（8）3月29日四川省地震局举行第一次预演练，图为队员列队接受检阅。.jpg" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120416_22269.html" TARGET="_blank" title="（8）3月29日四川省地震局举行第一次预演练">（8）3月29日四川省地震局...</a>
+	 </td>
+	
+
+
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120416_22268.html" target="_blank"><img src="./hdly/201204/W020120416393966278440.jpg" alt="（7）3月29日四川省地震局举行第一次预演练，图为队员列队接受检阅时场面.jpg" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120416_22268.html" TARGET="_blank" title="（7）3月29日四川省地震局举行第一次预演练">（7）3月29日四川省地震局...</a>
+	 </td>
+	
+
+
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120416_22267.html" target="_blank"><img src="./hdly/201204/W020120416397273146770.jpg" alt="（6）3月29日四川省地震局举行第一次预演练，图为队员抵达演练地.jpg" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120416_22267.html" TARGET="_blank" title="（6）3月29日四川省地震局举行第一次预演练">（6）3月29日四川省地震局...</a>
+	 </td>
+	
+
+
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120416_22266.html" target="_blank"><img src="./hdly/201204/W020120416393230188050.jpg" alt="（5）3月29日四川省地震局举行第一次预演练，图为参加演练的救援装备车.jpg" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120416_22266.html" TARGET="_blank" title="（5）3月29日四川省地震局举行第一次预演练">（5）3月29日四川省地震局...</a>
+	 </td>
+	
+
+
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120416_22265.html" target="_blank"><img src="./hdly/201204/W020120416392711119775.jpg" alt="（4）3月29日四川省地震局举行第一次预演练，图为队员接受指示.jpg" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120416_22265.html" TARGET="_blank" title="（4）3月29日四川省地震局举行第一次预演练">（4）3月29日四川省地震局...</a>
+	 </td>
+	
+
+
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120416_22264.html" target="_blank"><img src="./hdly/201204/W020120416392113614860.jpg" alt="（3）3月29日四川省地震局举行第一次预演练，图为省地震局副局长吕弋培作演练指示.jpg" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120416_22264.html" TARGET="_blank" title="（3）3月29日四川省地震局举行第一次预演练">（3）3月29日四川省地震局...</a>
+	 </td>
+	
+
+
+	
+    <td align="center" valign="top">
+	
+	<a href="./hdly/201204/t20120416_22263.html" target="_blank"><img src="./hdly/201204/W020120416391652831615.jpg" alt="（2）3月29日四川省地震局举行第一次预演练，图为队员整装待发.jpg" width=180 height=120 border=0/></a>
+     <a href="./hdly/201204/t20120416_22263.html" TARGET="_blank" title="（2）3月29日四川省地震局举行第一次预演练">（2）3月29日四川省地震局...</a>
+	 </td>
+	
+
+	  
+
+</tr> 
+</table> 
+<!--图片列表-->
+</td> 
+</tr> 
+</table> 
+</td> 
+<td id="demo2" valign="top"></td> 
+</tr> 
+</table> 
+</div> 
+<script>
+
+
+
+
+
+
+
+
+
+
+ 
+var speed=10 //速度数值越大速度越慢 
+demo2.innerHTML=demo1.innerHTML 
+function Marquee(){ 
+if(demo.scrollLeft<=0) 
+demo.scrollLeft+=demo2.offsetWidth 
+else{ 
+demo.scrollLeft-- 
+} 
+} 
+var MyMar=setInterval(Marquee,speed) 
+demo.onmouseover=function() {clearInterval(MyMar)} 
+demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+</script>
+
+<!--图片滚动结束-->
+		</div>
+		<!--图片滚动-->
+   </ul>
+</div>
+</div> 
+<div style="text-align:center;">
+  版权所有:四川省地震局 地址：成都市人民南路三段29号
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+
+</div>
+</body>
+</html>

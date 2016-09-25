@@ -1,0 +1,324 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>局长会议</title>
+<LINK href="../../../images/jzhy_style.css" type="text/css" rel="stylesheet" ignoreapd="1"/>
+</head>
+
+<body>
+<div id="box">
+	<div class="logo"><img src="../../../images/jzhylogo2013.jpg"/></div>
+	<div class="main">
+		<div class="flashxx">
+<SCRIPT type=text/javascript> 
+var picArray=[];
+var linkArray=[];
+var textArray=[];
+
+
+var  countpic =0;
+		  var  countdoc=0;
+		
+		var arr = new Array();
+		
+			     var pic1 = './2013_tpxw/201303/W020130311775331580317.jpg';        var appdescs='王力副局长作大会主题报告';
+		 
+		var  title="王力副局长作大会主题报告";
+		var  url = "./2013_tpxw/201303/t20130311_25178.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			countdoc++;
+
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./2013_tpxw/201303/t20130311_25178.html');
+				//text.push('王力副局长作大会主题报告');
+		
+			}
+		
+		
+			     var pic1 = './2013_tpxw/201303/W020130311774606221620.jpg';        var appdescs='2013年度全省防震减灾局长会开幕式会场';
+		 
+		var  title="2013年度全省防震减灾局长会开幕式会场";
+		var  url = "./2013_tpxw/201303/t20130311_25177.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			countdoc++;
+
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./2013_tpxw/201303/t20130311_25177.html');
+				//text.push('2013年度全省防震减灾局长会开幕式会场');
+		
+			}
+		
+		
+			     var pic1 = './2013_tpxw/201303/W020130311774032285616.jpg';        var appdescs='大会主席台';
+		 
+		var  title="大会主席台";
+		var  url = "./2013_tpxw/201303/t20130311_25176.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			countdoc++;
+
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./2013_tpxw/201303/t20130311_25176.html');
+				//text.push('大会主席台');
+		
+			}
+		
+		
+			     var pic1 = './2013_tpxw/201303/W020130311772151850650.jpg';        var appdescs='2013年度全省防震减灾局长会于3月11日在成都开幕';
+		 
+		var  title="2013年度全省防震减灾局长会于3月11日在...";
+		var  url = "./2013_tpxw/201303/t20130311_25175.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			countdoc++;
+
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./2013_tpxw/201303/t20130311_25175.html');
+				//text.push('2013年度全省防震减灾局长会于3月11日在成都开幕');
+		
+			}
+		
+		
+                 
+		for(var i=0;i<countdoc;i++){
+		   picArray.push(arr[i][2]);
+		   linkArray.push(arr[i][1]);
+
+                  if(arr[i][3].indexOf(".jpg")>0){
+		    textArray.push(arr[i][0]);
+		  }else{
+                     textArray.push(arr[i][3]);
+
+                 }
+                }
+
+
+
+
+
+<!-- 
+var focus_width=440;
+var focus_height=275; 
+var text_height=22;
+var swf_height = focus_height+text_height 
+var pics='';
+var links='';
+var texts='';
+for(var i=0;i<picArray.length;i++){
+	if(i==0){
+		pics+=picArray[i];
+		links+=linkArray[i];
+		texts+=textArray[i];
+	}else{
+		pics+="|"+picArray[i];
+		links+="|"+linkArray[i];
+		texts+="|"+textArray[i];
+	}
+}
+
+document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase=" http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ focus_width +'" height="'+ swf_height +'">'); 
+document.write('<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="../../../images/chinafocus.swf"><param name=wmode value=transparent><param name="quality" value="high">'); 
+document.write('<param name="menu" value="false"><param name=wmode value="opaque">'); 
+document.write('<param name="FlashVars" value="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'">'); 
+document.write('<embed src="../../../images/chinafocus.swf" wmode="opaque" FlashVars="pics='+pics+'&links='+links+'&texts='+texts+'&borderwidth='+focus_width+'&borderheight='+focus_height+'&textheight='+text_height+'" menu="false" bgcolor="#DADADA" quality="high" width="'+ focus_width +'" height="'+ swf_height +'" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage=" http://www.macromedia.com/go/getflashplayer">'); document.write('</object>'); 
+//--> 
+</SCRIPT>
+		</div>
+		<div class="mxx">
+			本站讯：为全面贯彻党的十八大精神，落实省委、省政府和中国地震局防震减灾工作重大部署，传达贯彻全国地震局长会议和省防震减灾领导小组扩大会议精神，总结工作、明确任务，研究部署2013年防震减灾工作，四川省地震局于2013年3月11日-12日在成都召开2013年度全省防震减灾局长会。		  </div>
+		
+		<div class="hyxx">
+			<h1><span>会议议程</span><a href="./2013_hyyc/">更多>></a></h1>
+			<ul>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyyc/201303/t20130311_25160.html" target="_blank">3月11日下午  会议开幕</a><span>2013-03-11</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyyc/201303/t20130311_25161.html" target="_blank">3月11日下午  分组会议</a><span>2013-03-11</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyyc/201303/t20130311_25162.html" target="_blank">3月12日上午  分组会议</a><span>2013-03-11</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyyc/201303/t20130311_25163.html" target="_blank">3月12日上午  会议闭幕</a><span>2013-03-11</span></li>
+				
+			</ul>
+		</div>
+		
+		<div class="hyxx">
+			<h1><span>会议聚焦</span><a href="./2013_hyjj/">更多>></a></h1>
+			<ul>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyjj/201303/t20130312_25183.html" target="_blank">2013年度全省防震减灾局长会闭幕</a><span>2013-03-12</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyjj/201303/t20130312_25182.html" target="_blank">会议表彰2012年度市（州）县防震...</a><span>2013-03-12</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyjj/201303/t20130312_25181.html" target="_blank">局领导向四川省防震减灾示范县授牌</a><span>2013-03-12</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyjj/201303/t20130313_25189.html" target="_blank">全省防震减灾局长会代表进行分组讨论</a><span>2013-03-12</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyjj/201303/t20130311_25170.html" target="_blank">王力在2013年度全省防震减灾局长...</a><span>2013-03-11</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_hyjj/201303/t20130311_25169.html" target="_blank">2013年度全省防震减灾局长会开幕</a><span>2013-03-11</span></li>
+				
+			</ul>
+		</div>
+		
+		<div class="hyxx">
+			<h1><span>各地贯彻落实动态</span><a href="./2013_gcls/">更多>></a></h1>
+			<ul>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_gcls/201303/t20130325_25292.html" target="_blank">甘孜州防灾减灾局传达学习四川省...</a><span>2013-03-25</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_gcls/201303/t20130325_25285.html" target="_blank">宜宾市防震减灾局传达贯彻全省防...</a><span>2013-03-25</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_gcls/201303/t20130319_25223.html" target="_blank">四川地震局办公室传达学习全省防...</a><span>2013-03-19</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_gcls/201303/t20130320_25257.html" target="_blank">绵阳市防震减灾局学习传达全省防...</a><span>2013-03-20</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_gcls/201303/t20130320_25251.html" target="_blank">攀枝花市防震减灾局贯彻省防震减...</a><span>2013-03-20</span></li>
+			
+				<li><img src="../../../images/jzhyicon03.gif"/><a href="./2013_gcls/201303/t20130320_25249.html" target="_blank">成都市防震减灾局传达贯彻全国地...</a><span>2013-03-20</span></li>
+				
+			</ul>
+		</div>
+		
+		
+		
+		<div class="hxjy">
+			<h1><span>会议剪影</span><a href="./2013_hyjy/">更多>></a></h1>		
+  <div id="demo" style=" overflow:hidden;float:left;width:980px;height:170px;background:url(images/jzhyicon05.jpg) repeat-x;border:1px solid #DFA92D;border-top:none;"> 
+
+<table cellpadding="2" cellspacing="0" border="0">
+<tr><td id="demo1" valign="top" align="center"> 
+<table cellpadding="2" cellspacing="0" border="0"> 
+<tr align="center"> 
+  
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130313_25197.html" target="_blank"><img src="./2013_hyjy/201303/W020130313458768587185.jpg" alt="吕弋培副局长在2013年度防震减灾局长会闭幕式上作会议总结.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130313_25197.html" class='piclink1'>8--吕弋培副局长在2013年...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130313_25196.html" target="_blank"><img src="./2013_hyjy/201303/W020130313458166394015.jpg" alt="会议表彰2012年度市（州）县防震减灾工作先进单位3.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130313_25196.html" class='piclink1'>会议表彰2012年度市（州）...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130313_25195.html" target="_blank"><img src="./2013_hyjy/201303/W020130313457655143992.jpg" alt="会议表彰2012年度市（州）县防震减灾工作先进单位2.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130313_25195.html" class='piclink1'>会议表彰2012年度市（州）...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130313_25194.html" target="_blank"><img src="./2013_hyjy/201303/W020130313456598118512.jpg" alt="会议表彰2012年度市（州）县防震减灾工作先进单位1.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130313_25194.html" class='piclink1'>会议表彰2012年度市（州）...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130313_25193.html" target="_blank"><img src="./2013_hyjy/201303/W020130313456057480532.jpg" alt="向四川省防震减灾示范县授牌.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130313_25193.html" class='piclink1'>向四川省防震减灾示范县授牌</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130313_25192.html" target="_blank"><img src="./2013_hyjy/201303/W020130313454398429703.jpg" alt="2013年度全省防震减灾局长会闭幕式会场.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130313_25192.html" class='piclink1'>2013年度全省防震减灾局长...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130313_25191.html" target="_blank"><img src="./2013_hyjy/201303/W020130313453760614752.jpg" alt="分组会议场景2.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130313_25191.html" class='piclink1'>分组会议场景2</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130313_25190.html" target="_blank"><img src="./2013_hyjy/201303/W020130313452851390803.jpg" alt="分组会议场景1.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130313_25190.html" class='piclink1'>分组会议场景1</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130311_25174.html" target="_blank"><img src="./2013_hyjy/201303/W020130311755852993005.jpg" alt="2013年度全省防震减灾局长会开幕式会场.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130311_25174.html" class='piclink1'>2013年度全省防震减灾局长...</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130311_25173.html" target="_blank"><img src="./2013_hyjy/201303/W020130311755010917912.jpg" alt="王力副局长作大会主题报告.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130311_25173.html" class='piclink1'>王力副局长作大会主题报告</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130311_25172.html" target="_blank"><img src="./2013_hyjy/201303/W020130311754338838105.jpg" alt="大会主席台.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130311_25172.html" class='piclink1'>大会主席台</a>
+	  </div></td>
+	
+    <td align="center" valign="top" style="float:left;padding-left:10px;">
+	<div id="hotnew3">
+	<a href="./2013_hyjy/201303/t20130311_25171.html" target="_blank"><img src="./2013_hyjy/201303/W020130311753649100254.jpg" alt="2013年度全省防震减灾局长会于3月11日在成都开幕.jpg" vspace=10 width=162 height=121 border=0/></a><br />
+      <a href="./2013_hyjy/201303/t20130311_25171.html" class='piclink1'>2013年度全省防震减灾局长...</a>
+	  </div></td>
+	  
+
+</tr> 
+</table> 
+</td>
+
+<td id="demo2" valign="top"></td> 
+</tr> 
+</table> 
+</div> 
+<script> 
+var speed=28 //速度数值越大速度越慢 
+demo2.innerHTML=demo1.innerHTML 
+function Marquee(){ 
+if(demo.scrollLeft<=0) 
+demo.scrollLeft+=demo2.offsetWidth 
+else{ 
+demo.scrollLeft-- 
+} 
+} 
+var MyMar=setInterval(Marquee,speed) 
+demo.onmouseover=function() {clearInterval(MyMar)} 
+demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+</script>	
+</div>	
+		
+		<div class="foot">
+			 四川地震局<br>
+2008 All Rights Reserved
+		</div>
+	</div>
+	
+
+</div>
+</body>
+</html>

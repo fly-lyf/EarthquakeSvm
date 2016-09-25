@@ -1,0 +1,809 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<base target="_blank">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>四川地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../images/20140825_zt_conf_style.css"/>
+<script type="text/javascript" src="../../../images/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="../../../images/tabChange.js"></script>
+<script type="text/javascript" src="../../../images/lhflash.js"></script>
+<script type="text/javascript" src="../../../images/YLMarquee-1.1.min.js"></script>
+
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+</head>
+
+<body>
+  <div class="bg">
+    <div class="top"><img src="../../../images/20140825_zt_banner.jpg" width="1366" height="309"/></div>
+    <div class="top_but">
+      <div class="butbox">
+        <ul class="font_yh">
+          <li class="cut" id="caidan_1" onmouseover="tabChange('caidan',null,1,5,'cut','')"><a target="_self" href="../../../">首  页</a></li>
+          <li id="caidan_2" onmouseover="tabChange('caidan',null,2,5,'cut','')"><a href="./ylrc/">演练日程</a></li>
+          <li id="caidan_3" onmouseover="tabChange('caidan',null,3,5,'cut','')"><a href="./yljj/">演练聚焦</a></li>
+          <li id="caidan_4" onmouseover="tabChange('caidan',null,4,5,'cut','')"><a href="./ylly/">演练掠影</a></li>
+          <li id="caidan_5" onmouseover="tabChange('caidan',null,5,5,'cut','')"><a href="./mtgz/">媒体关注</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <p class="clear"></p>
+  <div class="main">
+    <div class=" blankH28"></div>
+    <div class="zsgy">
+    <h2><img src="../../../images/20140825_zt_index01.jpg" width="938" height="67"/></h2>
+    <div class="menu">
+      <ul>
+        <li id="bjjs_1" onmouseover="tabChange('bjjs','bjjsDiv',1,5,'','')"><a href="./bjjs/201408/t20140825_29958.html" target="_blank">演练概况</a></li>
+        <li id="bjjs_2" onmouseover="tabChange('bjjs','bjjsDiv',2,5,'','')"><a href="./bjjs/201408/t20140825_29956.html" target="_blank">演练目的</a></li>
+        <li id="bjjs_3" onmouseover="tabChange('bjjs','bjjsDiv',3,5,'','')"><a href="./bjjs/201408/t20140825_29954.html" target="_blank">举办单位</a></li>
+        <li id="bjjs_4" onmouseover="tabChange('bjjs','bjjsDiv',4,5,'','')"><a href="./bjjs/201408/t20140825_29952.html" target="_blank">参加人员</a></li>
+        <li id="bjjs_5" onmouseover="tabChange('bjjs','bjjsDiv',5,5,'','')"><a href="./bjjs/201408/t20140825_29950.html" target="_blank">演练活动</a></li>
+      </ul>
+    </div>
+    
+    <div id="bjjsDiv_1" class="cont" style="display:;"><img src="./bjjs/201408/W020140825597251342383.jpg" width="625" height="335"/></div>
+    <div id="bjjsDiv_2" class="cont" style="display:none;"><img src="./bjjs/201408/W020140825592183059781.jpg" width="625" height="335"/></div>
+    <div id="bjjsDiv_3" class="cont" style="display:none;"><img src="./bjjs/201408/W020140825592603219084.jpg" width="625" height="335"/></div>
+    <div id="bjjsDiv_4" class="cont" style="display:none;"><img src="./bjjs/201408/W020140825593186657971.jpg" width="625" height="335"/></div>
+    <div id="bjjsDiv_5" class="cont" style="display:none;"><img src="./bjjs/201408/W020140825593642127319.jpg" width="625" height="335"/></div>
+    
+    <p class="clear"></p>
+  </div>
+  <div class="blankH22"></div>
+  <div class="id_box">
+
+<div id="focusViewer4" class="fl">
+<script type="text/javascript" language="javascript">
+    var focus_width = 433;
+    var focus_height = 323;
+    var text_height = 0;
+    var swf_height = focus_height + text_height;
+    var curhref = document.location.href;
+	
+	var pic = new Array();
+    var linka = new Array();
+	var text = new Array();
+
+	
+		pic.push('./yljj/201408/W020140830644495879221.jpg');
+		linka.push('./yljj/201408/t20140830_30017.html');
+		text.push('联合国...');
+	
+		pic.push('./yljj/201408/W020140829597140098499.jpg');
+		linka.push('./yljj/201408/t20140829_30008.html');
+		text.push('四川省...');
+	
+		pic.push('./yljj/201408/W020140829599517741289.jpg');
+		linka.push('./yljj/201408/t20140829_30009.html');
+		text.push('成都市...');
+	
+
+	var pics = pic.join('|')
+	var links = linka.join('|');
+	var texts = text.join('|');					
+
+	var FocusFlash = new sinaFlash("../../../images/pixviewer.swf", "focusflash", focus_width, swf_height, "7", "#FFFFFF", false, "High");
+	FocusFlash.addParam("allowScriptAccess", "sameDomain");
+	FocusFlash.addParam("menu", "false");
+	FocusFlash.addParam("wmode", "opaque");
+	FocusFlash.addVariable("pics", pics);
+	FocusFlash.addVariable("links", links);
+	FocusFlash.addVariable("texts", texts);
+	FocusFlash.addVariable("borderwidth", focus_width);
+	FocusFlash.addVariable("borderheight", focus_height);
+	FocusFlash.addVariable("textheight", text_height);
+	FocusFlash.addVariable("curhref", curhref);
+	FocusFlash.write("focusViewer4");
+</script>
+</div>
+
+    
+    
+  
+    <div class="yljj fl">
+      <div class="tit"><a href="./yljj/" class="fr more f12">更多>></a></div>
+      <div class="topnews">
+        
+			<h2 class="f16"><a href="./yljj/201408/t20140830_30017.html" target="_blank" title="联合国国际搜索与救援咨询团亚太地震桌面演练在蓉举行">联合国国际搜索与救援咨询团亚太地震桌面演练...</a></h2>
+        	<p>
+<script type="text/javascript">
+	//字符串截取 中英文
+	function getSubStr(str,n) {   
+		var reg = /[^\x00-\xff]/g;
+		if(str.replace(reg, "mm").length <= n) {
+			return str;   
+		}
+		n = n - 2;//追加...占用一个字符
+		var m = Math.floor(n/2);
+		for(var i = m; i < str.length; i++) {   
+			if(str.substr(0, i).replace(reg, "mm").length >= n) {   
+				return str.substr(0, i) +"..."; 
+			}
+		}
+		return this;
+	}
+	//获取文章内容
+	var content = "　　<br/>　　8月30日，联合国国际搜索与救援咨询团亚太地震演练核心项目之一——桌面演练在成都举行。包括中国、美国、日本、澳大利亚等国在内的16支救援队的142名救援人员参加了此次演练。&nbsp;<br/>　　此次演练模拟大的破坏性地震发生，导致大量城市建筑物倒塌，中国政府接受国际救援，并协助组织协调国际救援队伍和国际救援资源，快速、有序地开展救灾工作的情景。演练为程序性的桌面演练，以情景屋的形式模拟受灾场景，着重于救援队伍间协作，以及联合国与亚太地区地震紧急救援行动的组织、指导和协调程序。其重点是国际告警、国际搜索与救援队伍的抵达、现场行动协调和撤离等。&nbsp;<br/>　　上午9时，参演的各国救援队陆续“抵达受灾国边境”，经过“入关”手续后，“进入”中国境内。随后，各救援队前往报到咨询中心进行注册，并登记救援队类型、人数、载重、搜救犬数量，以及翻译或交通需求等基本信息。该报到咨询中心通常由第一个到达受灾国的救援队设立，后移交给联合国。&nbsp;<br/>　　同样由第一个到达受灾国的救援队设立的现场机构还有现场行动协调中心。各国救援队在行动协调中心汇合，获取更多受灾信息，并按照现场行动协调中心的指示进入“大本营”——行动基地，以便进行下一步救援...";
+	content = content.replace(/<[^>]*>/g,"");//去除html标签
+	content = content.replace(new RegExp("&nbsp;","gm"),"");//去除空格
+	content = content.replace(new RegExp("	","gm"),"");//去除特殊字符
+	content = content.replace(new RegExp("　","gm"),"");//去除特殊字符(占用一个文字)
+	content = getSubStr(content,120);//字符串截取 中英文
+	document.write(""+content);
+</script>
+			</p>
+        	<a target="_blank" href="./yljj/201408/t20140830_30017.html" class="fr red">了解详情>></a>
+		
+        
+        <p class="clear"></p>
+        <div class="blankH16"></div>
+        
+      </div>
+      <div class="blankH16"></div>
+      <ul class="list">
+		
+        	<li>&middot; <a href="./yljj/201408/t20140829_30008.html" target="_blank" title="四川省人民政府代表在亚太地震应急演练研讨会上发言">四川省人民政府代表在亚太地震应急演练研讨会上发言</a></li>
+		
+        	<li>&middot; <a href="./yljj/201408/t20140829_30009.html" target="_blank" title="成都市人民政府代表在亚太地震应急演练研讨会上发言">成都市人民政府代表在亚太地震应急演练研讨会上发言</a></li>
+		
+        	<li>&middot; <a href="./yljj/201408/t20140829_30007.html" target="_blank" title="中国地震局震灾应急救援司司长赵明在亚太地震应急演练研讨会上发言">中国地震局震灾应急救援司司长赵明在亚太地震应急演练研讨会...</a></li>
+		
+        	<li>&middot; <a href="./yljj/201408/t20140829_30006.html" target="_blank" title="联合国国际搜索与救援咨询团亚太地震应急演练在蓉开幕">联合国国际搜索与救援咨询团亚太地震应急演练在蓉开幕</a></li>
+		
+        	<li>&middot; <a href="./yljj/201408/t20140828_29998.html" target="_blank" title="2014年亚太地震演练参演人员考察汶川震后恢复重建情况">2014年亚太地震演练参演人员考察汶川震后恢复重建情况</a></li>
+		
+      </ul>
+    </div>
+    <p class="clear"></p>
+    <div class="blankH20"></div>
+    <div class="id_box01">
+      <div class=" blankH16"></div>
+      
+      <div class="leftbox fl">
+        <a href="./ylrc/">
+        <img src="../../../images/20140825_zt_index11.jpg" width="357" height="37"/>
+        </a>
+        <div class="blankH18"></div>
+        <table width="327" cellspacing="1" cellpadding="0" border="0">
+  <tbody><tr>
+    <td width="58" bgcolor="#44BBD9" align="center" class="white">时间</td>
+    <td width="206" bgcolor="#44BBD9" align="center" class="white">内容</td>
+    <td width="59" bgcolor="#44BBD9" align="center" class="white">地点</td>
+  </tr>
+  
+  <tr>
+    <td align="center">8月25日</td>
+    <td>观摩中国国际救援队IER的人员抵达</td>
+    <td align="center">北京</td>
+  </tr>
+  
+  <tr>
+    <td align="center">8月26日</td>
+    <td>观摩中国国际救援队IER</td>
+    <td align="center">北京</td>
+  </tr>
+  
+  <tr>
+    <td align="center">8月27日</td>
+    <td>继续观摩中国国际救援队IER</td>
+    <td align="center">北京</td>
+  </tr>
+  
+  <tr>
+    <td align="center">8月28日</td>
+    <td>汶川地震灾区现场考察</td>
+    <td align="center">成都</td>
+  </tr>
+  
+  <tr>
+    <td align="center">8月29日</td>
+    <td>演练第1天：开幕式和研讨会</td>
+    <td align="center">成都</td>
+  </tr>
+  
+  <tr>
+    <td align="center">8月30日</td>
+    <td>演练第2天：桌面演练</td>
+    <td align="center">成都</td>
+  </tr>
+  
+  <tr>
+    <td align="center">8月31日</td>
+    <td>人员疏散与撤离</td>
+    <td align="center">成都</td>
+  </tr>
+  
+  
+</tbody></table>
+
+      </div>
+      
+      <div class="rightbox fl">
+        <div class="tit01"><a href="./ylly/" class="fr more01 f12">更多>></a></div>
+        <div class=" blankH18"></div>
+        
+        <div id="scroll" style="width:530px;">
+        
+        <ul class="piclist">
+          
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30028.html"><img src="./ylly/201409/W020140904590139051827.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30028.html" target="_blank" title="参演人员参加现场会议">参演人员参加现场会议</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30027.html"><img src="./ylly/201409/W020140904589897653664.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30027.html" target="_blank" title="参演人员参加现场会议">参演人员参加现场会议</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30026.html"><img src="./ylly/201409/W020140904589627183133.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30026.html" target="_blank" title="参演人员参加现场会议">参演人员参加现场会议</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30025.html"><img src="./ylly/201409/W020140904589295778869.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30025.html" target="_blank" title="参演人员参加现场会议">参演人员参加现场会议</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30024.html"><img src="./ylly/201409/W020140904588901081450.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30024.html" target="_blank" title="参演人员参加现场会议">参演人员参加现场会议</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30023.html"><img src="./ylly/201409/W020140904588558902392.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30023.html" target="_blank" title="参演人员参加现场会议">参演人员参加现场会议</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30022.html"><img src="./ylly/201409/W020140904586527181391.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30022.html" target="_blank" title="参演人员参加现场会议">参演人员参加现场会议</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30021.html"><img src="./ylly/201409/W020140904586175150602.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30021.html" target="_blank" title="参演人员参加现场会议">参演人员参加现场会议</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30020.html"><img src="./ylly/201409/W020140904585826241452.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30020.html" target="_blank" title="参演人员参加现场会议">参演人员参加现场会议</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201409/t20140904_30019.html"><img src="./ylly/201409/W020140904585276863423.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201409/t20140904_30019.html" target="_blank" title="会议现场">会议现场</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140830_30014.html"><img src="./ylly/201408/W020140830492739933437.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140830_30014.html" target="_blank" title="参演人员合影">参演人员合影</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140829_30003.html"><img src="./ylly/201408/W020140829549732901733.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140829_30003.html" target="_blank" title="四川省政府办公厅副巡视员杨静萍发表讲话">四川省政府办公厅...</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140829_30002.html"><img src="./ylly/201408/W020140829420422273385.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140829_30002.html" target="_blank" title="中国地震局震灾应急救援司司长赵明发表讲话">中国地震局震灾应...</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140829_30001.html"><img src="./ylly/201408/W020140829421435248296.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140829_30001.html" target="_blank" title="研讨会现场">研讨会现场</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140829_30000.html"><img src="./ylly/201408/W020140829420178997190.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140829_30000.html" target="_blank" title="开幕式">开幕式</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140828_29997.html"><img src="./ylly/201408/W020140828677163849377.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140828_29997.html" target="_blank" title="参观汶川地震遗址">参观汶川地震遗址</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140828_29996.html"><img src="./ylly/201408/W020140828671554770299.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140828_29996.html" target="_blank" title="参观汶川地震遗址">参观汶川地震遗址</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140828_29995.html"><img src="./ylly/201408/W020140828670527741446.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140828_29995.html" target="_blank" title="参观汶川地震遗址">参观汶川地震遗址</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140828_29994.html"><img src="./ylly/201408/W020140828669809464204.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140828_29994.html" target="_blank" title="参观汶川地震遗址">参观汶川地震遗址</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140828_29993.html"><img src="./ylly/201408/W020140828657598992172.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140828_29993.html" target="_blank" title="参观水磨镇">参观水磨镇</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140828_29992.html"><img src="./ylly/201408/W020140828656179301730.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140828_29992.html" target="_blank" title="参观水磨镇">参观水磨镇</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140828_29991.html"><img src="./ylly/201408/W020140828655535404783.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140828_29991.html" target="_blank" title="参观水磨镇">参观水磨镇</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140825_29974.html"><img src="./ylly/201408/W020140825615435872333.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140825_29974.html" target="_blank" title="往届演练场景">往届演练场景</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140825_29973.html"><img src="./ylly/201408/W020140825615211498262.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140825_29973.html" target="_blank" title="往届演练场景">往届演练场景</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140825_29972.html"><img src="./ylly/201408/W020140825614967124180.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140825_29972.html" target="_blank" title="往届演练场景">往届演练场景</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140825_29971.html"><img src="./ylly/201408/W020140825614680553745.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140825_29971.html" target="_blank" title="往届演练场景">往届演练场景</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+            <li style="margin-right: 12px;">
+            <table>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140825_29970.html"><img src="./ylly/201408/W020140825614294305630.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140825_29970.html" target="_blank" title="往届演练场景">往届演练场景</a></td></tr>
+               
+            	<tr><td height="110"><a href="./ylly/201408/t20140825_29969.html"><img src="./ylly/201408/W020140825612949300859.jpg" width="164" height="110"/></a></td></tr>
+                <tr><td height="28"><a href="./ylly/201408/t20140825_29969.html" target="_blank" title="往届演练场景">往届演练场景</a></td></tr>
+               
+              
+			</table>
+            </li>
+		  
+          
+        </ul>
+        
+        </div>
+<script>
+$(function(){
+	$("#scroll").YlMarquee({
+        visible : 3
+    });
+});
+</script>
+        
+      </div>
+      <p class="clear"></p>
+      <div class="blankH20"></div>
+    </div>
+  </div>
+    <div class="blankH10"></div>
+  <div class="id_box">
+    <div class="tit02"><a href="./mtgz/" class="more01 fr f12">更多>></a></div>
+    <div class="blankH18"></div>
+    
+	
+  
+  <style type="text/css">
+/* CSS Document */
+.box1{ width:938px; margin:0 auto; position:relative; overflow:hidden; _height:100%;}
+.picbox1{ width:938px; height:125px; overflow:hidden; position:relative;}
+.piclist1{ height:125px;position:absolute; left:0px; top:0px}
+.piclist1 ul,.piclist1 li{list-style:none; padding:0; margin:0;}
+.piclist1 li{ background:#eee; margin-right:19px; padding:5px; float:left;}
+.swaplist{ position:absolute; left:-3000px; top:0px}
+.og_prev,.og_next{ width:30px; height:50px; background:url(../../../images/icon.png) no-repeat; background:url(../../../images/icon_ie6.png) no-repeat\9; position:absolute; top:33px; z-index:99; cursor:pointer;filter:alpha(opacity=70); opacity:0.7;}
+.og_prev{ background-position:0 -60px; left:4px;}
+.og_next{ background-position:0 0; right:4px;}
+
+</style>
+    
+<div class="box1" style="margin-top:0px;">
+	<div class="picbox1">
+		<ul class="piclist1 mainlist">
+			
+        
+          <li>
+          <div class="mtgz fl">
+              <img src="./mtgz/201408/W020140901370573373284.jpg" width="156" height="121" class="fl"/>
+              <h3><a href="./mtgz/201408/t20140830_30016.html" target="_blank" title="亚太地震应急演练在成都举行">亚太地震应急演练在成都举行</a></h3>
+              <p>
+			  　　新华网成都8月30日电（常璐、江毅）8月25日至30日，联合国国际搜索与救援咨询团亚太地震应急演练，在成都进行经验交流研讨及桌面演练。本次亚太地震演练是中美两国在亚太地区联合支持的第三次地震演练，本次活动的目的是通过开展程序性的桌面推演，促进各国际救援队、国际...
+            <a href="./mtgz/201408/t20140830_30016.html"><img src="../../../images/20140825_zt_index17.jpg" width="66" height="20"/></a>
+            </p>
+          </div>
+          </li>
+        
+          <li>
+          <div class="mtgz fl">
+              <img src="./mtgz/201408/W020140830424938055646.jpg" width="156" height="121" class="fl"/>
+              <h3><a href="./mtgz/201408/t20140830_30013.html" target="_blank" title="联合国国际搜索与救援咨询团在蓉开展亚太地震应急演练">联合国国际搜索与救援咨询...</a></h3>
+              <p>
+			  　　　四川新闻网成都8月29日讯(记者 何雪)四川新闻网记者从省地震局获悉，2014年8月25日至30日，联合国国际搜索与救援咨询团在我国举行亚太地震应急演练。此次演练是中美两国在亚太地区联合支持的第3次地震演练，演练活动分别在北京和成都举行，其中，成都地区的演练活动主要...
+            <a href="./mtgz/201408/t20140830_30013.html"><img src="../../../images/20140825_zt_index17.jpg" width="66" height="20"/></a>
+            </p>
+          </div>
+          </li>
+        
+          <li>
+          <div class="mtgz fl">
+              <img src="./mtgz/201408/W020140830386466499165.jpg" width="156" height="121" class="fl"/>
+              <h3><a href="./mtgz/201408/t20140830_30012.html" target="_blank" title="联合国国际搜索与救援咨询团 亚太地震应急演练核心项目举行">联合国国际搜索与救援咨询...</a></h3>
+              <p>
+			  　　四川在线-四川日报本报讯 （记者 王玉姗）8月29日，联合国国际搜索与救援咨询团亚太地震应急演练核心项目在成都举行。演练由中、美两国共同资助，其中8月25日至27日在北京观摩中国国际救援队能力测评复测演练，28日参会的部分搜索与救援团成员前往映秀进行考察，29日进行经...
+            <a href="./mtgz/201408/t20140830_30012.html"><img src="../../../images/20140825_zt_index17.jpg" width="66" height="20"/></a>
+            </p>
+          </div>
+          </li>
+        
+          <li>
+          <div class="mtgz fl">
+              <img src="./mtgz/201408/W020140830380955402079.jpg" width="156" height="121" class="fl"/>
+              <h3><a href="./mtgz/201408/t20140830_30011.html" target="_blank" title="多国救援专家来蓉演练地震救援">多国救援专家来蓉演练地震救援</a></h3>
+              <p>
+			  　　华西都市报讯（实习记者杨雪记者刘秋凤 郝飞）8月29日上午，联合国国际搜索与救援资源团2014年度亚太地震应急演练活动研讨会在成都召开。本次演练是中美两国在亚太地区联合支持的第3次地震演练。演练时间从8月25日至30日，分别在北京和四川开展。其中，观摩活动在北京举行...
+            <a href="./mtgz/201408/t20140830_30011.html"><img src="../../../images/20140825_zt_index17.jpg" width="66" height="20"/></a>
+            </p>
+          </div>
+          </li>
+        
+         
+		</ul>
+        <ul class="piclist1 swaplist"></ul>
+	</div>
+
+    <div style=" display:none;">
+	<div class="og_prev"></div>
+	<div class="og_next"></div>
+	</div>
+</div>
+
+ 
+<script>
+// JavaScript Document
+$(document).ready(function(e) {
+	/***不需要自动滚动，去掉即可***/
+	time = window.setInterval(function(){
+		$('.og_next').click();	
+	},5000);
+	/***不需要自动滚动，去掉即可***/
+	linum = $('.mainlist li').length;//图片数量
+	//w = linum * 460;//ul宽度
+	w = 958 * Math.ceil(linum/2);
+	$('.piclist1').css('width', w + 'px');//ul宽度
+	$('.swaplist').html($('.mainlist').html());//复制内容
+	//alert(linum+',piclist1:width'+w + 'px')
+	
+	$('.og_next').click(function(){
+		
+		if($('.swaplist,.mainlist').is(':animated')){
+			$('.swaplist,.mainlist').stop(true,true);
+		}
+		
+		if($('.mainlist li').length>2){//多于4张图片
+			ml = parseInt($('.mainlist').css('left'));//默认图片ul位置
+			sl = parseInt($('.swaplist').css('left'));//交换图片ul位置
+			if(ml<=0 && ml>w*-1){//默认图片显示时
+				$('.swaplist').css({left: '958px'});//交换图片放在显示区域右侧
+				$('.mainlist').animate({left: ml - 958 + 'px'},'slow');//默认图片滚动				
+				if(ml==(w-958)*-1){//默认图片最后一屏时
+					$('.swaplist').animate({left: '0px'},'slow');//交换图片滚动
+				}
+			}else{//交换图片显示时
+				$('.mainlist').css({left: '958px'})//默认图片放在显示区域右
+				$('.swaplist').animate({left: sl - 958 + 'px'},'slow');//交换图片滚动
+				if(sl==(w-958)*-1){//交换图片最后一屏时
+					$('.mainlist').animate({left: '0px'},'slow');//默认图片滚动
+				}
+			}
+		}
+	})
+	$('.og_prev').click(function(){
+		
+		if($('.swaplist,.mainlist').is(':animated')){
+			$('.swaplist,.mainlist').stop(true,true);
+		}
+		
+		if($('.mainlist li').length>2){
+			ml = parseInt($('.mainlist').css('left'));
+			sl = parseInt($('.swaplist').css('left'));
+			if(ml<=0 && ml>w*-1){
+				$('.swaplist').css({left: w * -1 + 'px'});
+				$('.mainlist').animate({left: ml + 958 + 'px'},'slow');				
+				if(ml==0){
+					$('.swaplist').animate({left: (w - 958) * -1 + 'px'},'slow');
+				}
+			}else{
+				$('.mainlist').css({left: (w - 958) * -1 + 'px'});
+				$('.swaplist').animate({left: sl + 958 + 'px'},'slow');
+				if(sl==0){
+					$('.mainlist').animate({left: '0px'},'slow');
+				}
+			}
+		}
+	})    
+});
+
+$(document).ready(function(){
+	$('.og_prev,.og_next').hover(function(){
+			$(this).fadeTo('fast',1);
+		},function(){
+			$(this).fadeTo('fast',0.7);
+	})
+
+})
+</script>
+  
+  
+  
+  <div class="blankH30"></div>
+  
+  <center>
+  <a href="http://www.nerss.cn/list.php?fid=156" target="_blank">
+  	<img src="../../../images/2014_chinainternatinal.jpg" width="938" height="145"/>
+  </a>
+  </center>
+  
+  <div class="blankH30"></div>
+  
+<SCRIPT type=text/javascript>
+
+function addEvent(obj,evtType,func,cap){ 
+	cap=cap||false; 
+	if(obj.addEventListener){ 
+		obj.addEventListener(evtType,func,cap); 
+		return true; 
+	}else if(obj.attachEvent){ 
+		if(cap){ 
+			obj.setCapture(); 
+			return true; 
+		}else{ 
+			return obj.attachEvent("on" + evtType,func); 
+		} 
+	}else{ 
+		return false; 
+	} 
+} 
+function getPageScroll(){ 
+	var xScroll,yScroll; 
+	if (self.pageXOffset) { 
+		xScroll = self.pageXOffset; 
+	} else if (document.documentElement && document.documentElement.scrollLeft){ 
+		xScroll = document.documentElement.scrollLeft; 
+	} else if (document.body) { 
+		xScroll = document.body.scrollLeft; 
+	} 
+	if (self.pageYOffset) { 
+		yScroll = self.pageYOffset; 
+	} else if (document.documentElement && document.documentElement.scrollTop){ 
+		yScroll = document.documentElement.scrollTop; 
+	} else if (document.body) { 
+		yScroll = document.body.scrollTop; 
+	} 
+	arrayPageScroll = new Array(xScroll,yScroll); 
+	return arrayPageScroll; 
+} 
+
+
+
+function GetPageSize(){ 
+	var xScroll, yScroll; 
+	if (window.innerHeight && window.scrollMaxY) { 
+		xScroll = document.body.scrollWidth; 
+		yScroll = window.innerHeight + window.scrollMaxY; 
+	} else if (document.body.scrollHeight > document.body.offsetHeight){ 
+		xScroll = document.body.scrollWidth; 
+		yScroll = document.body.scrollHeight; 
+	} else { 
+		xScroll = document.body.offsetWidth; 
+		yScroll = document.body.offsetHeight; 
+	} 
+	var windowWidth, windowHeight; 
+	if (self.innerHeight) { 
+		windowWidth = self.innerWidth; 
+		windowHeight = self.innerHeight; 
+	} else if (document.documentElement && document.documentElement.clientHeight) { 
+		windowWidth = document.documentElement.clientWidth; 
+		windowHeight = document.documentElement.clientHeight; 
+	} else if (document.body) { 
+		windowWidth = document.body.clientWidth; 
+		windowHeight = document.body.clientHeight; 
+	} 
+	if(yScroll < windowHeight){ 
+		pageHeight = windowHeight; 
+	} else { 
+		pageHeight = yScroll; 
+	} 
+	if(xScroll < windowWidth){ 
+		pageWidth = windowWidth; 
+	} else { 
+		pageWidth = xScroll; 
+	} 
+	arrayPageSize = new Array(pageWidth,pageHeight,windowWidth,windowHeight) 
+	return arrayPageSize; 
+} 
+
+	var AdMoveConfig=new Object(); 
+	AdMoveConfig.IsInitialized=false; 
+	AdMoveConfig.ScrollX=0; 
+	AdMoveConfig.ScrollY=0; 
+	AdMoveConfig.MoveWidth=0; 
+	AdMoveConfig.MoveHeight=0; 
+	AdMoveConfig.Resize=function(){ 
+		var winsize=GetPageSize(); 
+		AdMoveConfig.MoveWidth=winsize[2]; 
+		AdMoveConfig.MoveHeight=winsize[3]; 
+		AdMoveConfig.Scroll(); 
+	} 
+	AdMoveConfig.Scroll=function(){ 
+		var winscroll=getPageScroll(); 
+		AdMoveConfig.ScrollX=winscroll[0]; 
+		AdMoveConfig.ScrollY=winscroll[1]; 
+	} 
+	addEvent(window,"resize",AdMoveConfig.Resize); 
+	addEvent(window,"scroll",AdMoveConfig.Scroll); 
+
+	function AdMove(id,opsX,opsY){ 
+		if(!AdMoveConfig.IsInitialized){ 
+			AdMoveConfig.Resize(); 
+			AdMoveConfig.IsInitialized = true; 
+		} 
+		var obj=document.getElementById(id); 
+		obj.style.position="absolute"; 
+		//var W=AdMoveConfig.MoveWidth-obj.offsetWidth; 
+		//var H=AdMoveConfig.MoveHeight-obj.offsetHeight; 
+		var W = opsX; 
+		var H = opsY; 
+		//var x = W*Math.random(),y = H*Math.random(); 
+		var x = W,y = H; 
+		//var rad=(Math.random()+1)*Math.PI/6; 
+		var rad = Math.PI/6; 
+		var kx=Math.sin(rad),ky=Math.cos(rad); 
+		//var dirx = (Math.random()<0.5?1:-1), diry = (Math.random()<0.5?1:-1); 
+		var dirx = 1, diry = 1; 
+		var step = 1; 
+		var interval; 
+		this.SetLocation=function(vx,vy){x=vx;y=vy;} 
+		this.SetDirection=function(vx,vy){dirx=vx;diry=vy;} 
+		obj.CustomMethod=function(){ 
+		obj.style.left = (x + AdMoveConfig.ScrollX) + "px"; 
+		obj.style.top = (y + AdMoveConfig.ScrollY) + "px"; 
+		//rad=(Math.random()+1)*Math.PI/6; 
+		rad=Math.PI/6; 
+		W=AdMoveConfig.MoveWidth-obj.offsetWidth; 
+		H=AdMoveConfig.MoveHeight-obj.offsetHeight; 
+		x = x + step*kx*dirx; 
+		if (x < 0){dirx = 1;x = 0;kx=Math.sin(rad);ky=Math.cos(rad);} 
+		if (x > W){dirx = -1;x = W;kx=Math.sin(rad);ky=Math.cos(rad);} 
+		y = y + step*ky*diry; 
+		if (y < 0){diry = 1;y = 0;kx=Math.sin(rad);ky=Math.cos(rad);} 
+		if (y > H){diry = -1;y = H;kx=Math.sin(rad);ky=Math.cos(rad);} 
+
+		
+		
+	} 
+
+	this.Run=function(){ 
+		var delay = 30; 
+		interval=setInterval(obj.CustomMethod,delay); 
+		obj.onmouseover=function(){clearInterval(interval);} 
+		obj.onmouseout=function(){interval=setInterval(obj.CustomMethod, delay);} 
+		//document.getElementById(this.id).style.display= 'none';
+		
+	} 
+} 
+
+setTimeout("displayDiv()",1000*60);//60秒自动关闭
+
+function displayDiv(){
+	getRadioValue("ad");
+}
+	  
+function getRadioValue(checkboxName){
+   	var inputnameradio= document.getElementsByTagName('div');
+   //	var checkboxId= new Array();
+   	var checkboxId = "";
+	for(var iniradio = 0; iniradio<inputnameradio.length;iniradio++ ){
+		 var idstrradio = inputnameradio[iniradio].id;
+		 var idopradio = idstrradio.indexOf(checkboxName);
+		  if(idopradio>-1) {
+		 
+			document.getElementById(idstrradio).style.display= 'none';
+ 
+		  }
+	
+	}
+}
+
+function closeDiv(obj){
+	document.getElementById(obj).style.display= "none";
+}
+</SCRIPT> 
+
+	<p class="clear"></p>
+  </div>
+
+
+<DIV id="ad_001" style="Z-INDEX: 5"> 
+<!--漂浮开始--> 
+
+	<div align="center"  style=" z-index:999; width:230; height:80; margin:0; padding:0;">
+		<a href="http://weibo.com/u/3323927000?sudaref=www.eqsc.gov.cn" target="_blank" style="line-height: 0px">
+			<img src="../../../images/ytdzyjylwzb-2014.jpg"/>
+		</a>
+	</div>
+	<div align="center" style="text-align:right;line-height: 18px;">
+		<span  style="CURSOR:hand;font-size:12px;width:30px;line-height: 18px" onclick="closeDiv('ad_001')">关闭</span>
+	</div>
+
+<!--漂浮结束--> 
+</DIV> 
+<script type=text/javascript>
+  new AdMove("ad_001",150,150).Run(); 
+</script>
+  
+  </div>
+  <div class="bottom">
+    <div class="blankH30"></div>
+    <p class="f12">版权所有:四川省地震局 蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司<br />
+
+地址：成都市人民南路三段29号 | 防震减灾公众信箱：fzjz@eqsc.gov.cn </p>
+  </div>
+</body>
+</html>

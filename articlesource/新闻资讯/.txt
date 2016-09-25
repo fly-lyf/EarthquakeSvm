@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>伟大征程中不断书写“中国传奇” </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '人民日报';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-06-30 11:38:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 11:38:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 11:38:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 11:38:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P style="LINE-HEIGHT: 180%" align=center><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 180%">——</SPAN><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 180%">迎接中国共产党成立</SPAN><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 180%">90</SPAN><SPAN style="FONT-SIZE: 12pt; LINE-HEIGHT: 180%">周年之一</SPAN></P>
+<DIV style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 4pt; BORDER-LEFT: medium none; PADDING-TOP: 0cm; BORDER-BOTTOM: #dedede 1pt solid">
+<P style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; LINE-HEIGHT: 180%; PADDING-TOP: 0cm; BORDER-BOTTOM: medium none" align=center><SPAN style="FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 180%">本报评论员</SPAN></P></DIV>
+<P style="LINE-HEIGHT: 180%" align=right><SPAN style="FONT-SIZE: 9pt; LINE-HEIGHT: 180%">摘自《</SPAN><SPAN style="FONT-SIZE: 9pt; LINE-HEIGHT: 180%">人民日报</SPAN><SPAN style="FONT-SIZE: 9pt; LINE-HEIGHT: 180%">》（</SPAN><SPAN style="FONT-SIZE: 9pt; LINE-HEIGHT: 180%"> 2011<SPAN><SPAN>年</SPAN></SPAN>06<SPAN><SPAN>月</SPAN></SPAN>13<SPAN><SPAN>日</SPAN></SPAN></SPAN><SPAN style="FONT-SIZE: 9pt; LINE-HEIGHT: 180%">）</SPAN></P>
+<P style="MARGIN: 7.5pt 0cm; TEXT-INDENT: 26.25pt; LINE-HEIGHT: 190%" align=left><SPAN style="LINE-HEIGHT: 190%">历史的意义，常常在回望与对照中更为深刻地显现。</SPAN></P>
+<P style="MARGIN: 7.5pt 0cm; LINE-HEIGHT: 190%" align=left><SPAN style="LINE-HEIGHT: 190%">　　</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年前，当中国共产党诞生于嘉兴南湖一条游船上的时候，党员只有</SPAN><SPAN style="LINE-HEIGHT: 190%">50</SPAN><SPAN style="LINE-HEIGHT: 190%">多人，面对的是一个灾难深重、四分五裂，处在亡国灭种边缘的旧中国。今天，拥有</SPAN><SPAN style="LINE-HEIGHT: 190%">8000</SPAN><SPAN style="LINE-HEIGHT: 190%">多万名党员的中国共产党，正引领一个日益繁荣昌盛、民主文明的新中国，在社会主义现代化征程上奋发前行。</SPAN></P>
+<P style="MARGIN: 7.5pt 0cm; LINE-HEIGHT: 190%" align=left><SPAN style="LINE-HEIGHT: 190%">　　抚今追昔，当国际观察家们将中国共产党视为解读</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">中国奇迹</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN><SPAN style="LINE-HEIGHT: 190%">的</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">金钥匙</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN><SPAN style="LINE-HEIGHT: 190%">，当</SPAN><SPAN style="LINE-HEIGHT: 190%">13</SPAN><SPAN style="LINE-HEIGHT: 190%">亿国人以各种方式纪念共产党领导下中国人民团结奋斗的</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年辉煌岁月，人们发现，一个政党的奋斗历程，如此深刻地改变了一个国家的历史进程，如此深切地决定了一个民族的发展命脉。</SPAN></P>
+<P style="MARGIN: 7.5pt 0cm; LINE-HEIGHT: 190%" align=left><SPAN style="LINE-HEIGHT: 190%">　　</SPAN><SPAN style="LINE-HEIGHT: 190%">1921—1949—1956—1978—2011</SPAN><SPAN style="LINE-HEIGHT: 190%">。经由这些历史节点的标示，</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年波澜壮阔的岁月，呈现出清晰的脉络。</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年来，我们党紧紧依靠和紧密团结全国各族人民，推翻了</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">三座大山</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN><SPAN style="LINE-HEIGHT: 190%">，实现了民族独立和人民解放，建立了人民当家作主的新中国；确立了社会主义基本制度，在一穷二白的基础上建立了独立的比较完整的工业体系和国民经济体系；实行了改革开放，开创了中国特色社会主义道路。这三件大事，从根本上改变了中国人民的前途命运，决定了中国历史的发展方向，在世界上产生了深刻而广泛的影响。</SPAN></P>
+<P style="MARGIN: 7.5pt 0cm; LINE-HEIGHT: 190%" align=left><SPAN style="LINE-HEIGHT: 190%">　　</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年来，中国共产党团结带领中国人民，在五千年文明古国的大地上，开创了前无古人的革命、建设和改革事业，彻底改变了中国的面貌，也彻底改变了中国人的面貌。从封建专制到人民民主，从一盘散沙到团结和谐，从温饱不足到总体小康，从封闭愚昧到自信开放，从满目疮痍到世界第二大经济体，从备受欺凌到重返世界舞台中央</SPAN><SPAN style="LINE-HEIGHT: 190%">……90</SPAN><SPAN style="LINE-HEIGHT: 190%">年沧桑巨变，中国经历了最广泛最深刻的社会变革，实现了从最悲惨的境遇走向光明前途的历史转变，一切正如毛泽东所指出的：</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">这是一个绝大的变化，这是自有世界历史和中国历史以来无可比拟的大变化。</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN></P>
+<P style="MARGIN: 7.5pt 0cm; LINE-HEIGHT: 190%" align=left><SPAN style="LINE-HEIGHT: 190%">　　</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年来，中国共产党团结带领中国人民，在民族独立和国家现代化的漫漫征途上，创造了一个又一个</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">中国奇迹</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN><SPAN style="LINE-HEIGHT: 190%">。不论是以</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">小米加步枪</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN><SPAN style="LINE-HEIGHT: 190%">打败国民党</SPAN><SPAN style="LINE-HEIGHT: 190%">800</SPAN><SPAN style="LINE-HEIGHT: 190%">万军队取得全国政权，还是新中国成立之初迅速恢复国民经济；不论是仅用七年时间就基本完成了社会主义改造，还是通过改革开放实现经济腾飞；不论是战胜突如其来的重大自然灾害和国际金融危机，还是办好令世界惊叹的北京奥运会、上海世博会，</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年的每一个经典片段，无不见证着中国共产党非凡的政治能力，社会主义中国强大的国家能力，中国特色社会主义道路蓬勃的生命力。</SPAN></P>
+<P style="MARGIN: 7.5pt 0cm; LINE-HEIGHT: 190%" align=left><SPAN style="LINE-HEIGHT: 190%">　　</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">中国崛起是２１世纪最重要的事件之一</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN><SPAN style="LINE-HEIGHT: 190%">，已经日益成为国际社会的共识。</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年艰辛探索，</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">载风雨辉煌，不管是</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">地球上最大的政治奇迹之一</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN><SPAN style="LINE-HEIGHT: 190%">，还是</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">人类历史上最大规模经济革命的主角</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN><SPAN style="LINE-HEIGHT: 190%">，中国共产党这</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年历史，是为中华民族的独立、解放、繁荣，为中国人民的自由、民主、幸福而不懈奋斗的</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年；是马克思主义基本原理与中国具体实际相结合、不断推进马克思主义中国化的</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年；是我们伟大的祖国告别屈辱落后的历史、迎着民族复兴的曙光顽强奋进的</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年；是中国人民掌握自己的命运、意气风发地走向现代化梦想的</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年，是我们党不断经受各种风浪考验、不断开创各项事业新局面的</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年。中国共产党在中国的探索与成就，改变了世界历史的进程，丰富着世界文明的多样性，书写了影响深远的</SPAN><SPAN style="LINE-HEIGHT: 190%">“</SPAN><SPAN style="LINE-HEIGHT: 190%">中国传奇</SPAN><SPAN style="LINE-HEIGHT: 190%">”</SPAN><SPAN style="LINE-HEIGHT: 190%">。</SPAN></P>
+<P style="MARGIN: 7.5pt 0cm; LINE-HEIGHT: 190%" align=left><SPAN style="LINE-HEIGHT: 190%">　　</SPAN><SPAN style="LINE-HEIGHT: 190%">90</SPAN><SPAN style="LINE-HEIGHT: 190%">年的历史演进，无不昭示着这样一个真理：没有共产党，就没有新中国；没有共产党，就没有中华民族的复兴。历史没有停步，征程仍在继续。</SPAN></P><br/>
+					  
+				  <div style="display:none">
+				     
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

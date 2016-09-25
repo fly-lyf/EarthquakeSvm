@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>芦山地震两周年暨汶川地震七周年专题</title>
+<link rel="stylesheet" type="text/css" href="../../../../images/zn2015_conf_style.css"/>
+<script type="text/javascript" src="../../../../images/currPage.js"></script>
+</head>
+<body>
+<div id="mainWiap">
+  <div class="blankH10" style="height:301px;"></div>
+  <div class="contwiap">
+    <div class="blankH10"></div>
+    <div class="zn_dqwz white">当前位置：<a href="../../../../">首页</a>&gt;<a href="../../../">新闻资讯</a>&gt;<a href="../../">重要专题</a>&gt;<a href="../">芦山地震两周年暨汶川地震七周年专题</a>&gt;<a href="./">视频播报</a></div>
+    <div class="blankH14"></div>
+    <div class="zz_cont3">
+      <div class="contL fl">
+        <!--menu-->
+        <div class="p_menu">
+          <h2 class="f14 white"><a href="./">视频播报</a></h2>
+          <div class="blankH10"></div>
+          <ul>
+          
+          <li>&middot;<a href="../tpyw_20150415/">图片要闻</a></li>
+        
+          <li>&middot;<a href="../zhxx_20150416/">综合信息</a></li>
+        
+          <li>&middot;<a href="../gddt_20150416/">各地动态</a></li>
+        
+          <li>&middot;<a href="../mtjj_20150416/">媒体聚焦</a></li>
+        
+          <li>&middot;<a href="../dzkp_20150416/">地震科普</a></li>
+        
+          <li>&middot;<a href="./">视频播报</a></li>
+        
+          <li>&middot;<a href="../tpxw_20150416/">图片新闻</a></li>
+        
+          </ul>
+        </div>
+        <!--menu end-->
+      </div>
+      <div class="contR fr">
+        <!--政策法规-->
+        <div class="i_tyMenu">
+          <h2 class="fl f14"><a href="./">视频播报</a></h2>
+          <p class="clear"></p>
+        </div>
+        <div class="blankH14"></div>
+        <div class="i_list2">
+          <ul>
+           
+          <li><span>[2015-05-13]</span>&middot;<a href="http://news.cntv.cn/2015/05/12/VIDE1431430284256755.shtml" target="_blank" title="《新闻联播》全国防灾减灾日">《新闻联播》全国防灾减灾日</a></li>
+         
+          <li><span>[2015-05-13]</span>&middot;<a href="http://tv.cntv.cn/video/C10326/2a3c9b11969647b392efe5ac17845584" target="_blank" title="《焦点访谈》 防灾减灾 中国力量">《焦点访谈》 防灾减灾 中国力量</a></li>
+         
+          <li><span>[2015-04-17]</span>&middot;<a href="./201504/t20150417_32828.html" target="_blank" title="【科学重建·芦山新模式】地质灾害治理：钱要花在刀刃上">【科学重建·芦山新模式】地质灾害治理：钱要花在刀刃上</a></li>
+         
+          <li><span>[2015-04-17]</span>&middot;<a href="./201504/t20150417_32838.html" target="_blank" title="芦山地震两周年产业新发展——到名山品一杯自己采的茶">芦山地震两周年产业新发展——到名山品一杯自己采的茶</a></li>
+         
+          </ul>
+        </div>
+        <!--政策法规 end-->
+        <div class="blankH20"></div>
+        <div class="p_next"><script type="text/javascript">
+		 createPageHTML(1, 0, "index", "html");
+	  </script></div>
+      </div>
+      <p class="clear"></p>
+    </div>
+    <div class="blankH16"></div>
+    <!--底部开始-->
+    <div class="botCont">
+      <div class="blankH12"></div>
+      版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+       蜀ICP备05030409号 </div>
+  </div>
+</div>
+</body>
+</html>

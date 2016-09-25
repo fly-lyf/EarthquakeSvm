@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">地震科普</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>震不垮的平武报恩寺 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2007-07-14 15:15:27&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2007-07-14 15:15:27&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2007-07-14 15:15:27&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2007-07-14 15:15:27&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <p>在祖国西南边陲、四川盆地西北边缘山区，耸立着一座地震震不垮的深山宫殿─平武报恩寺。<br />&nbsp;&nbsp;&nbsp; 据有关史料记载，平武报恩寺是由龙州宣抚司土官佥事王玺、王监父子于明朝正统五年（公元1440年）始建，完工于明朝天顺四年（公元1460年），历经20载，建成这座占地2.7万平方米建筑面积3500平方米的气势恢宏、雄伟壮观的深山宫殿。报恩寺座落于平武县城东、主要由广场、经幢、狻猊、山门、钟楼、石拱桥、范公<br />井、天王殿、大悲殿、华严殿、大雄宝殿、碑亭、万佛阁以及戒台、禅室斋房、长廊等组成。整个寺院一派宫殿设计、一色楠木构件、布局十分严谨，从1440年始建至1996年的556年间，历经世态沧桑变故、风霜雨雪侵袭和本地多次地震的震撼，迄今寺内殿堂无蛀蛛网，阁体完整无损，巍然耸立于深山谷地之中，堪称古今建筑奇<br />观。<br />&nbsp;&nbsp;&nbsp; 平武报恩寺地处我国南北地震带中部的龙门山地震带中北段，在明朝万历三十八年（公元1610年）平武古城发生5.5级地震中，震中距仅15公里，震中区&ldquo;公廊屋瓦梁木嘎然有声，栋梁崩，门扉不掩而合，四境之内十室九倾。&rdquo;而报恩寺岿然不动；明朝崇祯二年十二月初四日（公元1630年1月16日）平武小河营（现属松潘县）<br />发生6.3级地震，烈度八度，震中距75公里，震中区&ldquo;城塌120丈、山崩压死军民数人。而报恩寺完整无损；1976年8月16、22、23日，平武与松潘交界处发生两次7.2级一次6.7级强震，震中区山崩地裂、房倒屋塌、人畜伤亡，而报恩寺主体构件无一处震坏。真可谓&rdquo;震不垮的平武报恩寺。&ldquo;据有关专家考证，平武县报恩寺有下列抗震特点：<br />&nbsp;&nbsp;&nbsp; 第一，稳固的台基。细看报恩寺建筑群，都有稳固的台基。这些台基均由长青条石镶铺成长方形四周石制阶基，其内用黄土沙石夯筑，形成10厘米厚的三合土基面。柱基与台基同在一个水平面上。这种钢箍式台基为整个建筑物抗震奠定了坚固的基础。<br />&nbsp;&nbsp;&nbsp; 第二，巧妙的阁体构造。环顾各个殿堂楼阁的阁体都是一色楠木构架。梁架高与宽是以3∶2比例设计。栓子都是大木构件，起着支撑梁架与屋顶的承重作用。采用内外两周均衡对称的配置方法，形成结构严实的柱网结构，面宽与进深、高与进深均采用5∶4比例，可化解地震推拉力的破坏；启用中心通柱，全部采用箍头榫两根相接的作法，既加强阁体的整体性，又巩固了框架，可抗御地震颠簸的破坏。套框式栓梁结构，梁柱都采用双层圈柱，柱子纵横两个方向均采用梁枋斗拱拉连，形成两层框架；外檐栓组成的框架套住内檐栓组成的框架，两套框架又用梁枋斗拱联结成一个整体，再在四周檐下用阑额，由额双层额枋，栓下再用地袱联结，在整体上等于加了钢箍，相当于现代建筑中的钢筋混凝土圈梁，这种套框式栓梁结构经得起地震的摇晃和颠簸。严而不死不用楔梢的榫卯结构，报恩寺整个殿堂楼阁的斗、拱、昂、枋等构件关节上，均采用榫卯结合相嵌而成，都不用楔梢加栓。这种作法既严实而不死固，具有伸缩余地，使整体处于弹性状态，不致被地震破损或折断。<br />&nbsp;&nbsp;&nbsp; 第三，精巧的屋顶。仰望报恩寺殿堂阁楼亭的屋顶，无不是绿色硫璃瓦盖而伏脊，座脊转角和前脊兽物人物下面，每隔约1米处钉有长钉，既可固定脊物又可防止脊瓦滑动，在一定程度上可防止地震时屋瓦掉落。脊檐下叮当作响的小吊钟在山风中晃动，迎送观光的游客。<br />&nbsp;&nbsp;&nbsp; 平武报恩寺在历次地震中显示出&ldquo;晃而不散、摇而不垮&rdquo;的抗震特点，无不铭刻着当时无名工匠们的巧妙设计和精心劳作。跨越五百多年漫长岁月，震不垮的平武报恩寺钟楼上古钟常鸣，它时常警示人们；居安思危、防患于未然。</p>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

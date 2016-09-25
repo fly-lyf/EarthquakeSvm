@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/hybz/index.html" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/flfg/qt/index.html" class="now" target="_parent" title="其他"><span>其他</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">其他</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">防震减灾专业法试题<span>发布时间：2009-04-27</span></div>
+                <p><p><font face="Arial">1、&nbsp;到目前为止，我国现行的防震减灾专业法律、法规有哪几部？ </font></p>
+<p><font face="Arial"></font>&nbsp;</p>
+<p><font face="Arial"></font>&nbsp;</p>
+<p><font face="Arial"></font>&nbsp;</p>
+<p><font face="Arial">2、&nbsp;防震减灾法律、法规中规定哪几种行政处罚种类，对处以罚款的其罚款的最高上限是多少？最低下限是多少？</font></p>
+<p><font face="Arial"></font>&nbsp;</p>
+<p><font face="Arial"></font>&nbsp;</p>
+<p><font face="Arial"></font>&nbsp;</p>
+<p><font face="Arial"></font>&nbsp;</p>
+<font face="Arial">
+<p><br />
+3、《中华人民共和国防震减灾法》中规定了对哪几种违法行为进行行政处罚？ </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+4、&nbsp;据《中华人民共和国防震减灾法》的规定，一般建设工程应当按照什么标准来进行抗震设防？（10分）</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+5、&nbsp;《上海市建设工程抗震设防管理办法》中对安评单位作出了哪些禁止性规范？</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>6、《上海市建设工程抗震设防管理办法》中规定，建设单位在报送抗震设计审查的同时，应当将何种材料，报市地震局备案？ </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br />
+7、《防震减灾法》规定了哪些工程必须进行地震安全性评价？<br />
+</p>
+</font></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

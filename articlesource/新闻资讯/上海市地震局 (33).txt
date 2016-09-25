@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">2015年上海地震紧急救援联合演练举行<span>发布时间：2015-11-18&nbsp;&nbsp;&nbsp;&nbsp;信息来源：局办公室</span></div>
+                <p><p>
+	　　2015年11月16日，由上海市地震局联合市东方医院灾难医救队和武警上海市总队第九支队（市武警特种救援队）共同举办的2015年上海地震紧急救援联合演练圆满结束。中国地震局副局长修济刚、上海市政府副秘书长黄融、上海市地震局局长吴建春、市应急办主任熊新光、武警上海总队司令员朱宏、东方医院院长刘中民等出席并现场观摩演练。</p>
+<p>
+	　　本次演练设置有侦查搜索、紧急救援、医疗救护、地震现场应急处置和清洗消毒五个科目，旨在通过三方联合作战，检验在破坏性地震或爆炸和重特大工程性事故引发建、构筑物倒塌情况下，对压埋人员紧急搜救与救治协同作战能力，检验高密集、大人流场所和重点设施突发事故快速响应能力，检验跨行业应急联动、军地协同合作机制，不断提升上海应急救援能力。</p>
+<p>
+	　　修济刚副局长在演练总结时指出，本次演练时间紧凑，内容丰富，涵盖深井救援、高空救援、涵管救援、汽车破拆、搜救犬搜救等众多科目，各科目训练有素，充分体现科学施救理念，紧扣救援实战需求，展示了三支应急救援队伍特色和能力，整个演练很成功。他指出，上海是一个特大型的城市，高楼林立，桥梁密布，人口密度大，经济社会越来越发展，对安全的需求也越来越高，上海的防震减灾工作一定要认真贯彻落实&ldquo;宁可备而不震，不可震而不备&rdquo;的要求，坚持&ldquo;有震无震按有震设防，大震小震按大震设防&rdquo;的底线思维，从大处着眼，于细处入手，把防震减灾工作落到实处，提前做好各项地震应急防范准备工作。希望参加演练的同志们平时加强训练，继续努力，为保卫上海经济社会发展安全做出贡献。</p>
+<p>
+	　　本次演练得到了中央和地方新闻媒体的广泛关注，中央电视台《新闻联播》节目、新华网、上海电视台《新闻报道》节目、《解放日报》、东方网等众多电视、报纸和网络媒体对演练进行了报道。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1511/20151118033529618.jpg" title="图像" wdimgid="image_429" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1511/201511180335303300.jpg" title="图像" wdimgid="image_430" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1511/201511180335317968.jpg" title="图像" wdimgid="image_431" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1511/201511180348387030.jpg" title="图像" wdimgid="image_434" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

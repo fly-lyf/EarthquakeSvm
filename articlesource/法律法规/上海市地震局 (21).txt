@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" class="now" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/hybz/index.html" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/qt/index.html" target="_parent" title="其他"><span>其他</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">国家法律法规</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">震后地震趋势判定公告规定<span>发布时间：2009-04-27</span></div>
+                <p><p align="center"><font face="Arial" size="4"><strong>震后地震趋势判定公告规定</strong></font></p>
+<p align="left"><font face="Arial">　　中国地震局令第 2 号&nbsp;&nbsp;&nbsp;&nbsp; </font></p>
+<p align="left"><font face="Arial">　　《震后地震趋势判定公告规定》，已于1998年12月29日经中国地震局局务会议通过，现予发布，自发布之日起施行。</font></p>
+<p align="right"><font face="Arial">局长&nbsp;&nbsp; 陈章立</font></p>
+<p align="right"><font face="Arial">一九九八年十二月二十九日</font></p>
+<p align="left"><font face="Arial">第一条&nbsp; 为了加强对震后地震趋势判定公告的管理，根据《中华人民共和国防震减灾法》和《地震预报管理条例》，制定本规定。&nbsp;&nbsp;&nbsp;</font></p>
+<p align="left"><font face="Arial">第二条&nbsp; 震后地震趋势判定，是指对社会产生影响的地震事件发生后，对地震影响地区近期内地震活动形势的分析结果。震后地震事件的预报按《地震预报管理条例》执行。&nbsp;&nbsp;&nbsp; </font></p>
+<p align="left"><font face="Arial">第三条&nbsp; 本规定所称对社会产生影响的地震事件主要指：&nbsp;&nbsp;&nbsp; <br />
+（一）在人口稠密、经济发达地区发生的普遍有感地震；&nbsp;&nbsp;&nbsp; <br />
+（二）破坏性地震；&nbsp;&nbsp;&nbsp; <br />
+（三）严重破坏性地震。&nbsp;&nbsp;&nbsp; </font></p>
+<p align="left"><font face="Arial">第四条&nbsp; 对社会产生影响的地震事件发生后，有关县级以上地方人民政府负责管理地震工作的机构应当组织召开震情会商会，对本辖区近期内地震活动形势进行综合分析研究，形成震后地震趋势判定意见。&nbsp;&nbsp;&nbsp; 市、县人民政府负责管理地震工作的机构形成的震后地震趋势判定意见，应当向省、自治区、直辖市人民政府负责管理地震工作的机构报告。&nbsp;&nbsp;&nbsp; 省、自治区、直辖市人民政府负责管理地震工作的机构应当将破坏性地震和严重破坏性地震后形成的震后地震趋势判定意见向国务院地震工作主管部门报告。&nbsp;&nbsp;&nbsp; </font></p>
+<p align="left"><font face="Arial">第五条 在人口稠密、经济发达地区发生的普遍有感地震的震后地震趋势判定和破坏性地震的震后地震趋势判定，由有关县级以上地方人民政府负责管理地震工作的机构向本级人民政府报告，并可以适时向社会公告。&nbsp;&nbsp;&nbsp; </font></p>
+<p align="left"><font face="Arial">第六条&nbsp; 严重破坏性地震发生后的震后地震趋势判定，由有关省、自治区、直辖市人民政府负责管理地震工作的机构向本级人民政府报告，并可以适时向社会公告。&nbsp;&nbsp;&nbsp; </font></p>
+<p align="left"><font face="Arial">第七条&nbsp; 国务院地震工作主管部门根据社会需要，可以适时向社会公告地震事件的震后地震趋势判定。&nbsp;&nbsp;&nbsp; </font></p>
+<p align="left"><font face="Arial">第八条&nbsp; 北京市发生对社会产生影响的地震事件后，由国务院地震工作主管部门和北京市人民政府负责管理地震工作的机构，组织召开震情会商会，形成统一的震后地震趋势判定意见，分别向国务院和北京市人民政府报告，国务院地震工作主管部门和北京市人民政府负责管理地震工作的机构可以适时向社会公告。&nbsp;&nbsp;&nbsp; </font></p>
+<p align="left"><font face="Arial">第九条&nbsp; 其他任何组织和个人关于震后地震趋势判定的意见，应当向当地人民政府负责管理地震工作的机构或者国务院地震工作主管部门报告，不得擅自向社会公告。&nbsp;&nbsp;&nbsp; </font></p>
+<p align="left"><font face="Arial">第十条&nbsp; 对违反本规定，擅自公告震后地震趋势判定，造成不良社会影响的组织和个人，由国务院地震工作主管部门或者省、自治区、直辖市人民政府负责管理地震工作的机构给予警告；扰乱社会正常秩序的，由公安机关依法给予治安管理处罚。&nbsp;&nbsp;&nbsp;</font></p>
+<p align="left"><font face="Arial">&nbsp;第十一条&nbsp; 本规定自发布之日起施行。一九九八年十二月二十九日&nbsp;&nbsp;&nbsp;&nbsp; </font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

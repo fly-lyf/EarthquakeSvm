@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>建党90周年</title>
+<LINK href="../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="xy">
+			<img src="../../../images/qd_img02.jpg"/>
+			<div class="bxe">
+							
+							　　为隆重纪念中国共产党成立90周年，回顾我们党走过的光辉历程，歌颂我们党的丰功伟绩，激发和引导地震系统广大党员干部爱党热情，奋发有为地为四川防震减灾事业建功立业。从今天起，我们以此为平台，歌颂我们伟大党和伟大的祖国，欢迎同志们积极参与，踊跃投稿，以我们对党的无限忠诚，来浇灌我们这块精神园地，共同分享园中的累累硕果。<a  target="_blank" href="./201106/t20110623_19961.html">[详细]</a>
+
+			</div>
+		</div>
+		<div class="ncbx">
+			<h1><span>光辉历程</span><a href="./ds/">更多</a></h1>
+			<ul>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				
+					<a target="_blank" title="伟大征程中不断书写“中国传奇”" href="./ds/201106/t20110630_20091.html">伟大征程中不断书写“中国传奇”</a>
+				
+				<span>2011-06-30</span></li>
+				
+				<li><img src="../../../images/qd_img05.jpg"/>
+				
+					<a target="_blank" title="鲜红党旗上永远铭刻人民利益" href="./ds/201106/t20110630_20092.html">鲜红党旗上永远铭刻人民利益</a>
+				
+				<span>2011-06-30</span></li>
+				
+				<li><img src="../../../images/qd_img05.jpg"/>
+				
+					<a target="_blank" title="现代化进程中不懈探索“中国道路”" href="./ds/201106/t20110630_20093.html">现代化进程中不懈探索“中国道路”</a>
+				
+				<span>2011-06-30</span></li>
+				
+				<li><img src="../../../images/qd_img05.jpg"/>
+				
+					<a target="_blank" title="社会发展中始终引领时代进步" href="./ds/201106/t20110630_20094.html">社会发展中始终引领时代进步</a>
+				
+				<span>2011-06-30</span></li>
+				
+				<li><img src="../../../images/qd_img05.jpg"/>
+				
+					<a target="_blank" title="全国党员总数8026.9万名（红旗飘飘）" href="./ds/201106/t20110630_20095.html">全国党员总数8026.9万名（红旗飘飘）</a>
+				
+				<span>2011-06-30</span></li>
+				
+				<li><img src="../../../images/qd_img05.jpg"/>
+				
+					<a target="_blank" title="星火燎原的坚定信念（纵横）" href="./ds/201106/t20110630_20097.html">星火燎原的坚定信念（纵横）</a>
+				
+				<span>2011-06-30</span></li>
+				
+
+			</ul>
+		</div>
+		<div class="ncbx">
+				<h1><span>地震人风采</span><a href="./dzrfc/">更多</a></h1>
+			<ul>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="航——献给伟大的中国共产党90周年寿辰" href="./dzrfc/201107/t20110704_20138.html">航——献给伟大的中国共产党90周年寿辰</a>
+				<span>2011-06-29</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="在特别年代中诞生 在改革开放中壮大——纪念中国共产党诞生90周年" href="./dzrfc/201106/t20110630_20111.html">在特别年代中诞生 在改革开放中壮大——纪念中国共...</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="党永远在我心中——纪念中国共产党成立90周年" href="./dzrfc/201106/t20110630_20110.html">党永远在我心中——纪念中国共产党成立90周年</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="红色诗语" href="./dzrfc/201107/t20110701_20128.html">红色诗语</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="中华民族的中坚" href="./dzrfc/201106/t20110630_20101.html">中华民族的中坚</a>
+				<span>2011-06-22</span></li>
+			
+			</ul>
+		</div>
+		
+		<div class="jnhd">
+			<h1><span>纪念活动</span><a href="./jnhd/">更多</a></h1>
+			<div class="jixb">
+			<ul>
+		
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="四川省地震局召开庆祝建党90周年暨“创先争优”表彰大会" href="./jnhd/201107/t20110701_20131.html">四川省地震局召开庆祝建党90周年暨“创先争优”表...</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="四川省地震局领导看望慰问离休老同志" href="./jnhd/201107/t20110701_20125.html">四川省地震局领导看望慰问离休老同志</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="四川省地震局高唱红歌迎接建党90周年" href="./jnhd/201107/t20110701_20132.html">四川省地震局高唱红歌迎接建党90周年</a>
+				<span>2011-07-01</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="纪念中国共产党九十年" href="./jnhd/201106/t20110630_20121.html">纪念中国共产党九十年</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="四川省地震局机关党委组织党员职工观看电影《大太阳》" href="./jnhd/201106/t20110630_20119.html">四川省地震局机关党委组织党员职工观看电影《大太阳》</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="震后两重天  跟党幸福长----四川省地震局参加省直机关演讲比赛" href="./jnhd/201106/t20110630_20120.html">震后两重天  跟党幸福长----四川省地震局参加省直...</a>
+				<span>2011-06-30</span></li>
+			
+			</ul>
+			<ul>
+		
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="机关党建信息简报" href="./jnhd/201106/t20110630_20113.html">机关党建信息简报</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="生命只为一个信仰——重庆红色教育有感" href="./jnhd/201106/t20110630_20118.html">生命只为一个信仰——重庆红色教育有感</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="走进红色重庆 感受红岩精神——写在红色革命传统教育后的感悟" href="./jnhd/201106/t20110630_20117.html">走进红色重庆 感受红岩精神——写在红色革命传统教...</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="重庆红色教育的心得体会" href="./jnhd/201106/t20110630_20116.html">重庆红色教育的心得体会</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="红色之旅再受党的教育" href="./jnhd/201107/t20110704_20134.html">红色之旅再受党的教育</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../images/qd_img05.jpg"/>
+				<a target="_blank" title="坚定信念、勇于创新、为防震减灾事业而不懈努力——观渣滓洞、白公馆有感" href="./jnhd/201106/t20110630_20114.html">坚定信念、勇于创新、为防震减灾事业而不懈努力—...</a>
+				<span>2011-06-30</span></li>
+			
+			</ul>
+			</div>
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

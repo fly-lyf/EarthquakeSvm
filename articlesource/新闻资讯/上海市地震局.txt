@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>我局动态</h2>
+            </div>
+            <ul class="listTxt">
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai7000.html" title="我局传达学习2016年全国地震局长会暨党风廉政建设工作会议精神">我局传达学习2016年全国地震局长会暨党风廉政建设工作会议精神</a><span>2016-01-27</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6999.html" title="我局代表队荣获第三届全国地震速报竞赛总决赛三等奖">我局代表队荣获第三届全国地震速报竞赛总决赛三等奖</a><span>2016-01-19</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6996.html" title="我局召开2016年群团工作会议">我局召开2016年群团工作会议</a><span>2016-01-19</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6995.html" title="我局举办财务报账员专题培训">我局举办财务报账员专题培训</a><span>2016-01-19</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6994.html" title="上海局代表队荣获第三届全国地震速报竞赛济南赛区第二名并成功晋级全国总决赛">上海局代表队荣获第三届全国地震速报竞赛济南赛区第二名并成功晋级全国总决...</a><span>2016-01-05</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6992.html" title="我局完成各单位、各部门集中考核工作">我局完成各单位、各部门集中考核工作</a><span>2016-01-04</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6926.html" title="全国区域一维速度模型建设及推广使用项目通过验收">全国区域一维速度模型建设及推广使用项目通过验收</a><span>2015-12-16</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6927.html" title="我局举办2015年上海地震系统信息员培训">我局举办2015年上海地震系统信息员培训</a><span>2015-12-14</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6928.html" title="上海市防震减灾行政执法人员上岗培训暨行政执法证考试在我局举行">上海市防震减灾行政执法人员上岗培训暨行政执法证考试在我局举行</a><span>2015-12-11</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6918.html" title="坚定不移推进从严治党 凝心聚力促进事业发展">坚定不移推进从严治党 凝心聚力促进事业发展</a><span>2015-12-01</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6915.html" title="国家前兆台网中心李正媛研究员应邀到我局作学术报告">国家前兆台网中心李正媛研究员应邀到我局作学术报告</a><span>2015-11-27</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6916.html" title="市科技党委副书记盛亚平一行来我局调研">市科技党委副书记盛亚平一行来我局调研</a><span>2015-11-25</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6890.html" title="2015年上海地震紧急救援联合演练举行">2015年上海地震紧急救援联合演练举行</a><span>2015-11-18</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6893.html" title="我局举办2015年地下流体观测质量评比结果表彰会">我局举办2015年地下流体观测质量评比结果表彰会</a><span>2015-11-18</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6886.html" title="宣教中心荣获2015上海科普教育创新奖科普贡献三等奖">宣教中心荣获2015上海科普教育创新奖科普贡献三等奖</a><span>2015-11-16</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6897.html" title="我局组织退休老干部开展“三看”主题活动">我局组织退休老干部开展“三看”主题活动</a><span>2015-11-13</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6958.html" title="我局评审专家组赴各区县开展示范社区创建情况检查">我局评审专家组赴各区县开展示范社区创建情况检查</a><span>2015-11-12</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6957.html" title="我局举办第三届全国地震速报竞赛初赛">我局举办第三届全国地震速报竞赛初赛</a><span>2015-11-10</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6885.html" title="我局组织离退休职工参观淞沪抗战纪念馆">我局组织离退休职工参观淞沪抗战纪念馆</a><span>2015-10-30</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/wjdt/u1ai6892.html" title="我局召开2015年度上海市年度地震趋势会商会">我局召开2015年度上海市年度地震趋势会商会</a><span>2015-10-23</span></li>
+                
+            </ul>
+            <div class="page">
+<font color=gray>首页 </font><font color=gray> 上一页 </font><A class=text-1 HREF="/gb\dzj/xwzx/wjdt/index1.html"> 下一页 </A><A  HREF=index43.html> 尾页 </A>
+                <span>第1页&nbsp;共44页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

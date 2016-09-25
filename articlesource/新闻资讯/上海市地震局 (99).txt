@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">全国防震减灾宣传工作电视电话会议召开 <span>发布时间：2012-05-25</span></div>
+                <p><p><br />
+&nbsp;&nbsp;&nbsp; 2012年5月24日上午，中共中央宣传部、中国地震局在京联合召开全国防震减灾宣传工作电视电话会议。这次会议，旨在贯彻落实党中央、国务院有关防震减灾宣传工作的方针政策，回顾总结十年来的工作成效和经验，研究提出当前和今后一个时期的总体目标和重点任务，全面部署&ldquo;十二五&rdquo;期间防震减灾宣传工作。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 中宣部副部长申维辰、中国地震局局长陈建民在会上作了重要讲话。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 会议指出，多年来，各地各有关部门在防震减灾宣传方面取得了重要成效，基本形成了党委领导、政府主导、部门协同、社会参与的良好工作局面，防震减灾日常宣传和应急宣传能力得到显著提升，全社会防震减灾意识明显增强，特别是在汶川、玉树等重特大地震灾害的抗震救灾中，宣传工作在动员社会、凝聚力量、塑造精神、传播科学、维护稳定等方面发挥了突出作用，为奋勇夺取抗震救灾、重建家园的全面胜利做出了重要贡献。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 会议强调，做好新形势下的防震减灾宣传工作，要以邓小平理论和&ldquo;三个代表&rdquo;重要思想为指导，以科学发展观为统领，贯彻落实中央关于宣传思想文化工作和国务院关于防震减灾工作的总体部署，总结经验，提高认识，推动防震减灾文化建设，努力开创新形势下防震减灾宣传工作新局面。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 会议指出，新时期的防震减灾宣传工作要体现时代性，把握规律性，富于创造性，牢牢把握服务大局的基本职责，把握坚持正确导向的基本要求，按照&ldquo;主动、稳妥、科学、有效&rdquo;的原则，着力加强防震减灾宣传工作，为提高社会公众防震减灾素质和能力，促进形成全社会共同防范和抵御地震灾害的良好局面，提供强大精神动力和有力舆论支持。要大力培育和弘扬伟大的抗震救灾精神，集中展示党的政治优势和社会主义制度的无比优越性，集中展示中华民族自强不息、勇于胜利的民族品格和优良传统；要大力宣传党和国家的防震减灾方针政策、法律法规和重要部署，引导社会公众依法有序参与防震减灾实践；大力宣传防震减灾、抗震救灾和恢复重建的好经验好做法，用防震减灾发展成效和抗震救灾巨大成就激励人、鼓舞人，增强社会凝聚力和战斗力；大力宣传防震减灾科学知识和技能，弘扬先进科学的防震减灾文化，促进全社会主动防灾、科学避灾和有效减灾，促进民众自我教育和社会自觉行动。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 会议要求，各级宣传部门要切实加强对防震减灾宣传工作的领导，把防震减灾宣传纳入各地宣传教育、文化发展、科学普及、基层文明建设等规划，会同地震部门定期研究部署工作，制定防震减灾宣传报道计划，明确年度宣传重点和阶段性重点内容，及时解决防震减灾宣传工作中的实际问题；中央和地方媒体要切实履行好防震减灾宣传工作职责，进一步加强防震减灾宣传报道能力建设，主动配合地震等部门做好防震减灾公益性宣传工作。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 会议还回顾了近年来全国各地、各行业、各部门因地制宜、因时制宜开展防震减灾宣传工作的情况及取得的成绩，总结了防震减灾宣传工作的主要经验。教育部、新华社、山东省、四川省介绍了在防震减灾宣传实践中积累的好经验、好做法。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 在北京主会场参加会议的有：中央和国家机关有关部委、有关人民团体、中央主要新闻单位及北京市相关负责同志。 </p>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; TEXT-INDENT: 24pt" align="center"><span style="LINE-HEIGHT: 150%; FONT-SIZE: 12pt"><img alt="" width="600" height="400" src="http://www.cea.gov.cn/manage/_VHD/yy/201201/0524-1.jpg" /></span></div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; TEXT-INDENT: 24pt" align="center">&nbsp;</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; TEXT-INDENT: 24pt" align="center"><span style="LINE-HEIGHT: 150%; FONT-SIZE: 12pt"><img alt="" width="600" height="400" src="http://www.cea.gov.cn/manage/_VHD/yy/201201/0524-2.jpg" /></span></div></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

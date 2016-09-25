@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../">首页</a>><a href="../../">新闻资讯</a>><a href="../">图片新闻</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>四川省召开2016年省防震减灾领导小组会议 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '办公室';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-12-17 11:41:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-12-17 11:41:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-12-17 11:41:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-12-17 11:41:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<P>　　<SPAN>2015年12</SPAN><SPAN>月</SPAN><SPAN>15</SPAN><SPAN>日，</SPAN><SPAN>四川省政府副省长、省防震减灾领导小组组长曲木史哈在成都主持召开201</SPAN><SPAN>6</SPAN><SPAN>年度省防震减灾领导小组会议，听取201</SPAN><SPAN>6</SPAN><SPAN>年地震活动趋势会商分析意见，安排部署201</SPAN><SPAN>6</SPAN><SPAN>年全省防震减灾重点工作任务。省政府副秘书长赵学谦、省防震减灾领导小组成员单位负责人及有关市州政府分管负责人参加会议。</SPAN></P>
+<P>　　<SPAN>会议</SPAN><SPAN>认为</SPAN><SPAN>，201</SPAN><SPAN>5</SPAN><SPAN>年，</SPAN><SPAN>四川</SPAN><SPAN>省防震减灾工作取得了新的进展。</SPAN><SPAN>一是工作机制逐渐完善，</SPAN><SPAN>防震减灾工作考核办法</SPAN><SPAN>印发施行，应急预案不断完善，</SPAN><SPAN>组织开展督查检查，成功举办综合演练</SPAN><SPAN>，有序</SPAN><SPAN>处置</SPAN><SPAN>地震突发事件</SPAN><SPAN>。</SPAN><SPAN>二是技术水平不断提升，</SPAN><SPAN>推进</SPAN><SPAN>芦山地震灾后恢复重建项目</SPAN><SPAN>、川滇地震预报实验场、</SPAN><SPAN>县级防震减灾综合能力建设</SPAN><SPAN>等重大项目建设</SPAN><SPAN>。</SPAN><SPAN>三是工作基础逐步加强，</SPAN><SPAN>涌现一批基础工作扎实、防震实效明显的县（市、区）</SPAN><SPAN>。</SPAN><SPAN>四是民众意识日益增强，</SPAN><SPAN>群众防灾避险能力不断提升。</SPAN></P>
+<P>　　<SPAN>会议</SPAN><SPAN>指出，</SPAN><SPAN>防震减灾工作四川走在全国前列，要巩固成果、总结经验，把下一阶段防震减灾工作做好，重点</SPAN><SPAN>做好六项工作：</SPAN><SPAN>一要切实加强组织领导。</SPAN><SPAN>各地各部门要</SPAN><SPAN>完善应急救援预案，常态做好防灾抗震的思想、组织和物资准备，正确引导舆论。</SPAN><SPAN>推进《地震预警管理办法》立法工作，</SPAN><SPAN>加强地震预警管理。</SPAN><SPAN>二要加强震情监视跟踪。加强对震情的分析研判，更好地把握地震趋势。三要加强预警能力建设。抓紧实施省地震烈度速报与预警工程，做好地震监测设施和观测环境的保护工作。四要加强抗震基础工作。要加强对建设工程的抗震设防要求监管，落实农居抗震加固改造要求，</SPAN><SPAN>统筹</SPAN><SPAN>做好地震次生灾害防范。五要加强部门协调配合。完善应急协调机制，按职责分工，协同做好做好人员救治、紧急运输、抢通保通、灾后救助等各项工作。六要强化防震减灾宣传教育，采取多种方式，进一步增强全民防震减灾意识。</SPAN></P>
+<P>　　<SPAN>会议最后要求，各地各部门要结合实际，把</SPAN><SPAN>防震减灾工作安排好、落实好，以积极的方式应对潜在的威胁，争取将地震及次生灾害造成的损失降到最低限度。确保广大人民群众的生命财产安全，用行动来践行“三严三实”。</SPAN></P>
+<P>　　<SPAN>会议还审议并原则通过《</SPAN><SPAN>2015年度四川省市（州）防震减灾工作绩效</SPAN><SPAN>考评方案（送审稿）</SPAN><SPAN>》和《</SPAN><SPAN>四川省第二批防震减灾示范县（市、区）评选认定工作方案（送审稿）</SPAN><SPAN>》，研究了四川省地震烈度速报与预警工程建设相关工作。</SPAN></P>
+<P align=center><SPAN><IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 505px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 336px; BORDER-LEFT-WIDTH: 0px" src="./W020151217423424418679.jpg" width=505 height=348 OLDSRC="W020151217423424418679.jpg" _fcksavedurl="/webpic/W0201512/W020151217/W020151217423424418679.jpg"/></SPAN></P>
+<P align=center><SPAN>2016年度防震减灾领导小组会议现场</SPAN></P>
+<P align=center><SPAN></SPAN>&nbsp;</P>
+<P align=center><SPAN><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020151217423424416625.jpg" width=510 height=341 OLDSRC="W020151217423424416625.jpg" _fcksavedurl="/webpic/W0201512/W020151217/W020151217423424416625.jpg"/></SPAN></P>
+<P align=center><SPAN>曲木史哈副省长（中）作重要讲话</SPAN></P></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     <a href="./t20151217_33842.html"><img src="./W020151217423770039087.jpg" alt="1.jpg"/></a>
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

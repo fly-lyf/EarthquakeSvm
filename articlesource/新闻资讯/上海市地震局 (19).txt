@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" class="now" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">区县动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">金山区召开2015年防震减灾联席会议工作会议<span>发布时间：2015-06-08</span></div>
+                <p><p>
+	　　5月22日上午，2015年金山区防震减灾联席会议工作会议在区会议中心召开。金山区防震减灾联席会议主任、区人民政府副区长吴杰，联席会议各成员单位分管负责人出席会议，区府办副主任陆才华主持会议。</p>
+<p>
+	　　吴杰副区长在讲话中指出，防震减灾工作不仅是地震部门的事情，也是各级政府和各职能部门的共同责任，各级各部门要以联席会议为平台，各司其职，密切合作，形成防震减灾工作的合力。一是以制度为基础，进一步健全防震减灾工作的机制体制，充分整合各个部门的优势资源，提升我区的城市管理水平。二是以源头为抓手，进一步做好全区老旧公房、农村民居，尤其是公共建筑的抗震设防工作。三是以公众为重点，进一步完善政府引导、公众参与的应急体系，各级各部门要结合实际，制定体现本部门本区域特色的应急预案，不断加大公众应急技能的培养，提高应急避险和自救互救能力。</p>
+<p>
+	　　区防震减灾联席会议办公室主任、区地震办主任沈国忠传达了2015年上海市防震减灾工作联席会议精神，代表区防震减灾联席会议办公室报告了2014年工作进展情况，提出了2015年10项重点工作安排：一是提升防震减灾宣传教育效能；二是深化防震减灾科普示范学校建设；三是巩固&ldquo;校安工程&rdquo;建设成果；四是做好建筑工程抗震设防审查；五是推进地震安全示范社区创建；六是加强地震应急演练；七是开展街镇、工业区专项地震应急预案的修编；八是加强应急避难场所建设协调；九是强化防震减灾工作队伍建设；十是加强本区水氡监测点的组织和管理。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

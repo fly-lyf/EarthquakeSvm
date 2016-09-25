@@ -1,0 +1,405 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>等闲识得东风面　万紫千红总是春</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">等闲识得东风面　万紫千红总是春</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-05-23 10:48:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局直属机关党委
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><P align=center>[[image1]]</P>
+<P>　　2006年5月12日8时30分，中国地震局京区首届职工运动会，经过2个多月的精心准备和紧锣密鼓的预赛，在防灾科技学院体育场正式开幕，并于18时落下帷幕。在长达10个小时的各种表演和赛事上，庄严神圣的升旗，整齐化一的动作，激情如火的欢呼，勇于争先的精神，此起彼伏的助威，令观者如痴如醉。但是在所有美好的瞬间中，有几组数字令人振奋，有几个场面令人震憾。</P>
+<P align=center><STRONG>同样的喜悦&nbsp; 共同的使命&nbsp; 相同的目标</STRONG></P>
+<P>　　五月的北京，花红柳绿，春意盎然。</P>
+<P>　　在这百花盛开的日子里，5月12日，刚刚完成专升本历史跨越的中国地震局防灾科技学院，又迎来了参加中国地震局京区首届职工运动会的15个兄弟单位近千人的参赛队伍。一时之间，沉浸在盛典中的防灾科技学院，又一次成了这个春天最灿烂的明星。</P>
+<P>　　8时30分，中国地震局党组成员、副局长刘玉辰同志宣布运动员入场，中国地震局京区首届职工运动会正式拉开了帷幕。伴随着雄壮的体育进行曲和播音员激昂悦耳的入场介绍，各参赛单位代表团方阵，迈着矫健的步伐依次走过主席台，接受领导和广大职工的检阅，并用各自的方式展示着地震科技工作者团结奋进、锐意进取、求真务实的时代风采。参赛队员们昂扬的斗志和英姿飒爽的精神风貌赢得了观众的阵阵掌声，尤其是队员们挥舞着花束高呼“防震减灾，利国利民”的口号通过主席台时，就坐在主席台上，出席运动会的中国地震局党组书记、局长陈建民同志，中央国家机关工委统战群工部部长、中央国家机关工会联合会常务副主席吴汉圣同志，中央国家机关工委《紫光阁》杂志社副社长徐国治同志，局党组成员、副局长刘玉辰、赵和平、修济刚、张友民同志及老领导和各直属单位的主要负责人，他们的目光深情而激动，发自内心的掌声和笑容，融和在运动场上数千名干部职工和学生的掌声之中，一次又一次如雷长鸣。</P>
+<P>　　相同的喜悦，共同的使命，一样的目标造就了这春的浪潮。于是，在缤纷的礼花中，地震健儿的捷报从这里奔涌而出，迅速传遍场内外。</P>
+<P align=center><STRONG>运动会精彩纷呈&nbsp; 高潮迭起</STRONG></P>
+<P>　　当中国地震局党组书记、局长陈建民同志宣布运动会正式开幕，大会主持人请中国人民武装警察部队天安门国旗护卫队入场时，体育场掌声雷动，群情澎湃，欢呼声一浪高过一浪。能够在自己的运动会上，目睹天安门国旗护卫队的雄姿；在国歌声中，近距离的观看国旗卫士们升国旗，仔细体味祖国的伟大与豪情、责任与义务，是每一个中华儿女所向往的，是广大地震工作者的荣耀，更何况国旗卫士们为了准时参加运动会的升旗仪式，在天安门升旗仪式后直接赶赴运动会场，他们这种连续作战、勇于牺牲的精神深深地感染了运动场上的每一名观众。在全场的欢呼声中，国旗卫士手擎鲜艳的五星红旗，迈着整齐如一的步伐，精神饱满地走进体育场，绕场一周，通过主席台，国旗卫士们威武的英姿及娴熟漂亮、刚劲利落的动作再次博得了全场的掌声和喝彩。随着冉冉升起的五星红旗，全场肃穆庄严，每个人的心中都升腾起责任与义务的神圣感。党组成员、副局长赵和平同志在开幕词中，代表局党组对运动会的顺利开幕表示了衷心的祝贺，对广大运动员、教练员和裁判员表示诚挚的问候及对全体工作人员的感谢。他说，局党组和各单位领导班子把举办首届职工运动会，视为社会主义荣辱观教育的重要载体和资源。广大干部职工积极参与，彰显出我们这支队伍昂扬向上、开拓进取的精神风貌和力量。希望运动会竞技成绩和精神文明双丰收，让“更高、更快、更强”的奥林匹克精神在防震减灾工作中得到切实的体现和发扬。运动员和裁判员代表上台宣誓，表达了他们忠于职守、奋勇拼搏的决心。</P>
+<P>　　当五百名手举花球，身着彩装的防灾科技学院的同学们欢呼着跑进体育场中心时，绚丽多彩、整齐和谐、动感十足的大型团体操表演将人们再次拉入欢乐的海洋。在优美舒缓的音乐声中，同学们不时的跑动着转换队形，幻化出一幅幅寓意深刻、内涵丰富的场景画面。尤其是，当背景音乐中流淌出《祝福你，我的祖国》的旋律时，同志们用手中的扇子，组合出象征着春天生命勃发，春芽开始生命征程的跃动和勇气，以及那种势如破竹的生命本质。她们的舞动中没有煽情的语言，没有激情的动作，给人的震憾却是无与伦比的。她们用肢体语言，体现的是地震工作者团结的力量，展现的是和谐的美丽，弘扬的是奥运的精神。象征着防震减灾事业的春天，汩汩涌动的春潮中推出了“防震减灾利国利民”几个大字，整个场面令人叹为观止。她道出了防震减灾工作为公共安全服务的精髓，传达了京区首届职工运动会的真谛和精神。一次次经久不息的掌声和喝彩声表达了地震工作者的心声，奥林匹克精神和信念不会因为运动会的结束而泯灭，而是通过首届运动会会更加发扬光大，体现在防震减灾工作的方方面面。</P>
+<P>　　当人们还沉浸在团体操营造的氛围中，局领导一场别开生面的定点投篮比赛拉开了34项赛事的序幕。领导干部身体力行的倡导全民健身活动、团结奋进的团队精神，极大的鼓舞了士气，感染了场内外的观众。从各单位领导到大会工作人员，从参赛运动员到观众，大家拧成一股绳，激情如澎湃的海洋，赛出风格、赛出水平，真正展示京区广大地震科技工作者的精神面貌和风采，树立正确的荣誉感、竞争意识和团结协作精神，争取更加的优异的成绩，为集体争光，为单位添彩，成为防震减灾事业的合格人才，是每一个参赛者的目标和愿望。<BR>一时之间，定点投篮、足球射门、齐心协力六人行、径赛项目、田径赛项目都有条不紊的在场内展开。随着各个项目的角逐，赛场上，一会儿这里一阵助威声，那里一阵欢呼声；东边一阵加油声，西边一阵喝彩声。看台上、场地内，运动员与观众融为一体，“团结、友谊、交流、发展、健康、活力、激情、奉献”，加强防震减灾文化建设，增强队伍的凝聚力、战斗力，为奥运会营造和谐的人文环境，是本次运动会的主题，也是每个地震科技工作者的愿望。</P>
+<P align=center><STRONG>天公作美&nbsp; 喜降春雨&nbsp; 花更艳&nbsp; 人更勇</STRONG></P>
+<P>　　2006年的北京无雪。</P>
+<P>　　正当中国地震局京区首届职工运动会赛事进行得如火如荼、群情鼎沸之际，北京人企盼了一冬的春雨悄然飘落。盛妆之中的防灾科技学院，花更红，草更绿；参加比赛的运动员斗志更高，夺冠之心更切。尽管春雨使得比赛场地湿滑，增大运动项目的难度，但依次上场的队员依旧齐心协力的改写着单位和个人的最好成绩。特别是齐心协力六人行项目，是一项充满智慧和力量，技巧和协调的竞技项目，参与者既要有顽强的拼搏精神，还要有团队的协作精神，整体的配合既要讲求速度，还要讲求技巧。比赛中时有整体摔倒的情况出现，但运动员丝毫没有受其影响，没有一支队伍中途弃权退场，而是拿出作课题的认真劲，于观战中仔细研究其特点，总结兄弟队的经验和教训，领会要领、抓住关键，喊着号子、模拟练习。田径赛场上，运动员如离弦的箭冲向胜利的终点，冲刺的精彩场面刷新着一个又一个记录。<BR>春雨过后的晴空给最具观赏性的拔河比赛增添了一抹亮色。这是一项参与性强、娱乐性强、互动性强，彰显团结协作，展示集体力量和组织指挥能力的项目，每个参赛者和啦啦队员都要在统一的指挥下，劲往一处使，力往一处用。每一场比赛，只见裁判员的哨音过后，蓄势待发的运动员在指挥声中，应和着啦啦队的号子声，铆足了劲一次次的发力，而啦啦队员们强劲有力的呐喊助威声，及张驰有致的形体语言也展现出了上下一心、同心同德的团队精神。</P>
+<P>　　体育场上空不时传来的颁奖消息，鼓舞着队员们再创佳绩的决心；登上领奖台的胜利者手舞花束、高举奖章，向大家展示团结的力量，智慧的结晶，奋勇拼搏的成果。广播声中各单位送来的赛场快报从不同角度解读着运动会和参赛者、参加者的心声，每一位在场的人分享着拼搏者的风采，分享着胜利的喜悦。</P>
+<P>　　经过一天的激烈拼搏，13个项目，34场比赛胜利结束。党组成员、副局长修济刚同志在闭幕词中说，各代表团取得了优异的成绩，赛出了风格，赛出了友谊。比赛虽然结束了，但精神和动力依然在继续。要很好地总结这次运动会地成功经验，并且长期坚持下去，努力创造团结和谐积极向上的工作环境。是的，强身健体，勇于拼搏，团结向上，开拓创新，共建和谐的奥林匹克精神，让所有的地震科技工作者不仅此时此刻团结如一，在今后的工作中也将团结如一。</P>
+<P align=center><STRONG>领导高度重视率先垂范&nbsp; 广大职工同心同德尽显风采</STRONG></P>
+<P>　　这次规模盛大的运动会，是中国地震局为贯彻执行《全民健身计划纲要》，纪念中国共产党建立85周年、中国红军长征70周年，集中展示直属机关巩固保持共产党员先进性教育活动成果和广大干部职工的精神风貌，促进直属机关全民健身活动的深入开展，加强防震减灾文化建设，提高干部职工身体素质，进一步增强队伍的凝聚力、战斗力，以实际行动为2008年北京奥运会营造和谐的人文环境，推动防震减灾工作而举办的。</P>
+<P>　　本次盛会得到了各级领导的高度重视、大力支持。局党组书记、局长陈建民同志指示，一定要组织好这次运动会。成立了由党组成员、副局长修济刚同志任主任的中国地震局京区职工首届运动会组织委员会，各单位也都成立了领导机构，有些单位还专门设置了宣传报道组、后勤保障组等部门。从3月份开始筹备，到预赛的各个阶段，各级领导都坚持一线指挥，不仅观看预赛，为队员们鼓劲加油，还亲自参加比赛项目。陈建民、刘玉辰、赵和平、修济刚、张友民等局领导和老领导及一些单位负责人参加了定点投篮项目。足球射门、插红旗比赛和篮球比赛场上，一些单位负责人亲自披挂上阵，担刚挂帅。防灾科技学院、中国地震台网中心、地震预测研究所、中国地震应急搜救中心、机关服务中心、地壳运动监测工程研究中心、地震工程研究中心、地震出版社、北京市地震局等单位领导班子全体成员参加了运动会。中国地震台网中心领导班子全体成员不仅参加了运动会，参加了比赛，副主任张晓东同志还取得了插红旗比赛的第七名；地壳应力研究所副所长阮晓龙同志以巾帼不让须眉的精神参加了足球射门比赛；有的领导亲自督阵，与啦啦队一起，为自己的团队呐喊助阵，激励队员们赛出水平，赛出友谊，与职工们一道尽情地享受着团队的每一份成绩和每一次胜利。</P>
+<P>　　大会组委会主要成员，从2月份成立筹备组以来，就没有好好休息过节假日。从运动会的比赛方案策划，到各项赛事的比赛原则、日期及场地的确定，后勤保障、赛事安全，开幕式、闭幕式，各单位预赛情况等，事无巨细，不一而足，都要求做到先谋先行。比赛当天运动员和观众数百人的配餐，也要提前做好预案。为此，他们加班加点，牺牲了休息日，不辞劳苦，精心筹划，把一切可能的工作做在了前边。天道酬勤，他们的智慧和辛劳为运动会奠定了成功的基础。<BR>大会工作人员，还没从筹备的繁忙中休息过来，就进入了开幕、闭幕式的工作议程，运动员的入场、退场，大会程序、紧张的赛事衔接，决赛项目的及时播送，各单位的宣传报道、观众席上啦啦队的情况，赛场安全都是需要他们关注的。一天下来，大多数工作人员没顾上喝一口水、没坐下喘口气。机关党委全体同志更是前一天进驻，开始了过细而紧张的工作。防灾科技学院从校领导到工作人员，表现出强烈的奉献精神，饱含着他们对防震减灾工作的热爱和支持。中国地震台网中心宣教部的同志们，为了忠实地记录、捕捉比赛场上的每一个精彩瞬间，把大家的感动和喜悦在镜头下定格，使美好成为永恒，不辞劳苦。尤其是黄宝忠和郭兵两位年轻同志，扛着几十斤重的摄像机一直工作，没有休息片刻，他们的敬业精神值得称道。局机关各司室积极支持和配合运动会的组织工作，充分体现出“四型”机关的良好风貌。</P>
+<P>　　中国地震局京区首届运动会无疑是成功的，各直属单位干部职工积极参加了运动会。正是由于领导的重视、身体力行，广大干部职工的积极参与和幕后工作人员大量默默无闻的工作，这次盛会才能如此成功。</P>
+<P>　　当获得团体奖的领奖人骄傲地高举银光闪闪的奖杯，向场内致意时，热烈而持久的掌声、欢呼声袒露出地震科技工作者最真挚的感情和心声。</P>
+<P>　　我们相信，在精神文明建设和先进文化建设过程中，我们的实践经验会越来越丰富，我们的活动形式会越来越多样，我们的活动领域会越来越拓展，我们的活动内涵会越来越深刻，广大干部职工的积极性、主动性、创造性也会越来越高涨，精神文明和先进文化建设一定会跨入一个蓬勃发展的新阶段。（执笔人：武玉霞）</P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

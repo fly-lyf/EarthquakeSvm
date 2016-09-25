@@ -1,0 +1,967 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海地震监测能力（一）<span>发布时间：2007-06-06</span></div>
+                <p><p><font face="Arial"><font face="Arial">　　一、上海市地震监测系统的构成<br />
+　　上海市地震监测系统包括地震学、地壳形变学、地下流体学和地球电磁学四个领域，由上海数字遥测地震台网（阵）、地震前兆台网、数字强震台网和基本地震台站(佘山地震台、崇明地震台)组成。<br />
+　　</font></font></p>
+<p><font face="Arial"><font face="Arial">　　1.1 上海数字遥测地震台网（阵）</font></font></p>
+<p><font face="Arial"><font face="Arial">　　1975年海城大地震后，党中央、国务院高度重视地震重点监测防御地区和重点城市的地震监测防御工作，批准国家地震局新建上海、昆明、兰州、沈阳、成都和扩建北京6个区域遥测地震台网。1982年，上海遥测地震台网率先在全国建成，并通过国家验收。遥测地震台网由于采用了统一授时、集中记录、多台交汇及计算机处理等先进技术，大大提高了地震定位的精度，加快了地震速报的速度，增强了地震监测能力。<br />
+上海遥测地震台网建成伊始，便承担了上海市行政区ML&ge; 3.0级、上海周边地区ML&ge;3.5级、全国MS&ge;5.0级、全球MS&ge;7.0级的地震三要素(发震时刻、震中位置、震级)的速报任务以及上述范围内的地震月报目录编辑出版工作。</font></font></p>
+<p><font face="Arial"><font face="Arial">　　1995年9月8日，上海市政府批准上海市地震局重点项目&ldquo;更新地震监测预报设施（一期）&rdquo;课题。该课题配备国产最新宽带地震计、实施数字化传输、使用新研制地震定位分析系统，全面改造模拟遥测台网的４个基岩点、８个深井观测点，并新建一个地面观测点和一个新的台网中心。课题完成后的实用性在于：把上海地震监测能力提高到市区&ge;0.6级；震后15分钟内完成和提供地震三要素速报；震后２小时内提供上海地区烈度影响和震害预估，２小时后提供震后趋势预测意见。</font></font></p>
+<p>&nbsp; </p>
+<div align="center">
+<table style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt" cellspacing="0" cellpadding="0" border="1">
+    <tbody>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">台站名<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">职守<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">仪器名称<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">仪器型号<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">松江佘山遥测地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">宽带地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">KS-2000</span><span lang="EN-US"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">苏州天平山遥测地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">宽带地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">KS-2000<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">瓶窑横湖遥测地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">宽带地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">KS-2000<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金山秦皇山遥测地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">宽带地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">KS-2000<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">崇明遥测地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">井下短周期地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">768井下<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">虹桥遥测地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">井下短周期地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">768井下<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">南汇遥测地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">井下短周期地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">768井下<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">上戏遥测地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">短周期地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">768<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">海运遥测地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">井下短周期地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">768井下<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">上海数字遥测台网中心地震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">短周期地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">768<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 158.4pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-top-alt: solid windowtext .5pt" width="211">
+            <p class="MsoNormal"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">佘山岛遥测地震台</span><span lang="EN-US" style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 90pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="120">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">地震遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 108pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="144">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">宽带地震计<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 69.7pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="93">
+            <p class="MsoNormal" style="TEXT-JUSTIFY: inter-ideograph; LINE-HEIGHT: 18pt; TEXT-ALIGN: justify; mso-line-height-rule: exactly"><span lang="EN-US" style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">KS-2000<o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="left"><font face="Arial">　　1997年12月，上海市政府又正式批准了《更新地震监测预报设施二期工程》，即上海市地震监测预报设施的现代化建设。在上海佘山建成了由16个子台组成孔径约3km的地震台阵，该台阵是中国大陆第一个国际先进的、数字化、宽频带、大动态、永久性的地震台阵，取名为上海地震台阵。<br />
+</font></p>
+<p align="center"><font face="Arial"></font></p>
+<p align="center"><img style="WIDTH: 479px; HEIGHT: 406px" height="251" alt="" width="491" src="/resource/image002.jpg" /></p>
+<p align="center">上海遥测地震监测台站分布如图1所示。</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="left"><font face="Arial">　　我国第一个永久性数字化台阵的建立，使地震监测从单一的台网发展为阵网结合的方式，充分发挥了台阵的特点，使得对上海地区及其近海地震的监测能力有了进一步加强，地震定位的速度、精度、可靠性有了大幅度的提高。</font></p>
+<p align="center"><font face="Arial"><img style="WIDTH: 511px; HEIGHT: 377px" height="493" alt="" width="605" src="/resource/image004(1).jpg" /></font></p>
+<p align="center"><font face="Arial">上海数字地震台网（阵）的监测能力如图2所示。</font></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="left"><font face="Arial">　　1.2 地震前兆台网<br />
+　　&ldquo;九五&rdquo;期间，上海市政府和中国地震局共同投资启动了&ldquo;上海地震前兆台网技术改造&rdquo;项目。考虑到上海覆盖层厚、基岩出露少和工业发达、电磁干扰大的特点，上海市在前兆手段的设置上，除在佘山台、崇明台设有地磁和形变观测手段外，主要以地下流体为主，另外在条件较好的郊县设置了4个电磁波观测站。其布局依据是：①具有较好的观测环境和观测条件；②位于断层附近；③地下流体井孔的选择，要求其地质及水文地质条件清楚，具有一井多用和对比观测的基础。<br />
+前兆观测手段的规模见表1.3.2，其中：<br />
+</font></p>
+<p align="left"><font face="Arial">　　地磁手段设置在佘山台和崇明台。<br />
+　　地形变设置在佘山台，有水管仪、伸缩仪、重力仪、钻孔应变仪等。<br />
+　　电磁波观测4台仪器分别设在闵行区、南汇区、宝山区、崇明县。<br />
+　　地下流体观测手段分布在全市11个区、县。<br />
+　　该项目于2000年12月16日和2001年7月24日分别通过了中国地震局监测预报司和上海市科委主持的验收。</font></p>
+<p align="center"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><img style="WIDTH: 537px; HEIGHT: 511px" height="428" alt="" width="378" src="/resource/image007.gif" /></v:shapetype></span></font></v:shapetype></span></font></v:shapetype></span></font></v:shapetype></span></font></p>
+<p align="left"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"></font></v:shapetype></span></font></p>
+<p align="left"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"></font></v:shapetype></span></font></p>
+<p align="left"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"></font></v:shapetype></span></font></p>
+<p align="left"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"></v:shapetype></span></font></v:shapetype></span></font></v:shapetype></span></font></p>
+<p align="left"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial">1.3 数字强震台网<br />
+　　上海数字强震台网由三部分组成：<br />
+　　(1)地面数字强震观测网：在上海地区不同的地质条件下，采用自由场观测方式，布有10个测点，监测中强地震的地面加速度时程，用于快速确定地震烈度。当上海市附近发生较大地震后，通过加速度记录可迅速得到记录点的地震烈度，以此判定该地震是否造成破坏或破坏的程度，作为震害评估和速报震情的主要依据。<br />
+　　(2)结构数字强震观测网：在杨浦大桥、88层高的金茂大厦、32层的民防大厦和6层居民楼这些各具代表性的构筑物上分别放置4个强震仪，用于监测主要构造物在中强地震发生时的加速度参数。这些加速度记录是构造物抗震设防和设计的重要基础资料。<br />
+　　(3)土层垂直数字强震观测系统：为研究地震时土层对地震波传播的影响，特建设了该观测网，这将有助于地震区划、地震危险性分析、工程中桩基与土耦合计算等工程问题及地震基础科学的研究。在浦东国际机场，由处于不同土层，深度为60 m、100m、386m的三口深井和地表四台强震仪组成一个强震观测井组，井与井之间的距离不大于5m，可以认为地表4台强震仪处于同一水平位置，其中最深的井已打入基岩，井中各安放三分向深井加速度计一台。<br />
+　　所有设备均采用美国Kinemetrics公司的地面或井下强震观测仪。采用触发记录方式，触发阈值可以根据当地干扰背景人工设置。通过电话拨号以自动或人工方式将数据传输到强震台网中心。</font>&nbsp;</v:shapetype></span></font></p>
+<p align="center"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><img height="491" alt="" width="379" src="/resource/image009.gif" /></v:shapetype></span></font></p>
+<p align="center"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial">上海数字地震强震网台站布局情况见图4。</font></v:shapetype></span></font></p>
+<p align="center"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600">&nbsp; </v:shapetype></span></font></p>
+<p><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"></font></v:shapetype></span></font></p>
+<p><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"></font></v:shapetype></span></font></p>
+<p><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"></font></v:shapetype></span></font></p>
+<p align="left"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><font face="Arial">　　1.4 上海市地震监测系统建成后的效能<br />
+　　1.4.1 提高地震监测能力<br />
+　　从整体上既发挥了台阵的特点，又增强了台网的功能。上海佘山岛地震台的增建，弥补了上海地震台网在东部海域的空缺。佘山岛的地震记录也进一步提高了上海台网对海域地震的定位精度，同时增强了对东部海域地震的监测能力。<br />
+　　台阵是观测地震的一种方法，它可以大大提高地震信号的信噪比，有利于从噪声中提取有用的地震信号。20世纪90年代以来，世界各先进国家都致力于研究微小地震台阵的应用。上海近年来随着经济的发展、交通设施的完善，各地的环境噪声背景也显著增强，同时由于目前对海域地震的控制能力较弱，因此，在佘山建立上海地震台阵有其必要性。上海地震台阵是我国第一个应用于地震监测的永久性宽频带地震台阵，它的建成将进一步增强对上海地区及其近海海域的监测能力，推动我国数字地震学的发展。</font></font></v:shapetype></span></font></p>
+<p align="center"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><font face="Arial"><img style="WIDTH: 354px; HEIGHT: 275px" height="353" alt="" width="530" src="/resource/image011.jpg" /></font></font></v:shapetype></span></font></p>
+<p align="center"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><font face="Arial">图5上海地震台阵（网）建成之初的地震监测实情。</font></font></v:shapetype></span></font></p>
+<div align="center">
+<table style="WIDTH: 415.95pt; BORDER-COLLAPSE: collapse; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-lspace: 9.0pt; mso-table-rspace: 9.0pt; mso-table-anchor-vertical: page; mso-table-anchor-horizontal: margin; mso-table-left: center; mso-table-top: 111.05pt" cellspacing="0" cellpadding="0" width="555" align="center" border="0">
+    <tbody>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 宋体">台站名<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 宋体">台点名<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 宋体">类别<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 宋体">职守<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 宋体">仪器<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 宋体">型号<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 宋体">学科<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 26.25pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">浦东国际机场地震台（强震台）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">浦东国际机场</span><span lang="EN-US" style="FONT-SIZE: 9pt">381</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">米深井地震台（强震台）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">Episensor</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体">、</span><span lang="EN-US" style="FONT-SIZE: 9pt">Hyposensor<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 26.25pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">浦东国际机场地震台（强震台）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">浦东国际机场</span><span lang="EN-US" style="FONT-SIZE: 9pt">100</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">米深井地震台（强震台）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">Episensor</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体">、</span><span lang="EN-US" style="FONT-SIZE: 9pt">Hyposensor<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 26.25pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">浦东国际机场地震台（强震台）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">浦东国际机场</span><span lang="EN-US" style="FONT-SIZE: 9pt">60</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">米深井地震台（强震台）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">Episensor</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体">、</span><span lang="EN-US" style="FONT-SIZE: 9pt">Hyposensor<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 26.25pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 25.5pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 25.5pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">浦东国际机场地震台（强震台）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 25.5pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">浦东国际机场地面地震台（强震台）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 25.5pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 25.5pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 25.5pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 25.5pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">Episensor</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体">、</span><span lang="EN-US" style="FONT-SIZE: 9pt">Hyposensor<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 25.5pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">嘉定区徐行中学地震台（强震台）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">K2<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金山秦皇山强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">K2<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">市西中学强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">K2<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">吴泾电化厂强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">K2<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">松江佘山强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">K2<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">曹杨公园强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">曹杨公园强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">Episensor<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">曹杨公园强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">曹杨公园深井强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">Hyposensor<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金茂大厦强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金茂大厦</span><span lang="EN-US" style="FONT-SIZE: 9pt">30F</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">Etna<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金茂大厦强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金茂大厦</span><span lang="EN-US" style="FONT-SIZE: 9pt">51F</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金茂大厦强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金茂大厦</span><span lang="EN-US" style="FONT-SIZE: 9pt">B2</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金茂大厦强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">金茂大厦</span><span lang="EN-US" style="FONT-SIZE: 9pt">PH2</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">民防大厦强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">民防大厦<span lang="EN-US">14F强震台<o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">Etna<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">民防大厦强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">民防大厦<span lang="EN-US">23F强震台<o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">民防大厦强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">民防大厦<span lang="EN-US">32F强震台<o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">民防大厦强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">民防大厦</span><span lang="EN-US" style="FONT-SIZE: 9pt">B2</span><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">杨浦大桥强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">东塔塔顶强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">K2<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">杨浦大桥强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">主塔横梁强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">杨浦大桥强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">主跨跨中强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">万德路强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">崇明民宅强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">竖河民宅强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">Etna<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">崇明民宅强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">竖河民宅<span lang="EN-US">4F强震台<o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">崇明民宅强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">竖河民宅楼顶强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-ascii-font-family: 'Times New Roman'; mso-hansi-font-family: 'Times New Roman'">　</span><span lang="EN-US" style="FONT-SIZE: 9pt"><o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">崇明强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">KSG-S-3BW<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+        <tr style="HEIGHT: 15.75pt">
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 90.75pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="121">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">上海数字遥测台网中心强震台<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 99pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="132">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">　<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 49pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="65">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">省（市）<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 35.45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="47">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">遥测<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 41.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="55">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震仪<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 57.65pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="77">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span lang="EN-US" style="FONT-SIZE: 9pt">KSG-S-3BW<o:p></o:p></span></p>
+            </td>
+            <td style="BORDER-RIGHT: windowtext 0.5pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; WIDTH: 42.55pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 15.75pt" width="57">
+            <p class="MsoNormal" style="mso-height-rule: exactly; mso-element: frame; mso-element-frame-hspace: 9.0pt; mso-element-wrap: around; mso-element-anchor-vertical: page; mso-element-anchor-horizontal: margin; mso-element-top: 111.05pt"><span style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体">强震<span lang="EN-US"><o:p></o:p></span></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<p align="center"><br />
+</p>
+<p align="center"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><font face="Arial"></font></font></v:shapetype></span></font></p>
+<p align="center"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><font face="Arial"></font></font></v:shapetype></span></font></p>
+<p align="left"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><font face="Arial"><font face="Arial">　　上海地震台阵(网)自2001年6月至2002年4月所记录的上海周边地区地震个数超过以往同期上海台网记录的地震数。以往上海台网基本没有记录到上海及周边地区小于1级的地震，但在上海地震台阵(网)建成后短短近一年的时间内，却记录到了长江口、南黄海以及江苏邻近地区多次小震活动，如昆山ML0.7级、黄海ML1.8级地震等等，进一步提高了原台网的地震监测能力。<br />
+　　</font></font></font></v:shapetype></span></font></p>
+<p align="left"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><font face="Arial"><font face="Arial">　　1.4.2 增加了地震预报的手段与能力<br />
+　　目前，所有的前兆观测资料已用于日常地震趋势会商。实际资料表明，数字化前兆数据明显优于以往的模拟或人工观测记录的数据质量。由于数字化数据更加便于处理，从而使信息具有较强的可用性。原来不可能得到的高频信息可以被观测到，原来模拟记录很难实现的预报方法也变得比较容易。而且许多测项的数据分辨率提高了近一个数量级，为地震趋势的分析会商提供了更多高质量的资料。由于实现了和邻近省市的数据交换与共享，因此能及时得到更多有用的地震前兆信息，有利于地震预报的探索与研究。<br />
+　　</font></font></font></v:shapetype></span></font></p>
+<p align="left"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"><font face="Arial"><font face="Arial">　　1.4.3 获得了有价值的加速度观测数据<br />
+　　在杨浦大桥东侧塔顶，观测到1999年9月21日台湾7.6级地震在该测点的最大加速度值、1998年9月19日第6号台风和2000年8月30～31日&ldquo;派比安&rdquo;台风期间杨浦大桥钢箱梁中央处的最大加速度值，这些资料受到有关政府部门的重视，并引起地震学家和建筑师们的广泛兴趣。<br />
+近一年多来，上海邻近地区发生了一些3～4级的中等地震，对这些地震的加速度记录分析研究表明，上海地区的土层对地震波有明显的放大作用。<br />
+我国第一个永久性地震台阵的建立，使地震监测从单一的台网发展为阵网结合的方式，充分发挥了台阵的特点，进一步加强了上海地区及其近海的地震监测能力，地震定位的速度、精度、可靠性有了进一步提高，同时也为开展地震预报和地震科学研究工作提供了坚实的基础；前兆台网的建成和数字化改造，增加了上海地区地震前兆的观测内容和预报手段，极大地改变了上海地震前兆观测相对落后的状况，进一步增强了对上海地区的地震预报能力；通信网络的建成将使数据的获取和交换更加快捷，实现了与邻省的资料共享，提高了上海市的地震监测预报和应急反应能力；数字化强震台网的建成将为上海地区的震灾快速评估、地震应急、建构筑物的抗震性能评价和抗震设计提供可靠的依据，也为工程设计、地震区划、震源动力学等研究工作提供了翔实的观测资料。<br />
+</font></font></font></v:shapetype></span></font></p>
+<p align="center"><font face="Arial"><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><font face="Arial"></font><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype></span></font></p>
+<p align="center"><br />
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div align="center"></div>
+<p>&nbsp;</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

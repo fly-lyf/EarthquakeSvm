@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">综合信息</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>学习贯彻习近平总书记重要批示精神 探索芦山强烈地震恢复重建新路子研讨会举行 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '四川日报';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-04-21 09:48:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-21 09:48:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-04-21 09:48:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-21 09:48:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<DIV id=cbw_zw_text>
+<P align=left>　　<SPAN>4</SPAN><SPAN>月<SPAN>20</SPAN>日，芦山强烈地震两周年之际，由省重建委主办的学习贯彻习近平总书记重要批示精神、探索“<SPAN>4</SPAN>?<SPAN>20</SPAN>”芦山强烈地震恢复重建新路子研讨会，在雅安市举行。 </SPAN></P>
+<P align=left>　　<SPAN>省委书记、省重建委主任王东明作主旨发言。省委副书记、省长、省重建委副主任魏宏主持上午的研讨发言，省委副书记尹力出席。中央和省有关部门（单位）负责人、省内外专家学者齐聚一堂，共同研讨“中央统筹指导、地方作为主体、灾区群众广泛参与”的重建新路在芦山地震灾区的实践成效和经验。 </SPAN></P>
+<P align=left>　　<SPAN>王东明在发言中代表省委、省政府，向出席研讨会的国家部委负责同志、科研机构专家学者和新闻界的朋友们表示热烈欢迎，对大家长期以来给予四川工作特别是灾后恢复重建的关心、支持和帮助表示衷心的感谢。王东明说，两年前，突如其来的芦山<SPAN>7.0</SPAN>级强烈地震，给四川人民带来新的伤痛和生命财产巨大损失。党中央、国务院高度重视抗震救灾和灾后恢复重建工作，采取了一系列措施给予巨大支持，明确芦山地震灾区恢复重建由四川省负总责，探索建立新的体制机制，走出重建新路。面对中央的重托和灾区人民的期待，我们深感千钧重担、责任重大。两年来，在党中央、国务院坚强领导下，在中央有关部委和社会各界大力支持下，在全国人民无私援助下，我们迎难而上、勇于担当，自力更生、艰苦奋斗，坚持科学规划、统筹谋划，坚持以人为本、民生优先，坚持做强产业、提升能力，坚持尊重自然、保护生态，坚持量力而行、求真务实，奋力夺取抗震救灾重大胜利，取得恢复重建重大成效，地震灾区“户户安居有业、民生保障提升、产业创新发展、生态文明进步、同步奔康致富”的规划愿景，正在加快变为看得见、摸得着的生动现实。今天，我们可以自豪地说，省委十届三次全会确定的“三年基本完成、五年整体跨越、七年同步小康”重建目标一定能够如期实现！ </SPAN></P>
+<P align=left>　　<SPAN>王东明说，芦山地震灾区恢复重建，中央首次明确“地方作为主体”的新机制，这是新的历史时期我国应急救灾工作思想的重大创新，为探索完善我国抗御巨灾体制机制提供了科学指引。提出并实行“地方作为主体”的新机制，有利于推进国家治理体系和治理能力现代化，有利于强化地方抗御重大自然灾害的责任和能力，有利于激发人民群众的主动性创造性、自力更生重建家园的主人翁意识。在灾后重建实践中，我们认真学习贯彻习近平总书记重要批示精神，认真落实中央重大决策，围绕落实地方主体责任、走出科学重建新路进行了不懈探索，进一步加深了科学应对重大自然灾害的规律性认识。这就是：落实地方主体责任，需要健全领导指挥机制，为抢险救灾和恢复重建提供组织保障；需要健全工作推进机制，切实保障各个环节高效务实运转；需要健全群众参与机制，更好发挥灾区群众的主体作用；需要健全社会协同机制，形成推动加快重建的强大合力；需要健全省内对口援建机制，为重建工作提供有力支持；需要健全资金质量监管机制，确保廉洁重建阳光重建；尤其需要重视发挥党的政治优势和组织优势，发挥各级党组织的战斗堡垒作用和党员干部的先锋模范作用。 </SPAN></P>
+<P align=left>　　<SPAN>王东明强调，当前，芦山地震灾区恢复重建正处于关键时期。夺取重建全面胜利，提升重建整体水平，走出重建新路子，要求我们必须遵循规律、开拓创新、砥砺奋斗。我们将深入学习贯彻习近平总书记重要批示精神，全面落实“地方作为主体”的新机制，认真实施重建总体规划，继续把居民住房、公共服务设施等民生重建摆在首位，扎实推进基础设施和城镇体系重建，下大力气抓好产业重建，深入推进生态重建，确保重建目标顺利完成，向党和人民交出一份合格答卷。我们坚信，在以习近平同志为总书记的党中央坚强领导下，有中央各部委和社会各界的大力支持，有全省上下特别是灾区干部群众的团结一心、拼搏实干，芦山地震灾区恢复重建一定能够取得全面胜利。 </SPAN></P>
+<P align=left>　　<SPAN>在上午的研讨中，中央宣传部副部长王世明围绕进一步做好芦山地震恢复重建新模式宣传报道，充分展示社会主义制度优越性；人力资源社会保障部副部长何宪围绕发挥劳动就业社保政策对重建的支撑和保障作用；国家发展改革委秘书长李朴民围绕正确处理好中央与地方、政府与市场、重建主体与客体、重建主要矛盾和矛盾主要方面、恢复重建与长远发展的关系；国务院参事、中国科学院首席科学家牛文元围绕创新探索、复制推广芦山地震灾区恢复重建经验；中央党史研究室副主任吕世光围绕探索灾后重建新路子和四川的创新实践；住房城乡建设部总规划师唐凯围绕下一步重建工作中需要注意的几个问题；农业部总农艺师孙中华围绕协助灾区推动农业恢复重建；国土资源部地质灾害应急管理办公室主任崔瑛围绕做好震区地质灾害防治工作，保障地质环境安全；省社科院副院长、研究员李明泉围绕灾后重建体制机制创新的四川探索与实践；省政府秘书长、雅安市委书记叶壮围绕感恩奋进、克难攻坚，加快建设幸福美丽新家园，作了发言。下午，吕政、刘守英、郭春鸣、宋秋玲、齐贵新、范一大、潘云良、李雪峰、黄昌明、吴光镭、黄明全、王一宏、杨冬生、何健、任永昌、陈旭、唐永进等与会同志，也相继作了发言。 </SPAN></P>
+<P align=left>　　<SPAN>省委常委、宣传部部长吴靖平主持下午的研讨发言。中央党校副校长赵长茂，国家行政学院副院长陈立，省委常委、副省长钟勉，副省长黄彦蓉、王宁，以及中央组织部、教育部、民政部、财政部、国土资源部、国家卫计委、国务院发展研究中心、中国社会科学院等中央部门（单位）和人民日报社、新华社、求是杂志社等中央新闻单位有关领导或专家学者，省直部门（单位）、地震灾区、对口援建市负责同志和省内专家学者等，参加研讨会。 </SPAN></P></DIV></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

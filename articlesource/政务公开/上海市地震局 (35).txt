@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">公开事项</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/zwgk/n107/n109/n111/index.html" target="_parent" title="政府采购公告"><span>政府采购公告</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/index.html" class="now" target="_parent" title="采购结果公示"><span>采购结果公示</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../../../index.html">政务公开</A> &gt; <A class=black-y-text HREF="../../index.html">政府采购公开事项</A> &gt; <A class=black-y-text HREF="../index.html">公开事项</A> &gt; <A class=black-y-text HREF="index.html">采购结果公示</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>采购结果公示</h2>
+            </div>
+            <ul class="listTxt">
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/326994" title="上海市地震局崇明地震台专用设备采购项目（GDC-20151204145426994）网上竞价成交公告">上海市地震局崇明地震台专用设备采购项目（GDC-20151204145...</a><span>2015-12-28</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/324505" title="上海市地震局监测中心甚宽频地震计采购项目（GDC-20151123170524505）网上竞价成交公告">上海市地震局监测中心甚宽频地震计采购项目（GDC-2015112317...</a><span>2015-12-28</span></li>
+               
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6970.html" title="上海市地震局网络综合审计系统采购成交公示（合同编号：GC-HG110397-15-12-08-7404）">上海市地震局网络综合审计系统采购成交公示（合同编号：GC-HG1103...</a><span>2015-12-28</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6969.html" title="上海市地震局中端网络路由器采购成交公示（合同编号：GC-HG110397-15-11-05-5607）">上海市地震局中端网络路由器采购成交公示（合同编号：GC-HG11039...</a><span>2015-12-28</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6968.html" title="上海市地震局便携式计算机采购成交公示（合同编号：GC-HG110397-15-09-08-0673）">上海市地震局便携式计算机采购成交公示（合同编号：GC-HG110397...</a><span>2015-12-28</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6967.html" title="上海市地震局防火墙产品(千兆)采购成交公示（合同编号：GC-HG110397-15-08-27-6115）">上海市地震局防火墙产品(千兆)采购成交公示（合同编号：GC-HG110...</a><span>2015-12-28</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6966.html" title="上海市地震局桌面办公系统采购成交公示（合同编号：GC-HG110397-15-08-12-8046）">上海市地震局桌面办公系统采购成交公示（合同编号：GC-HG110397...</a><span>2015-12-28</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6965.html" title="上海市地震局个人操作系统采购成交公示（合同编号：GC-HG110397-15-08-12-8046）">上海市地震局个人操作系统采购成交公示（合同编号：GC-HG110397...</a><span>2015-12-28</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6964.html" title="上海市地震局服务器操作系统采购成交公示（合同编号：GC-HG110397-15-08-12-8046）">上海市地震局服务器操作系统采购成交公示（合同编号：GC-HG11039...</a><span>2015-12-28</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6963.html" title="上海市地震局服务器操作系统客户端访问许可采购成交公示（合同编号：GC-HG110397-15-08-12-8046）">上海市地震局服务器操作系统客户端访问许可采购成交公示（合同编号：GC-...</a><span>2015-12-28</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6962.html" title="上海市地震局扫描仪采购成交公示（合同编号：GC-HG110397-15-04-22-7031）">上海市地震局扫描仪采购成交公示（合同编号：GC-HG110397-15...</a><span>2015-12-25</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6961.html" title="上海市地震局便携式计算机采购成交公示（合同编号：GC-HG110397-15-04-15-5017）">上海市地震局便携式计算机采购成交公示（合同编号：GC-HG110397...</a><span>2015-12-25</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6960.html" title="上海市地震局便携式计算机采购成交公示（合同编号：GC-HG110397-15-04-14-4820）">上海市地震局便携式计算机采购成交公示（合同编号：GC-HG110397...</a><span>2015-12-25</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6959.html" title="上海市地震局便携式计算机采购成交公示（合同编号：GC-HG110397-15-04-14-4822）">上海市地震局便携式计算机采购成交公示（合同编号：GC-HG110397...</a><span>2015-12-25</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6956.html" title="上海市地震局激光打印机采购成交公示（合同编号：GC-HG110397-15-04-02-2623）">上海市地震局激光打印机采购成交公示（合同编号：GC-HG110397-...</a><span>2015-12-25</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6955.html" title="上海市地震局平板电脑采购成交公示（合同编号：GC-HG110397-15-01-08-4229）">上海市地震局平板电脑采购成交公示（合同编号：GC-HG110397-1...</a><span>2015-12-25</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6954.html" title="上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150900013424）">上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150900...</a><span>2015-12-25</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6953.html" title="上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150900013428）">上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150900...</a><span>2015-12-25</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6952.html" title="上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150900013429）">上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150900...</a><span>2015-12-25</span></li>
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/u1ai6951.html" title="上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150900013431）">上海市地震局硒鼓、粉盒（仓）、墨粉采购成交公示（合同编号：150900...</a><span>2015-12-25</span></li>
+                
+            </ul>
+            <div class="page">
+<font color=gray>首页 </font><font color=gray> 上一页 </font><A class=text-1 HREF="/gb\dzj/zwgk/n107/n109/n112/index1.html"> 下一页 </A><A  HREF=index6.html> 尾页 </A>
+                <span>第1页&nbsp;共7页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

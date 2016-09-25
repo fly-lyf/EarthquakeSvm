@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>芦山地震两周年暨汶川地震七周年专题</title>
+<link rel="stylesheet" type="text/css" href="../../../../images/zn2015_conf_style.css"/>
+<script type="text/javascript" src="../../../../images/currPage.js"></script>
+</head>
+<body>
+<div id="mainWiap">
+  <div class="blankH10" style="height:301px;"></div>
+  <div class="contwiap">
+    <div class="blankH10"></div>
+    <div class="zn_dqwz white">当前位置：<a href="../../../../">首页</a>&gt;<a href="../../../">新闻资讯</a>&gt;<a href="../../">重要专题</a>&gt;<a href="../">芦山地震两周年暨汶川地震七周年专题</a>&gt;<a href="./">图片要闻</a></div>
+    <div class="blankH14"></div>
+    <div class="zz_cont3">
+      <div class="contL fl">
+        <!--menu-->
+        <div class="p_menu">
+          <h2 class="f14 white"><a href="./">图片要闻</a></h2>
+          <div class="blankH10"></div>
+          <ul>
+          
+          <li>&middot;<a href="./">图片要闻</a></li>
+        
+          <li>&middot;<a href="../zhxx_20150416/">综合信息</a></li>
+        
+          <li>&middot;<a href="../gddt_20150416/">各地动态</a></li>
+        
+          <li>&middot;<a href="../mtjj_20150416/">媒体聚焦</a></li>
+        
+          <li>&middot;<a href="../dzkp_20150416/">地震科普</a></li>
+        
+          <li>&middot;<a href="../spbb_20150416/">视频播报</a></li>
+        
+          <li>&middot;<a href="../tpxw_20150416/">图片新闻</a></li>
+        
+          </ul>
+        </div>
+        <!--menu end-->
+      </div>
+      <div class="contR fr">
+        <!--政策法规-->
+        <div class="i_tyMenu">
+          <h2 class="fl f14"><a href="./">图片要闻</a></h2>
+          <p class="clear"></p>
+        </div>
+        <div class="blankH14"></div>
+        <div class="i_list2">
+          <ul>
+           
+          <li><span>[2015-05-15]</span>&middot;<a href="./201505/t20150515_32974.html" target="_blank" title="四川省地震局开展“防灾减灾日”科普宣传活动">四川省地震局开展“防灾减灾日”科普宣传活动</a></li>
+         
+          <li><span>[2015-05-13]</span>&middot;<a href="./201505/t20150513_32945.html" target="_blank" title="四川省举行2015年省级防震救灾综合演练">四川省举行2015年省级防震救灾综合演练</a></li>
+         
+          <li><span>[2015-04-16]</span>&middot;<a href="./201504/t20150416_32799.html" target="_blank" title="地震应急宣传交流研讨会在西昌召开">地震应急宣传交流研讨会在西昌召开</a></li>
+         
+          </ul>
+        </div>
+        <!--政策法规 end-->
+        <div class="blankH20"></div>
+        <div class="p_next"><script type="text/javascript">
+		 createPageHTML(1, 0, "index", "html");
+	  </script></div>
+      </div>
+      <p class="clear"></p>
+    </div>
+    <div class="blankH16"></div>
+    <!--底部开始-->
+    <div class="botCont">
+      <div class="blankH12"></div>
+      版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+       蜀ICP备05030409号 </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">民乐学校举行地震应急避险专题教育活动<span>发布时间：2007-06-01</span></div>
+                <p><p align="center"><font face="Arial"><img height="485" alt="" width="668" src="/resource/zijiuhujiu.jpg" /></font></p>
+<p><font face="Arial">　　为深化学校防震减灾教育，提高学生应急避险能力和技巧，松江区地震办和民乐学校组织了本次地震应急避险专题教育活动。活动突出理论联系实际的特点，先邀请专家讲授理论知识后进行集体疏散逃生、包扎急救等实践演练，使学生印象深刻，达到了良好教学效果。<br />
+　　4月17日，区地震办邀请了上海市防震减灾宣讲团成员、同济大学防灾减灾研究所研究员刘艺林教授，到校为七年级全体师生作防震减灾科普知识讲座。刘教授的讲座以&ldquo;地震基本知识和地震逃生&rdquo;为主题，通过多媒体的运用及生动形象的语言叙述，介绍了发生地震的原因、地震分布、中国震情、上海地区的地震情况、如何进行避震等知识。我校在七年级开设了防震减灾校本课程，同学们对地震知识有了初步的了解，这次讲座内容充实，条理清楚，使同学们对这部分的知识的了解更加深刻、更加形象，获得了师生们的热烈欢迎。<br />
+　　4月29日下午12时10分，随着一声警报响起，我校精心筹备的地震灾害紧急疏散综合演练正式展开。教师在警报声中立即停止了一切工作，按照学校疏散预案的职责，迅速赶往自己的岗位；学校成立的紧急疏散指挥部，统一发出疏散指令，各班在老师的带领下，快速地从教室奔向操场；各负责老师沉着镇定，各楼梯口、安全出口、转弯处均有教师指引逃离路线，使疏散工作忙而不乱，险而不惊，紧张有序；学生逃离到操场后，学校领导和教师组织安定学生情绪，整个疏散过程自始至终井然有序；之后，同学们在操场上又观看了由学生展示的伤员搬运、包扎、急救等技巧。<br />
+　　地震，给我们人类的生命财产造成了重大损失，更威胁着我们宝贵的生命。这次活动的开展，使我校广大师生们掌握了安全疏散逃生的方法，熟悉了紧急疏散路线、地点及自救互救技能，在学习防震减灾知识的同时，增强了师生的安全意识，提高了自护自救的能力。<br />
+</font></p>
+<p><font face="Arial">　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<strong>松江民乐学校</strong><br />
+</font></p>
+<p>&nbsp;</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

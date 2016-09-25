@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>中华民族的中坚 </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '邱西征';
+					var sourcecontent = '退休一支部';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-06-22 17:11:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-22 17:11:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:邱西征  &nbsp;&nbsp;&nbsp; 时间:2011-06-22 17:11:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者:邱西征 &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-22 17:11:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P align=center>　　冰雪融入清泉，&nbsp;</P>
+<P align=center>　　滴水汇成百川。&nbsp;</P>
+<P align=center>　　从远古淌至今日，&nbsp;</P>
+<P align=center>　　这片东方的圣土，&nbsp;</P>
+<P align=center>　　渗透着不屈和维艰。&nbsp;</P>
+<P align=center>　　中华民族复兴之路，&nbsp;</P>
+<P align=center>　　孕育了民族中坚。&nbsp;</P>
+<P align=center>　　她的血液浸洒进每寸土地，&nbsp;</P>
+<P align=center>　　织染成一面鲜红的旗冠。&nbsp;</P>
+<P align=center>　　当灾难深重之时，&nbsp;</P>
+<P align=center>　　当民族危亡之时，&nbsp;</P>
+<P align=center>　　是共产党肩负起民族复兴的重担。&nbsp;</P>
+<P align=center>　　今山川呐喊，&nbsp;</P>
+<P align=center>　　让江河滚翻，&nbsp;</P>
+<P align=center>　　中华民族沸腾的血液，&nbsp;</P>
+<P align=center>　　荡毁了千年的污浊，&nbsp;</P>
+<P align=center>　　先烈们的铮铮铁骨，&nbsp;</P>
+<P align=center>　　创造了新的诗篇。&nbsp;</P>
+<P align=center>　　九十年的坎坷磨难，&nbsp;</P>
+<P align=center>　　九十年的执着铁肩，&nbsp;</P>
+<P align=center>　　党用心血描绘着壮丽的河山。&nbsp;</P>
+<P align=center>　　东部崛起，西部开发，&nbsp;</P>
+<P align=center>　　奔小康，勇登攀。&nbsp;</P>
+<P align=center>　　古老的民族扬征帆，战犹酣。&nbsp;</P>
+<P align=center>　　何惧疾病、洪水、地震和严寒，&nbsp;</P>
+<P align=center>　　与时俱进，社会和谐，&nbsp;</P>
+<P align=center>　　民族信仰有中坚。&nbsp;</P>
+<P align=center>　　由衷歌唱只有共产党，&nbsp;</P>
+<P align=center>　　才能继续引领我们走向更美好的明天。&nbsp;</P>
+<P align=center>　　放歌幸福奏出和弦，&nbsp;</P>
+<P align=center>　　接过先辈旗帜饮水思源。&nbsp;</P>
+<P align=center>　　让鲜红的党旗高高飘扬，&nbsp;</P>
+<P align=center>　　让中华傲居世界之巅。</P><br/>
+					  
+				  <div style="display:none">
+				     
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

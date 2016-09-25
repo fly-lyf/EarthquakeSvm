@@ -1,0 +1,387 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>长白山火山研讨会在吉林长白山举行</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">长白山火山研讨会在吉林长白山举行</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-09-07 15:28:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局监测预报司
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><DIV><br>
+<P&nbsp;class=MsoNormal&nbsp;style="MARGIN:&nbsp;0cm&nbsp;0cm&nbsp;0pt;&nbsp;TEXT-INDENT:&nbsp;30.85pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;mso-char-indent-count:&nbsp;2.57"><FONT&nbsp;face=仿宋_GB2312><FONT&nbsp;size=4><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">由中国地震局监测预报司主办、中国地震局地质研究所、吉林省地震局和长白山科学研究院承办的长白山火山研讨会于</SPAN><?xml:namespace&nbsp;prefix&nbsp;=&nbsp;st1&nbsp;ns&nbsp;=&nbsp;"urn:schemas-microsoft-com:office:smarttags"&nbsp;/><st1:chsdate&nbsp;w:st="on"&nbsp;IsROCDate="False"&nbsp;IsLunarDate="False"&nbsp;Day="28"&nbsp;Month="8"&nbsp;Year="2006"><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">2006</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">年</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">8</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">月</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">28</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">日</SPAN></st1:chsdate><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">至</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">31</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">日在吉林省长白山火山监测站举行。科技部基础研究司叶玉江副司长、中国地震局监测预报司<st1:PersonName&nbsp;w:st="on">吴书贵</st1:PersonName>副司长、人事教育和科技司李明副司长、中国地震局丁国瑜院士、邓起东院士以及中国科学院刘嘉麒院士出席会议并作了重要发言。来自科技部、中国地震局、中国科学院、国土资源部和部分高等院校等</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">20</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">余个单位共</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">70</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">余名代表出席了会议。</SPAN></FONT></FONT></P><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'"><br>
+<P&nbsp;class=MsoNormal&nbsp;style="MARGIN:&nbsp;0cm&nbsp;0cm&nbsp;0pt;&nbsp;TEXT-INDENT:&nbsp;30.85pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;mso-char-indent-count:&nbsp;2.57"><FONT&nbsp;face=仿宋_GB2312><FONT&nbsp;size=4><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">长白山地处中国东北的东部和朝鲜北部，主峰海拔</SPAN><st1:chmetcnv&nbsp;w:st="on"&nbsp;UnitName="米"&nbsp;SourceValue="2691"&nbsp;HasSpace="False"&nbsp;Negative="False"&nbsp;NumberType="1"&nbsp;TCSC="0"><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">2691</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">米</SPAN></st1:chmetcnv><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">，为东北最高峰。位于主峰之颠的天池及其附近的十几个火山群，构成了规模庞大的火山系统，是目前中国境内保存最为完整的新生代多成因复合火山。为了交流火山监测与研究的经验，探讨中国大陆火山活动的趋势、火山未来喷发的危险性、火山活动在现今构造活动中的意义、减轻火山重新活动可能带来的灾害，本次会议以“火山活动和火山灾害：监测与研究”为主题，研讨了</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">3</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">个方面的主要内容：（</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">1</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">）中国大陆火山活动及其地质和物理化学过程；（</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">2</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">）中国火山监测、活动状态与未来活动趋势；（</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">3</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">）中国火山灾害评估、预测与紧急事务管理。</SPAN></FONT></FONT></P><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'"><br>
+<P&nbsp;class=MsoNormal&nbsp;style="MARGIN:&nbsp;0cm&nbsp;0cm&nbsp;0pt;&nbsp;TEXT-INDENT:&nbsp;30.85pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;mso-char-indent-count:&nbsp;2.57"><FONT&nbsp;face=仿宋_GB2312><FONT&nbsp;size=4><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">本次会议共收到论文摘要</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">42</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">篇，主题报告</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">5</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">篇，会议交流论文</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">28</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">篇。中国科学院地质与地球物理研究所刘嘉麒院士在“长白山火山的研究现状及主要问题”的主题发言中，总结了长白山火山地质与演化特征的主要研究成果，对进一步研究的方向和目标提出了期望；中国地震局地质研究所科学与技术委员会主任洪汉净研究员就中国火山活动状态、喷发危险性及其机理研究现状进行了回顾和总结；中国灾害防御协会火山专业委员会主任樊祺诚研究员概括总结了长白山火山活动历史、岩浆演化与喷发机制研究中的主要成果和进展；吉林省地震局预报中心主任李克高级工程师向与会代表介绍了长白山天池火山监测工作的基本情况和近年来的主要监测成果；远在美国的中国地震局地质研究所前所长、我国著名火山专家刘若新研究员寄来了贺信，并对中国火山工作的进一步发展提出了多项中肯且具有建设性的建议。</SPAN></FONT></FONT></P><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'"><br>
+<P&nbsp;class=MsoNormal&nbsp;style="MARGIN:&nbsp;0cm&nbsp;0cm&nbsp;0pt;&nbsp;TEXT-INDENT:&nbsp;30.85pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;mso-char-indent-count:&nbsp;2.57"><FONT&nbsp;face=仿宋_GB2312><FONT&nbsp;size=4><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">在专题讨论中，与会代表围绕中国大陆火山活动背景、火山地质与地球化学研究、活动火山监测技术、火山灾害评估与对策等几个专题，进行了广泛的交流与讨论，充分展示了中国活动火山研究与监测方面的最新进展，体现了本次会议的高学术水准，对进一步加强中国的活动火山监测与研究工作将起到积极的推动作用。在自由发言讨论会上，中国科学院院士邓起东研究员组织与会代表就我国火山监测与研究今后的发展方向展开了热烈讨论，并做了会议总结。丁国瑜院士在发言中强调了长白山火山研究的重大科学意义，认为它是开启中国东部地震、火山与地球动力学研究之门的一把金钥匙。代表们充分利用本次会议所提供的平台相互交流，积极沟通，经过认真总结，在进一步加强长白山火山观测台站建设、加强火山地质基础研究工作、进一步开展火山深部背景综合探测、加强火山学研究基础条件与平台建设等</SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%">4</SPAN><SPAN&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%;&nbsp;FONT-FAMILY:&nbsp;宋体;&nbsp;mso-ascii-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman';&nbsp;mso-hansi-font-family:&nbsp;'Times&nbsp;New&nbsp;Roman'">个方面，达成了共识，圆满地实现了会议的预期目标。</SPAN></FONT></FONT><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%"><?xml:namespace&nbsp;prefix&nbsp;=&nbsp;o&nbsp;ns&nbsp;=&nbsp;"urn:schemas-microsoft-com:office:office"&nbsp;/><o:p></o:p></SPAN></P></SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%"><o:p></o:p></SPAN></SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%"><o:p></o:p></SPAN></SPAN><SPAN&nbsp;lang=EN-US&nbsp;style="FONT-SIZE:&nbsp;12pt;&nbsp;LINE-HEIGHT:&nbsp;150%"><o:p></o:p></SPAN></DIV></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

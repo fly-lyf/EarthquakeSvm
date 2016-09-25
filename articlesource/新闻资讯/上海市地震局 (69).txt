@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/hydt/index.html" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">“小节”不丧失，“大道”不偏离<span>发布时间：2007-06-02</span></div>
+                <p><p align="center"><font face="Arial"><font size="4"><strong>&ldquo;小节&rdquo;不丧失，&ldquo;大道&rdquo;不偏离</strong></font><br />
+</font>
+<p><font face="Arial">　　一位地方领导同志近日指出：每一位党员干部都应该以&ldquo;君子检身，常若有过&rdquo;的态度，经常想一想什么是&ldquo;做人&rdquo;&ldquo;公仆&rdquo;&ldquo;权力&rdquo;和&ldquo;考验&rdquo;，切实做到始终不忘全心全意为人服务的宗旨，始终不忘&ldquo;两个务必&rdquo;．始终不忘共产党员应该具备的品行和操守，确保&ldquo;小节&rdquo;不丧失，&ldquo;大道&rdquo;不偏离。</font></p>
+<p><font face="Arial">　　这位领导同志对&ldquo;大道&rdquo;和&ldquo;小节&rdquo;的深刻概括，值得认真思考和借鉴。我们的领导干部，不仅要在大是大非面前经得住考验，同样要在日常小事和生活细节上守住底线，讲操守、重品行，克己慎行。</font></p>
+<p><font face="Arial">　　但是．当前在少数干部的思想认识中，往往存在着重&ldquo;大道&rdquo;轻&ldquo;小节&rdquo;的错误倾向。他们片面地认为，只要&ldquo;大道&rdquo;讲原则，在大是大非面前旗帜鲜明就行了，至于日常小节，没必要那么正儿八经。更有少数干部以&ldquo;不拘小节&rdquo;当作&ldquo;行事作风&rdquo;。他们什么场合都敢去，什么酒都敢喝，什么话都敢讲，什么人都敢交。有的干部甚至成天和名声不佳的老板混在一起，称兄道弟，吃喝玩乐。近来一些地方暴露的腐败案中，几乎每个涉案的不法老板后面都要扯出几个领导干部，而这些干部与老板的交往正是从那些看似不起眼的&ldquo;小节&rdquo;开始的。比如打打牌搓搓麻将，低价卖你套房子等等。久而久之，老板和官员同上贼船。</font></p>
+<p><font face="Arial">　　领导干部如果把日常小事和生活细节不当回事，朋友滥交，权力滥用．生活不检点，就必然出大问题。许多事例表明，领导干部要做到&ldquo;大道&rdquo;不偏离．就必须从&ldquo;小节&rdquo;不丧失开始。&ldquo;千里之堤，渍于蚁穴&rdquo;，领导干部平时不注意的&ldquo;小节&rdquo;，往往被别有用心之徒利用。一顿小宴请，一个小红包，第一次可能花费不多，也未必让人警觉。但有了这第一次，心中早有谋划的老板必定会一而再、再而三，直到把你的堤防击溃，让你彻底背离&ldquo;大道&rdquo;为止。</font></p>
+<p><font face="Arial">　　&ldquo;天下没有免费的午餐&rdquo;，无良商人的钱再多，也不会无缘无故地请别人吃饭送红包，他们看中的是领导干部手中的权力，图的是更大的回报。因此，领导干部只有时时注重&ldquo;小节&rdquo;，用高尚的情操和品德养身、立威、服人，才能确保无懈可击，&ldquo;大道&rdquo;永固。</font></p>
+<p align="right">新华社时评</p>
+</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

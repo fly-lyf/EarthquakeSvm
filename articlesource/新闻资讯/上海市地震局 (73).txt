@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">地震专家进校园 安全知识在心间<span>发布时间：2015-03-27</span></div>
+                <p><p>
+	　　2015年3月25日下午，由上海新闻广播、上海民防科普教育馆联合主办，上海市地震局宣传教育中心、上视新闻综合频道《上海摩天轮》栏目协办的&ldquo;第二届安全达人校园挑战赛&rdquo;的第一场校园安全宣讲会在上海电力学院举行。活动现场精彩纷呈，吸引了来自不同专业的大学生参与其中。</p>
+<p>
+	　　宣讲会上，主持人通过地震安全知识抢答、不同场景下的灭火器种类选择、心肺复苏操作演示等几个环节，吸引了全场学生的关注，现场气氛轻松活跃，充满知识性和趣味性。在地震安全知识抢答环节中，我局震害防御中心专家吕恒俭博士讲解了震时的正确避震姿势和避震地点、注意事项等。针对主持人设定的地震场景，学生们争相给出自己的应对方式，吕恒俭博士针对学生的答案一一作出点评，在场师生频频点头，表示获益匪浅。</p>
+<p>
+	　　&ldquo;安全达人校园挑战赛&rdquo;是上海人民广播电台2014年起创办的品牌活动，我局积极参与其中，将地震知识带进校园，通过向大学生宣传防震减灾知识，引导师生树立忧患意识，扩大防灾减灾知识普及面，掌握自救互救技能，营造珍惜生命的校园氛围。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1503/201503270918519521.jpg" title="图像" wdimgid="image_315" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

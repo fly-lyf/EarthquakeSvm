@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">局领导带队赴辽宁省开展监测预报工作调研<span>发布时间：2014-10-20</span></div>
+                <p><p>
+	　　为进一步加强兄弟省局之间的沟通与交流，10月9日至14日，上海市地震局副局长王绍博率监测预报处、预报中心、佘山地震台、崇明地震台相关负责人一行6人赴辽宁省开展监测预报工作调研。考察组先后在辽宁省地震局省局、盘锦地震台、营口地震台、大连地磁台、金州地震台和大连地震综合观测基地等地进行调研学习。</p>
+<p>
+	　　调研期间，考察组听取了辽宁省局监测中心、预报中心、维修中心、监测处负责人对部门运行情况的基本介绍，了解了各部门工作开展的职责与成果。其中，辽宁局监测中心主任与监测处处长对监测中心的业务和科研情况进行了详细的讲解，并介绍了前兆流动观测设备的运行情况，我局考察组深刻学习了辽宁省地震局监测预报工作的先进经验和方法。在地震台站调研期间，考察组听取了各台站观测手段与观测情况介绍，并在台站负责人的带领下，参观相关专业设备。</p>
+<p>
+	　　此次实地调研拓宽了考察组全体成员工作视野，明晰思路，增强认识，对我局监测预报工作未来发展具有重要的指导意义。</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

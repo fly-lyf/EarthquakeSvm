@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>红色之旅再受党的教育 </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '李玉友';
+					var sourcecontent = '退休三支部支委';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-06-30 15:10:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:10:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:李玉友  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:10:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者:李玉友 &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:10:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P>　　2011年6月13日-14日，四川省地震局直属机关党委组织局机关、研究所、台站和退休党员支部的共产党员29名，前往重庆渣滓洞、白公馆等红色革命教育基地进行参观，我深受教育和感动。&nbsp;</P>
+<P>　　参观现存的红色教育基地，使我真正了解到中国革命的胜利，全靠革命先烈的前仆后继，英勇牺牲，出生入死和努力奋斗，来之不易。重庆渣滓洞、白公馆原是国民党在中华人民共和国建国前关押、刑讯逼供、迫害中国共产党和革命志士的最残酷之地，是人间地狱。就在重庆市解放的前三天，即1949年11月27日晚，国民党提前将监狱中的共产党员、革命志士进行了残酷杀害。仅剩30人将东头的一段围墙推倒，幸存者只有15人。他们幸存下来，看到了重庆的解放，看到了新中国的建立，看到了人民当家作主的一天。革命先烈们是我们修身学习的榜样。&nbsp;</P>
+<P>　　在渣滓洞门前，机关党委负责人率领我们，举起右手，在党旗下宣誓，使我深深地领悟到一个共产党员干部，虽然退休了，但思想不能退。经过宣誓，对照誓言，重新认识自己，解剖自己。现在我已70岁了，人上70古来稀，但我的身体还健康，要在机关党委的领导下，按照局党组的要求，认真执行党的决议，向革命先烈们学习，自觉的践行一个共产党员的职责，作一个优秀共产党员，为共产主义事业而奋斗终身。</P><br/>
+					  
+				  <div style="display:none">
+				     
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

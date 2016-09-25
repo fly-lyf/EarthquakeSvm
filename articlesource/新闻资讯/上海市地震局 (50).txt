@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局传达学习2016年全国地震局长会暨党风廉政建设工作会议精神<span>发布时间：2016-01-27&nbsp;&nbsp;&nbsp;&nbsp;信息来源：局办公室</span></div>
+                <p><p>
+	　　1月25日下午，上海市地震局召开全局职工大会，传达学习2016年全国地震局长会暨党风廉政建设工作会议精神。局领导班子成员吴建春、李红芳、王绍博、王硕卿出席会议，会议由李红芳副局长主持。</p>
+<p>
+	　　会上，吴建春局长传达了国务院防震减灾工作联席会议、全国地震局长会暨党风廉政建设工作会议精神。他指出，中央领导的重要指示批示体现了中央对防震减灾工作的高度重视，是对地震工作队伍的巨大鼓舞和殷切期望。陈建民局长的工作报告紧密结合中央部署，准确把握时代特征，工作总结全面客观，形势分析深刻准确，发展谋划科学清晰，工作部署周密务实，充分体现了政策性、创新性和指导性。</p>
+<p>
+	　　吴建春局长就贯彻落实会议精神提出了3点要求：一是各单位、各处室要进一步组织学习研讨，深刻领会会议精神，自觉把思想和行动统一到国务院和中国地震局党组对防震减灾工作的重大决策和部署上来；二是各单位、各处室要结合工作实际，认真研究制定具体实施方案和贯彻落实计划，共同谋划好我局&ldquo;十三五&rdquo;规划和2016年防震减灾重点工作；三是各单位、各处室要牢固树立震情第一的观念，做好春节期间震情跟踪、应急准备和安全工作，加强节日廉洁自律工作，组织好基层台站慰问和向困难职工送温暖活动。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1601/201601271130288143.jpg" title="图像" wdimgid="image_488" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

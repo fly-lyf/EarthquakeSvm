@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" class="now" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">区县动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">杨浦区积极开展区级地震专项应急实战演练<span>发布时间：2015-06-08</span></div>
+                <p><p>
+	　　为落实市地震局2015年下达的重点项目，检验杨浦区地震专项应急预案的科学性、实用性和可操作性，以及震后杨浦区医救综合处置协同能力，提高市民群众的地震灾后自救互救意识，杨浦区地震办在市地震局的关心指导下，在区应急办、区卫计委、区红十字会等区防震减灾联席会议成员单位的大力支持和配合下，于2015年5月29日下午16:00整在杨浦区中心医院（腾越路450号）举行了一场&ldquo;2015&mdash;杨浦区地震&bull;医救专项实战演练&rdquo;。上海市地震局副局长李平、杨浦区人民政府副区长黄红、市地震局应急救援处处长肖功建、区应急办主任叶建荣、区地震办副主任童惟平，长宁、金山、闵行等区的地震办领导，以及杨浦区防震减灾联席会议各成员单位的领导也应邀出席并观摩了此次演练。</p>
+<p>
+	　　来自杨浦区卫计委应急救援队、杨浦区卫生防疫站、杨浦区中心医院等单位共计300余人参加了演练，此次演练进行了地震应急疏散、应急救援（自救互救）、外部伤员收治和转送、搭建临时帐篷开辟野战医院、组织群众开展义务献血、灾区卫生防疫、心理干预等科目的应急实战。通过演练，一方面锻炼了队伍，另一方面也找出了杨浦区在灾后应急处置方面存在的不足，为下一步做好区地震应急管理工作探索检验。演练活动取得了明显的成效，达到了预期的目的，杨浦有线、《杨浦时报》等多家媒体对此作了专题报道。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1506/20150608091538203.jpg" title="图像" wdimgid="image_333" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1506/20150608091539203.jpg" title="图像" wdimgid="image_333" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

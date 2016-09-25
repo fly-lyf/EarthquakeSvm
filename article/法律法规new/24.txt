@@ -1,0 +1,9 @@
+上海市地震局
+
+            	DB/T 33.1－2009《地震地电观测方法 地电阻率观测 第1部分：单极距观测》 发布时间：2009-11-09
+                标准名称：DB/T 33.1－2009《地震地电观测方法&nbsp;地电阻率观测&nbsp;第1部分：单极距观测》
+英文名称：The method of earthquake-related geoelectrical monitoring&nbsp;Geoelectrical resistivity observation&nbsp;Part 1:Single separation configuration
+发布日期：2009年02月09日
+实施日期：2009年06月01日
+起草单位：中国地震局地震预测研究所、甘肃省地震局、中国地震台网中心。
+内容范围：本部分规定了地震地电阻率方法中单极距观测技术的观测对象、观测原理、台站观测、观测环境、组网观测以及对观测数据的技术要求，适用于在地震监测和相关科学研究中的固定台站地电阻率观测和流动地电阻率观测。

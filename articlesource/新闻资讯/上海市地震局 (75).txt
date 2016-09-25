@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>行业动态</h2>
+            </div>
+            <ul class="listTxt">
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1526.html" title="“华东联动-2013”地震应急救援协作演练在榕举行">“华东联动-2013”地震应急救援协作演练在榕举行</a><span>2013-08-12</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1527.html" title="雅安归来——四川芦山地震应急的几点启示">雅安归来——四川芦山地震应急的几点启示</a><span>2013-05-30</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1525.html" title="全国地震监测预报工作会议在广州召开">全国地震监测预报工作会议在广州召开</a><span>2013-05-24</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1524.html" title="陈建民：全面贯彻落实十八大精神　推动防震减灾事业科学发展">陈建民：全面贯彻落实十八大精神　推动防震减灾事业科学发展</a><span>2013-01-21</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1523.html" title="2013年全国地震局长会暨党风廉政建设工作会议开幕">2013年全国地震局长会暨党风廉政建设工作会议开幕</a><span>2013-01-21</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1522.html" title="回良玉：进一步提升地震灾害综合防御能力">回良玉：进一步提升地震灾害综合防御能力</a><span>2013-01-21</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1521.html" title="“第一届海底观测科学大会” 在同济召开">“第一届海底观测科学大会” 在同济召开</a><span>2012-11-22</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1520.html" title="阴朝民副局长赴江西调研防震减灾工作 ">阴朝民副局长赴江西调研防震减灾工作 </a><span>2012-07-23</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1519.html" title="中国地震局修济刚副局长深入新疆6.6级地震极震区考察灾情 ">中国地震局修济刚副局长深入新疆6.6级地震极震区考察灾情 </a><span>2012-07-06</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1518.html" title="中国地震局启动地震应急预案Ⅲ级应急响应决定 ">中国地震局启动地震应急预案Ⅲ级应急响应决定 </a><span>2012-07-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1517.html" title="中国大陆综合地球物理场观测方案通过专家论证 ">中国大陆综合地球物理场观测方案通过专家论证 </a><span>2012-06-11</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1516.html" title="充分发挥12322防震减灾公益服务热线作用 不断完善地震综合信息服务平台 ">充分发挥12322防震减灾公益服务热线作用 不断完善地震综合信息服务平...</a><span>2012-05-30</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1515.html" title="全国防震减灾宣传工作电视电话会议召开 ">全国防震减灾宣传工作电视电话会议召开 </a><span>2012-05-25</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1514.html" title="2012年中国地震局局管干部研修班（第20期）结业典礼在杭州隆重举行 ">2012年中国地震局局管干部研修班（第20期）结业典礼在杭州隆重举行 </a><span>2012-05-15</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1513.html" title="中国地震局赵和平副局长出席北京市2012年防灾减灾日主题宣传活动并为武警北京市总队地震灾害应急救援队揭牌 ">中国地震局赵和平副局长出席北京市2012年防灾减灾日主题宣传活动并为武...</a><span>2012-05-15</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1512.html" title="回良玉:弘扬抗灾救灾精神 做好防灾减灾各项工作 ">回良玉:弘扬抗灾救灾精神 做好防灾减灾各项工作 </a><span>2012-05-15</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1511.html" title="求是发表温家宝文章：让权力在阳光下运行 ">求是发表温家宝文章：让权力在阳光下运行 </a><span>2012-05-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1510.html" title="地震部门广大党员领导干部坚决拥护党中央的正确决定 ">地震部门广大党员领导干部坚决拥护党中央的正确决定 </a><span>2012-04-16</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1509.html" title="习近平发表文章:扎实做好保持党的纯洁性各项工作 ">习近平发表文章:扎实做好保持党的纯洁性各项工作 </a><span>2012-04-05</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1506.html" title="新华网：标准化打造地震救援队 救援更规范、更迅速 ">新华网：标准化打造地震救援队 救援更规范、更迅速 </a><span>2012-03-31</span></li>
+                
+            </ul>
+            <div class="page">
+<font color=gray>首页 </font><font color=gray> 上一页 </font><A class=text-1 HREF="/gb\dzj/xwzx/hydt/index1.html"> 下一页 </A><A  HREF=index12.html> 尾页 </A>
+                <span>第1页&nbsp;共13页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

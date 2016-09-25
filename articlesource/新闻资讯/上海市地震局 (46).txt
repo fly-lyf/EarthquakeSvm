@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局组织退休老干部开展“三看”主题活动<span>发布时间：2015-11-13&nbsp;&nbsp;&nbsp;&nbsp;信息来源：机关党委</span></div>
+                <p><p>
+	　　11月11日，我局组织退休老领导、退休党支部书记参观考察上海自然博物馆，开展&ldquo;看改革成果、看经济发展、看社会进步&rdquo;主题活动。</p>
+<p>
+	　　根据中共上海市委老干部局开展&ldquo;三看&rdquo;主题活动的要求，我局离退休处充分利用科技系统资源，按照&ldquo;就近、就便&rdquo;的原则，组织退休老领导、退休党支部书记参观自博馆。11日下午，退休老领导一行十余人乘车前往自博馆。馆前拍照合影留念后，在讲解员的引领下，老领导沿着&ldquo;演化的乐章&rdquo;、&ldquo;生命的画卷&rdquo;、&ldquo;文明的史诗&rdquo;三大主线，体验不同展区，并随后观看4D电影，老领导们盛赞这是一场集科技、人文于一体的艺术盛宴，畅谈上海科技文化建设的新发展。</p>
+<p>
+	　　&ldquo;三看&rdquo;活动的开展是落实退休老干部政治待遇的具体体现，也是地震局对老干部的真情关怀，老领导们表示，虽然已离开工作岗位很久，但却一直关心着防震减灾事业的发展，不仅希望个人保持健康，更是希望继续为防震减灾事业发展建言献策，继续为党和人民事业增添正能量。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

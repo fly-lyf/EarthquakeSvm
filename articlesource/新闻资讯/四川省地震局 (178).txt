@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../images/currPage.js"></script>
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../" TARGET="_top">首页</a></li>
+          <li><a href="../" target="_top">新闻资讯</a></li>
+          <li><a href="../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../">首页</a>><a href="../">新闻资讯</a>><a href="./">重要专题</a></li>
+            
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+<div class="p_left fl">
+          <div class="p_left_tit">新闻资讯</div>
+          <div class="p_left_div">
+            <ul>
+			
+              <li class="" id="2311"><a href="../tpxw/">&middot; 图片新闻</a></li>
+             
+              <li class="" id="2300"><a href="../fzjzyw/">&middot; 防震减灾要闻</a></li>
+             
+              <li class="" id="2297"><a href="../bmdt/">&middot; 省局动态</a></li>
+             
+              <li class="" id="2298"><a href="../sxgz/">&middot; 市县工作</a></li>
+             
+              <li class="" id="2301"><a href="../hydt/">&middot; 行业动态</a></li>
+             
+              <li class="" id="2299"><a href="../zxzq/">&middot; 最新震情</a></li>
+             
+              <li class="" id="176"><a href="../zqsb/">&middot; 震情速递</a></li>
+             
+              <li class="" id="230"><a href="../gdxw/">&middot; 信息速递</a></li>
+             
+              <li class="" id="232"><a href="./">&middot; 重要专题</a></li>
+             
+            </ul>
+            <p class="clear"></p>
+          </div>
+        </div>
+<div class="p_right fl">
+          <div class="p_right_tit">重要专题</div>
+          <div class="blankH12"></div>
+		  
+			<ul class="list">
+			
+              <li><span class="fr">[2015-04-20]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/jnzl_2015/" target="_blank" title="芦山地震两周年暨汶川地震七周年纪念专题">芦山地震两周年暨汶川地震七周年纪念专题</a></li>
+              
+              <li><span class="fr">[2014-08-25]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/lhggjss/" target="_blank" title="联合国国际搜索与救援咨询团亚太地震应急演练">联合国国际搜索与救援咨询团亚太地震应急演练</a></li>
+              
+              <li><span class="fr">[2014-06-23]</span>&middot;<a href="http://www.scdzj.gov.cn/zhxx/yjxx/" target="_blank" title="地震预警">地震预警</a></li>
+              
+              <li><span class="fr">[2014-06-23]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/jysjhd/" target="_blank" title="深入开展党的群众路线教育实践活动">深入开展党的群众路线教育实践活动</a></li>
+              
+              <li><span class="fr">[2014-05-07]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/yfzs/" target="_blank" title="深入贯彻《依法制省纲要》扎实推进防震减灾依法治理">深入贯彻《依法制省纲要》扎实推进防震减灾依法治理</a></li>
+              
+              <p class="clear"></p>
+            </ul>
+		
+			<ul class="list">
+			
+              <li><span class="fr">[2014-04-29]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/jndz/" target="_blank" title="芦山地震一周年暨汶川地震六周年纪念专栏">芦山地震一周年暨汶川地震六周年纪念专栏</a></li>
+              
+              <li><span class="fr">[2013-03-11]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/2013jzhy/" target="_blank" title="2013年度全省防震减灾局长会议">2013年度全省防震减灾局长会议</a></li>
+              
+              <li><span class="fr">[2012-07-17]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/jztl_1/" target="_blank" title="深入学习贯彻《四川省防震减灾条例》">深入学习贯彻《四川省防震减灾条例》</a></li>
+              
+              <li><span class="fr">[2012-04-16]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/2012dzyl/" target="_blank" title="2012年“5.12”全省防灾救灾大演练">2012年“5.12”全省防灾救灾大演练</a></li>
+              
+              <li><span class="fr">[2012-02-28]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/jzhy/" target="_blank" title="2012年度全省防震减灾局长会议">2012年度全省防震减灾局长会议</a></li>
+              
+              <p class="clear"></p>
+            </ul>
+		
+			<ul class="list">
+			
+              <li><span class="fr">[2011-12-19]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/fzjz40/" target="_blank" title="四川省防震减灾40年">四川省防震减灾40年</a></li>
+              
+              <li><span class="fr">[2011-06-21]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/jd90/" target="_blank" title="建党90周年">建党90周年</a></li>
+              
+              <li><span class="fr">[2010-06-01]</span>&middot;<a href="http://www.eqsc.gov.cn/manage/fileupload/statichtml/admin/fzjz10/index.htm" target="_blank" title="纪念《中华人民共和国防震减灾法》施行十周年">纪念《中华人民共和国防震减灾法》施行十周年</a></li>
+              
+              <li><span class="fr">[2010-05-31]</span>&middot;<a href="http://www.scdzj.gov.cn/xwzx/zt/yzqchx/" target="_blank" title="扬正气促和谐">扬正气促和谐</a></li>
+              
+              <p class="clear"></p>
+            </ul>
+		
+            <div class="blankH24"></div>
+          <div class="p_next"> <script type="text/javascript">
+		 createPageHTML(1, 0, "index", "html");
+	  </script></div>
+      </div>
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+      <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+<script>
+var channelId="232";
+document.getElementById(channelId).className = "cut";
+</script>
+</html>

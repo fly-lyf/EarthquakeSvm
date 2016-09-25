@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/flfg/hybz/index.html" class="now" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/flfg/qt/index.html" target="_parent" title="其他"><span>其他</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">行业标准</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">DB/T 31.1－2008《地震观测仪器进网技术要求 地壳形变观测仪 <span>发布时间：2009-11-09</span></div>
+                <p><div>标准名称：<span>DB/T 31.1</span>－<span>2008</span>《地震观测仪器进网技术要求<span>&nbsp;地壳形变观测仪</span></div>
+<div>第<span>1部分：倾斜仪》</span></div>
+<div align="left">英文名称：<span>Technical requirements of instruments in network for earthquake monitoring&nbsp;The instrument for crustal deformation observation&nbsp;Part 1</span>：<span>Tiltmeter</span></div>
+<div>发布日期：<span>2008</span>年<span>08</span>月<span>11</span>日</div>
+<div>实施日期：<span>2008</span>年<span>12</span>月<span>01</span>日</div>
+<div>起草单位：中国地震局地球物理研究所、中国地震局地震预测研究所、江苏省地震局。</div>
+<div>内容范围：本部分规定了地震观测仪器中磁通门磁力仪进网的技术要求及测试方法，适用于磁通门磁力仪的设计、生产、使用、维护、引进和质量监督。</div></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

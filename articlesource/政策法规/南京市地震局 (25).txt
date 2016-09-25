@@ -1,0 +1,483 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../../images/style(2).css">
+<SCRIPT src="../../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55216';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../../" class='wz CurrChnlCls'>政策法规</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>政策文件</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>南京市相关文件</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>南京市“十二五”防震减灾规划</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2015-01-09</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_3140152"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=3140152"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <div class=TRS_Editor><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　各区县人民政府，市府各委办局，市各直属单位：</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　现将《南京市“十二五”防震减灾规划》印发给你们，请认真贯彻执行。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px" align="right">　　南京市人民政府　　</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px" align="right">　　二○一二年四月十日</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px" align="center">　　<strong>南京市“十二五”防震减灾规划</strong>&nbsp;</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px" align="center">　　&nbsp;</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　防震减灾是我市社会公共安全的重要组成部分，更是建设“人民幸福城市”的重要保证。根据《中华人民共和国防震减灾法》、《江苏省防震减灾条例》、《江苏省防震减灾规划(2006—2020年)》要求，借鉴了四川汶川8.0级地震等近年来国内外震灾的教训和经验，编制《南京市“十二五”防震减灾规划》，规划期间为2011—2015年。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　一、南京市防震减灾现状及态势</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(一)地震背景</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　我市地处华北地震区长江下游—黄海地震带内，是该带少数几个中强地震活动和地震原地复发水平较高的地区之一，我市所处的宁溧扬三角地区是江苏历史上陆地地震活动最强的地区。历史上我市就发生过3次破坏性地震，最大震级达5级。历史上多次地震给我市造成破坏和人员伤亡，它们既有发生在我市范围内的地震，也包括发生在我市辖区外的其它地震。根据《南京市活断层探测与地震危险性评价》项目研究结果，我市具备发生6级地震的构造背景。近三年来，我市地震活动相对活跃，每年都有3级以上有感地震发生，小地震活动频次也较以往偏高，震情不容乐观。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(二)“十一五”防震减灾工作成效</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　“十一五”期间，在市委、市政府的领导下，我市防震减灾工作有新亮点。地震监测预报、震灾预防、应急救援、地震科普和地震科研五项工作均取得显著进展，全市综合抗御地震灾害能力和地震工作机构服务社会能力明显提高。四项工作全国第一：成立全国首支“南京黄埔地震应急救援民兵连”(拥有大型机械装备的民营企业)；建成全国首家南京少儿地震科普馆(山西路小学)，目前，我市地震科普馆数量有5个，居全国第一；组建全国首家“南京市青少年地震应急无线电通讯分队”；与南京工业大学合作开发的“大中城市地震应急指挥平台”国内领先。五项工作全省领先：南京市活断层探测及地震危险性评价；地震监测能力及地震数字前兆台网建设；省—市—区县地震应急指挥集成视频系统；地震应急避难场所已近两百万平方米；防震减灾科普宣传实现全市学校、社区、机关、村镇全覆盖。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　1、地震监测预报能力显著增强。完成原有全部测项的数字化改造，新建一个深井水温测项、两个强震测项、三个钻孔应变测项，恢复模范马路深井水位观测项目，建成南京市地震信息节点和数字前兆台网，完成数字地震台网升级改造，全市地震前兆测项密度由1.0台项/千km2增加到了1.5台项/千km2，在高淳、溧水各建成一座基岩强震台，同时我市与周边城市实现了数字地震信号共享，使我市数字测震台网对大部分辖区的地震监测能力达到1.5级，全市地震速报时间少于8分钟。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　我市积极推动地震预测预报专题研究，先后发表专题研究报告和论文多篇，并准确预报了2006年安徽定远ML4.7级地震和2007年江苏响水ML4.0级地震的发震时间，由市地震局完成的年度地震趋势研究报告连续五年全部获得全省省辖市第一名。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　2、震害防御能力有所提升。完成“南京市活断层探测与地震危险性评价”项目并通过中国地震局组织的验收，成果已应用于城市规划、城市建设和防震减灾；抗震设防要求管理得到重视，城镇一般建设工程全部按照要求进行抗震设计审查，一批符合要求的建设工程进行了地震安全性评价工作；全市校舍安全工程有序推进，地震安全农居示范工程全部建设完成。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　3、应急救援有新突破。地震应急预案体系基本建成，地震宏观测报网、地震灾情速报网、地震知识宣传网、乡(镇)防震减灾助理员等“三网一员”已初步建成。由消防专业救援队、黄埔民兵地震救援连和雨花地震救援大队、社区志愿者所组成的地震应急救援队伍已建成，初步形成全市立体救援体系。建成29处应急避难疏散场所，总面积173万平方米，可容纳52万人短期避难。地震灾情速报系统和城市地震应急指挥平台率先在国内建成。地震应急装备得到进一步补充完善，应急响应能力明显增强。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　4、地震科普成效明显。全市建成23所省级防震减灾科普示范学校和3所省级地震防震减灾科普示范基地，总数位居全省前列。山西路小学建成的少儿地震科普馆富有特色。全市中小学校开展的地震应急疏散演练活动率达到90%以上，“市民防震手册”、“小黄说地震”等科普读物深入人心，市民防震避震意识和能力得到提升。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　5、地震科研成果显著。在省、市科技部门支持下，市地震局和南京工业大学合作研发的“地震灾情速报系统”和“大中城市地震突发事件应急指挥平台”项目完成。地震台网全部实现数字化和网络化。建成省—市—区(县)地震信息视频系统，实现了实时传输，为快速提高对全市地震异常的捕捉能力、灾情快速获取能力和地震应急响应能力提供了有力地支撑。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　6、综合保障不断加强。市防震减灾工作联席会议制度不断完善，市政府每年与区(县)签订年度防震减灾工作目标责任书，形成防震减灾工作层层抓落实的新局面。国家、省、市专项投入到市地震工作经费超过1800万元，新设立南京市地震监测预警中心，有力地保障了防震减灾各项工作顺利开展。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(三)存在差距</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　经过多年努力，我市防震减灾综合能力明显提高，但由于历史原因，仍存在较多不足，主要表现在防震减灾能力与地震形势和经济社会发展需要相比，还有一定的差距，具体表现在：区(县)地震工作机构仍需完善；防震减灾投入与防震减灾能力建设需求相比仍需加大；地震监测能力与社会需求之间存在较大差距；重大建设工程抗震设防要求管理机制需要进一步完善；部分重大建设工程、可能发生严重次生灾害建设工程和农村民居未按照法律要求设防，中小学校舍安全工程尚未完工；地震应急指挥体系有待完善，技术支撑系统还需强化；城市应急避险保障能力还需提升，社会公众防震避震意识和能力需要强化提高。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(四)需求分析</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　根据《南京市活断层探测与地震危险性评价》结果，我市存在发生6级地震构造背景；按照《中国地震动参数区划图》(GB18306—2001)等国家强制性标准规定，南京全区域都应当进行抗震设防。相关研究结果表明，我市存在发生中强地震的潜在危险。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　1、经济发展需求</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　到“十一五”末，我市人均GDP接近1万美元。2013年亚青奥会、2014年青奥会，将使我市城市化进程和重大工程建设进一步提速，全市进入经济社会高速发展时期。根据国内外震例，随着国民经济的不断发展，地震易损度也将随之不断增加，因此，需要地震区划、建筑物抗震设防、地震预警与紧急处置等地震安全保障措施来提高抗御地震灾害能力；需要周密的保障措施、科学的地震速报和高效有序的应急响应，才能将可能发生的灾害损失降至最低。总之，发展防震减灾事业，全面提升抗御地震灾害能力，是经济社会发展的迫切需求。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　2、政府服务需求</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　按照建设服务型政府的要求，社会公共事业必须纳入政府服务的范围。防震减灾工作是一项关注民生的基础性工作，是保障人民生命财产安全的一项重要工作。做好防震减灾工作是执政为民的重要体现，是对服务型政府的政治要求。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　3、民众安全需求</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　物质丰富、信息发达、社会安定，已成为公众习惯的生活状态。公众对政府高效应对地震灾害有很强的期望，对防震减灾知识科学普及宣传有强烈需求，参与应急演练、参与志愿者工作、组织民间救援团体等防震减灾活动的积极性空前高涨。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　二、指导思想、目标和发展战略</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(一)指导思想</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　深入贯彻落实科学发展观，强化地震安全社会管理和公共服务体系建设，树立全面预防观，不断提高全社会综合抗御地震能力，最大限度减轻地震灾害，保护人民生命财产安全，为打造人民幸福城市，建设现代化国际性人文绿都奠定坚实基础。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(二)规划目标</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　1、“十二五”规划目标及2020年总目标</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　──到2015年，城市防震减灾能力达到国内先进水平；城市具备综合抗御6级地震的能力；郊县基本具备综合抗御6级左右地震的能力。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　──到2020年，全市全面实现综合抗御6级左右地震的能力，防震减灾能力达到国内领先水平。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　2、“十二五”规划目标的具体指标</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　地震监测预报能力。全市地震监测能力达到1.5级，地震速报时间少于5分钟，前兆观测项目密度达到2.0台项/千km2；破坏性地震发生后，在1天内能对后续地震实现早期判定；全市长期预报更加科学，中期预报成功率不断提高，短临预报能力有新的进展，力争在破坏性地震发生前，做出有减灾实效的预测意见；根据国家规定，建立社会公众地震预警机制。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　地震灾害防御能力。城市和城镇新建一般建设工程全部达到国家标准——《中国地震动参数区划图》规定的抗震设防要求，并按照抗震设计规范进行设计、施工；新建重大建设工程、生命线工程、重要基础设施和可能发生严重次生灾害的建设工程，按照法律规定确定抗震设防要求，并进行抗震设防；地震重点监视防御区内，70%以上农村新建房屋采取抗震措施。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　地震应急与救援能力。市、区(县)地震应急管理组织和地震灾害应急工作机制健全；具有完善的分级分部门和相互配合、协调一致的预案体系；拥有完善的应急指挥技术系统和灾情立体监控系统；城区具有合理的应急避难场所和紧急疏散通道，可容纳人数达200万，并具备必要的避险救助、救生设施；具有健全的救援力量及其支援保障体系，构建社会救援资源网络；破坏性地震发生后能迅速启动应急预案和获取灾情信息，指挥系统运转有序，救援力量在第一时间实施救援。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　救灾恢复能力。具有完善的救灾物资储备体系，确保地震灾区在6小时内得到基本的生活救助，24小时内受灾群众基本生活得到安置。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　市民防震素质能力。全市防震减灾知识宣传受众人数达70%以上，地震重点监视防御区内的防震减灾知识宣传受众人数达80%以上。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(三)发展战略</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　1、突出重点，全面防御。要把保障2013年亚青会和2014年青奥会安全和市区、城镇及地震重点监视防御区的地震安全作为突破口，实施重点监测，周密设防。确保建设工程安全，全面完成校舍安全工程，逐步改变农村民居不设防状况，实现由城区的重点防御向全社会有重点的全面防御拓展，促进城乡防震减灾工作协调发展。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　2、健全体系，强化管理。要以科技创新为支撑，以法制建设为保障，建立健全地震监测预报、震灾预防、紧急救援和地震科普、科技支撑的“3+2”工作体系，并实行全方位综合管理。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　3、社会参与，共同抵御。要加强防震减灾宣传教育，全面提高社会公众防震减灾素质，建立健全群测群防和社会动员机制，形成全社会共同抗御地震灾害的局面。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　4、依托科技，提高能力。要紧抓建设“智慧南京”机遇，充分利用现代技术，全方位提高地震监测技术装备、分析预报手段、科普宣传方法和应急救援设备的智能化、信息化，充分发挥我市科技资源优势，创造和吸收建筑抗震设防新技术、新方法，推动全市防震减灾能力向更高水平迈进。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　三、主要任务</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(一)全面提升地震监测能力。科学规划地震监测台网，在调整优化布局、逐步增加台网密度的同时，应用高新技术，提高地震监测装备水平，不断推进地震监测现代化、信息化、自动化。进一步整合我市及周边地区已建和新建的各类地震前兆观测手段，发展强震动观测，建设地震烈度速报系统，提高观测手段抗干扰能力。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(二)进一步提高地震预报水平。加强地震预测研究，因地制宜地开展地震宏观异常观察，坚持长、中、短、临预测研究相结合和“专群结合”的技术路线，强化地震短临跟踪，严格震情跟踪措施和制度，力争在破坏性地震发生前，提出有减灾实效的地震预测意见。规范震情信息发布，根据国家规定，向社会公布地震重点监视防御区和地震重点危险区的判定信息。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(三)加强地震群测群防工作。研究制定市场经济条件下加强我市地震群测群防工作的政策措施，建立地震群测群防经费渠道，制定群测群防工作管理办法，加强指导和培训，使地震群测群防工作逐步规范化、制度化。按照国家《地震群测群防工作大纲》，制定本地区地震群测群防网络建设方案，推进“三网一员”建设，形成“横向到边、纵向到底”的群测群防网络体系，充分发挥群测群防在地震短临预报、灾情信息报告、普及地震知识和开展防震减灾工作中的作用。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(四)全面提升城区和城镇综合抗震能力。加强城市地震安全基础工作，利用地震活断层探测成果，对主城区已建房屋、生命线工程、可能发生严重次生灾害的建设工程和危旧校舍进行抗震性能普查和加固工作。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　强化重大建设工程抗震设防监督管理，新建工程必须严格按照国家规定的抗震设防要求和抗震设计规范进行抗震设计、施工。将抗震设防要求作为项目可行性论证、工程设计、施工审批和竣工验收的必备内容，确保抗震设防全部达到法律要求。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　进一步完善南京都市圈防震减灾区域联防体系，推进都市圈城市之间建立防震减灾资源共享、信息联通、技术交流、震情会商、应急互助的协作机制，减少都市圈城市重复投入和资源浪费，逐步形成防震减灾合力，推动我市及区域防震减灾能力进一步提高。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(五)稳步实施农村民居防震安全工程。加强村镇规划建设管理，按照合理布局、科学选址、平震结合的原则，把抗震设防作为村镇建设规划编制的重要内容。加强村镇建筑抗震设防管理，逐步建立农村民居抗震设防管理制度。在农村地区大力宣传防震抗震知识，积极推广使用村镇住宅防震抗震技术，开展农村建筑工匠技术培训，提高农村民居施工质量。各级政府要通过政策引导和扶持，深入开展农村民居防震安全示范工程，总结经验，以点带面，全面推广。到2015年，实现农村民居地震防御能力指标，并逐步使广大农民把建设安全居所变为维护自身安全的自觉行动，切实提高农村民居的总体抗震能力。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(六)完善地震紧急救援体系建设。进一步健全市、区(县)抗震救灾指挥机构，完善指挥机构工作制度，建立健全政府统一指挥、军地协作、部门配合、社会参与的工作机制，明确有关单位职责。完善全市地震灾害应急预案体系，健全我市地震应急预案的备案制度和检查制度，使地震应急管理制度化。加大应急演练推广力度，提高全民应对地震突发事件的处置能力。积极配合国家和省地震紧急自动处置平台建设，适时开展重大基础设施和生命线工程地震紧急处置系统建设试点工作。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　依托政府突发公共事件应急指挥系统平台，重点完善我市地震应急指挥技术系统，进一步充实并完善地震应急装备，保障应急工作及时、高效。结合“三网一员”建设，进一步健全地震灾情信息速报网络。健全防震减灾社会动员机制，加强应急救援队伍组建和培训，不断提升地震应急救援能力。逐步将地震应急避难场所纳入城市建设规划，按照科学、规范、多灾种综合防御要求，在新建小区、公共绿地和广场设置必需的应急疏散通道和避险场所，配置必要的避险救生设施。完善救灾物资储备体系，建设城市网状社区避难救助系统，确保震后6小时内灾民得到基本的生活救助。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(七)大力开展防震减灾宣传教育。加强对防震减灾宣传教育工作的领导，积极开展地震宣传品牌活动，把防震减灾知识宣传教育纳入国民安全教育体系，增强全社会防震减灾意识。健全地震、宣传、教育部门和新闻媒体及社会团体的协作机制，不断完善防震减灾宣传教育网络，不断拓展防震减灾知识普及深度和广度。各级政府要建立防震减灾宣传管理制度，做好常规宣传和震时宣传。开展防震减灾知识进校园、进社区、进企业、进农村、进机关、进军营等活动，推进防震减灾科普场所建设，努力创建防震减灾科普教育基地，力争每个区(县)有一个教育基地，促进社会公众掌握应急避险、自救互救技能。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　四、重点项目</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(一)数字地震观测系统建设工程</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　完善地震台网中心及测震台站处理软件系统，使我市数字测震台网对辖区内地震的监测能力达到1.5级，地震速报时间少于5分钟，进一步提高我市数字地震观测系统建设水平。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　建设地震烈度速报系统工程，在有感地震和破坏性地震发生后及时圈定南京市主城及其附近地区的地震烈度，为地震应急反应决策、震害快速评估和震后重建提供科学依据。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　建设地震信息系统工程，继续完善地震应急视频会商系统，建设专用通信光纤和通信平台，全面实现与省和区(县)地震部门之间地震应急指挥信息、监测预报数据和科学研究信息的快速传递与共享，为我市日常地震监测预报、科学研究、防震减灾信息发布提供信息传递和共享平台。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　在六合、浦口和江宁各建成一座基岩强震台，进一步完善地震强振动台网。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(二)地震深井综合观测系统建设工程</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　建设深井(400米)综合观测系统，综合观测深井地应变、水位和水温等观测项目，与模范马路井共同形成深井地震综合观测网。地应变清晰观测到深井固体潮，水位和水温观测精度达到1毫米和万分之一度，数据采样达到秒采样，同时建设降水、气压和气温三项辅助观测项目。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(三)地震监测预警中心建设工程</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　我市是国家确定的地震重点监视防御区，为加强地震监测预警工作，在我市的东西方向选择地块建设集地震监测预报和地震科普宣传功能于一体的现代化地震监测预警中心(地震科普馆)。包括：监测预警中心监测室、办公室、测震仪摆房、钻孔分量应变井、地震知识科普宣传教育基地(地震科普馆)以及围墙、道路等相关配套设施。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(四)地震前兆台网建设工程</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　依托“十一五”期间建设完成的基础设施及地震台站监测项目，在布局上形成以地形变观测项目为主，兼顾地电阻率、地下流体观测项目的市地震前兆台网。测项密度由1.5台项/千km2增加到2.0台项/千km2，使南京市区域达到每30公里左右具有一个观测项目，进一步增强南京市对辖区和周边地区的地震的前兆异常监测能力。完成溧水、六合和浦口地震台等钻孔应变项目；实施南京市地震监测台网安全防护工程；积极配合省地震局《地震监测台站加密及应急系统扩建工程项目》。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(五)群测群防网络建设工程</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　按照国家《地震群测群防工作大纲》，全面建设我市“三网一员”，形成“横向到边、纵向到底”的群测群防网络体系。目前，已完成全市范围内街道、乡镇一级约150人的地震灾情速报网络的建设。“十二五”期间将整个网络体系范围扩至全市所有社区和自然村，人员达到现有速报员数量的10倍以上，每年分级开展定期培训、系统软硬件配置维护等工作。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(六)地震应急指挥系统建设工程</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　为有效提高我市地震应急反应速度和紧急救援能力，确保应急工作临震不乱，决策科学，行动迅速，处置有力，最大限度地减轻地震灾害损失。建设地震应急指挥技术支撑系统，对应急指挥系统进行架构升级和功能完善，确保“十一五”地震应急指挥技术系统建设项目正常运行。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　建立地震应急移动通讯系统，配置应急指挥通讯车，利用现代音、视频传输技术，在地震现场形成与多个行业、部门的联动网络，实现前后方一体化信息调度和指挥管理。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　完善地震应急基础数据库，建设地震灾害动态快速评估系统。研究江苏省及邻区地震衰减关系，给出适合南京地区的“模拟地震影响场”，一旦我市及邻区发生破坏性地震，可结合地震烈度速报告成果，对地震造成灾害损失和人员伤亡进行快速评估，为地震应急指挥决策提供科学依据。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(七)城市地震应急避难场所建设工程</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　市住建、规划、旅游园林、地震等部门密切配合，将地震应急避难场所建设纳入我市城市建设的整体规划之中。按照科学、规范、平灾结合、多灾种综合防御的要求，建设地震应急避难场所。有计划地将我市现有广场、绿地、公园、空地等场地，改造建设为能够发挥应急避难作用的场所，每年建成一处市级大、中型地震应急避难场所。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(八)地震应急救援队伍建设工程</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　继续组建以企业为主体的地震应急救援大队，力争每年组建1—2支，形成以大型机械设备为基础、熟知救灾业务的人员为骨干的企业应急救援力量。同时，积极推进应急救援志愿者服务工作。积极推动我市社区地震应急救援志愿者力量建设，提高群众的自救、互救能力，逐步建立起社会应急救援网络系统，组织志愿者队伍，进一步发挥城市社区在救援行动中就近、及时的作用。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　五、保障措施</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(一)加强组织领导</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　各区县政府要切实把防震减灾工作纳入重要议事日程，健全和完善防震减灾工作联席会议制度，加强督促检查，及时解决问题。完善各区(县)防震减灾目标管理考核体系，加强考核和督查，形成制度。进一步健全和加强市、区(县)地震工作管理机构，明确职责，把人员配备和所需经费落到实处；尚未设立地震工作管理机构的区(县)，要明确相应的机构或者专门人员负责防震减灾管理工作，切实建立“政府领导、分级管理、部门负责”的市、区(县)二级防震减灾工作体系。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　各区县政府要创新工作机制，将房屋、桥梁等各类建筑物的抗震验收作为建设工程竣工验收的必备内容，对达不到抗震要求的工程要限期整改。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(二)加大经费投入</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　各区县政府要将防震减灾事业纳入国民经济和社会发展规划，将防震减灾经费纳入本级财政预算，切实加大投入力度，完善公共财政体制下防震减灾投入稳定增长机制。建立以政府投入为主体、社会捐赠等多渠道投入机制，使全社会防震减灾投入水平与经济社会发展水平相适应。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(三)加强法制建设</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　贯彻落实《中华人民共和国防震减灾法》和《江苏省防震减灾条例》，建立健全我市防震减灾工作的配套规章制度，严格依法行政，加大执法力度。通过地方立法建立健全我市防震减灾工作法规体系。各区县政府和有关部门要本着对人民生命财产安全高度负责的精神，认真贯彻防震减灾法律法规，各司其职，密切配合，严格依法办事和依法行政，加大防震减灾法律法规的宣传教育力度，不断提高市民法律素质。</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　(四)推进科技创新</p><p style="padding-bottom: 5px; text-transform: none; text-indent: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; font: 14px/28px 宋体; word-wrap: break-word; white-space: normal; letter-spacing: normal; color: rgb(17,17,17); word-spacing: 0px; padding-top: 0px; -webkit-text-stroke-width: 0px">　　把地震科研工作摆在突出位置，加大支持力度，积极推进地震科技创新，充分发挥科技对防震减灾工作的支撑和引领作用。要重点推进基础平台建设，积极开展地震监测预测新理论、新方法、新技术研究，努力探索地震孕育发生发展的规律。要大力加强震害防御应用技术研究，不断增强地震灾害防御能力。积极开展国际、国内合作交流，引进国内外先进技术，增强我市防震减灾科技水平，为防震减灾事业的发展提供人才保障和智力支持。</p></div>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55216';var __$contentid='3140152';var __$title='南京市“十二五”防震减灾规划';var __$AuthorPh='';var __$Editor='';var __$Liability='市地震局1';var __$pubtime='2015-01-09 10:55:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

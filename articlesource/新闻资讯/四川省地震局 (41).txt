@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../">首页</a>><a href="../../">新闻资讯</a>><a href="../">行业动态</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>四川地震预警拟(授权)统一发布 违规者或将受罚 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '？四川新闻网';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-08-19 14:12:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-08-19 14:12:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-08-19 14:12:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-08-19 14:12:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<P>　　<SPAN></P>
+<P>　　<SPAN>8月11日，“北川6.0级地震”被证实为虚惊一场，不过事件却引发热议。国家地震台网直言“为成都高新减灾所预警系统误报”，不过成都高新减灾研究所却不认同，并称事件系该所“对手机用户进行了不提前告知的测试演习”（四川新闻网昨日报道）。</SPAN></P>
+<P>　　<SPAN>四川新闻网记者了解到，今年年内《四川省地震预警管理暂行办法》（下简称《办法》）将争取出台，省地震局专家透露，《办法》将对地震预警发布进行规范，并对违规者处罚。不过，在面对四川新闻网记者采访时，成都市高新减灾研究所所长王暾仍强调“不是误报”，并表示，在做相应修正后未来减灾所还会进行“不提前告知的测试演习”。</SPAN></P>
+<P>　　<SPAN><STRONG>成都高新减灾所：修正后会继续“不提前告知的测试演习”</STRONG></SPAN></P>
+<P>　　<SPAN>“减灾所对苹果手机进行不预先通知的测试演习所带来的不便表示抱歉。”今日上午，成都市高新减灾研究所在其官方微博发表声明。“不是误报。”成都市高新减灾研究所所长王暾在电话中向四川新闻网记者强调。而据他介绍，类似的测试演习两年前他们曾在汶川做过。</SPAN></P>
+<P>　　<SPAN>“今年在川滇地区还没有发生过破坏性的地震。”王暾解释，出于保持民众防震的意识他们做了这次演习。而之所以选择北川、6级地震这两个条件，是因为在他看来，北川经历过强震，民众的防震意识强，而6级的强震级也会引起民众的响应，进行避险。他也说明：测试演习前他们对于可能出现的慌乱曾作评估，认为过程可控，民众“不会显得慌乱”。</SPAN></P>
+<P>　　<SPAN>“我认为这次测试演习是值得的。”王暾也表示，未来还会进行“不提前告知的测试演习”。不过他也表示，会有所修正——例如演习前在微博上进行公告。</SPAN></P>
+<P>　　<SPAN><STRONG>年内出台《四川省地震预警管理暂行办法》&nbsp;拟（授权）统一发布</STRONG></SPAN></P>
+<P>　　<SPAN>“地震预警具有很强的科学属性，需要密集的监测台站、非常成熟的技术系统和稳定的信息发布系统。”省地震局专家表示，此外，地震预警还具有强烈&nbsp;的社会属性和法律属性。四川新闻网记者了解到，四川省政府已将《四川省地震预警管理暂行办法》列为2015年政府规章制定计划。据悉，目前，《四川省地震预警管理暂行办法（草案代拟稿）》征求意见稿已基本形成，并于近期公开征集意见后报送省法制办，将争取在今年出台。</SPAN></P>
+<P>　　<SPAN>值得注意的是，《办法》中明确了地震预警信息的发布主体与权限、发布条件与范围，地震预警信息的更新与撤销，地震预警信息的发送与传播。省地震局专家透露，《办法》拟对地震预警信息实行归口管理、统一发布，任何单位和个人未经授权，不得对外发布地震预警信息。</SPAN></P>
+<P>　　<SPAN>事实上，《福建省地震预警管理办法》已于本月开始施行，其中对违反规定擅自向社会发布地震预警信息造成后果的，都明确了相应的处罚。其中，构成犯罪的，将依法追究刑事责任。省地震局专家表示，类似的处罚措施也会在《办法》中得到体现。</SPAN></P>
+<P>　　<SPAN>采访中，王暾倾向“鼓励更多企业参与地震预警的服务。”事实上，省地震局专家表示，《防震减灾法》已经明确规定鼓励、支持社会组织和个人参与防震减灾工作。需要明确的是，“企业、个人等社会力量可参与技术研发、仪器研制、台网建设等工作”，地震预警信息应实行归口管理、统一发布。</SPAN></P>
+<P>　　</SPAN></P></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

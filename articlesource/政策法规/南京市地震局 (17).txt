@@ -1,0 +1,577 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../images/style(2).css">
+<SCRIPT src="../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17863';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>政策法规</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>部门规章</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>地震安全性评价资质管理办法</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2002-01-16</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_988398"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=988398"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <p align="left">地震安全性评价资质管理办法 <br> 
+  中国地震局令 第8号<br> 
+  《地震安全性评价资质管理办法》,已于2002年1月16日经中国地震局局务会议通过,现予发布,自发布之日起施行。 <br> 
+  局长 宋瑞祥 <br> 
+  二○○二年二月二十七日 <br> 
+  第一条 为了加强对地震安全性评价资质的管理,保证工作质量,维护市场秩序,根据《中华人民共和国防震减灾法》和《地震安全性评价管理条例》,制定本办法。<br> 
+  第二条 在中华人民共和国境内申请地震安全性评价资质和对地震安全性评价资质的监督管理,适用本办法。<br> 
+  第三条 从事地震安全性评价工作的单位,必须取得资质证书。与地震安全性评价工作相关的地震动参数复核、地震小区划、地震活动断层探测和危险性鉴定、震害预测工作,应当由地震安全性评价持证单位承担。<br> 
+  第四条 地震安全性评价资质,是指从业单位必须具备的资历、人员、技术、设备等条件。地震安全性评价资质分为甲级、乙级、丙级。<br> 
+  第五条 国务院地震工作主管部门是全国地震安全性评价资质的管理部门,负责甲级、乙级资质的审批。<br> 
+  省、自治区、直辖市人民政府负责管理地震工作的部门或者机构是本行政区域内地震安全性评价资质的管理部门,负责丙级资质的审批,并报国务院地震工作主管部门备案。<br> 
+  第六条 从事地震安全性评价工作的专业技术人员,必须取得地震安全性评价执业资格。未取得执业资格的人员不得作为地震安全性评价项目的技术负责人。<br> 
+  地震安全性评价执业资格设一级、二级,分为地震、地震地质和工程地震三个专业。 <br> 
+  地震安全性评价执业资格的管理按照国家的有关规定执行。<br> 
+  第七条国务院地震工作主管部门负责地震安全性评价一级执业资格证书的审批。<br> 
+  省、自治区、直辖市人民政府负责管理地震工作的部门或者机构,负责地震安全性评价二级执业资格证书的审批,并报国务院地震工作主管部门备案。<br> 
+  第八条申请地震安全性评价资质证书的单位应当具有独立法人资格,并符合国家有关法律、法规的规定。<br> 
+  第九条申请地震安全性评价甲级资质证书的单位应当具备以下条件:<br> 
+  (一)具有固定的专业技术人员,持有一级执业资格证书6人以上,其中地震、地震地质、工程地震专业必须各有2人以上;<br> 
+  (二)具有承担地震安全性评价工作的技术装备及地震安全性评价专用软件系统,并具备相应的实验、测试、分析能力;<br> 
+  (三)高、中级专业技术人员不少于15人;<br> 
+  (四)具有独立承担地震安全性评价工作和编写评价报告的能力;<br> 
+  (五)掌握国家有关法律、法规、标准和地震安全性评价技术规范等;<br> 
+  (六)具有健全的质量、技术管理制度。<br> 
+  第十条申请地震安全性评价乙级资质证书的单位应当具备以下条件:<br> 
+  (一)具有固定的专业技术人员,持有一级、二级执业资格证书各3人以上,其中地震、地震地质、工程地震专业必须各有2人以上;<br> 
+  (二)具有承担地震安全性评价工作的技术装备及地震安全性评价专用软件系统,并具备相应的实验、测试、分析能力;<br> 
+  (三)高、中级专业技术人员不少于10人;<br> 
+  (四)具有独立承担地震安全性评价工作和编写评价报告的能力;<br> 
+  (五)熟悉国家有关法律、法规、标准和地震安全性评价技术规范等;<br> 
+  (六)有健全的质量、技术管理制度。 <br> 
+  第十一条申请地震安全性评价丙级资质证书的单位应当具备以下条件:<br> 
+  (一)具有固定的专业技术人员,持有二级以上执业资格证书4人以上,其中地震、地震地质、工程地震专业必须各有1人以上;<br> 
+  (二)具有承担地震安全性评价工作的技术装备及地震安全性评价专用软件系统;<br> 
+  (三)初级以上专业技术人员不少于6人;<br> 
+  (四)具有独立承担地震安全性评价工作和编写工作报告的能力;<br> 
+  (五)了解国家有关法律、法规、标准和地震安全性评价技术规范等;<br> 
+  (六)有健全的质量、技术管理制度。<br> 
+  第十二条首次申请地震安全性评价资质的单位,只能申请乙级、丙级资质证书。<br> 
+  取得地震安全性评价乙级、丙级资质证书满2年的单位,可以按照资质条件申请上一级资质证书。<br> 
+  第十三条地震安全性评价甲级资质证书持证单位的从业范围是:全国范围内各种类型的建设工程的地震安全性评价和地震小区划、地震动参数复核及地震活动断层探测与危险性鉴定、震害预测等有关工作。 <br> 
+  地震安全性评价乙级资质证书持证单位的从业范围是:全国范围内除国家重大建设工程、核电站和核设施建设工程以外的建设工程的地震安全性评价和地震动参数复核及100万人口以下城市的地震小区划工作。<br> 
+  地震安全性评价丙级资质证书持证单位的从业范围是:<br> 
+  所在省、自治区、直辖市辖区内的地震动参数复核工作。<br> 
+  第十四条申请地震安全性评价一级执业资格证书的人员应当具备以下条件:<br> 
+  (一)从事与地震安全性评价相关工作五年以上,并具有高级技术职称;<br> 
+  (二)熟悉本专业的技术和知识,掌握国内外先进技术和发展趋势,并能解决关键性技术问题;<br> 
+  (三)具有承担重大建设工程地震安全性评价工作的能力,并能独立编写评价报告;<br> 
+  (四)掌握国家有关法律、法规、标准和地震安全性评价技术规范等,并能结合实际工作熟练运用。<br> 
+  第十五条申请地震安全性评价二级执业资格证书的人员应当具备以下条件:<br> 
+  (一)从事与地震安全性评价相关工作三年以上,并具有中级以上技术职称;<br> 
+  (二)熟悉本专业的技术和知识,能应用国内外先进技术解决工程技术问题;<br> 
+  (三)具有参加重大建设工程地震安全性评价工作的能力,并能独立编写地震安全性评价工作报告;<br> 
+  (四)熟悉国家有关法律、法规、标准和地震安全性评价技术规范等,并能在实际工作中运用。 <br> 
+  第十六条申请地震安全性评价执业资格证书的技术人员,应当参加发证机关组织的地震安全性评价技术考试,取得合格证书。<br> 
+  第十七条申请地震安全性评价资质证书的单位,应当向资质管理部门提供下列资料:<br> 
+  (一)地震安全性评价资质申请表;<br> 
+  (二)单位法人资格证明文件、单位所有制性质证明文件(复印件);<br> 
+  (三)法人代表与技术负责人的有关证明材料;<br> 
+  (四)主要技术人员情况;<br> 
+  (五)主要设备;<br> 
+  (六)单位资历。<br> 
+  申请甲、乙级资质证书,应当经省、自治区、直辖市人民政府负责管理地震工作的部门或者机构审核。审核部门应当对申请单位的资质条件和提供的资料进行核实,并向国务院地震工作主管部门提供核实意见。<br> 
+  国务院部委的直属机构申请甲级、乙级资质证书,经其主管部门审核后,直接向国务院地震工作主管部门提供申请资料。 <br> 
+  第十八条申请地震安全性评价执业资格证书的人员,应当向资质管理部门提供下列资料:<br> 
+  (一)地震安全性评价执业资格证书申请表;<br> 
+  (二)工作资历和主要业绩；<br> 
+  (三)所在单位的审核意见；<br> 
+  (四)地震安全性评价技术考试合格证书。<br> 
+  第十九条 资质管理部门收到申请人的申请资料后,应当委托地震安全性评审组织,对资质证书和执业资格证书的申请进行业务审查。<br> 
+  第二十条 资质管理部门应当自收到申请之日起30日内作出审查决定。符合条件的　,予以颁发证书,并通知申请人;需要补充有关资料的,应当要求申请人限期补交,逾期不交的,视为放弃申请;不予批准的,应当说明理由。<br> 
+  申请人自收到批准通知之日起30日内到资质管理部门领取证书。<br> 
+  第二十一条 国务院地震工作主管部门和省、自治区、直辖市人民政府负责管理地震工作的部门或者机构,应当将地震安全性评价资质审批结果予以公告。<br> 
+  第二十二条 地震安全性评价资质证书包括正本和副本,正本和副本具有同等法律效力,其式样由国务院地震工作主管部门统一规定。<br> 
+  第二十三条 地震安全性评价资质证书的有效期为4年。持证单位应当在资质证书有效期满30日前向发证机关提出延展申请,经审查后重新确认资质等级,核发证书。逾期不办理的,到期自行失效。<br> 
+  第二十四条 地震安全性评价资质单位名称或者法定代表人发生变化，应当在30日内到资质审批部门办理变更手续。机构、人员发生重大变化,应当向资质审批部门申报。<br> 
+  第二十五条 地震安全性评价资质实行定期审查制度,每2年审查一次。审查时间由资质审批部门决定,提前30日告知持证单位。<br> 
+  审查结论分为合格、基本合格、不合格。<br> 
+  根据审查结论,对资质单位分别予以确认、限期整改、降级或终止的决定。<br> 
+  第二十六条 地震安全性评价资质审查包括以下主要内容:<br> 
+  (一)持证单位从事地震安全性评价工作的机构、人员状况;<br> 
+  (二)固定技术人员的业务水平及持执业资格证书状况;<br> 
+  (三)仪器设备、分析测试手段和数据质量;<br> 
+  (四)抽查已完成的地震安全性评价工作报告;<br> 
+  (五)遵守有关法律、法规、标准的情况。<br> 
+  第二十七条 持证单位违反本办法规定,有下列行为之一的,由资质管理部门依据职权,责令改正,根据违法情节，处以警告、处1万元以上3万元以下的罚款、暂扣或吊销资<br> 
+  质等级证书:<br> 
+  (一)弄虚作假领取资质证书的；<br> 
+  (二)转借资质证书的；<br> 
+  (三)机构、人员发生变化与资质等级不符又不及时申报的； <br> 
+  (四)无故不参加定期审查或者上报的材料不真实的。<br> 
+  第二十八条 地震安全性评价资质持证单位超越其资质等级证书规定的业务范围承揽地震安全性评价业务的,按照《地震安全性评价管理条例》第二十四条的规定处理。<br> 
+  第二十九条 审查颁发地震安全性评价资质证书和执业资格证书的工作人员违反本办法规定的,按照《地震安全性评价管理条例》第二十五条的规定处理。<br> 
+  第三十条 本办法自公布之日起施行;1998年1月4日公布的《建设工程地震安全性评价许可证书管理办法》和《地震安全性评价工作上岗证书管理办法》(震发防〔1998〕004号)同时废止。  
+</p>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17863';var __$contentid='988398';var __$title='地震安全性评价资质管理办法';var __$AuthorPh='';var __$Editor='';var __$Liability='Administrator';var __$pubtime='2002-01-16 00:00:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

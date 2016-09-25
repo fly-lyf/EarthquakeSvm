@@ -1,0 +1,407 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>治理商业贿赂专项工作专辑（第一期）</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">治理商业贿赂专项工作专辑（第一期）</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-05-31 20:54:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局监察司
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><DIV><br>
+<DIV&nbsp;align=center><STRONG>中国地震局开展治理商业贿赂专项工作综述</STRONG>&nbsp;</DIV><br>
+<P></P><br>
+<DIV><P&NBSP;ALIGN=LEFT>　　我局系统治理商业贿赂专项工作开展以来，在局治理商业贿赂工作领导小组的指导下，各单位认真贯彻中办、国办《关于开展治理商业贿赂专项工作的意见》（以下简称《意见》）和中国地震局党组《关于印发〈关于开展治理商业贿赂专项工作方案〉的通知》（以下简称《通知》）精神，深刻领会中国地震局领导关于开展治理商业贿赂专项工作的指示，充分认识商业贿赂的严重性和危害性以及开展治理商业贿赂工作的重要意义，积极动员和部署自查自纠阶段的工作。我局系统治理商业贿赂工作已经开了一个好头，主要体现在：&nbsp;</DIV><br>
+<P></P><br>
+<DIV><STRONG>　　一、加强组织领导，认真学习文件</STRONG>&nbsp;</DIV><br>
+<P></P><br>
+<DIV>　　4月初，我局《通知》下发后，局系统各单位党组（党委）十分重视，认真贯彻执行，很快成立了以纪检组长（纪委书记）为主要负责人的治理商业贿赂专项工作领导小组，设立了办公室，配备了办事人员，并研究制定“治理商业贿赂专项工作实施方案”迅速上报中国地震局治理商业贿赂专项工作领导小组。&nbsp;</DIV><br>
+<P></P><br>
+<DIV>　　治理商业贿赂专项工作开展以来，各单位党组（党委）和专项治理工作小组非常重视，向广大干部职工认真传达胡锦涛、温家宝等中央领导同志的重要讲话和中办、国办的《意见》以及我局的《通知》，同时还传达了中国地震局领导关于开展治理商业贿赂专项工作的指示精神。提高了广大干部职工对开展治理商业贿赂工作必要性的认识。陕西局要求：各级领导干部必须从促进防震减灾事业发展的高度，增强治理商业贿赂的紧迫感。第二监测中心通过学习认识到：治理商业贿赂对维护公平竞争原则、完善社会主义市场经济体制，维护广大人民群众的切身利益，促进国民经济健康发展和反腐败工作都将产生重要影响。辽宁局提出：治理商业贿赂要坚持标本兼治综合治理的方针，要突出工作重点，解决关键问题。北京局提出：通过治理商业贿赂专项工作，切实维护国家、集体和职工的切身利益，坚持依法行政和从严治政，把“为民、务实、清廉”作为行动准则。山东局提出：治理商业贿赂工作要结合实际，认真贯彻落实中国地震局党组提出的确保项目“三个安全”和防震减灾事业“四个面向”。河北局要求：各单位在治理商业贿赂中要建立健全责任机制，切实做到“人员、任务、责任三落实”，确保治理工作顺利进行。地震台网中心要求：干部职工在治理商业贿赂专项工作中要统一思想，提高认识，积极行动，扎实深入开展工作。&nbsp;</DIV><br>
+<P></P><br>
+<DIV>　　<STRONG>二、以多种方式开展宣传教育，为治理工作打好思想基础</STRONG></DIV><br>
+<DIV><STRONG></STRONG><BR><P&NBSP;ALIGN=LEFT><STRONG>　　</STRONG>在开展治理商业贿赂工作中，各单位在学习教育方法上有不少创新。安徽局抓住思想发动和学习培训“两个环节”，在思想发动的基础上向全局处级以上领导干部和有关岗位人员发放《自查自纠表》认真开展清查工作。上海局除组织学习规定的文件、领导讲话外，还准备请有关专家讲解商业贿赂知识和有关的法律法规。云南局在组织干部进行学习培训的同时，创办了《治理商业贿赂工作简报》，宣传上级领导的讲话和中办、国办、中国地震局的有关文件精神及治理商业贿赂的有关法律、法规知识。江苏局利用宣传橱窗举办治理商业贿赂工作宣传专栏，组织干部职工参观反腐倡廉展览，进行警示教育，并利用防震减灾网报道治理商业贿赂工作情况。&nbsp;</DIV><br>
+<P></P><br>
+<DIV><P&NBSP;ALIGN=LEFT>　　<STRONG>三、密切结合实际，明确治理商业贿赂专项工作重点</STRONG>&nbsp;</DIV><br>
+<P></P><br>
+<DIV><STRONG>　　</STRONG>一些单位能密切结合工作实际，制定实施方案，明确了各自的治理工作重点。如：黑龙江局将清查抗震性能鉴定和其他安评项目工作中的不公平竞争、限制竞争行为及超越资质许可的非法经营行为纳入治理重点。福建局、宁夏局在自查自纠中，将本单位制度建设和执行中国地震局相关制度的情况作为重点。福建局还制定了《治理商业贿赂自查自纠调查表》下发各部门进行清查。山西局、海南局、浙江局都强调要严肃查处涉及国家公务员、机关工作人员在商业活动中收受贿赂的行为。地壳应力所明确自查自纠的重点是“十五”网络等国家重点投资项目和地震安全性评价以及政府采购项目。&nbsp;</DIV><br>
+<P></P><br>
+<DIV>　　<STRONG>四、工作部署具体,可操作性强</STRONG></DIV><br>
+<P></P><br>
+<DIV><STRONG>　　</STRONG>有的单位通过开展学习、宣传、组织动员后，认真制定治理商业贿赂专项工作实施方案，做到部署具体明确，可操作性强。如：湖北局将宣传“八荣八耻”和实行政务公开、抓好“三个安全”作为治理商业贿赂工作的重要内容；在自查自纠阶段开展“三查”活动，即一查思想。看思想上对治理商业贿赂工作的重要性是否到位；二查行为。看在实施项目工程和地震安全性评价等活动中有无不正当竞争、限制竞争、超越资质许可接受或索取贿赂等违纪、违规行为。三查制度。要查企业单位在经营、财务、购销等活动中，规章、制度是否建立健全，有无薄弱环节和漏洞。甘肃局将中国局文件规定的四项清查范围扩展为包括清查该局（所）开发经营项目在内的五大项，共计十五个专项内容。天津局将清查范围扩展为八大项，并提出要重视“两个结合”和“一个注意”，即自查自纠与调查核实相结合，防范教育与惩治结合，注意将苗头性问题解决在萌芽状态。工程力学所将自查自纠范围延伸到在不正当交易中收受宣传、赞助、劳务、考察等名义的费用和“小金库”、“账外账”等方面。地球所正在完善原来制定的《合同签定和审批办法》，并将对合同进度、资金来源、合同任务验收、合同效益等内容进行审核清理。地质所将三产开发中的经营情况例为自查自纠的主要项目，并提出与治理范围有关的个人和领导也要按照要求认真自查自纠。</DIV><br>
+<P></P><br>
+<DIV>　　前一段地震系统的治理商业贿赂工作，各单位进展不平衡。除云南局、湖北局、甘肃局、安徽局、第二监测中心、工程力学所和地质所等少数单位外，其他单位基本是限于宏观要求和一般号召，没有突出单位的特点，在自查范围、工作思路以及方法、措施等方面缺乏具体可操作的内容。&nbsp;</DIV><br>
+<P></P><br>
+<DIV>　　领导小组要求：在今后工作中，要继续搞好宣传教育，要将组织干部职工学习规定的文件、中央领导的重要讲话和中国地震局领导有关指示同组织学习党章、有关法律、法规结合起来，同认真开展以“八荣八耻”为重要内容的社会主义荣辱观教育结合起来，使干部职工进一步认识商业贿赂的危害性，不断增强廉洁自律意识。在自查自纠过程中，要结合本单位和个人的实际，结和项目的清查以及规章制度的执行情况，加强监督，以保证治理商业贿赂工作不走过场。在开展自查自纠工作中，要严格区分正常的商业活动与不正当交易行为的界限，严格区分违纪违规与违法犯罪的界限，坚持事实求是、宽严相济和区别对待的原则。</DIV></DIV></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

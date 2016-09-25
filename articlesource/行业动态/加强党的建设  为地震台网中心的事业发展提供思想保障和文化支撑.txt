@@ -1,0 +1,408 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>加强党的建设  为地震台网中心的事业发展提供思想保障和文化支撑</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">加强党的建设  为地震台网中心的事业发展提供思想保障和文化支撑</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2007-01-10 18:13:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局直属机关党委
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 20pt; TEXT-ALIGN: center; mso-line-height-rule: exactly" align=center><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">中国地震台网中心党委<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">2006年，中国地震台网中心坚持以“人本管理”为中心，以学习创新为动力，完善保持党员先进性的长效机制，使党的工作在继承中提高，在巩固中深入，在改进中加强，在创新中发展，为台网中心的事业发展提供强有力的思想保障和文化支撑，奋力打造国际一流水准的地震台网中心。<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">一、深入学习贯彻《党章》，加强思想建设，巩固先进性教育成果<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">一是认真坚持中心组学习制度。台网中心党委严格按照中国地震局党组的要求，制订了中心组学习计划安排，做到学习有计划、有安排、重质量，重点在武装头脑、联系实际、指导实践上下功夫，在解决问题、推动工作上下功夫，确保中心组学习落实到实处，务求学习取得实效。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">二是进一步落实先进性教育活动整改措施。中心党委认真做好先进性教育活动整改方案的落实工作，对照先进性教育活动中查摆的问题和制定的整改措施，逐一检查，已落实的及时进行通报，尚未完全落实的，立即找出原因，明确责任，予以落实，确保先进性教育活动成果的巩固和发展。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">三是领导干部带头讲党课。中心党委在“七·一”前举办专题报告会。中心主任阴朝民同志结合在中央党校的学习成果，作了题为“解放思想，事实求是，与时俱进<SPAN lang=EN-US>,全面推进台网中心的建设和发展”的党课报告。10月31日，台网中心党委与机关服务中心党委联合举办了党课报告会，党委书记李强华同志就中国共产党是一个什么样的党，如何认识我们党和怎样作一个合格的共产党员，作党课辅导报告。<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">四是开展知识答题和征文活动。中心党委组织了学习党章和党风廉政建设知识答题活动，参加答题的党员和要求入党积极分子共<SPAN lang=EN-US>119人；开展了学习贯彻党章推进党风廉政建设征文活动，6个支部共推荐上报8篇征文。第三支部刘杰、薛艳同志的征文紧密联系地震工作实际，内容深刻具体，刊登在《震苑经纬》并被中国地震局直属机关党委选送到中央国家机关工委。<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">二、深入开展创建学习型党支部活动，加强基层党支部建设<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">一是深入开展创建学习型支部活动。党支部通过形式多样的活动，增强支部工作的活力、凝聚力，形成学习型组织机制。中心第二党支部（台网部支部）被中央国家机关工委和中国地震局直属机关党委命名为先进党支部。中心党委组织中心各党支部参加了工委举办的创建学习型党支部征文活动，获得了优秀征文奖。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">二是开展有声有色的主题实践活动。中心在职党支部开展了形式多样、丰富多彩的主题实践活动，组织广大党员和要求入党积极分子，利用休息时间，深入社会，深入基层，考察地震台站，参观爱国主义教育示范基地和新农村建设典型，结合实际学习讨论。各支部还开展了一系列文化活动。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">三是加强干部培训和组织发展工作。中心党委积极参加局直属机关党委举办的党务干部、支部书记学习培训，第二党支部书记薛峰同志参加了中央国家机关工委举办的支部书记培训班。党委高度重视组织发展工作和要求入党积极分子的培养教育，针对台网中心的实际情况，把在高知识群体和青年骨干中发展党员作为工作重点，督促各党支部做好培养和发展工作的计划安排，并及时做好预备党员转正以及重点考察对象的培养工作。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">四是坚持从实际出发，探索有效的工作方式。在充分发挥台网中心党员顾全大局、无私奉献、爱岗敬业优良传统的基础上，中心党委把与时俱进、开拓创新作为党的建设的重点，针对过去对上级精神简单照发照转，学习教育形式单一、僵化，注重形式、轻视效果的问题，坚持从台网中心的实际出发，把学习贯彻上级指示精神与台网中心的工作紧密结合起来，积极探索党建工作的新思路和新方法，力争使台网中心在党建的工作形式、工作机制、活动载体和制度建设上有所创新，进一步完善永葆先进性的长效机制。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">三、以制度建设为重点，全面贯彻落实中国地震局<SPAN lang=EN-US>2006年党风廉政建设工作会议精神<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">一是及时传达学习会议精神。党委中心组集中进行了学习研究<SPAN lang=EN-US>, 认真研究讨论台网中心落实党风廉政建设工作会议的具体措施，同时充分利用台网中心政务网组织广大干部职工进行学习。<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">二是落实分解《实施纲要》的任务、目标。在调研和充分征求意见的基础上，制定下发了《中国地震台网中心<SPAN lang=EN-US>2006—2007年度贯彻落实〈建立健全教育、制度、监督并重的惩治和预防腐败体系实施纲要〉的任务安排》，将各项任务分解到各个职能部门，明确了任务和责任。<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">三是中层干部全部签订了党风廉政建设责任书。中层领导干部与主管领导签订《党风廉政建设责任书》，按照“谁主管、谁负责”的原则，一级抓一级，把党风廉政建设责任制的工作落到实处。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">四是健全完善制度，坚持从根子上抓起。建立健全了涉及议事规则、干部人事、财务经费、科技管理、重大项目、审计监督、党群工作等方面的规章制度<SPAN lang=EN-US>60余项。<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">五是扎实开展治理商业贿赂专项工作。“十五”网络项目和中心大楼建设是中心工作的重中之重。针对项目实施过程中有关商务活动可能出现的问题，制定了《中国地震台网中心重大项目“八不准”工作纪律》。对所有与项目有关人员提出严格要求，规范了在重大项目实施过程中的工作行为。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">六是认真开好民主生活会。各党支部广泛征求了党内外群众的意见，特别是先进性教育活动以来整改方案落实情况的意见。领导班子成员紧密结合实际，查摆在理想信念、求真务实、联系群众、廉洁自律等方面的问题，以诚恳的态度开展了批评与自我批评。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">中心党委还组织中层干部参加了中国地震局举办的廉政系列报告会和“七·一”纪念会；组织观看了警示教育片；推出《反腐倡廉宣传系列挂图》。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">四、坚持“两手抓”，以丰富的活动为载体，促进精神文明建设<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">中心党委全面贯彻落实中央提出的以人为本，科学发展，构建和谐社会的战略思想，进一步加强精神文明建设，不断增强全体职工参与精神文明创建的意识，有效地提高广大职工的道德水准、政治素质和法制观念，努力创建有特色的单位文化。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">一是充分发挥工青妇等群众组织作用。支持工会工作，健全完善共青团组织，充分发挥工青妇等群众组织在党联系群众方面的桥梁作用和在精神文明建设方面的作用。热情关心各民主党派人士，加强与民主党派组织的联系沟通，进一步加强统战工作。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">二是积极参与和开展丰富的文化体育活动。积极组织参加京区直属单位首届职工运动会、离退休职工运动会和中国地震局摄影展等。在建党<SPAN lang=EN-US>85周年和纪念红军长征胜利70周年之际，以支部为单位组织了参观纪念红军长征大型展览。此外还组织了各种培训、讲座、考察等。<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21pt; LINE-HEIGHT: 20pt; mso-line-height-rule: exactly; mso-char-indent-count: 2.0; mso-char-indent-size: 10.5pt"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">三是精神文明单位创建取得好成绩。中心党委在工作中坚持把精神文明创建与职工思想政治工作、道德建设、队伍建设相结合，通过活动凝聚人心，提高单位干部职工素质，以党建工作促文明创建，健全完善各项规章制度，促进规范化管理。中心的社会治安综合治理、消防安保、交通安全、计划生育等各方面工作均被评为京区先进单位和先进个人，被地区评为“平安单位”，在原信息中心基础上，连续<SPAN lang=EN-US>12年被评为“中央国家机关精神文明先进单位”。<o:p></o:p></SPAN></SPAN></P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

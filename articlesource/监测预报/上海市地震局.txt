@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>监测预报</h2>
+            </div>
+            <ul class="listTxt">
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai6985.html" title="我局举办前兆数据跟踪分析专题培训">我局举办前兆数据跟踪分析专题培训</a><span>2015-12-28</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai6929.html" title="预测分析中心赴福建局调研学习">预测分析中心赴福建局调研学习</a><span>2015-12-22</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai6926.html" title="全国区域一维速度模型建设及推广使用项目通过验收">全国区域一维速度模型建设及推广使用项目通过验收</a><span>2015-12-16</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai6915.html" title="国家前兆台网中心李正媛研究员应邀到我局作学术报告">国家前兆台网中心李正媛研究员应邀到我局作学术报告</a><span>2015-11-27</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai6893.html" title="我局举办2015年地下流体观测质量评比结果表彰会">我局举办2015年地下流体观测质量评比结果表彰会</a><span>2015-11-18</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai6892.html" title="我局召开2015年度上海市年度地震趋势会商会">我局召开2015年度上海市年度地震趋势会商会</a><span>2015-10-23</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5535.html" title="马钦忠研究员解读地震预报工作">马钦忠研究员解读地震预报工作</a><span>2015-07-02</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5436.html" title="我局举办2015年度地下流体仪器更新技术培训会">我局举办2015年度地下流体仪器更新技术培训会</a><span>2015-03-24</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5410.html" title="郑斯华教授为我局技术人员讲授地震数据处理及软件应用">郑斯华教授为我局技术人员讲授地震数据处理及软件应用</a><span>2015-02-26</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5382.html" title="长春市地震局祖国局长一行来我局考察综合深井建设">长春市地震局祖国局长一行来我局考察综合深井建设</a><span>2014-12-10</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5371.html" title="上海市地震局成功举办地震观测新技术研讨会">上海市地震局成功举办地震观测新技术研讨会</a><span>2014-12-04</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5346.html" title="“全国区域台网一维速度模型建设及推广使用”项目通过年度检查">“全国区域台网一维速度模型建设及推广使用”项目通过年度检查</a><span>2014-11-06</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5345.html" title="中国科学院大学院士石耀霖一行来我局参观">中国科学院大学院士石耀霖一行来我局参观</a><span>2014-11-06</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5339.html" title="中国地震局地球物理研究所副所长高孟潭应邀到我局作学术报告">中国地震局地球物理研究所副所长高孟潭应邀到我局作学术报告</a><span>2014-11-03</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5354.html" title="局领导带队赴辽宁省开展监测预报工作调研">局领导带队赴辽宁省开展监测预报工作调研</a><span>2014-10-20</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5330.html" title="我局召开2015年度上海市地震趋势会商会">我局召开2015年度上海市地震趋势会商会</a><span>2014-10-20</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5323.html" title="我局召开2013年度全国地震监测台网运行经常性项目考评分析会">我局召开2013年度全国地震监测台网运行经常性项目考评分析会</a><span>2014-10-09</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5280.html" title="全国深化地震分析预报领域改革工作会议在沪召开">全国深化地震分析预报领域改革工作会议在沪召开</a><span>2014-08-20</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5224.html" title="我局参加华东片区2014年年中地震趋势会商会">我局参加华东片区2014年年中地震趋势会商会</a><span>2014-06-17</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/jcyb/u1ai5221.html" title="预测分析中心一行赴辽宁开展科考调研">预测分析中心一行赴辽宁开展科考调研</a><span>2014-06-17</span></li>
+                
+            </ul>
+            <div class="page">
+<font color=gray>首页 </font><font color=gray> 上一页 </font><A class=text-1 HREF="/gb\dzj/gzdt/jcyb/index1.html"> 下一页 </A><A  HREF=index2.html> 尾页 </A>
+                <span>第1页&nbsp;共3页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

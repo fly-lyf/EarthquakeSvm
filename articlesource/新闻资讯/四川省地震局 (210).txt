@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">媒体聚焦</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>四川日报：演练贵在贴近实战练出精兵 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '四川日报';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-05-13 10:53:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-05-13 10:53:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-05-13 10:53:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-05-13 10:53:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<DIV><SPAN>演练特点：针对性强 务实节俭</SPAN> 
+<P>　 <SPAN>&nbsp;“目前，经常性开展省级综合演练的，全国只有四川。”省地震局应急救援处处长江小林说，这是我省2008年汶川特大地震发生后举行的第三次省级防灾救灾综合演练。</SPAN>&nbsp;</P>
+<P>　　<SPAN>按照省政府部署，省防震减灾领导小组每年都举行一次中小型地震灾害营救救援演练，并要求一切演练都要从实战出发。“四川的演练，从纵向看，省市县乡村五级立体联动；横向看是科目多样化，因地制宜，针对性很强。”江小林说，去年在冕宁的演练针对山区河流设置堰塞湖处置科目。今年在乐山的演练，考虑到当地化工业较发达，就选择了危化品演练，加之乐山是著名旅游城市，增设了游客疏散科目。</SPAN>&nbsp;</P>
+<P>　　<SPAN>省政府应急办副主任骆西宁说，四川演练的另一个特点是不搞铺张浪费，更务实。“今年演练原则的第一条就是节俭，我们确实做到了。”乐山市防震减灾局局长彭云金说，在我省历次省级综合演练中，这次演练是经费开支最少的一次，例如废墟搜救科目利用了正在拆迁的建筑；即便是必须造景之处，也使用了装饰布、钢管架等简易和可回收材料。“演练关键在能否贴近实战，关键在能否教育群<SPAN>众。”长期关注四川防灾演练的教育部应急管理咨询专家组副组长李从东认为，演练效果不在于队伍规模多大、烟幕弹放了多少颗、造景有多逼真，关键在贴近实战和练精兵。</SPAN>&nbsp;</P>
+<P>　　<SPAN>发展方向：</SPAN>&nbsp;</P>
+<P>　　<SPAN>加大单次演练强度 探索无预案演练</SPAN>&nbsp;</P>
+<P>　　<SPAN>江小林认为，虽然我省从上到下开展多层次的防灾救灾演练取得了很大成效，不少工作走在全国前列，但和国际先进水平相比，还有较大的改进空间，这也是下一步探索的方向。“我省演练的频率虽然高，但单次强度不够，多是演练一天。”江小林说，现实中的灾害救援常常是一场持久战，国外一些演练能够得到昼夜和多日高强度练兵。“我们各个技术环节中还缺乏第三方评估。”他说，比如堰塞湖除险、炸药安放的位置、爆炸后的效果，都可以引入第三方专业人士全程监测、评估矫正。</SPAN>&nbsp;</P>
+<P>　　<SPAN>此外，有专家建议我省今后探索无预案演练，让演练更加贴近实战。</SPAN>&nbsp;</P>
+<P>　　<SPAN>其实，全程观摩和点评演练的李从东，这次的身份正相当于一个宏观层面的第三方评估者。他在对演练给予高度肯定后也提出进一步完善的意见。“这次演练设计十多个科目，每个科目孤立、静止地看都比较成功，而真实的过程是它们多数是同时发生的。”李从东认为，这意味着各个领域要在同一个时间点上争夺资源，也可能还有空间上、功能上的交叉和干扰。例如演练中60%的科目同时需要救护车、消防车出动时，如何实现保障，“加强综合演练的集成化设计，是我对下一次综合<SPAN>和练精兵。</SPAN>&nbsp;</P>
+<P>　　<SPAN>发展方向：</SPAN>&nbsp;</P>
+<P>　　<SPAN>加大单次演练强度 探索无预案演练</SPAN>&nbsp;</P>
+<P>　　<SPAN>江小林认为，虽然我省从上到下开展多层次的防灾救灾演练取得了很大成效，不少工作走在全国前列，但和国际先进水平相比，还有较大的改进空间，这也是下一步探索的方向。“我省演练的频率虽然高，但单次强度不够，多是演练一天。”江小林说，现实中的灾害救援常常是一场持久战，国外一些演练能够得到昼夜和多日高强度练兵。“我们各个技术环节中还缺乏第三方评估。”他说，比如堰塞湖除险、炸药安放的位置、爆炸后的效果，都可以引入第三方专业人士全程监测、评估矫正。</SPAN>&nbsp;</P>
+<P>　　&nbsp; <SPAN>此外，有专家建议我省今后探索无预案演练，让演练更加贴近实战。</SPAN>&nbsp;</P>
+<P>　　<SPAN>其实，全程观摩和点评演练的李从东，这次的身份正相当于一个宏观层面的第三方评估者。他在对演练给予高度肯定后也提出进一步完善的意见。“这次演练设计十多个科目，每个科目孤立、静止地看都比较成功，而真实的过程是它们多数是同时发生的。”李从东认为，这意味着各个领域要在同一个时间点上争夺资源，也可能还有空间上、功能上的交叉和干扰。例如演练中60%的科目同时需要救护车、消防车出动时，如何实现保障，“加强综合演练的集成化设计，是我对下一次综合演练的期待”。</SPAN></SPAN></SPAN></P></DIV></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

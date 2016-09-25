@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">依法履职 常备不懈 协调配合 共同提升防震减灾工作水平<span>发布时间：2015-04-30</span></div>
+                <p><p>
+	　　4月28-29日，我局组织召开2015年度上海市区县防震减灾工作会议。局长吴建春，副局长李红芳、王绍博，纪检组长王硕卿出席会议，我局中层以上干部、各区县地震办公室负责人及工作人员共70余人参加会议。</p>
+<p>
+	　　会上，吴建春局长解读了汪洋副总理在国务院防震减灾工作联席会议上讲话的核心内容，并指出地震灾害危害巨大，上海作为特大型城市，防震减灾工作是一个长期而艰巨的任务。要进一步加强对区县防震减灾工作的管理和整合，建立规范制度，创新工作机制，出台指导意见，各区县地震部门要认真履行法定职责，加强责任意识，提升自身能力，常备不懈，做好各方面应急准备。通过与区县间的协调配合、信息互通，提升上海市防震减灾工作的整体水平。随后，李红芳副局长对2014年度区县防震减灾工作情况进行了总结，并对2015年度的工作进行了全面部署和解析。</p>
+<p>
+	　　会议要求，各区县要认真学习，统一思想，按照市防震减灾工作联席会议和本次会议精神，安排部署好今年的各项工作；细化相关方案，确保任务落到实处；依法履职，进一步发挥好防震减灾工作对上海城市建设的保障作用。</p>
+<p>
+	　　会议还邀请上海市委党校董幼鸿教授和云南省地震局皇甫岗局长分别作了题为《城市公共安全风险防范与应对》和《云南省地震应急救援工作》的主题报告，并为荣获&ldquo;2014年全国地市防震减灾工作先进单位&rdquo;、&ldquo;国家地震安全示范社区&rdquo;和&ldquo;上海市地震安全示范社区&rdquo;的单位进行了授牌。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1504/201504300419308657.jpg" title="图像" wdimgid="image_320" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1504/201504300419314164.jpg" title="图像" wdimgid="image_321" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">中国地震局修济刚副局长深入新疆6.6级地震极震区考察灾情 <span>发布时间：2012-07-06</span></div>
+                <p><br />
+&nbsp;&nbsp;&nbsp; 7月2日上午，在现场指挥地震应急工作的修济刚副局长深入巴音郭楞蒙古自治州（以下简称&ldquo;巴州&rdquo;）和静县巩乃斯镇地震应急指挥部，与巴州州长史建勇、副州长张东兵等指挥部成员会面，听取地震救灾及现场工作情况介绍，就进一步做好灾民安置和灾害损失调查工作交换意见。随后在张东兵副州长的陪同下，修济刚副局长深入距震中约10公里的班禅沟新疆和合矿业有限责任公司厂区考察灾情，实地查看了受灾较重的厂区办公楼、宿舍楼、锅炉房和变电站等区域，并就加强强余震和次生灾害防范工作向矿场负责人以及巴州建设、国土、地震等部门的负责同志提出了建议。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 下午，修济刚副局长又深入距震中约60公里的巴州和静县巴音布鲁克镇，与当地政府负责人会面，深入受灾一线，实地查看和询问民房受损和灾民安置情况。并对该镇安居兴牧房屋建设进行了现场调研，在实地查看到该镇安居兴牧小区在此次地震中100%完好无损后，修济刚副局长给予了充分肯定和高度评价，<br />
+<br />
+&nbsp;&nbsp;&nbsp; 并详细了解了牧区兴牧安居民房建设进展、设计标准，资金补贴政策等具体环节工作措施。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 目前，中国地震局和新疆各级政府部门在地震灾区的各项应急工作稳步开展，灾民安置、生产恢复等各项保障措施逐步到位，灾民情绪和社会秩序良好稳定。 <br /></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

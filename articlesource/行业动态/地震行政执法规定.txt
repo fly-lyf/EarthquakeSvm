@@ -1,0 +1,400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>地震行政执法规定</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">地震行政执法规定</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-10-13 10:00:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局震害防御司(法规司)
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><P align=center><STRONG><FONT size=5>中&nbsp; 国&nbsp; 地&nbsp; 震&nbsp; 局&nbsp; 令</FONT><BR><FONT size=4>第 3 号</FONT></STRONG></P>
+<P align=left>&nbsp;&nbsp;&nbsp; 《地震行政执法规定》，已于1999年8 月5 日经中国地震局局务会议通过，现予发布，自发布之日起施行。</P>
+<P align=right><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</STRONG>&nbsp; 局&nbsp; 长&nbsp;&nbsp; 陈章立&nbsp;&nbsp;&nbsp;&nbsp; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一九九九年八月十日&nbsp;&nbsp; </P>
+<P align=center><STRONG><FONT size=5>地震行政执法规定</FONT></STRONG></P>
+<P align=center><STRONG>第一章&nbsp;&nbsp;总&nbsp;&nbsp;&nbsp;&nbsp;则</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第一条</STRONG>&nbsp;&nbsp;为了加强地震行政执法工作，规范地震行政执法行为，保障公民、法人和其他组织的合法权益，根据国家有关法律、法规，制定本规定。<BR>&nbsp;&nbsp;&nbsp;<STRONG>&nbsp;第二条</STRONG>&nbsp;&nbsp;地震行政执法，是指国务院地震工作主管部门和县级以上地方人民政府负责管理地震工作的部门或者机构（以下统称地震行政执法机关），以及受委托进行地震行政执法的机构或者组织依据防震减灾法律、法规和规章的规定，按照法定权限和程序实施的具体行政行为。<BR>&nbsp;&nbsp;&nbsp;<STRONG>&nbsp;第三条</STRONG>&nbsp;&nbsp;地震行政执法机关和受委托进行地震行政执法的机构或者组织及其执法工作人员进行地震行政执法活动，必须遵守本规定。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四条</STRONG>&nbsp;&nbsp;地震行政执法必须遵循合法、公正、公开、及时的原则。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第五条</STRONG>&nbsp;&nbsp;地震行政执法机关及其执法工作人员依法进行地震行政执法活动，受国家法律保护。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第六条</STRONG>&nbsp;&nbsp;各级地震行政执法机关应当接受同级人民政府和上级地震行政执法机关的行政监督。</P>
+<P align=center><STRONG>第二章&nbsp;&nbsp;地震行政执法主体</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第七条</STRONG>&nbsp;&nbsp;各级地震行政执法机关是地震行政执法的主体，履行下列职责：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)宣传、普及、贯彻、执行防震减灾法律、法规和规章；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)制定地震行政执法的制度并组织实施；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)向立法机关提出完善相关法律、法规的意见和建议；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)组织地震行政执法的培训和考核；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)监督下级地震行政执法机关的行政执法工作；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(六)法律、法规和规章赋予的其他职责。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第八条</STRONG>&nbsp;&nbsp;地震行政执法机关根据需要在其权限内可以委托有关组织或者机构进行地震行政执法。<BR>&nbsp;&nbsp;&nbsp;&nbsp;未设立地震工作机构的市、县的地震行政执法工作，由其上一级地震行政执法机关负责，或者委托有关组织或者机构负责。<BR>&nbsp;&nbsp;&nbsp;&nbsp;委托机关负责监督受委托的组织或者机构实施的地震行政执法行为，并对行为后果负责；受委托组织在委托范围内，以委托机关名义进行地震行政执法活动。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>&nbsp;第九条</STRONG>&nbsp;&nbsp;具备地震行政执法资格，依法履行地震行政执法职责的人员是地震行政执法人员。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政执法人员应当具备下列条件：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)坚持四项基本原则，遵纪守法；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)具有良好的职业道德；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)熟悉防震减灾业务工作；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)熟悉防震减灾法律、法规、规章以及有关的法律知识。</P>
+<P align=center><STRONG>第三章&nbsp;&nbsp;地震行政执法管辖</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十条</STRONG>&nbsp;&nbsp;地震行政执法实行地域管辖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;国务院地震行政执法机关负责管理、指导和监督全国的地震行政执法。<BR>&nbsp;&nbsp;&nbsp;&nbsp;县级以上地方各级地震行政执法机关负责管理本行政区域内的地震行政执法。<BR>&nbsp;&nbsp;&nbsp;&nbsp;受委托的组织或者机构，在其委托的范围内进行地震行政执法。<BR>&nbsp;&nbsp;&nbsp;<STRONG>&nbsp;第十一条</STRONG>&nbsp;&nbsp;地震行政执法机关之间因执法管辖权发生争议时，争议双方应当协商；协商不成的，案件由其共同上一级地震行政执法机关指定管辖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十二条</STRONG>&nbsp;&nbsp;地震行政执法机关发现查处的案件不属于自己管辖时，应当将案件移送到有管辖权的地震行政执法机关，受送机关不得再自行移送或者拒绝。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十三条</STRONG>&nbsp;&nbsp;地震行政执法机关在查处案件时，如发现违法行为已经构成犯罪的，应当及时将案件移送给司法机关处理。</P>
+<P align=center><STRONG>第四章&nbsp;&nbsp;地震行政执法内容</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十四条</STRONG>&nbsp;&nbsp;地震行政执法内容包括：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)地震行政检查；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)地震行政许可；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)地震行政确认；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)地震行政处罚；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)地震行政奖励；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(六)法律、法规和规章规定的其他地震行政执法行为。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十五条</STRONG>&nbsp;&nbsp;地震行政检查，是指地震行政执法机关对公民、法人或者其他组织是否遵守防震减灾法律、法规和规章，是否执行地震行政决定、命令等情况进行检查的具体行政行为。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十六条</STRONG>&nbsp;&nbsp;地震行政许可，是指地震行政执法机关依法对公民、法人或者其他组织提出的申请，通过颁发证明或者批准、登记、认可等方式，允许其行使某项权利，从事某项活动的具体行政行为。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十七条</STRONG>&nbsp;&nbsp;地震行政确认，是指地震行政执法机关依法对公民、法人或者其他组织在防震减灾活动中的法律地位和权利、义务进行甄别，给予确定或者否定并宣告的具体行政行为。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十八条</STRONG>&nbsp;&nbsp;地震行政处罚，是指地震行政执法机关依法对违反防震减灾法律、法规和规章规定的公民、法人或者其他组织给予制裁的具体行政行为。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十九条</STRONG>&nbsp;&nbsp;地震行政奖励，是指地震行政执法机关对在贯彻执行防震减灾法律、法规和规章，为减轻地震灾害损失作出突出贡献的公民、法人或者其他组织给予奖励的具体行政行为。</P>
+<P align=center><STRONG>第五章&nbsp;&nbsp;地震行政执法程序</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十条</STRONG>&nbsp;&nbsp;地震行政执法人员进行地震行政检查、处罚等执法活动，应当出示表明其身份的执法证件。不按规定表明身份的，当事人有权拒绝。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十一条</STRONG>&nbsp;&nbsp;地震行政执法机关实施地震行政检查，必须告知被检查者检查的目的、内容、要求和方法等事项。<BR>&nbsp;&nbsp;&nbsp;&nbsp;进行现场检查时应当制作笔录，并由被检查者阅核、签字；被检查者拒绝签字的，应当由2名以上现场检查人员签字并注明情况。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政检查应当按照法定时间进行。<BR>&nbsp;&nbsp;&nbsp;&nbsp;在检查中需要采取强制措施的，应当事先向被检查者说明理由。<BR>&nbsp;&nbsp;&nbsp;&nbsp;检查结束后，应当对检查情况进行总结，并制作检查报告。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十二条</STRONG>&nbsp;&nbsp;地震行政许可的一般程序是：申请的提出、申请的受理、申请的审核、许可证的颁发。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政执法机关应当对公民、法人或者其他组织提出的申请，依法进行审核，对不符合法定条件的申请应当给予驳回。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政执法机关颁发的许可证应当载明许可的内容、期限、许可证件编号，并加盖颁发机关印章。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十三条</STRONG>&nbsp;&nbsp;地震行政确认的一般程序是：确认事项的提出、检查鉴定、确定鉴定结果和确认结果公告。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政确认必须遵循国家有关法律、法规和技术规范。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十四条</STRONG>&nbsp;&nbsp;地震行政奖励的一般程序是：奖励的提出、审批、公布、授奖和存档。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十五条</STRONG>&nbsp;&nbsp;地震行政处罚的一般程序是：受理立案、调查取证、决定、执行和结案。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十六条</STRONG>&nbsp;&nbsp;地震行政执法机关对下列案件应当及时受理：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)&nbsp;监督检查中发现的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)举报的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)移送的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)下级地震行政执法机关报请的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)上级地震行政执法机关指定办理的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(六)其他需要受理的案件。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十七条</STRONG>&nbsp;&nbsp;地震行政执法机关受理的案件符合下列条件的，应当予以立案：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)有违法人和违法后果；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)有事实依据；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)属于地震行政处罚的范围；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)属于本机关管辖。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十八条</STRONG>&nbsp;&nbsp;确定立案办理的案件，应当填写立案审批表，由地震行政执法机关负责人批准立案，确定立案日期和两名以上地震行政执法人员为案件承办人。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十九条</STRONG>&nbsp;&nbsp;对于立案办理的案件，地震行政执法机关应当调查取证，查明违法事实。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十条</STRONG>&nbsp;&nbsp;地震行政执法机关在作出行政处罚决定之前，应当及时告知当事人行政处罚认定的事实、理由、依据，以及当事人依法享有的权利。<BR>&nbsp;&nbsp;&nbsp;<STRONG>&nbsp;第三十一条</STRONG>&nbsp;&nbsp;地震行政执法机关在进行地震行政处罚时，必须听取当事人的陈述和申辩，并进行复核，当事人提出的事实、理由或者依据成立的，应当予以采纳。地震行政执法机关不得因当事人申辩而加重处罚。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十二条</STRONG>&nbsp;&nbsp;对违法事实确凿，情节较轻，拟作出以下处罚决定的违法行为，地震行政执法机关可以作出现场处罚：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)予以警告的处罚；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)对公民处以五十元以下罚款的处罚；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)对法人或者其他组织处以一千元以下罚款的处罚；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)法律、法规规定的其他可以适用现场的处罚。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政执法人员作出现场处罚时，应当填写预定格式的现场处罚决定书。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十三条</STRONG>&nbsp;&nbsp;除适用现场处罚的案件外，承办人员在案件调查终结后，应当对违法行为的事实、性质和社会危害程度进行合议并作好记录，合议应当根据认定的违法事实，依据防震减灾法律、法规和规章的规定，分别提出以下处理意见：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)&nbsp;确定应当受到处罚的，依法提出予以地震行政处罚；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)&nbsp;违法行为较轻，依法提出免于地震行政处罚；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)违法行为不能成立的，依法撤销案件；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)违法行为已构成犯罪的，将案件移送司法机关处理。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十四条</STRONG>&nbsp;&nbsp;依据防震减灾法律、法规和规章的规定应当给予行政处罚的，案件承办人员应当制作地震行政处罚意见书，报地震行政执法机关负责人审批。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政执法机关负责人应当根据案件情节轻重依法提出行政处罚决定。对情节复杂或者重大违法行为给予较重的行政处罚，由地震行政执法机关负责人组织集体讨论决定。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十五条</STRONG>&nbsp;&nbsp;地震行政执法机关在作出地震行政处罚时，应当制作地震行政处罚决定书，决定书应载明下列事项，并加盖本机关的印章：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)&nbsp;当事人的姓名或者名称、地址；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)执法机关认定的违法事实；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)适用的法律、法规、规章；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)处理结论；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)处理决定的履行方式和期限；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(六)当事人申请行政复议或者提起行政诉讼的权利、期限及受理机关的名称；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(七)作出处理决定的行政机关名称、法定代表人姓名以及作出决定的日期。<BR>&nbsp;&nbsp;&nbsp;&nbsp;涉及罚款的还应当载明收缴罚款的金融机构名称、地址以及不按规定期限缴纳罚款的法律后果。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十六条</STRONG>&nbsp;&nbsp;行政处罚决定书应当在宣告后当场交付当事人，或者在7日内将行政处罚决定书送达当事人。受送达人在送达回证上签名，并注明签收日期。<BR>&nbsp;&nbsp;&nbsp;&nbsp;受送达人不在的，由其指定的代收人、同住的成年家属或者所在单位代为签收。<BR>&nbsp;&nbsp;&nbsp;&nbsp;受送达人拒绝接受处罚决定书，则应当邀请有关基层组织或者其他人到场见证，在送达回证上注明拒收事由、日期、送达人、见证人签名或者盖章，并将送达书留在受送达人住处或者单位收发部门。<BR>&nbsp;&nbsp;&nbsp;&nbsp;不能直接送达的，可邮寄送达、公告送达、委托代为送达。<BR>&nbsp;&nbsp;&nbsp;&nbsp;行政处罚决定书自送达当事人之日起生效。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十七条</STRONG>&nbsp;&nbsp;地震行政执法机关在作出较大数额的罚款、中止许可证等较重处罚决定前，应当告知当事人有要求举行听证的权利；当事人要求组织听证的，地震行政执法机关应当组织听证。<BR>前款所称较大数额罚款的标准依照本省、自治区、直辖市人民政府的有关规定执行。<BR>听证费用由听证机关承担。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十八条</STRONG>&nbsp;&nbsp;地震行政执法机关告知当事人听证的权利时，应当制作听证告知书。听证告知书应当载明以下事项：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)&nbsp;当事人的姓名或者名称、地址<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)当事人的违法行为、行政处罚的理由、依据和拟作出的行政处罚意见；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)告知当事人有要求听证的权利；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)告知当事人提出听证要求的期限和受理听证申请的组织或者机构。<BR>&nbsp;&nbsp;&nbsp;&nbsp;听证告知书必须盖有地震行政执法机关的印章。<BR>&nbsp;&nbsp;&nbsp;<STRONG>&nbsp;第三十九条</STRONG>&nbsp;&nbsp;当事人提出听证申请时，应当提交听证申请书。听证申请书应当载明以下事项：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)&nbsp;申请人的基本情况；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)&nbsp;请求听证的目的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)申辩理由及其依据；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)申请递交的地震行政执法机关的名称；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)提交申请书的日期。<BR>&nbsp;&nbsp;&nbsp;&nbsp;申请人应当在申请书上签名或者盖章。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十条</STRONG>&nbsp;&nbsp;地震行政执法机关在收到听证申请后，应当组织案件调查人员进行研究，并依法作出是否受理的决定；对依法不予受理的听证申请，应当告知当事人。<BR>&nbsp;&nbsp;&nbsp;&nbsp;对依法予以受理的听证申请，应当制作听证受理书，载明以下事项：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)听证申请人的姓名或者名称、地址；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)案件基本情况；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)申请人申请听证的理由；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)听证受理决定。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十一条</STRONG>&nbsp;&nbsp;听证由拟作出行政处罚的地震行政执法机关组织，听证的具体工作由其法制工作机构负责。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十二条</STRONG>&nbsp;&nbsp;举行听证的地震行政执法机关，应当在举行听证7日前，将听证通知书送达当事人。<BR>&nbsp;&nbsp;&nbsp;&nbsp;听证通知书应当载明以下事项：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)当事人的姓名或者名称、地址；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)举行听证的时间、地点和方式；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)听证人员名单；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)告知当事人有权申请回避；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)告知当事人准备证据，通知证人等事项。<BR>&nbsp;&nbsp;&nbsp;&nbsp;听证通知书应当加盖地震行政执法机关的印章。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十三条</STRONG>&nbsp;听证会按照下列程序进行：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)听证员检查听证参加人员是否到场，宣布听证纪律；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)听证主持人宣布案由，主持人、听证员和书记员名单，告知当事人有关的权利和义务，询问当事人是否提出回避申请；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)案件调查人员陈述当事人的违法事实、证据、处罚依据和处罚建议；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)当事人进行陈述和申辩，并出示相关证据；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)当事人及其代理人和案件调查人员进行质证和辩论；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(六)当事人及其代理人作最后陈述；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(七)听证主持人宣布听证结束。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十四条</STRONG>&nbsp;&nbsp;听证举行后，地震行政执法机关应当根据听证情况进行复核。违法事实清楚的，依法作出行政处罚决定；违法事实与原来认定有出入的，应当调查核实，查清事实后，作出处理决定。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十五条</STRONG>&nbsp;&nbsp;地震行政处罚依法作出后，当事人应当在处罚决定的期限内予以履行。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十六条</STRONG>&nbsp;&nbsp;除法律规定的情况外，地震行政执法机关及其工作人员不得擅自收缴罚款。<BR>&nbsp;&nbsp;&nbsp;&nbsp;依法可以当场收缴罚款的，地震行政执法机关及其工作人员必须向当事人出具省、自治区、直辖市财政部门统一制发的罚款收据。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十七条</STRONG>&nbsp;&nbsp;当事人逾期不履行行政处罚决定的，作出行政处罚的地震行政执法机关可以采取下列措施：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)到期不缴纳罚款的，每日按罚款数额的3%加处罚款；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)申请人民法院强制执行。<BR>&nbsp;&nbsp;&nbsp;&nbsp;强制执行费用由被处罚人承担。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十八条</STRONG>&nbsp;&nbsp;地震行政处罚决定执行后，承办人员应当制作结案报告，将有关材料进行整理装订，并由承办人员签名或盖章后，归档保存。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四十九条</STRONG>&nbsp;&nbsp;地震行政执法机关应当将作出较大数额罚款、中止许可证等行政处罚案件在结案后30日内报上一级地震行政执法机关备案。</P>
+<P align=center><STRONG>第六章&nbsp;&nbsp;奖励与惩罚</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第五十条</STRONG>&nbsp;&nbsp;地震行政执法机关对符合下列情况之一的个人或者单位，应当根据国家有关规定给予表彰和奖励：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)在宣传、贯彻防震减灾法律、法规和规章工作中成绩显著的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)制止和纠正违反防震减灾法律、法规和规章的行为，产生良好社会影响的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)在执法工作中避免或者挽回重大损失的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)在地震行政监督工作中作出显著成绩的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)其他需要奖励的。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第五十一条</STRONG>&nbsp;&nbsp;地震行政执法机关有下列行为之一的，由其上级地震行政执法机关或者同级人民政府通报批评，可以对直接负责的主管人员和其他责任人员依法给予行政处分：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)作出具体行政行为违法或者不适当，给公民、法人或者其他组织的合法权益或者国家利益造成严重损失的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)拒不履行法定职责或者超越职权，造成不良后果的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)以行政执法权为本单位谋取私利的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)不按本规定的期限处理违法行为的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)应当给予行政处分的其他违法行为。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第五十二条</STRONG>&nbsp;&nbsp;地震行政执法机关的执法工作人员在地震行政执法活动中有下列违法行为之一的，由其所在单位依法给予行政处分；构成犯罪的，移送司法机关依法追究刑事责任：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)滥用职权、滥施处罚造成不良后果的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)适用法律、法规、规章错误，或者违反法定程序，造成不良后果的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)对举报行政执法中违法问题的举报人，或者对申请行政复议、提起行政诉讼的单位或者个人打击报复的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)在行政执法工作中徇私枉法、索贿受贿，或者采取其他手段侵犯公民、法人或者其他组织的合法权益的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(五)在行政执法工作中泄露国家机密或者其他应当保密的商业、技术秘密或者个人隐私的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(六)推诿不履行法定职责的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(七)应当给予行政处分的其他行为。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第五十三条</STRONG>&nbsp;&nbsp;地震行政执法机关不依法追究执法人员违法行为责任的，受具体行政行为侵害的公民、法人或者其他组织，有权向上级地震行政执法机关或者同级人民政府举报。</P>
+<P align=center><STRONG>第七章&nbsp;&nbsp;附&nbsp;&nbsp;&nbsp;&nbsp;则</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第五十四条</STRONG>&nbsp;&nbsp;本规定由国务院地震工作主管部门负责解释。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第五十五条</STRONG>&nbsp;&nbsp;本规定自发布之日起施行。</P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

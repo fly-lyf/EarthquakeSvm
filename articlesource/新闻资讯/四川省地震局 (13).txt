@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../images/currPage.js"></script>
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../" TARGET="_top">首页</a></li>
+          <li><a href="../" target="_top">新闻资讯</a></li>
+          <li><a href="../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../">首页</a>><a href="../">新闻资讯</a>><a href="./">省局动态</a></li>
+            
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+<div class="p_left fl">
+          <div class="p_left_tit">新闻资讯</div>
+          <div class="p_left_div">
+            <ul>
+			
+              <li class="" id="2311"><a href="../tpxw/">&middot; 图片新闻</a></li>
+             
+              <li class="" id="2300"><a href="../fzjzyw/">&middot; 防震减灾要闻</a></li>
+             
+              <li class="" id="2297"><a href="./">&middot; 省局动态</a></li>
+             
+              <li class="" id="2298"><a href="../sxgz/">&middot; 市县工作</a></li>
+             
+              <li class="" id="2301"><a href="../hydt/">&middot; 行业动态</a></li>
+             
+              <li class="" id="2299"><a href="../zxzq/">&middot; 最新震情</a></li>
+             
+              <li class="" id="176"><a href="../zqsb/">&middot; 震情速递</a></li>
+             
+              <li class="" id="230"><a href="../gdxw/">&middot; 信息速递</a></li>
+             
+              <li class="" id="232"><a href="../zt/">&middot; 重要专题</a></li>
+             
+            </ul>
+            <p class="clear"></p>
+          </div>
+        </div>
+<div class="p_right fl">
+          <div class="p_right_tit">省局动态</div>
+          <div class="blankH12"></div>
+		  
+			<ul class="list">
+			
+              <li><span class="fr">[2016-01-29]</span>&middot;<a href="./201601/t20160129_34045.html" target="_blank" title="四川省地震局西昌地震中心站开展走访慰问贫困党员、老党员和老干部活动">四川省地震局西昌地震中心站开展走访慰问贫困党员、老党员和老干部活动</a></li>
+              
+              <li><span class="fr">[2016-01-29]</span>&middot;<a href="./201601/t20160129_34037.html" target="_blank" title="四川省地震局地震应急保障中心组织评定“地震应急救援陈列室建设”初步设计方案">四川省地震局地震应急保障中心组织评定“地震应急救援陈列室建设”初步设计方案</a></li>
+              
+              <li><span class="fr">[2016-01-26]</span>&middot;<a href="./201601/t20160126_34022.html" target="_blank" title="四川省康定地震中心站党支部开展走访贫困党员活动">四川省康定地震中心站党支部开展走访贫困党员活动</a></li>
+              
+              <li><span class="fr">[2016-01-26]</span>&middot;<a href="./201601/t20160126_34021.html" target="_blank" title="四川省地震局减灾救助所工作组到阿坝州调研">四川省地震局减灾救助所工作组到阿坝州调研</a></li>
+              
+              <li><span class="fr">[2016-01-26]</span>&middot;<a href="./201601/t20160126_34017.html" target="_blank" title="四川省地震局荣评防震减灾社会宣教工作考核先进单位">四川省地震局荣评防震减灾社会宣教工作考核先进单位</a></li>
+              
+              <p class="clear"></p>
+            </ul>
+		
+			<ul class="list">
+			
+              <li><span class="fr">[2016-01-26]</span>&middot;<a href="./201601/t20160126_34016.html" target="_blank" title="四川省地震局攀枝花基准台开展地震前兆台网观测数据跟踪分析工作培训">四川省地震局攀枝花基准台开展地震前兆台网观测数据跟踪分析工作培训</a></li>
+              
+              <li><span class="fr">[2016-01-26]</span>&middot;<a href="./201601/t20160126_34010.html" target="_blank" title="四川省地震局协同相关单位对木里县瓦厂镇纳子店村精准扶贫建档立卡户进行节前慰问">四川省地震局协同相关单位对木里县瓦厂镇纳子店村精准扶贫建档立卡户进行节前慰问</a></li>
+              
+              <li><span class="fr">[2016-01-25]</span>&middot;<a href="./201601/t20160125_34007.html" target="_blank" title="四川省地震局攀枝花基准台传达学习防震减灾事业发展研讨会议精神">四川省地震局攀枝花基准台传达学习防震减灾事业发展研讨会议精神</a></li>
+              
+              <li><span class="fr">[2016-01-19]</span>&middot;<a href="./201601/t20160119_33996.html" target="_blank" title="四川省地震学会理事会换届会议在成都召开">四川省地震学会理事会换届会议在成都召开</a></li>
+              
+              <li><span class="fr">[2016-01-19]</span>&middot;<a href="./201601/t20160119_33995.html" target="_blank" title="四川省地震局专家组赴甘孜州检查指导震情跟踪工作">四川省地震局专家组赴甘孜州检查指导震情跟踪工作</a></li>
+              
+              <p class="clear"></p>
+            </ul>
+		
+			<ul class="list">
+			
+              <li><span class="fr">[2016-01-19]</span>&middot;<a href="./201601/t20160119_33993.html" target="_blank" title="四川省地震局党组召开中心组学习会">四川省地震局党组召开中心组学习会</a></li>
+              
+              <li><span class="fr">[2016-01-15]</span>&middot;<a href="./201601/t20160115_33983.html" target="_blank" title="四川省地震局召开2015年度四川省地震台站灾损恢复专项验收会">四川省地震局召开2015年度四川省地震台站灾损恢复专项验收会</a></li>
+              
+              <li><span class="fr">[2016-01-14]</span>&middot;<a href="./201601/t20160114_33979.html" target="_blank" title="四川省地震局地震应急保障中心慰问退休职工">四川省地震局地震应急保障中心慰问退休职工</a></li>
+              
+              <li><span class="fr">[2016-01-07]</span>&middot;<a href="./201601/t20160107_33958.html" target="_blank" title="四川省地震局协同相关部门单位在对口帮扶地区开展农牧技术培训">四川省地震局协同相关部门单位在对口帮扶地区开展农牧技术培训</a></li>
+              
+              <li><span class="fr">[2016-01-06]</span>&middot;<a href="./201601/t20160106_33951.html" target="_blank" title="四川省地震局副局长雷建成指导工程地震研究院党支部“三严三实”专题组织生活会">四川省地震局副局长雷建成指导工程地震研究院党支部“三严三实”专题组织生活会</a></li>
+              
+              <p class="clear"></p>
+            </ul>
+		
+			<ul class="list">
+			
+              <li><span class="fr">[2016-01-05]</span>&middot;<a href="./201601/t20160105_33949.html" target="_blank" title="四川省地震局多部门单位组织地震现场应急联合演练">四川省地震局多部门单位组织地震现场应急联合演练</a></li>
+              
+              <li><span class="fr">[2016-01-05]</span>&middot;<a href="./201601/t20160105_33947.html" target="_blank" title="四川省地震局工作组赴雅安检查工作">四川省地震局工作组赴雅安检查工作</a></li>
+              
+              <li><span class="fr">[2016-01-04]</span>&middot;<a href="./201601/t20160104_33939.html" target="_blank" title="乐山市防震减灾局积极应对犍为4.2级地震">乐山市防震减灾局积极应对犍为4.2级地震</a></li>
+              
+              <li><span class="fr">[2016-01-04]</span>&middot;<a href="./201601/t20160104_33938.html" target="_blank" title="犍为4.2级地震尚无人员伤亡报告">犍为4.2级地震尚无人员伤亡报告</a></li>
+              
+              <li><span class="fr">[2016-01-04]</span>&middot;<a href="./201601/t20160104_33937.html" target="_blank" title="四川省犍为县发生4.2级地震">四川省犍为县发生4.2级地震</a></li>
+              
+              <p class="clear"></p>
+            </ul>
+		
+            <div class="blankH24"></div>
+          <div class="p_next"> <script type="text/javascript">
+		 createPageHTML(25, 0, "index", "html");
+	  </script></div>
+      </div>
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+      <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+<script>
+var channelId="2297";
+document.getElementById(channelId).className = "cut";
+</script>
+</html>

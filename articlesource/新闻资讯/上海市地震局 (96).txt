@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">中国地震局启动应急响应应对新疆乌恰县6.8级地震<span>发布时间：2008-10-07</span></div>
+                <p><div>&nbsp;&nbsp;&nbsp; 2008年10月5日23时52分，新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县（北纬39.5度，东经73.9度）发生6.8级地震，10月6日00时11分，震中区又发生1次5.7级地震。</div>
+<div>&nbsp;&nbsp;&nbsp; 此次地震震中位于我国与吉尔吉斯斯坦接壤的新疆乌恰县吉根乡一带，平均海拔约4000米，乌恰县人口约4.2万。乌恰县、阿图什市、喀什市强烈有感，震区附近的伊尔克斯坦口岸震感强烈，旧房出现裂缝。截至6日6时了解到，地震造成4间房屋倒塌，30多间房屋遭到破坏，无人员伤亡的报告。</div>
+<div>&nbsp;&nbsp;&nbsp; 震后，中国地震局立即启动应急响应，部署相关工作：一是，责成新疆自治区地震局加强监测、密切跟踪地震发展趋势，开展灾情调查收集等应急处置工作；二是要求中国地震台网中心组织专家立即会商，对震后趋势进行分析判定；三是派出中国地震局地震现场工作组赶赴震区会同地方地震工作部门开展余震监测、灾害调查和评估等现场工作。</div></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

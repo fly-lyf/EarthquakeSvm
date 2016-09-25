@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">关于《地震监测管理条例（征求意见稿）》修改意见及建议的报告<span>发布时间：2007-06-01</span></div>
+                <p><p align="center"><font face="Arial"><font size="3"><strong><font face="Arial">关于《地震监测管理条例（征求意见稿）》修改意见及建议的报告</font>　　</strong></font></font></p>
+<p><font face="Arial">　　市府法制办：</font></p>
+<p><font face="Arial">　　根据市府法制办（法）000401号征求意见单的要求，我局组织有关部门对《地震监测管理条例（征求意见稿）》进行了认真的研究。现提出以下修改意见：</font></p>
+<p><font face="Arial">　　1、&nbsp;建议将第七条第二款修改为&ldquo;地震监测台网（含测震台网、强震台网和前兆台网，下同），由台网中心、监测台站、监测点（含台阵监测点，下同）和信息传输信道及其中转站构成。&rdquo; </font></p>
+<p><font face="Arial">　　2、&nbsp;为了前后主管主体统一和具体，建议将第八条&ldquo;国家对地震监测台网实行统一规划。&rdquo;中的&ldquo;国家&rdquo;明确为&ldquo;国务院地震工作部门负责对地震监测台网实行统一规划&rdquo;。</font></p>
+<p><font face="Arial">　　3、&nbsp;第十三条（三）&ldquo;地震动参数区划图中，地震动峰值加速度为0.05g及其以上地区单跨跨径大于等于150米或者总长度大于等于1000米的特大桥梁；&rdquo;上设置强震动观测设施的规定。我们认为目前单跨跨径150米以上的桥梁已较为普遍。我们建议一般场地条件下索支体系桥梁定义在400米以上，拱桥定义在300米以上设置强震动观测设施为妥。但是软弱土、河（沟）谷等特殊场地上的连续桥梁规定在200米以上设置强震动观测设施较为合适。</font></p>
+<p><font face="Arial">　　另外对城市桥梁来说总长度1000米以上的桥梁也较为普遍，能否对低烈度区（7度以下，甚至8度），规定的总长长度再提高一些。</font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

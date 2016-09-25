@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">图片新闻</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>人民网：芦山地震灾后重建见闻：花开芦山 家和民安 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '人民网';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-04-17 18:34:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-17 18:34:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-04-17 18:34:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-17 18:34:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<P>　　四月，绿色洒满芦山地震灾区，各色花朵顺着山坡往上爬，扭住春天不离去。</P>
+<P>　　绿色之中，簇新的民居、城镇、学校、医院等闪现，芦山地震灾区迎来恢复重建高效建设、整体提升的攻坚阶段，灾区群众期盼的幸福美丽新家园正徐徐铺开。</P>
+<P>　　2200个重建项目高效建设</P>
+<P>　　在芦山地震灾区，随处可见火热的重建场景。在国道351线乐英至夹金山段施工现场，工程监理负责人岳满生一年时间几乎没离开过工地，因为工期紧，质量监管事多，一刻也不能松懈。不久，这条桥隧众多的公路将承载起宝兴人民世世代代的畅通梦想、致富梦想。</P>
+<P>　　芦山地震发生后，国务院及时颁布《芦山地震灾后恢复重建总体规划》，四川省确定了“三年基本完成、五年整体跨越、七年同步小康”的重建目标。恢复重建项目涵盖城乡住房建设、城镇体系建设、农村建设、公共服务、基础设施等11个大类，共包含2251个重建项目，估算总投资764.4亿元。经后期调整后，纳入总规划的项目为2200个，规划投资769.1亿元。</P>
+<P>　　2013年7月，芦山灾后恢复重建全面启动。为让项目顺利推进，四川省省委省政府对灾后恢复重建统一领导、统一指挥及时审定了11个专项规划，制定了34条具体政策，升级财政安排了100亿元重建资金，先后出台17项救助扶持政策。灾区各地严格按照“坚持安全第一、质量第一，坚持以人为本、因地制宜，坚持实事求是、科学重建”的“三个坚持”要求，把握民生优先、科学重建主线，严格执行重建总体规划和专项规划，科学有序推进灾后恢复重建工作。</P>
+<P>　　截至4月5日，全市纳入总规划2160个项目(不含国外优惠贷款项目)累计完工1362个，完工率63.1%；累计完成投资478.8亿元，投资完成率67.2%。芦山地震灾区迎来高效建设、整体提升的攻坚阶段。</P>
+<P>　　灾区面貌焕然一新</P>
+<P>　　在震中芦山县龙门乡，震灾场景已经荡然无存，取而代之的是整洁的集镇，数个规划整齐的新村聚居点展现在眼前。青龙场村村民白体明说：“新家建成了，心便安了，下一步就是多挣钱，让生活更好！”</P>
+<P>　　恢复重建，首要的是帮群众建起家园，重燃希望。在重建中，雅安始终坚持把城乡住房重建放在首位。雅安市住建局负责人介绍，农房重建严格避让地震断裂活动带、避让难以防治的地质灾害隐患点、避让泄洪通道进行选址，严格落实抗震设防强制性标准。通过设立农房重建贷款担保基金，实行贷款贴息和优惠利率，协调各金融机构加大农房重建信贷支持。去年，灾区农村住房已全面重建完成，数十万群众正乔迁新居。与此同时，城房重建灵活采取统规统建、统规联建、统规自建、货币安置等方式加快推进。全市城房重建已完成44.7%。</P>
+<P>　　在雅安，每一户特困群众都住进了实用够用的新房。安居，灾区不落下一位困难群众。政府兜底，625户特困户已于2014年春节前入住新居。通过综合帮扶，4482户困难群众建房已于地震一周年时全部完工并入住。</P>
+<P>　　灾区将学校、医院等公共服务设施重建摆在优先位置。312个教育重建项目完工260个，完工率83.3%；完成投资21.6亿元，投资完成率69.1%。92个医疗卫生重建项目完工75个，完工率81.5%；完成投资9.2亿元，投资完成率70.7%。教育项目完工率和投资完成率分别高于全市平均进度20.2和1.9个百分点，医疗卫生项目完工率和投资完成率分别高于全市平均进度18.4和3.5个百分点。</P>
+<P>　　目前，94个基础设施重建项目完工57个，完工率60.6%；累计完成投资33.8亿元；投资完成率43.8%。116个城镇体系建设项目完工15个，完工率12.9%；累计完成投资40.4亿元，投资完成率46.1%。</P>
+<P>　　如今，芦山地震灾区一幢幢新居拔地而起，欣欣向荣。</P>
+<P>　　灾区诞生新希望</P>
+<P>　　在红军长征经过的石棉县安顺场乡新场村，半山腰上，以前的茅草土坯房被依山而建、整齐而不失民族风格的85户新居取代，一步跨百年。</P>
+<P>　　灾区重建是原地起立，更是发展起跳。重建伊始，灾区便注重科学统筹、整体谋划。把农房重建与农业产业恢复重建和新农村建设紧密结合，探索创新农村基层管理机制、城乡公共服务一体化建设、深化农村改革“三位一体”新做法。雅安市提出重点打造三条百里走廊和一条观光旅游线路，突出雅安特色，打造品牌农业。如今，雨城区依托碧峰峡、上里古镇等旅游资源打造的“百里茶文化走廊——陇蒙路休闲观光茶园”，芦山、天全、宝兴打造国道351线百里猕猴桃走廊等，已经为农业持续增收、农民拓展增收空间奠定了坚实基础。</P>
+<P>　　在荥经县打锣坪新村聚居点，农房重建后，通过流转土地等方式，发展专业合作组织、种植大户和家庭农场，提升农业产业发展水平，初步形成“产村相融，互动发展”的新模式。2014年，雅安有35个村走上了产村相融的发展道路。</P>
+<P>　　在雅安，产业重建正加快推进。204个产业重建项目完工104个，完工率51%；累计完成投资39.3亿元，投资完成率46.9%。芦天宝飞地产业园区、芦山产业集中区、荥经循环经济示范园区、成雅工业园区等竞相建设。总投资30亿元的恒天汽车项目和总投资12.6亿元的建安车桥扩能项目在内的31个产业项目，现已全面开工建设，并有两个项目竣工投产。</P>
+<P>　　雅安编制完成《国家生态文化旅游融合发展试验区旅游合作行动方案》，碧峰峡和蒙顶山景区创国家5A级旅游景区工作全面启动，熊猫古城、金凤山、云峰山景区成功升级为国家4A级旅游景区。</P>
+<P>　　到目前，雅安招商引资累计签约项目139个，估算总投资1038亿元；已开工建设项目69个，已建成投产项目9个。其中，8个省级部门帮助雅安招商引资共对接项目37个。灾区成为各界看好的投资热土，资本与热情齐聚，共启芦山地震灾区恢复重建与振兴发展的新格局。</P></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     <a href="./t20150417_32841.html"><img src="./W020150417671893754633.jpg" alt="4.jpg"/></a>
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

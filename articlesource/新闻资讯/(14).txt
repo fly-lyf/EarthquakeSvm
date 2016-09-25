@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>红色诗语 </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '小董';
+					var sourcecontent = '成都市防震减灾局';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-06-30 14:48:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 14:48:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:小董  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 14:48:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者:小董 &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 14:48:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P align=center>　　</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701362208036448.jpg" _fcksavedurl="/webpic/W0201107/W020110701/W020110701360869448054.jpg" OLDSRC="W020110701362208036448.jpg"/></P>
+<P>　　</P>
+<P align=justify><STRONG>注解：</STRONG>&nbsp;</P>
+<P align=justify><STRONG>星辉频闪亮：</STRONG>指革命先烈和著名的红军战将。&nbsp;</P>
+<P align=justify><STRONG>子珍：</STRONG>贺子珍。1928年10月，毛主席在油灯下挥笔写下了《中国的红色政权为什么能够存在》这一光辉篇章。&nbsp;</P>
+<P align=justify><STRONG>裹尸处：</STRONG>埋葬有4万革命先烈的井岗山烈士陵园。</P>
+<P align=justify>&nbsp;</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701362208034530.jpg" _fcksavedurl="/webpic/W0201107/W020110701/W020110701360869590413.jpg" OLDSRC="W020110701362208034530.jpg"/></P>
+<P align=justify>　&nbsp;<BR><STRONG>注解：</STRONG></P>
+<P align=justify><STRONG>髫龄：</STRONG>童年&nbsp;<BR><STRONG>杜鹃落英含芳：</STRONG>比喻革命先烈如井岗杜鹃，铁血丹心万世流芳。&nbsp;<BR><STRONG>长缨乱：</STRONG>化引毛主席词《渔家傲·反第一次大围剿》“不周山下红旗乱”。意指革命队伍士气之盛。&nbsp;<BR><STRONG>红船：</STRONG>1921年7月，中共“一大”在上海秘密举行。后因突遭法国巡捕搜查，会议被迫转移到嘉兴，在南湖的一艘丝网船上完成了大会议程，宣告了中国共产党的诞生。&nbsp;<BR><STRONG>刺棹：</STRONG>划船。&nbsp;<BR><STRONG>吴钩：</STRONG>形似剑而曲的兵器，春秋吴人善铸钩，故称。泛指利剑。&nbsp;<BR><STRONG>狂澜：</STRONG>指目前复杂的南海局势。</P>
+<P align=justify>&nbsp;</P>
+<P align=justify>&nbsp;</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701362208192383.jpg" _fcksavedurl="/webpic/W0201107/W020110701/W020110701360869598246.jpg" OLDSRC="W020110701362208192383.jpg"/></P>
+<P align=justify>　&nbsp;<BR><STRONG>注解：</STRONG></P>
+<P align=justify><STRONG>洪波涌起：</STRONG>改革开放的大潮。&nbsp;<BR><STRONG>听鼓应官：</STRONG>上班工作。&nbsp;<BR><STRONG>君：</STRONG>指地震。&nbsp;<BR><STRONG>鳌鳖：</STRONG>古人认为地震是鳌鳖翻身引起的灾害。&nbsp;<BR><STRONG>大白：</STRONG>酒杯。&nbsp;<BR><STRONG>汗漫：</STRONG>意谓不可知，这里比喻神仙。引李白《庐山谣寄卢侍御虚舟》：“先期汗漫九垓上，愿接卢敖游太清。”</P><br/>
+					  
+				  <div style="display:none">
+				     
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

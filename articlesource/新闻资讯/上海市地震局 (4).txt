@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" class="now" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">区县动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">静安区石门二路街道壹街区举行“国家地震安全示范社区”揭牌仪式<span>发布时间：2015-08-18</span></div>
+                <p><p>
+	　　7月28日上午，静安区石门二路街道壹街区&ldquo;国家地震安全示范社区&rdquo;揭牌仪式暨防震减灾培训活动在新德居委会举行。静安区副区长周海鹰及上海市地震局震害防御处、静安区科委、石门二路街道、区地震办等相关部门领导出席活动，新德居委会的学生、社区居民及居民区文教干部代表参加了活动。</p>
+<p>
+	　　活动中，静安区副区长周海鹰、市地震局震害防御处副处长共同为壹街区&ldquo;国家地震安全示范社区&rdquo;揭牌。周海鹰副区长在讲话中充分肯定了壹街区的创建成果，并鼓励大家加强防震减灾知识的学习，亲身体验并掌握正确的各项防灾措施，将&ldquo;珍爱生命，防患未然&rdquo;的防灾知识传播到自己的家庭、邻居和社会。活动中大家还共同观看了防震减灾主题教育片，参观了解了壹街区防震减灾社区建设情况。社区学生们还在志愿者的带领下，体验了遇险疏散、逃生系绳、户外自救等项目。同学们兴致勃勃地参与学习体验，用心掌握自救互救知识，反响十分热烈。</p>
+<p>
+	　　通过此次活动充分发挥了&ldquo;地震安全示范社区&rdquo;的作用，提高了社区民众的自救互救能力，也为静安市民的防震减灾提供了有效的示范样本。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1508/201508180257115693.jpg" title="图像" wdimgid="image_388" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1508/20150818025711120.jpg" title="图像" wdimgid="image_389" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1508/201508180257123151.jpg" title="图像" wdimgid="image_390" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

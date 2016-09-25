@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">政府采购公开事项</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/zwgk/n107/n108/index.html" class="now" target="_parent" title="政策规定"><span>政策规定</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/zwgk/n107/n109/index.html" target="_parent" title="公开事项"><span>公开事项</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../../index.html">政务公开</A> &gt; <A class=black-y-text HREF="../index.html">政府采购公开事项</A> &gt; <A class=black-y-text HREF="index.html">政策规定</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>政策规定</h2>
+            </div>
+            <ul class="listTxt">
+                <li><a href="http://ha.mof.gov.cn/lanmudaohang/zhengcefagui/201410/t20141022_1153900.html" title="关于印发《中央预算单位批量集中采购管理暂行办法》的通知(财库〔2013〕109号)">关于印发《中央预算单位批量集中采购管理暂行办法》的通知(财库〔2013...</a><span>2015-09-10</span></li>
+               
+                
+                <li><a href="http://www.miit.gov.cn/n11293472/n11295006/n11297232/16504450.html" title="关于2015-2016年度中央国家机关机动车辆定点保险的通知">关于2015-2016年度中央国家机关机动车辆定点保险的通知</a><span>2015-06-10</span></li>
+               
+                
+                <li><a href="http://jrs.mof.gov.cn/ppp/zcfbppp/201410/t20141031_1155341.html" title="政府采购非招标采购方式管理办法">政府采购非招标采购方式管理办法</a><span>2015-05-19</span></li>
+               
+                
+                <li><a href="http://gks.mof.gov.cn/redianzhuanti/zhengfucaigouguanli/201501/t20150123_1183695.html" title="关于中央预算单位申请单一来源采购方式审核前公示">关于中央预算单位申请单一来源采购方式审核前公示</a><span>2015-05-19</span></li>
+               
+                
+                <li><a href="http://gks.mof.gov.cn/zhengfuxinxi/guizhangzhidu/201501/t20150120_1182427.html" title="关于印发《政府和社会资本合作项目政府采购管理办法》的通知(财库〔2014〕215号)">关于印发《政府和社会资本合作项目政府采购管理办法》的通知(财库〔201...</a><span>2015-03-19</span></li>
+               
+                
+                <li><a href="http://gks.mof.gov.cn/zhengfuxinxi/guizhangzhidu/201501/t20150120_1182425.html" title="关于印发《政府采购竞争性磋商采购方式管理暂行办法》的通知(财库〔2014〕214号)">关于印发《政府采购竞争性磋商采购方式管理暂行办法》的通知(财库〔201...</a><span>2015-03-19</span></li>
+               
+                
+                <li><a href="http://gks.mof.gov.cn/redianzhuanti/zhengfucaigouguanli/201501/t20150123_1183693.html" title="关于印发《中央预算单位变更政府采购方式审批管理办法》的通知(财库〔2015〕36号)">关于印发《中央预算单位变更政府采购方式审批管理办法》的通知(财库〔20...</a><span>2015-03-19</span></li>
+               
+                
+                <li><a href="http://www.czj.sh.gov.cn/zcfg/gfxwj/zfcg/201409/t20140925_144295.html" title="关于发布《上海市2015年政府采购集中采购目录和采购限额标准》的通知(沪财采〔2014〕20号)">关于发布《上海市2015年政府采购集中采购目录和采购限额标准》的通知(...</a><span>2015-03-19</span></li>
+               
+                
+                <li><a href="http://www.gov.cn/zhengce/content/2014-11/06/content_9187.htm" title="国务院办公厅关于印发中央预算单位2015-2016年政府集中采购目录及标准的通知(国办发〔2014〕53号)">国务院办公厅关于印发中央预算单位2015-2016年政府集中采购目录及...</a><span>2015-03-19</span></li>
+               
+                
+                <li><a href="http://gks.mof.gov.cn/redianzhuanti/zhengfucaigouguanli/201502/t20150225_1194560.html" title="关于印发2015年政府采购工作要点的通知(财办库〔2015〕27号)">关于印发2015年政府采购工作要点的通知(财办库〔2015〕27号)</a><span>2015-03-19</span></li>
+               
+                
+                <li><a href="http://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/201502/t20150227_1195516.htm" title="中华人民共和国政府采购法实施条例(中华人民共和国国务院令第658号)">中华人民共和国政府采购法实施条例(中华人民共和国国务院令第658号)</a><span>2015-03-19</span></li>
+               
+                
+            </ul>
+            <div class="page">
+<A HREF=index.html> 首页 </A><A  HREF="/gb\dzj/zwgk/n107/n108/index.html"> 上一页 </A><font color=gray> 下一页 </font><font color=gray> 尾页 </font>
+                <span>第2页&nbsp;共2页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

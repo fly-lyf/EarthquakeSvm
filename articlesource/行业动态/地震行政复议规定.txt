@@ -1,0 +1,397 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>地震行政复议规定</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">地震行政复议规定</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-10-13 10:12:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局震害防御司(法规司)
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><P align=center><STRONG><FONT size=5>中&nbsp; 国&nbsp; 地&nbsp; 震&nbsp; 局&nbsp; 令</FONT></STRONG></P>
+<P align=center><STRONG><FONT size=4>第 4 号</FONT></STRONG></P>
+<P>&nbsp;&nbsp;&nbsp; 《地震行政复议规定》，已于1999年8 月5 日经中国地震局局务会议通过，现予发布，自1999年10月1日起施行。</P>
+<P align=right>局&nbsp; 长&nbsp;&nbsp; 陈章立&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<BR>一九九九年八月十日&nbsp;&nbsp; </P>
+<P align=center><STRONG><FONT size=5>地震行政复议规定</FONT></STRONG></P>
+<P align=center><STRONG>第一章&nbsp;&nbsp;总&nbsp;&nbsp;&nbsp;&nbsp;则</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第一条</STRONG>&nbsp;&nbsp;为了加强地震行政行为的监督，防止和纠正违法的或者不当的具体地震行政行为，保护公民、法人和其他组织的合法权益，根据《中华人民共和国行政复议法》（以下简称《行政复议法》），制定本规定。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二条</STRONG>&nbsp;&nbsp;公民、法人或者其他组织向地震工作部门或者机构（以下统称地震行政机关）提出地震行政复议申请，地震行政机关受理地震行政复议申请、作出地震行政复议决定，适用本规定。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三条</STRONG>&nbsp;&nbsp;履行地震行政复议职责的地震行政机关是地震行政复议机关。地震行政复议机关负责法制工作的机构具体办理地震行政复议事项，履行下列职责：<BR>&nbsp;&nbsp;&nbsp;&nbsp;（一）受理地震行政复议申请；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（二）向有关组织和人员调查取证，查阅有关文件和资料；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（三）审查申请地震行政复议的具体行政行为是否合法与适当，拟订地震行政复议决定；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（四）对地震行政机关违反本规定的行为依照规定的权限和程序提出处理建议；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（五）办理因不服地震行政复议决定提起行政诉讼的应诉事项；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（六）法律、法规规定的其他职责。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第四条</STRONG>&nbsp;&nbsp;地震行政复议应当遵循合法、公正、公开、及时、便民的原则，坚持有错必纠，保障法律、法规的正确实施。</P>
+<P align=center><STRONG>第二章&nbsp;&nbsp;&nbsp;地震行政复议申请</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第五条</STRONG>&nbsp;&nbsp;公民、法人或者其他组织有下列情形之一的，可以依照本规定申请地震行政复议：<BR>&nbsp;&nbsp;&nbsp;&nbsp;（一）对地震行政机关作出的赔偿损失、责令改正、恢复原状等行政决定不服的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（二）对地震行政机关作出的警告、罚款等行政处罚决定不服的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（三）对地震行政机关作出的有关许可证、资格证、资质证等证书变更、中止、撤销等决定不服的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（四）认为符合法定条件，申请地震行政机关颁发许可证、资格证、资质证等证书，或者申请地震行政机关审批、登记等事项，地震行政机关没有依法办理的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（五）认为地震行政机关的其他具体行政行为侵犯其合法权益的。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第六条</STRONG>&nbsp;&nbsp;公民、法人或者其他组织认为地震行政机关的具体行政行为侵犯其合法权益的，可以自知道该具体行政行为之日起60日内提出地震行政复议申请；法律规定的申请期限超过60日的除外。<BR>&nbsp;&nbsp;&nbsp;&nbsp;因不可抗力或者其他正当理由耽误法定申请期限的，申请期限自障碍消除之日起继续计算。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第七条</STRONG>&nbsp;&nbsp;申请人申请地震行政复议，可以书面申请，也可以口头申请。口头申请的，应当当场记录。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第八条</STRONG>&nbsp;&nbsp;地震行政复议申请应当载明下列内容：<BR>&nbsp;&nbsp;&nbsp;（一）申请人的姓名、年龄、职业、住址等（法人或者其他组织的名称、地址、法定代表人的姓名）；<BR>&nbsp;&nbsp;&nbsp;（二）被申请人的名称、地址；<BR>&nbsp;&nbsp;&nbsp;（三）地震行政复议机关名称；<BR>&nbsp;&nbsp;&nbsp;（四）地震行政复议请求；<BR>&nbsp;&nbsp;&nbsp;（五）申请地震行政复议的主要事实、理由；<BR>&nbsp;&nbsp;&nbsp;（六）提出申请的时间。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第九条</STRONG>&nbsp;&nbsp;对县级以上地方各级地震行政机关的具体行政行为不服的，由申请人选择，可以向该部门的本级人民政府申请地震行政复议，也可以向上一级地震行政机关申请地震行政复议。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十条</STRONG>&nbsp;&nbsp;对国务院地震工作主管部门的具体行政行为不服的，向国务院地震工作主管部门申请地震行政复议。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十一条</STRONG>&nbsp;&nbsp;对县级以上地方各级地震行政机关与其他行政机关以共同的名义作出的具体行政行为不服的，向其共同上一级行政机关申请行政复议。</P>
+<P align=center><STRONG>第三章&nbsp;&nbsp;地震行政复议受理</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十二条</STRONG>&nbsp;&nbsp;地震行政复议机关收到地震行政复议申请后，应当在5日内进行审查，对不符合本规定的地震行政复议申请，决定不予受理，并书面告知申请人；对不属于地震行政复议机关受理的行政复议申请，应当告知申请人向有关行政复议机关提出。<BR>&nbsp;&nbsp;&nbsp;&nbsp;除前款规定外，地震行政复议申请自地震行政复议机关负责法制工作的机构收到之日起即为受理。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十三条</STRONG>&nbsp;&nbsp;公民、法人或者其他组织依法提出地震行政复议申请，地震行政复议机关无正当理由不予受理的，上级地震行政机关应当责令其受理；必要时，上级地震行政机关可以直接受理。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十四条</STRONG>&nbsp;《行政复议法》第二十一条规定可以停止执行的情况外，地震行政复议期间具体地震行政行为不停止执行。</P>
+<P align=center><STRONG>第四章&nbsp;&nbsp;地震行政复议决定</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十五条</STRONG>&nbsp;&nbsp;地震行政复议原则上采取书面审查的办法，但是申请人提出要求或者地震行政复议机关负责法制工作的机构认为有必要时，可以向有关组织和人员调查情况，听取申请人、被申请人和第三人的意见。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十六条</STRONG>&nbsp;&nbsp;地震行政复议机关负责法制工作的机构应当自地震行政复议申请受理之日起7日内，将地震行政复议申请书副本或者地震行政复议申请笔录复印件发送被申请人。被申请人应当自收到申请书副本或者申请笔录复印件之日起10日内，提出书面答复，并提交当初作出具体行政行为的证据、依据和其他有关材料。<BR>&nbsp;&nbsp;&nbsp;&nbsp;申请人、第三人可以查阅被申请人提出的书面答复、作出具体行政行为的证据、依据和其他有关材料，除涉及国家秘密、商业秘密或者个人隐私外，地震行政复议机关不得拒绝。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十七条</STRONG>&nbsp;&nbsp;在地震行政复议过程中，被申请人不得自行向申请人和其他有关组织或者个人收集证据。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十八条</STRONG>&nbsp;&nbsp;地震行政复议决定作出前，申请人要求撤回地震行政复议申请的，经说明理由，可以撤回；撤回地震行政复议申请的，地震行政复议终止。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第十九条</STRONG>&nbsp;&nbsp;地震行政复议机关负责法制工作的机构应当对被申请人作出的具体行政行为进行审查，提出意见，经地震行政复议机关负责人同意或者集体讨论通过后，按照《行政复议法》第二十八条规定作出地震行政复议决定。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十条</STRONG>&nbsp;&nbsp;地震行政复议机关作出复议决定，应当制作地震行政复议决定书。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政复议决定书应当载明如下事项：<BR>&nbsp;&nbsp;&nbsp;&nbsp;（一）申请人的姓名、年龄、职业、住址（法人或者其他组织的名称、地址、法定代表人姓名）；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（二）被申请人的名称、地址、法定代表人的姓名、职务；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（三）申请地震行政复议的主要请求和理由；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（四）地震行政复议机关认定的事实、理由，适用的法律、法规、规章和具有普遍约束力的决定、命令；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（五）地震行政复议结论；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（六）不服地震行政复议决定向人民法院起诉的期限；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（七）作出地震行政复议决定的时间。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政复议决定书由地震行政复议机关法定代表人署名，加盖地震行政复议机关印章。<BR>&nbsp;&nbsp;&nbsp;&nbsp;地震行政复议决定书一经送达，即发生法律效力。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十一条</STRONG>&nbsp;&nbsp;地震行政复议机关应当自受理申请之日起60日内作出地震行政复议决定。《行政复议法》第三十一条规定的特殊情况除外。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十二条</STRONG>&nbsp;&nbsp;被申请人应当履行地震行政复议决定。被申请人不履行或者无正当理由拖延履行地震行政复议决定的，地震行政复议机关应当责令其限期履行。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十三条</STRONG>&nbsp;&nbsp;申请人逾期不起诉又不履行地震行政复议的，按照下列规定分别处理：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>&nbsp;&nbsp;&nbsp;&nbsp;（一）维持具体地震行政行为的地震复议决定，由作出具体地震行政行为的机关依法强制执行，或者申请人民法院强制执行；<BR>&nbsp;&nbsp;&nbsp;&nbsp;（二）变更具体地震行政行为的地震复议决定，由地震行政复议机关依法强制执行，或者申请人民法院强制执行。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十四条</STRONG>&nbsp;&nbsp;地震行政复议机关应当于地震行政复议案件结案后30日内向上一级地震行政机关备案。</P>
+<P align=center><STRONG>第五章&nbsp;&nbsp;法律责任</STRONG></P>
+<P><STRONG>&nbsp;&nbsp;&nbsp;</STRONG>&nbsp;<STRONG>第二十五条</STRONG>&nbsp;&nbsp;地震行政复议机关违反本规定,&nbsp;无正当理由不予受理依法提出的地震行政复议申请或者不按照规定转送地震行政复议申请的，或者在法定期限内不作出地震复议决定的，对直接负责的主管人员和其他直接责任人员依法给予警告、记过、记大过的行政处分；经责令受理仍不受理或者不按照规定转送地震行政复议申请，造成严重后果的，依法给予降级、撤职、开除的行政处分。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十六条</STRONG>&nbsp;&nbsp;地震行政复议机关工作人员在地震行政复议活动中，徇私舞弊或者有其他渎职、失职行为的，依法给予警告、记过、记大过的行政处分；情节严重的，依法给予降级、撤职、开除的行政处分；构成犯罪的，依法追究刑事责任。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十七条</STRONG>&nbsp;&nbsp;地震行政复议被申请人违反本规定，不提出书面答复或者不提交作出具体行政行为的证据、依据和其他有关材料，或者阻挠、变相阻挠公民、法人或者其他组织依法申请地震行政复议的，对直接负责的主管人员和其他直接责任人员依法给予警告、记过、记大过的行政处分；进行报复陷害的，依法给予降级、撤职、开除的行政处分；构成犯罪的,依法追究刑事责任。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十八条</STRONG>&nbsp;&nbsp;地震行政复议被申请人不履行或者无正当理由拖延履行地震行政复议决定的，对直接负责的主管人员和其他直接责任人员依法给予警告、记过、记大过的行政处分；经责令履行仍拒不履行的，依法给予降级、撤职、开除的行政处分。<BR>&nbsp;第二十九条&nbsp;&nbsp;地震行政复议机关负责法制工作的机构发现有无正当理由不予受理地震行政复议申请、不按照规定期限作出地震行政复议决定、徇私舞弊、对申请人打击报复或者不履行地震行政复议决定等情形的，应当向有关行政机关提出建议，有关行政机关应当依照本规定和有关法律、法规作出处理。<BR><STRONG>第六章&nbsp;&nbsp;附&nbsp;&nbsp;&nbsp;&nbsp;则<BR></STRONG>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十条</STRONG>&nbsp;&nbsp;地震行政复议机关受理地震行政复议申请，不得向申请人收取任何费用。地震行政复议活动所需经费，列入本机关的行政经费，由本级财政予以保障。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十一条</STRONG>&nbsp;&nbsp;地震行政复议期间的计算和地震行政复议文书的送达，依照《中华人民共和国民事诉讼法》关于期间、送达的规定执行。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十二条</STRONG>&nbsp;&nbsp;本规定由国务院地震工作主管部门负责解释。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十三条</STRONG>&nbsp;&nbsp;本规定自1999年10月1日起施行。<BR><BR><FONT&NBSP;FACE=仿宋_GB2312><FONT&NBSP;FACE=仿宋_GB2312&NBSP;SIZE=3>附：《中华人民共和国行政复议法》有关条文</FONT><BR></FONT><BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十一条</STRONG>&nbsp;&nbsp;行政复议期间具体行政行为不停止执行；但是，有下列情形之一的，可以停止执行:<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)被申请人认为需要停止执行的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)行政复议机关认为需要停止执行的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)申请人申请停止执行，行政复议机关认为其要求合理，决定停止执行的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)法律规定停止执行的。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十三条</STRONG>&nbsp;&nbsp;行政复议机关负责法制工作的机构应当自行政复议申请受理之日起7日内，将行政复议申请书副本或者行政复议申请笔录复印件发送被申请人。被申请人应当自收到申请书副本或者申请笔录复印件之日起10日内，提出书面答复，并提交当初作出具体行政行为的证据、依据和其他有关材料。<BR>&nbsp;&nbsp;&nbsp;&nbsp;申请人、第三人可以查阅被申请人提出的书面答复、作出具体行政行为的证据、依据和其他有关材料，除涉及国家秘密、商业秘密或者个人隐私外，行政复议机关不得拒绝。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第二十八条</STRONG>&nbsp;&nbsp;行政复议机关负责法制工作的机构应当对被申请人作出的具体行政行为进行审查，提出意见，经行政复议机关的负责人同意或者集体讨论通过后，按照下列规定作出行政复议决定：<BR>&nbsp;&nbsp;&nbsp;&nbsp;(一)具体行政行为认定事实清楚，证据确凿，适用依据正确，程序合法，内容适当的，决定维持；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(二)被申请人不履行法定职责的，决定其在一定期限内履行；<BR>&nbsp;&nbsp;&nbsp;&nbsp;(三)具体行政行为有下列情形之一的，决定撤销、变更或者确认该具体行政行为违法；决定撤销或者确认该具体行政行为违法的，可以责令被申请人在一定期限内重新作出具体行政行为：<BR>&nbsp;&nbsp;&nbsp;&nbsp;1.主要事实不清、证据不足的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;2.适用依据错误的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;3.违反法定程序的；<BR>&nbsp;&nbsp;&nbsp;&nbsp;4.超越或者滥用职权的；<BR>5.具体行政行为明显不当的。<BR>&nbsp;&nbsp;&nbsp;&nbsp;(四)被申请人不按照本法第二十三条规定提出书面答复、提交当初作出具体行政行为的证据、依据和其他有关材料的，视为该具体行政行为没有证据、依据，决定撤销该具体行政行为。<BR>&nbsp;&nbsp;&nbsp;&nbsp;行政复议机关责令被申请人重新作出具体行政行为的，被申请人不得以同一的事实和理由作出与原具体行政行为相同或者基本相同的具体行政行为。<BR>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>第三十一条</STRONG>&nbsp;&nbsp;行政复议机关应当自受理申请之日起60日内作出行政复议决定；但法律规定的行政复议期限少于60日的除外。情况复杂，不能在规定期限内作出行政复议决定的，经行政复议机关的负责人批准，可以适当延长，并告知申请人和被申请人；但是延长期限最多不超过30日。<BR>&nbsp;&nbsp;&nbsp;&nbsp;行政复议机关作出行政复议决定，应当制作行政复议决定书，并加盖印章。<BR>&nbsp;&nbsp;&nbsp;&nbsp;行政复议决定书一经送达，即发生法律效力。</P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

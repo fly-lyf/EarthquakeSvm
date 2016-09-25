@@ -1,0 +1,401 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>胡锦涛同志建党85周年讲话精神问答</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">胡锦涛同志建党85周年讲话精神问答</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-07-28 11:09:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局直属机关党委
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><B><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 黑体; mso-bidi-font-size: 16.0pt">按</SPAN></B><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 黑体; mso-bidi-font-size: 16.0pt">：</SPAN><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 楷体_GB2312; mso-bidi-font-size: 16.0pt; mso-hansi-font-family: 宋体">庆祝中国共产党成立<SPAN lang=EN-US>85周年暨总结保持共产党员先进性教育活动大会6月30日在中南海怀仁堂礼堂隆重举行。中共中央总书记、国家主席、中央军委主席胡锦涛同志在大会上发表重要讲话。中国地震局党组明确将学习贯彻落实讲话精神作为当前和今后一个时期地震系统的重要政治任务，对学习贯彻讲话精神进行了部署，对紧密联系防震减灾工作实际，贯彻落实讲话精神提出了要求。为配合学习宣传工作，现转发新华社《时事资料手册》编辑的《胡锦涛同志建党85周年讲话精神问答》。<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; TEXT-ALIGN: center; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly" align=center><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">胡锦涛同志建党<SPAN lang=EN-US>85周年讲话精神问答<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">&nbsp;<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 楷体_GB2312; mso-bidi-font-size: 16.0pt; mso-hansi-font-family: 宋体">问：我们党<SPAN lang=EN-US>85年的历史可以得出的基本结论是什么？<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">答：总结我们党<SPAN lang=EN-US>85年的历史，可以得出一个基本结论，这就是：我们党之所以能够成为领导中国革命、建设、改革事业的核心力量，之所以能够承担起中国人民和中华民族的历史重托，之所以能够在剧烈变动的国际国内环境中始终立于不败之地，根本原因是我们党始终代表中国先进生产力的发展要求、代表中国先进文化的前进方向、代表中国最广大人民的根本利益，始终高度重视并不断保持和发展自己作为马克思主义政党的先进性。<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 楷体_GB2312; mso-bidi-font-size: 16.0pt; mso-hansi-font-family: 宋体">问：<SPAN lang=EN-US>85年来我们党保持和发展先进性的创造性实践所得到的宝贵经验是什么？<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">答：加强党的先进性建设，必须准确把握时代脉搏，保证党始终与时代发展同步伐；必须把最广大人民的根本利益作为党全部工作的出发点和落脚点，保证党始终与人民群众共命运；必须使党的理论和路线方针政策不断与时俱进，保证党的全部工作始终符合实际和社会发展规律；必须围绕党的中心任务来进行，保证党始终引领中国社会发展进步；必须坚持党要管党、从严治党，保证党始终具有蓬勃生机和旺盛活力。这些宝贵经验来之不易，对于我们进一步推进党的先进性建设，具有长期指导作用，必须十分珍视并持之以恒地坚持下去。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 楷体_GB2312; mso-bidi-font-size: 16.0pt; mso-hansi-font-family: 宋体">问：如何认识党的先进性建设？<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">答：先进性是马克思主义政党的本质属性，是马克思主义政党的生命所系、力量所在。我们党只有不断保持和发展自身的先进性，始终走在时代前列，才能巩固党的执政地位、提高党的执政能力、完成党的执政使命。我们必须清醒认识新的历史条件下加强党的自身建设的必要性、紧迫性、艰巨性、复杂性，全面把握党所肩负的历史使命和党员队伍的总体状况，扎扎实实加强党的先进性建设。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">提出加强党的先进性建设的重大战略思想，就是要更加鲜明地强调党的先进性建设这一重大课题，更加深入地认识共产党执政规律和党自身建设规律，更加全面地认识党的先进性建设的科学内涵和目标要求，更加突出地把党的先进性建设作为党的各方面建设的主线，从而使党的建设的努力方向和检验标准更加鲜明，使我们能够更好、更全面、更有成效地推进党的建设新的伟大工程。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 楷体_GB2312; mso-bidi-font-size: 16.0pt; mso-hansi-font-family: 宋体">问：如何总结保持共产党员先进性教育活动？<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">答：我们党根据十六大的部署，在全党开展了以实践“三个代表”重要思想为主要内容的保持共产党员先进性教育活动，历时一年半，现已基本结束。这次先进性教育活动，是我们党参加人数最多、规模最大的一次马克思主义集中教育活动，具有鲜明的特点。整个先进性教育活动主题鲜明、领导有力、措施得当、工作扎实，实现了预期目标，取得了显著成效，广大党员受到了一次深刻的马克思主义教育，基层党组织的创造力、凝聚力、战斗力进一步提高，党组织和党员服务群众的行动更加自觉。各级党委要按照中央的要求，切实巩固和充分运用这次先进性教育活动取得的重要成果，在改革开放和现代化建设的实践中不断取得新成效、积累新经验。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 楷体_GB2312; mso-bidi-font-size: 16.0pt; mso-hansi-font-family: 宋体">问：加强党的先进性建设必须始终抓好的基础工程是什么？<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">答：加强党的先进性建设，必须始终抓好保持和发展党员队伍的先进性这个基础工程，必须始终抓住党员队伍这个主体，充分依靠全党同志共同努力。保持党员队伍的先进性，根本在于增强广大党员的先进性意识，激发其自我教育、自我提高的内在动力；重点在于解决党员队伍中存在的突出问题，不断增强党员队伍整体的先进性；关键在于完善制度和机制，把党的先进性要求转化为党员自觉遵守的行为准则。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 楷体_GB2312; mso-bidi-font-size: 16.0pt; mso-hansi-font-family: 宋体">问：如何进一步推进党的先进性建设？<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">答：全党都必须深刻认识到，加强党的先进性建设是一项长期的历史任务，我们必须紧紧围绕党的历史使命和中心任务，进一步推进党的先进性建设，紧密结合贯彻落实科学发展观、构建社会主义和谐社会、加强党的执政能力建设、保持党同人民群众血肉联系的实践加强党的先进性建设。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 21.95pt; LINE-HEIGHT: 20pt; mso-char-indent-count: 2.09; mso-char-indent-size: 10.5pt; mso-line-height-rule: exactly"><SPAN lang=EN-US style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-bidi-font-size: 16.0pt">&nbsp;<o:p></o:p></SPAN></P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

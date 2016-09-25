@@ -1,0 +1,788 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省防震减灾40年</title>
+<LINK href="../../../images/jz_style.css" type="text/css" rel="stylesheet"/>
+<style type="text/css">
+#scrollDiv{width:788px;height:150px;line-height:20px;overflow:hidden;}
+
+
+#scrollDivZP{width:362px;height:130px;line-height:20px;overflow:hidden;}
+
+</style>
+<script src="../../../images/jquery.js" type="text/javascript"></script>
+</head>
+<script type="text/javascript">
+function AutoScroll(obj){
+        $(obj).find("ul:first").animate({
+                marginTop:"-150px"
+        },500,function(){
+                $(this).css({marginTop:"0px"}).find("li:first").appendTo(this);
+        });
+}
+
+function AutoScrollZP(obj){
+        $(obj).find("ul:first").animate({
+                marginTop:"-130px"
+        },500,function(){
+                $(this).css({marginTop:"0px"}).find("li:first").appendTo(this);
+        });
+}
+
+</script>
+<body>
+	<div id="box">
+		<div class="logo">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="1000" height="204">
+      <param name="movie" value="../../../images/fzjz40index.swf">
+      <param name="quality" value="high">
+      <param name="wmode" value="transparent">
+      <embed src="../../../images/fzjz40index.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1000" height="204"></embed>
+    </object>
+		</div>
+		<div class="nav">
+			<div class="nav_left"><img src="../../../images/jz_nav01.jpg"/></div>
+			<ul style="">
+				<li><a href="./">专题首页</a><img src="../../../images/jz_nav04.jpg"/></li>
+				<li><a href="./hdxx/">综合信息</a><img src="../../../images/jz_nav04.jpg"/></li>
+				<li><a href="./xjsj/">先进名录</a><img src="../../../images/jz_nav04.jpg"/></li>
+				<li><a href="./fmcg/">工作成果</a><img src="../../../images/jz_nav04.jpg"/></li>
+				<li><a href="./zpzs/">作品展示</a><img src="../../../images/jz_nav04.jpg"/></li>
+				<li><a href="./lshg/">历史回眸</a><img src="../../../images/jz_nav04.jpg"/></li>
+				<li><a href="./zsjt/">知识讲堂</a></li>
+			</ul>
+			<div class="nav_right"><img src="../../../images/jz_nav03.jpg"/></div>
+	</div>
+	
+	<div class="zhxx">
+		<div class="zhx_left">
+			<div class="flashnh">
+			<div class="flash" align="left">
+					
+<span id="focusViewer"></span>
+	<script src="../../../images/lhflash.js" type="text/javascript" language="javascript">
+</script>
+	<script type="text/javascript" language="javascript">
+
+		var focus_width = 390;
+		var focus_height = 278;
+		var text_height = 20;
+		var swf_height = focus_height + text_height;
+		var curhref = document.location.href;
+
+		 var pic = new Array();
+		var linka = new Array();
+		var text = new Array();
+		var  countpic =0;
+		  var  countdoc=0;
+		
+		var arr = new Array();
+		
+		countdoc++;
+	     var pic1 = './hdxx/201112/W020111222390397222730.jpg';
+ var appdescs='防震减灾40年总结大会会场.jpg';
+		var  title="四川省防震减灾40年总结大会在成都召开";
+		var  url = "./hdxx/201112/t20111222_21164.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./hdxx/201112/t20111222_21164.html');
+				//text.push('四川省防震减灾40年总结大会在成都召开');
+		
+			}
+		
+		
+		countdoc++;
+	     var pic1 = './hdxx/201112/W020111219822629881597.jpg';
+ var appdescs='四川省防震减灾40年离退休座谈会在成都举行';
+		var  title="四川省防震减灾40年离退休座谈会在成都举行";
+		var  url = "./hdxx/201112/t20111219_21142.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./hdxx/201112/t20111219_21142.html');
+				//text.push('四川省防震减灾40年离退休座谈会在成都举行');
+		
+			}
+		
+		
+		countdoc++;
+	     var pic1 = '../../fzjzyw/201112/W020111218627956449640.jpg';
+ var appdescs='“四川防震减灾40年老同志书法绘画摄影作品展”开展';
+		var  title="“四川防震减灾40年老同志书法绘画摄影作品展”开展";
+		var  url = "../../fzjzyw/201112/t20111214_21027.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('../../fzjzyw/201112/t20111214_21027.html');
+				//text.push('“四川防震减灾40年老同志书法绘画摄影作品展”开展');
+		
+			}
+		
+		
+		for(var i=0;i<countdoc;i++){
+		   pic.push(arr[i][2]);
+		   linka.push(arr[i][1]);
+                   if(arr[i][3].indexOf(".jpg")>0){
+		    text.push(arr[i][0]);
+		   }else{
+                      text.push(arr[i][3]);
+
+                  }
+		      
+
+		}
+		
+			
+		var pics = pic.join('|');
+
+		var links = linka.join('|');
+		var texts = text.join('|');				
+
+		var FocusFlash = new sinaFlash("../../../images/pixviewer.swf", "focusflash", focus_width, swf_height, "7", "#FFFFFF", false, "High");
+		FocusFlash.addParam("allowScriptAccess", "sameDomain");
+		FocusFlash.addParam("menu", "false");
+		FocusFlash.addParam("wmode", "opaque");
+		FocusFlash.addVariable("pics", pics);
+		FocusFlash.addVariable("links", links);
+		FocusFlash.addVariable("texts", texts);
+		FocusFlash.addVariable("borderwidth", focus_width);
+		FocusFlash.addVariable("borderheight", focus_height);
+		FocusFlash.addVariable("textheight", text_height);
+		FocusFlash.addVariable("curhref", curhref);
+		FocusFlash.write("focusViewer");
+	</script>
+
+				
+				</div>
+
+			</div>
+			<div class="xxlb">
+				<h1><span class="sp01">综合信息</span><a href="./hdxx/" class="gd01">更多>></a></h1>
+				<ul>
+				
+				
+					<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="《四川日报》发表曲木史哈文章：深入推进防震减灾  服务经济社会发展" href="./hdxx/201112/t20111231_21362.html"> 《四川日报》发表曲木史哈文章：深入推进防震减灾 ... </a></li>
+				
+				
+					<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="四川省委副书记、省长蒋巨峰致信祝贺四川省防震减灾40年总结大会召开" href="./hdxx/201112/t20111220_21151.html"> 四川省委副书记、省长蒋巨峰致信祝贺四川省防震减... </a></li>
+				
+				
+					<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="四川省防震减灾40年总结大会在成都召开" href="./hdxx/201112/t20111222_21164.html"> 四川省防震减灾40年总结大会在成都召开 </a></li>
+				
+				
+					<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="四川防震减灾40年赛思特杯防震减灾知识网络竞赛正式启动" href="../../fzjzyw/201112/t20111229_21220.html"> 四川防震减灾40年赛思特杯防震减灾知识网络竞赛正... </a></li>
+				
+				
+					<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="四川省防震减灾工作先进集体和先进个人表彰决定" href="./hdxx/201112/t20111220_21145.html"> 四川省防震减灾工作先进集体和先进个人表彰决定 </a></li>
+				
+				
+					<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="四川省地震局召开四川防震减灾40年学术会议" href="./hdxx/201112/t20111220_21147.html"> 四川省地震局召开四川防震减灾40年学术会议 </a></li>
+				
+				
+					<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="四川省防震减灾40年离退休座谈会在成都举行" href="./hdxx/201112/t20111219_21142.html"> 四川省防震减灾40年离退休座谈会在成都举行 </a></li>
+				
+				
+					<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="“四川防震减灾40年老同志书法绘画摄影作品展”开展" href="../../fzjzyw/201112/t20111214_21027.html"> “四川防震减灾40年老同志书法绘画摄影作品展”开展 </a></li>
+				
+				
+					<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="四川省防震减灾知识网络竞赛正式拉开帷幕" href="../../../zwgk/tzgg/201112/t20111207_20999.html"> 四川省防震减灾知识网络竞赛正式拉开帷幕 </a></li>
+				
+
+				</ul>
+			</div>
+		</div>
+		<div class="tj">
+			<h1>题记</h1>
+			<p>
+				　　12月19日，四川省防震减灾40年总结大会在成都隆重召开。省委副书记、省长蒋巨峰向大会致贺信，贺信全文如下：<br/>&nbsp;<br/>　　值此四川防震减灾40年总结大会召开之际，我谨代表中共四川省委、四川省人民政府，向会议的召开表示热烈的祝贺！向中国地震局一直以来对四川防震减灾工作特别是抗震救灾、灾后恢复重建的鼎力支持表示衷心的感谢！向全省防震减灾战线的同志们长期以来所付出的辛...
+<a href="./201112/t20111220_21150.html" target="_blank">[详细]</a>
+
+			</p>
+		</div>
+	</div>
+	
+	<div class="mcnt">
+		<div class="msc_left">
+			<div class="gzcg">
+				<h1><a href="./fmcg/" target="_blank"><img src="../../../images/jz_pic04.jpg"/></a></h1>
+				<ul>
+
+<div id="scrollDiv" class="gzcg_1" >
+<ul>
+ 
+        	<script>
+        	$(document).ready(function(){
+        		setInterval('AutoScroll("#scrollDiv")',15000)
+        		});
+        	</script>
+   
+   
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21136.html" target="_blank"><img src="./fmcg/201112/W020111216587535033242.jpg" alt="前言.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21136.html" TARGET="_blank" title="发展中的四川防震减灾事业——前言">发展中的四川防震减...</a>
+	 </li>
+	
+
+
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21130.html" target="_blank"><img src="./fmcg/201112/W020111216547790034084.jpg" alt="预报所-1207.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21130.html" TARGET="_blank" title="预报研究所简介">预报研究所简介</a>
+	 </li>
+	
+
+
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21126.html" target="_blank"><img src="./fmcg/201112/W020111216541634419564.jpg" alt="监测所-1207.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21126.html" TARGET="_blank" title="监测研究所简介">监测研究所简介</a>
+	 </li>
+	
+
+
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21131.html" target="_blank"><img src="./fmcg/201112/W020111216550832385935.jpg" alt="减灾所.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21131.html" TARGET="_blank" title="减灾救助研究所简介">减灾救助研究所简介</a>
+	 </li>
+	
+
+
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21128.html" target="_blank"><img src="./fmcg/201112/W020111216546095977324.jpg" alt="水库所-1207.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21128.html" TARGET="_blank" title="水库地震研究所简介">水库地震研究所简介</a>
+	 </li>
+	
+
+
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21125.html" target="_blank"><img src="./fmcg/201112/W020111216537036606038.jpg" alt="工程院-1206.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21125.html" TARGET="_blank" title="工程地震研究院简介">工程地震研究院简介</a>
+	 </li>
+	
+
+
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21123.html" target="_blank"><img src="./fmcg/201112/W020111216536057538868.jpg" alt="测绘院-1206.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21123.html" TARGET="_blank" title="测绘工程院简介">测绘工程院简介</a>
+	 </li>
+	
+
+
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21127.html" target="_blank"><img src="./fmcg/201112/W020111216545306288008.jpg" alt="前兆强震台网-1214.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21127.html" TARGET="_blank" title="前兆台网和强震动观测台网">前兆台网和强震动观...</a>
+	 </li>
+	
+
+
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21120.html" target="_blank"><img src="./fmcg/201112/W020111216533562698341.jpg" alt="GPS系统—1209.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21120.html" TARGET="_blank" title="GPS系统服务系统">GPS系统服务系统</a>
+	 </li>
+	
+
+
+	
+    <li>
+	<a href="./fmcg/201112/t20111216_21121.html" target="_blank"><img src="./fmcg/201112/W020111216534325815138.jpg" alt="MODIS地面站-1207.jpg" width=170 height=126 border=0/></a>
+     <a href="./fmcg/201112/t20111216_21121.html" TARGET="_blank" title="MODIS卫星遥感数据地面站">MODIS卫星遥感数据地...</a>
+	 </li>
+	
+
+
+</ul>
+</div>    
+  
+
+				</ul>
+			</div>
+			
+			<div class="zpzs">
+				<h1><a href="#"><img src="../../../images/jz_pic06.jpg"/></a></h1>
+				<div class="zpnr">
+					<h2><span class="sp01">纪念文章</span><a href="./zpzs/jnwz/" class="gd01">更多>></a></h2>
+					<ul class="jnwz">
+					
+						<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="曲木史哈在《四川日报》发表文章：深入推进防震减灾  服务经济社会发展" href="./zpzs/jnwz/201112/t20111231_21361.html"> 曲木史哈在《四川日报》发表文章：深入推进防震减灾 ... </a></li>
+						
+						<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="四川省地方地震事业的长足发展暨进一步加强群测群防工作的建议" href="./zpzs/jnwz/201112/t20111216_21044.html"> 四川省地方地震事业的长足发展暨进一步加强群测群防... </a></li>
+						
+						<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="从近年国内外特大地震看防震减灾工作的成就及其未来发展方向" href="./zpzs/jnwz/201112/t20111215_21039.html"> 从近年国内外特大地震看防震减灾工作的成就及其未来... </a></li>
+						
+						<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="北川，我的牵挂" href="./zpzs/jnwz/201112/t20111215_21040.html"> 北川，我的牵挂 </a></li>
+						
+						<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="尊重实践 尊重实践者" href="./zpzs/jnwz/201112/t20111216_21046.html"> 尊重实践 尊重实践者 </a></li>
+						
+					</ul>
+				</div>
+				<div class="zpnr">
+
+					<h2><span class="sp01">减灾文化</span><a href="./zpzs/shzp/" class="gd01">更多>></a></h2>
+					<ul class="jzwh">
+
+<div id="scrollDivZP">
+<ul>
+ 
+        	<script>
+        	$(document).ready(function(){
+        		setInterval('AutoScrollZP("#scrollDivZP")',18000)
+        		});
+        	</script>
+   
+   
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21117.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216516364257891.jpg" alt="防震减灾—邓天刚 .jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21116.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216515119104126.jpg" alt="地震战线—蒋华昭 .jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21115.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216514190816686.jpg" alt="地震工作—李志君 .jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21081.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216424992388348.jpg" alt="作者：雍幼予.jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21079.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216423936919980.jpg" alt="作者：刘成仁.jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21078.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216423566280538.jpg" alt="作者：李志君.jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21077.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216423191280520.jpg" alt="作者：李崇文.jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21075.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216422455194855.jpg" alt="作者：蒋华昭.jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21073.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216421436916635.jpg" alt="邓天刚1.jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+	
+    <li>
+	<a href="./zpzs/shzp/201112/t20111216_21071.html" target="_blank"><img src="./zpzs/shzp/201112/W020111216419047694454.jpg" alt="作者： 刘成仁.jpg" width=153 height=135 border=0/></a>
+ </li>
+	
+
+
+</ul>
+</div>    
+ 
+
+					
+
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div class="msc_right">
+			<div class="xjmn">
+			
+			<h2><a href="./xjsj/201112/t20111216_21112.html" target="_blank"><img src="../../../images/jz_pic18.jpg"/></a></h2>
+			
+				<h1><span>先进集体</span>
+				
+				<a href="./xjsj/xjjt/201112/t20111216_21113.html" target="_blank">更多>></a>
+				
+				</h1>
+				<ul class="lijt">
+<marquee direction="up" height="145" scrollamount=1 scrolldelay=30 onmouseout="javascript:this.start()" onmouseover="javascript:this.stop();">
+<li><img src="../../../images/icon01.gif"/> 成都市防震减灾局法规宣传处</li>
+<li><img src="../../../images/icon01.gif"/>崇州市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>大邑县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>自贡市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>自贡市高新区管委会防震减灾办公室</li>
+<li><img src="../../../images/icon01.gif"/>攀枝花市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>米易县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>攀枝花市仁和区防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>德阳市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>德阳市旌阳区防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>广汉市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>绵阳市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>北川县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>广元市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>广元市朝天区防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>遂宁市国土资源局</li>
+<li><img src="../../../images/icon01.gif"/>内江市地震办公室</li>
+<li><img src="../../../images/icon01.gif"/>乐山市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>沐川县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>南充市政府应急管理办公室</li>
+<li><img src="../../../images/icon01.gif"/>宜宾市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>高县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>广安市防震减灾办公室</li>
+<li><img src="../../../images/icon01.gif"/>广安区防震减灾办公室</li>
+<li><img src="../../../images/icon01.gif"/>达州市防震办公室</li>
+<li><img src="../../../images/icon01.gif"/>巴中市地震办公室</li>
+<li><img src="../../../images/icon01.gif"/>雅安市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>石棉县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>眉山市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>丹棱县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>资阳市防震减灾办公室</li>
+<li><img src="../../../images/icon01.gif"/>阿坝州防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>黑水县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>九寨沟县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>甘孜州防灾减灾局</li>
+<li><img src="../../../images/icon01.gif"/>康定县防灾减灾局</li>
+<li><img src="../../../images/icon01.gif"/>炉霍县防灾减灾局</li>
+<li><img src="../../../images/icon01.gif"/>凉山州防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>西昌市防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>冕宁县防震减灾局</li>
+<li><img src="../../../images/icon01.gif"/>四川省发展和改革委地区经济处</li>
+<li><img src="../../../images/icon01.gif"/>四川省发展和改革委固定资产投资处</li>
+<li><img src="../../../images/icon01.gif"/>四川省公安厅治安管理总队</li>
+<li><img src="../../../images/icon01.gif"/>四川省公安厅交警总队秩序处</li>
+<li><img src="../../../images/icon01.gif"/>四川省住房和城乡建设厅勘察设计与科学技术处（抗震办公室）</li>
+<li><img src="../../../images/icon01.gif"/>四川省建设工程质量安全监督总站</li>
+<li><img src="../../../images/icon01.gif"/>四川省复员退伍军人医院</li>
+<li><img src="../../../images/icon01.gif"/>四川省肢体伤残康复中心</li>
+<li><img src="../../../images/icon01.gif"/>四川省财政厅教科文处</li>
+<li><img src="../../../images/icon01.gif"/>四川省财政厅社保处</li>
+<li><img src="../../../images/icon01.gif"/>四川省教育厅学校安全管理处</li>
+<li><img src="../../../images/icon01.gif"/>四川农业大学都江堰校区</li>
+<li><img src="../../../images/icon01.gif"/>四川省交通运输厅公路局</li>
+<li><img src="../../../images/icon01.gif"/>四川兴蜀公路建设发展有限责任公司</li>
+<li><img src="../../../images/icon01.gif"/>四川省地震局监测预报处</li>
+<li><img src="../../../images/icon01.gif"/>四川省地震局监测研究所</li>
+<li><img src="../../../images/icon01.gif"/>四川省地震局工程地震研究院</li>
+<li><img src="../../../images/icon01.gif"/>四川省地震局康定地震中心站</li>
+<li><img src="../../../images/icon01.gif"/>四川省地震局成都地震基准台</li>
+<li><img src="../../../images/icon01.gif"/>四川省地震局攀枝花基准台</li>
+</marquee>
+				</ul>
+				<h1><span>先进个人</span>
+				
+				<a href="./xjsj/xjgr/201112/t20111216_21114.html" target="_blank">更多>></a>
+				
+				</h1>
+				<ul class="ligr" style="padding-top:10px; ">
+<marquee direction="up" height="80" scrollamount=1 scrolldelay=30 onmouseout="javascript:this.start()" onmouseover="javascript:this.stop();">
+<li><img src="../../../images/icon01.gif"/>徐水森</li>
+<li><img src="../../../images/icon01.gif"/>刘石泉</li>
+<li><img src="../../../images/icon01.gif"/>王  伟</li>
+<li><img src="../../../images/icon01.gif"/>王永志</li>
+<li><img src="../../../images/icon01.gif"/>牟陆寿</li>
+<li><img src="../../../images/icon01.gif"/>曾  杰</li>
+<li><img src="../../../images/icon01.gif"/>杨克非</li>
+<li><img src="../../../images/icon01.gif"/>卢开南</li>
+<li><img src="../../../images/icon01.gif"/>王建立</li>
+<li><img src="../../../images/icon01.gif"/>吴晓聪</li>
+<li><img src="../../../images/icon01.gif"/>黄声德</li>
+<li><img src="../../../images/icon01.gif"/>谭金贵</li>
+<li><img src="../../../images/icon01.gif"/>罗兴涛</li>
+<li><img src="../../../images/icon01.gif"/>甯乾文</li>
+<li><img src="../../../images/icon01.gif"/>陆桂全</li>
+<li><img src="../../../images/icon01.gif"/>何廷超</li>
+<li><img src="../../../images/icon01.gif"/>张长根</li>
+<li><img src="../../../images/icon01.gif"/>胡  江</li>
+<li><img src="../../../images/icon01.gif"/>祝祥龙</li>
+<li><img src="../../../images/icon01.gif"/>杨更生</li>
+<li><img src="../../../images/icon01.gif"/>李  英</li>
+<li><img src="../../../images/icon01.gif"/>褚  勇</li>
+<li><img src="../../../images/icon01.gif"/>廖俊明</li>
+<li><img src="../../../images/icon01.gif"/>杨长福</li>
+<li><img src="../../../images/icon01.gif"/>陈世龙</li>
+<li><img src="../../../images/icon01.gif"/>刘  伟</li>
+<li><img src="../../../images/icon01.gif"/>彭云金</li>
+<li><img src="../../../images/icon01.gif"/>周万清</li>
+<li><img src="../../../images/icon01.gif"/>黄  ?</li>
+<li><img src="../../../images/icon01.gif"/>胡  建</li>
+<li><img src="../../../images/icon01.gif"/>丁学宽</li>
+<li><img src="../../../images/icon01.gif"/>王  辉</li>
+<li><img src="../../../images/icon01.gif"/>周  伟</li>
+<li><img src="../../../images/icon01.gif"/>江国茂</li>
+<li><img src="../../../images/icon01.gif"/>陈文华</li>
+<li><img src="../../../images/icon01.gif"/>李洪波</li>
+<li><img src="../../../images/icon01.gif"/>李佳泰</li>
+<li><img src="../../../images/icon01.gif"/>李  高</li>
+<li><img src="../../../images/icon01.gif"/>郑  波</li>
+<li><img src="../../../images/icon01.gif"/>李远祥</li>
+<li><img src="../../../images/icon01.gif"/>康云华</li>
+<li><img src="../../../images/icon01.gif"/>乔显文</li>
+<li><img src="../../../images/icon01.gif"/>戈培峰</li>
+<li><img src="../../../images/icon01.gif"/>刘  全</li>
+<li><img src="../../../images/icon01.gif"/>叶  彬</li>
+<li><img src="../../../images/icon01.gif"/>许  剑</li>
+<li><img src="../../../images/icon01.gif"/>李久荣</li>
+<li><img src="../../../images/icon01.gif"/>罗  为</li>
+<li><img src="../../../images/icon01.gif"/>夏  松</li>
+<li><img src="../../../images/icon01.gif"/>唐  军</li>
+<li><img src="../../../images/icon01.gif"/>苏  茂</li>
+<li><img src="../../../images/icon01.gif"/>陈德亚</li>
+<li><img src="../../../images/icon01.gif"/>董  勇</li>
+<li><img src="../../../images/icon01.gif"/>吕栋武</li>
+<li><img src="../../../images/icon01.gif"/>李小林</li>
+<li><img src="../../../images/icon01.gif"/>牟  晏</li>
+<li><img src="../../../images/icon01.gif"/>李  健</li>
+<li><img src="../../../images/icon01.gif"/>向  巴</li>
+<li><img src="../../../images/icon01.gif"/>环江红</li>
+<li><img src="../../../images/icon01.gif"/>戴  放</li>
+<li><img src="../../../images/icon01.gif"/>姚  兰</li>
+<li><img src="../../../images/icon01.gif"/>潘英雄</li>
+<li><img src="../../../images/icon01.gif"/>徐泰平</li>
+<li><img src="../../../images/icon01.gif"/>余仕元</li>
+<li><img src="../../../images/icon01.gif"/>徐金华</li>
+<li><img src="../../../images/icon01.gif"/>王正卿</li>
+<li><img src="../../../images/icon01.gif"/>赵  骥</li>
+<li><img src="../../../images/icon01.gif"/>骆  艳</li>
+<li><img src="../../../images/icon01.gif"/>王绪本</li>
+<li><img src="../../../images/icon01.gif"/>隆泽均</li>
+<li><img src="../../../images/icon01.gif"/>秦晓明</li>
+<li><img src="../../../images/icon01.gif"/>杨  兵</li>
+<li><img src="../../../images/icon01.gif"/>胡  涛</li>
+<li><img src="../../../images/icon01.gif"/>周后乐</li>
+<li><img src="../../../images/icon01.gif"/>范雪山</li>
+<li><img src="../../../images/icon01.gif"/>李季航</li>
+<li><img src="../../../images/icon01.gif"/>邓新华</li>
+<li><img src="../../../images/icon01.gif"/>冯  梅</li>
+<li><img src="../../../images/icon01.gif"/>蒲仕党</li>
+<li><img src="../../../images/icon01.gif"/>曾  睿</li>
+<li><img src="../../../images/icon01.gif"/>吴  建</li>
+<li><img src="../../../images/icon01.gif"/>陈朝平</li>
+<li><img src="../../../images/icon01.gif"/>周  翔</li>
+<li><img src="../../../images/icon01.gif"/>邹  波</li>
+<li><img src="../../../images/icon01.gif"/>贵逢涛</li>
+<li><img src="../../../images/icon01.gif"/>段小丁</li>
+<li><img src="../../../images/icon01.gif"/>曹  阳</li>
+<li><img src="../../../images/icon01.gif"/>郑伟强</li>
+<li><img src="../../../images/icon01.gif"/>强仁歧</li>
+<li><img src="../../../images/icon01.gif"/>王明奎</li>
+<li><img src="../../../images/icon01.gif"/>刘学超</li>
+<li><img src="../../../images/icon01.gif"/>赵  永</li>
+<li><img src="../../../images/icon01.gif"/>王协君</li>
+<li><img src="../../../images/icon01.gif"/>张永久</li>
+<li><img src="../../../images/icon01.gif"/>魏娅玲</li>
+<li><img src="../../../images/icon01.gif"/>何玉林</li>
+<li><img src="../../../images/icon01.gif"/>韩蓉萍</li>
+<li><img src="../../../images/icon01.gif"/>张晋川</li>
+<li><img src="../../../images/icon01.gif"/>刘建明</li>
+<li><img src="../../../images/icon01.gif"/>徐建明</li>
+</marquee>
+				</ul>
+			</div>
+			<div class="bona">
+				<a href="http://www.eqsc.gov.cn/dzzswd/" target="_blank"><img src="../../../images/jz_pic10.jpg"/></a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="xxhg">
+		<div class="lshl">
+			<h1><span>历史回眸</span><a href="./lshg/">更多>></a></h1>
+			<ul>
+			<!--
+			<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" href="">    </a></li>
+			-->
+			
+				<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="纪念《中华人民共和国防震减灾法》施行十周年" href="http://www.eqsc.gov.cn/manage/fileupload/statichtml/admin/fzjz10/index.htm"> 纪念《中华人民共和国防震减灾法》施行十周年 </a></li>
+			
+				<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="汶川特大地震三周年纪念专题" href="http://www.scdzj.gov.cn/zt/cdz3znjnb/"> 汶川特大地震三周年纪念专题 </a></li>
+			
+				<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="汶川特大地震两周年纪念专题" href="http://www.scdzj.gov.cn/zt/wclznjn/"> 汶川特大地震两周年纪念专题 </a></li>
+			
+				<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="汶川特大地震一周年纪念专题" href="http://www.scdzj.gov.cn/manage/fileupload/statichtml/admin/5.12-1year/index.html"> 汶川特大地震一周年纪念专题 </a></li>
+			
+				<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="纪念松潘、平武地震30周年" href="http://www.scdzj.gov.cn/manage/fileupload/statichtml/admin/sppw30/index.htm"> 纪念松潘、平武地震30周年 </a></li>
+			
+			</ul>
+			<div class="lsbottom"><img src="../../../images/jz_pic14.jpg"/></div>
+		</div>
+		<div class="lshl">
+			<h1><span>知识讲堂</span><a href="./zsjt/">更多>></a></h1>
+			<ul>
+			
+			<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="农村房屋抗震基本措施" href="../../../kpxc/kzzs/201006/t20100601_3009.html"> 农村房屋抗震基本措施 </a></li>
+			
+			<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="中国古代建筑与抗震" href="../../../kpxc/kzzs/201006/t20100601_3010.html"> 中国古代建筑与抗震 </a></li>
+			
+			<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="百震不倒的灵宝唐塔" href="../../../kpxc/kzzs/201006/t20100601_3011.html"> 百震不倒的灵宝唐塔 </a></li>
+			
+			<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="防火抗震的无梁砖殿" href="../../../kpxc/kzzs/201006/t20100601_3012.html"> 防火抗震的无梁砖殿 </a></li>
+			
+			<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="古代建筑为何寿命长" href="../../../kpxc/kzzs/201006/t20100601_3013.html"> 古代建筑为何寿命长 </a></li>
+			
+			<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="建筑与抗震" href="../../../kpxc/kzzs/201006/t20100601_3014.html"> 建筑与抗震 </a></li>
+			
+			<li><img src="../../../images/icon01.gif"/><a TARGET="_blank" title="震不垮的木塔" href="../../../kpxc/kzzs/201006/t20100601_3015.html"> 震不垮的木塔 </a></li>
+			
+			</ul>
+			<div class="lsbottom"><img src="../../../images/jz_pic14.jpg"/></div>
+		</div>
+		
+		<div class="spxx">
+			<h1><span>媒体聚焦</span><a href="./sp/">更多>></a></h1>
+			<div class="sppic">
+			<ul>
+					
+			
+				<li><img src="../../../images/icon01.gif"/><a href="http://www.sc.gov.cn/10462/10464/10465/10466/2011/12/19/10193643.shtml" TARGET="_blank" >[四川省人民政府网]四川...</a></li>
+				
+				<li><img src="../../../images/icon01.gif"/><a href="http://www.scspc.gov.cn/html/zhyw_11/2011/1220/64194.html" TARGET="_blank" >[四川人大]四川防震减灾4...</a></li>
+				
+				<li><img src="../../../images/icon01.gif"/><a href="http://tv.people.com.cn/GB/150716/152574/152584/16653174.html" TARGET="_blank" >[人民网]四川省防震减灾4...</a></li>
+				
+				<li><img src="../../../images/icon01.gif"/><a href="http://www.sichuandaily.com.cn/2011/12/20/20111220724514053171.htm" TARGET="_blank" >[四川日报]四川防震减灾4...</a></li>
+				
+				<li><img src="../../../images/icon01.gif"/><a href="http://www.sc.xinhuanet.com/content/2011-12/19/content_24367245.htm" TARGET="_blank" >[四川频道]四川省防震减...</a></li>
+				
+				<li><img src="../../../images/icon01.gif"/><a href="http://news.cntv.cn/20111225/107752.shtml" TARGET="_blank" >[中国网络电视台]四川举...</a></li>
+				
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="hdtp">
+		<h1><a href="./tpbd/"><img src="../../../images/jz_pic17.jpg"/></a></h1>
+		<ul>
+								  <!--图片滚动-->
+		<div>
+<!--图片滚动开始-->
+<div id="demo" style="overflow:hidden;width:950px;"> 
+
+<table cellpadding="0" cellspacing="0" border="0" style="padding-top:10px;"> 
+<tr><td id="demo1" valign="middle" align="center"> 
+<table cellpadding="0" cellspacing="0" border="0"> 
+<tr align="center"> 
+<td>
+<!--图片列表-->
+<table cellpadding="5" cellspacing="5" border="0" style="border:1px; border-color:#999999"> 
+<tr align="center"> 
+  
+   
+	
+  
+	
+	 <td align='center' valign='middle'><a href="./hdxx/201112/t20111222_21164.html" target="_blank"><img src="./hdxx/201112/W020111222390397222730.jpg" alt="防震减灾40年总结大会会场.jpg" width=183 height=145 border=0/></a> </td>  <td align='center' valign='middle'><a href="./hdxx/201112/t20111222_21164.html" target="_blank"><img src="./hdxx/201112/W020111222397054728735.jpg" alt="会议主席台" width=183 height=145 border=0/></a> </td>  <td align='center' valign='middle'><a href="./hdxx/201112/t20111222_21164.html" target="_blank"><img src="./hdxx/201112/W020111222397054889895.jpg" alt="四川省副省长曲木史哈作重要讲话" width=183 height=145 border=0/></a> </td>  <td align='center' valign='middle'><a href="./hdxx/201112/t20111222_21164.html" target="_blank"><img src="./hdxx/201112/W020111222505128944606.jpg" alt="中国地震局副局长赵和平作重要讲话" width=183 height=145 border=0/></a> </td>  <td align='center' valign='middle'><a href="./hdxx/201112/t20111222_21164.html" target="_blank"><img src="./hdxx/201112/W020111222397055035741.jpg" alt="四川省军区副司令员沙正华出席会议" width=183 height=145 border=0/></a> </td>  <td align='center' valign='middle'><a href="./hdxx/201112/t20111222_21164.html" target="_blank"><img src="./hdxx/201112/W020111226466417382795.png" alt="先进集体代表" width=183 height=145 border=0/></a> </td>  <td align='center' valign='middle'><a href="./hdxx/201112/t20111222_21164.html" target="_blank"><img src="./hdxx/201112/W020111222397055030012.jpg" alt="先进个人代表" width=183 height=145 border=0/></a> </td>  <td align='center' valign='middle'><a href="./hdxx/201112/t20111222_21164.html" target="_blank"><img src="./hdxx/201112/W020111222397055196831.jpg" alt="先进代表1" width=183 height=145 border=0/></a> </td>  <td align='center' valign='middle'><a href="./hdxx/201112/t20111222_21164.html" target="_blank"><img src="./hdxx/201112/W020111222397055351052.jpg" alt="先进代表2" width=183 height=145 border=0/></a> </td>
+	<!--
+     <a href="./hdxx/201112/t20111222_21164.html" TARGET="_blank" title="四川省防震减灾40年总结大会在成都召开">四川省防震减灾40年...</a>
+	-->
+	
+	
+
+
+	
+  
+	
+	 <td align='center' valign='middle'><a href="./hdxx/201112/t20111219_21142.html" target="_blank"><img src="./hdxx/201112/W020111219822629881597.jpg" alt="四川省防震减灾40年离退休座谈会在成都举行" width=183 height=145 border=0/></a> </td>
+	<!--
+     <a href="./hdxx/201112/t20111219_21142.html" TARGET="_blank" title="四川省防震减灾40年离退休座谈会在成都举行">四川省防震减灾40年...</a>
+	-->
+	
+	
+
+
+	
+  
+	
+	 <td align='center' valign='middle'><a href="../../fzjzyw/201112/t20111214_21027.html" target="_blank"><img src="../../fzjzyw/201112/W020111218627956449640.jpg" alt="“四川防震减灾40年老同志书法绘画摄影作品展”开展" width=183 height=145 border=0/></a> </td>
+	<!--
+     <a href="../../fzjzyw/201112/t20111214_21027.html" TARGET="_blank" title="“四川防震减灾40年老同志书法绘画摄影作品展”开展">“四川防震减灾40年...</a>
+	-->
+	
+	
+
+	  
+
+</tr> 
+</table> 
+<!--图片列表-->
+</td> 
+</tr> 
+</table> 
+</td> 
+<td id="demo2" valign="top"></td> 
+</tr> 
+</table> 
+</div> 
+<script>
+var speed=40 //速度数值越大速度越慢 
+demo2.innerHTML=demo1.innerHTML 
+function Marquee(){ 
+if(demo.scrollLeft<=0) 
+demo.scrollLeft+=demo2.offsetWidth 
+else{ 
+demo.scrollLeft-- 
+} 
+} 
+var MyMar=setInterval(Marquee,speed) 
+demo.onmouseover=function() {clearInterval(MyMar)} 
+demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+</script>
+
+<!--图片滚动结束-->
+		</div>
+		<!--图片滚动-->
+		</ul>
+	</div>
+	
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+	</div>
+</body>
+</html>

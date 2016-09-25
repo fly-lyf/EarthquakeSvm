@@ -1,0 +1,385 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中国地震局地震应急预案</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">中国地震局地震应急预案</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-07-14 18:10:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局震灾应急救援司
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><DIV align=center><STRONG>目&nbsp;&nbsp;&nbsp;&nbsp;录</STRONG><BR></DIV>
+<P><STRONG>1&nbsp;&nbsp;总&nbsp;则<BR></STRONG>　　1.1&nbsp;&nbsp;编制目的<BR>　　1.2&nbsp;&nbsp;编制依据<BR>　　1.3&nbsp;&nbsp;适用范围<BR>　　1.4&nbsp;&nbsp;地震事件<BR>　　1.4.1&nbsp;&nbsp;大陆地震灾害事件<BR>　　1.4.2&nbsp;&nbsp;大陆其它地震事件<BR>　　1.4.3&nbsp;&nbsp;香港、澳门和台湾地震事件<BR>　　1.4.4&nbsp;&nbsp;国外震灾事件<BR>　　1.4.5&nbsp;&nbsp;火山灾害事件<BR>　　1.5&nbsp;&nbsp;工作原则<BR><STRONG>2&nbsp;&nbsp;组织体系<BR></STRONG>　　2.1&nbsp;&nbsp;指挥机构及职责<BR>　　2.1.1&nbsp;&nbsp;中国地震局地震应急指挥部<BR>　　2.1.2&nbsp;&nbsp;中国地震局地震现场指挥部<BR>　　2.1.3&nbsp;&nbsp;中国地震局地震现场工作组<BR>　　2.2&nbsp;&nbsp;工作机构及职责<BR>　　2.2.1&nbsp;&nbsp;局机关司室<BR>　　2.2.2&nbsp;&nbsp;局直属单位<BR>　　2.2.3&nbsp;&nbsp;省级及以下地震工作机构和台站<BR><STRONG>3&nbsp;&nbsp;大陆地震灾害事件应急响应</STRONG><BR>　　3.1&nbsp;&nbsp;临震应急响应<BR>　　3.1.1&nbsp;&nbsp;中国地震局机关司室和局直属单位<BR>　　3.1.2&nbsp;&nbsp;省级及以下地震工作机构和台站<BR>　　3.2&nbsp;&nbsp;震后应急响应<BR>　　3.2.1&nbsp;&nbsp;应急期开始<BR>　　3.2.2&nbsp;&nbsp;I级响应<BR>　　3.2.3&nbsp;&nbsp;Ⅱ级响应<BR>　　3.2.4&nbsp;&nbsp;Ⅲ级响应<BR>　　3.2.5&nbsp;&nbsp;Ⅳ级响应<BR>　　3.2.6&nbsp;&nbsp;提高或降低响应级别条件<BR>　　3.2.7&nbsp;&nbsp;应急期结束<BR>　　3.2.8&nbsp;&nbsp;区域联动应急响应<BR><STRONG>4&nbsp;&nbsp;大陆其他地震事件应急响应<BR></STRONG>　　4.1&nbsp;&nbsp;有感地震应急响应<BR>　　4.2&nbsp;&nbsp;地震谣传应急处置<BR>　　4.3&nbsp;&nbsp;特殊时期应急戒备<BR><STRONG>5&nbsp;&nbsp;香港澳门和台湾发生地震应急响应<BR></STRONG>　　5.1&nbsp;&nbsp;香港澳门特别行政区发生地震应急响应<BR>　　5.2&nbsp;&nbsp;台湾地区发生地震应急响应<BR><STRONG>6&nbsp;&nbsp;国外震灾应急响应</STRONG><BR>　　6.1&nbsp;&nbsp;毗邻震灾应急响应<BR>　　6.2&nbsp;&nbsp;国外发生特别重大地震灾害事件应急响应<BR><STRONG>7&nbsp;&nbsp;火山灾害应急响应<BR>8&nbsp;&nbsp;附则<BR></STRONG>　　8.1&nbsp;&nbsp;总结<BR>　　8.2&nbsp;&nbsp;预案管理<BR>　　8.2.1&nbsp;&nbsp;预案实施<BR>　　8.2.2&nbsp;&nbsp;预案演练<BR>　　8.2.3&nbsp;&nbsp;预案备案<BR>　　8.2.4&nbsp;&nbsp;预案修订<BR>　　8.3&nbsp;&nbsp;预案实施时间</P>
+<P><STRONG>　　1&nbsp;&nbsp;总&nbsp;则<BR>　　1.1&nbsp;&nbsp;编制目的</STRONG><BR>　　履行中国地震局在国家地震应急响应中的职责，协调、有序、高效应对突发地震事件，最大程度地减少地震造成的人员伤亡，减轻经济损失和社会影响，协助政府做好社会稳定工作。<BR>　　<STRONG>1.2&nbsp;&nbsp;编制依据<BR></STRONG>　　《中华人民共和国防震减灾法》、《破坏性地震应急条例》、《地震预报管理条例》、《国家突发公共事件总体应急预案》和《国家地震应急预案》。<BR>　　<STRONG>1.3&nbsp;&nbsp;适用范围<BR></STRONG>　　中国地震局应对突发地震事件（含火山灾害事件）的应急活动。<BR>　　<STRONG>1.4&nbsp;&nbsp;地震事件<BR></STRONG>　　1.4.1&nbsp;&nbsp;大陆地震灾害事件<BR>　　依据《国家地震应急预案》，根据灾害程度，地震灾害事件共分四级。凡符合下列地震灾害事件分级判定条件之一的，即可判定或初判为该级地震灾害事件：<BR>　　1.4.1.1&nbsp;&nbsp;特别重大地震灾害事件<BR>　　（1）造成了300人（含）以上人员死亡的地震。<BR>　　（2）直接经济损失占该省（区、市）上年国内生产总值1%（含）以上的地震。<BR>　　（3）在人口较密集地区发生7.0级（含）以上的地震，可初判为特别重大地震灾害事件。<BR>　　1.4.1.2&nbsp;&nbsp;重大地震灾害事件<BR>　　（1）造成了50人（含）以上、300人以下人员死亡的地震。<BR>　　（2）直接经济损失占该省（区、市）上年国内生产总值1%以下且较严重的地震。<BR>　　（3）在人口较密集地区发生6.5级（含）以上、7.0级以下的地震，可初判为重大地震灾害事件。<BR>　　1.4.1.3&nbsp;&nbsp;较大地震灾害事件<BR>　　（1）造成了20人（含）以上、50人以下人员死亡的地震。<BR>　　（2）造成了较大经济损失的地震。<BR>　　（3）在人口较密集地区发生6.0级（含）以上、6.5级以下的地震，可初判为较大地震灾害事件。<BR>　　1.4.1.4&nbsp;&nbsp;一般地震灾害事件<BR>　　（1）造成了20人以下人员死亡的地震。<BR>　　（2）造成了一定经济损失的地震。<BR>　　（3）在人口较密集地区发生5.0级（含）以上、6.0级以下的地震，可初判为一般地震灾害事件。<BR>　　1.4.2&nbsp;&nbsp;大陆其它地震事件<BR>　　我国大陆发生的有感地震和地震谣传及重大政治、社会活动期间地震戒备。<BR>　　1.4.3&nbsp;&nbsp;香港、澳门和台湾地震事件<BR>　　香港、澳门特别行政区，以及珠江三角洲地区发生对于香港或澳门有较大影响的地震和台湾地区及台湾海峡发生的地震。<BR>　　1.4.4&nbsp;&nbsp;国外震灾事件<BR>　　毗邻国家发生对我国境内造成影响的地震和国外发生且造成特别重大灾害的地震。<BR>　　1.4.5&nbsp;&nbsp;火山灾害事件<BR>　　境内火山喷发或出现多种强烈临喷异常现象。<BR>　<STRONG>　1.5&nbsp;&nbsp;工作原则</STRONG><BR>　　地震事件发生后，有关各级地震机构立即自动按照预案实施地震应急，并加强地震灾害现场科学考察和研究工作。<BR>　　应对特别重大地震灾害事件，由灾区所在省（区、市）人民政府领导灾区的地震应急工作；国务院抗震救灾指挥部统一组织领导、指挥和协调国家地震应急工作；中国地震局履行国务院抗震救灾指挥部办公室职责。<BR>　　应对重大地震灾害事件，由灾区所在省（区、市）人民政府领导灾区的地震应急工作；中国地震局在国务院领导下，组织、协调国家地震应急工作。<BR>　　应对较大地震灾害事件，在灾区所在省（区、市）人民政府的领导和支持下，由灾区所在市（地、州、盟）人民政府领导灾区的地震应急工作；中国地震局对地震灾害现场的各级地震应急队伍、救援队伍、保障队伍等的活动进行协调，协助当地人民政府开展地震应急工作。<BR>　　应对一般地震灾害事件，在灾区所在省（区、市）人民政府和市（地、州、盟）人民政府的领导和支持下，由灾区所在县（市、区、旗）人民政府领导灾区的地震应急工作；中国地震局对地震灾害现场的各级地震应急队伍、救援队伍、保障队伍等的活动进行协调，协助当地人民政府开展地震应急工作。<BR>　　应对包括有感地震、地震谣传、特殊时期地震戒备以及火山灾害等地震事件，按照统一领导、分级负责、属地管理为主的原则，由事发地省（区、市）人民政府或以下级别地方人民政府领导地震应急工作；中国地震局协助当地人民政府开展地震应急工作。<BR>　　按照中国地震局的部署，局机关有关司室、直属单位和灾区省级及以下地震工作机构和台站根据职能分工开展地震应急工作。<BR>　　视震情和灾情等情况，中国地震局组织、调配全国地震系统力量开展中国地震局地震现场应急工作，并对地震现场应急工作实行统一管理。<BR>　　<STRONG>2&nbsp;&nbsp;组织体系<BR>　　2.1&nbsp;&nbsp;指挥机构及职责<BR></STRONG>　　中国地震局地震应急组织指挥体系由中国地震局地震应急指挥部、中国地震局地震现场指挥部或中国地震局地震现场工作组组成，指挥部或现场工作组统一领导、指挥和协调中国地震局地震应急工作。<BR>　　&nbsp;应对特别重大地震灾害事件，启动中国地震局地震应急指挥部，履行国务院抗震救灾指挥部办公室职责，成立中国地震局地震现场指挥部。<BR>　　应对重大地震灾害事件，启动中国地震局地震应急指挥部，成立中国地震局地震现场指挥部。<BR>　　应对较大地震灾害事件，视情启动中国地震局地震应急指挥部，成立中国地震局地震现场指挥部或向灾区派遣中国地震局地震现场工作组。<BR>　　应对一般地震灾害事件，视情成立中国地震局地震现场指挥部或向灾区派遣中国地震局地震现场工作组。<BR>　　2.1.1&nbsp;&nbsp;中国地震局地震应急指挥部<BR>　　（1）统一领导中国地震局地震应急工作。<BR>　　（2）向国务院报告震情和灾情等信息。<BR>　　（3）建议启动国务院抗震救灾指挥部，并履行国务院抗震救灾指挥部办公室职责。<BR>　　（4）向国务院抗震救灾指挥部汇报工作。<BR>　　（5）协调国务院有关部门紧急救援队伍参与抗震救灾行动。<BR>　　2.1.2&nbsp;&nbsp;中国地震局地震现场指挥部<BR>　　（1）统一指挥和协调中国地震局地震现场应急工作。<BR>　　（2）向中国地震局地震应急指挥部报告震情和灾情等信息。<BR>　　（3）向中国地震局地震应急指挥部汇报工作。<BR>　　（4）指挥中国地震局地震现场应急工作队、灾区省级及以下地震工作机构地震现场应急工作队和台站，根据《地震现场工作规定》开展现场应急工作，协助灾区地方人民政府做好抗震救灾工作。<BR>　　（5）协调邻省（区、市）省级地震工作机构协助灾区省级地震工作机构开展地震现场应急工作。<BR>　　2.1.3&nbsp;&nbsp;中国地震局地震现场工作组<BR>　　（1）向中国地震局报告震情和灾情等信息，并适时汇报地震现场工作组工作。<BR>　　（2）指导中国地震局地震现场应急工作队和灾区省级及以下地震工作机构地震现场应急工作队和台站，根据《地震现场工作规定》开展现场应急工作，协助灾区地方人民政府做好抗震救灾工作。<BR>　　（3）协调邻省（区、市）省级地震工作机构协助灾区省级地震工作机构开展地震现场应急工作。<BR>　　<STRONG>2.2&nbsp;&nbsp;工作机构及职责<BR></STRONG>　　2.2.1&nbsp;&nbsp;局机关司室<BR>　　（1）震灾应急救援司：提出地震应急响应级别建议；组织、协调地震现场应急各项工作；组织并审核提出灾情、社情、经济、人文和救灾等基本情况以及震害快速评估结果和辅助决策意见；汇总提出派遣各级地震现场应急工作队和调用地震灾害紧急救援队建议方案，会同有关司室具体组织派遣地震现场应急工作队并协调开展工作；组织开展现场灾害损失评估、建（构）筑物安全性鉴定和科学考察工作；就国际救援需求会同国际合作司提出建议；牵头对境内国际国内地震灾害现场的各级地震应急队伍、救援队伍、保障队伍等的活动进行协调；总结地震应急工作。<BR>　　（2）局办公室：值守地震应急；向中共中央和国务院报送派遣救援队、我国政府进行援助、中共中央和国务院向灾区发慰问电等建议；汇总、分办地震应急各类信息；向国务院报送震情、灾情、社情和救灾等信息；向有关部门、单位通报地震应急情况；管理地震事件应急工作的新闻报道。<BR>　　（3）监测预报司:&nbsp;审核提供震情和地震序列等信息；提出派遣地震现场应急工作队中监测预报人员建议方案并组织实施；根据《地震现场工作规定》，组织管理地震现场监测、震情会商、震后趋势判断和预报工作；协调灾区及其邻省（区、市）省级地震工作机构地震监测预报工作。<BR>　　（4）震害防御司：组织、协调地震现场强震观测；参与灾区地震现场建（构）筑物安全性鉴定和科学考察工作；协助灾区政府部门做好地震次生灾害预防，协同指导灾区重建工作。<BR>　　（5）国际合作司：与联合国人道主义事务协调办公室协调接受国际搜索与救援队伍来华救援事宜，并负责境内有关涉外事务的落实，涉台问题报国务院台湾事务办公室批准。<BR>　　（6）发展与财务司：负责地震应急救援经费的调整和追加申请落实工作。<BR>　　（7）其他司室：按照中国地震局地震应急指挥部的统一部署，参与地震应急工作。<BR>　　2.2.2&nbsp;&nbsp;局直属单位<BR>　　（1）中国地震应急搜救中心：派出中国地震局地震现场应急工作队，并按照《地震现场工作规定》开展现场应急工作；提供灾情、社情、抗震救灾和地震现场应急工作等信息保障；为国家地震灾害紧急救援队和中国地震局地震现场应急工作队提供信息通讯技术、装备、交通及其他物资等保障工作；参与地震现场灾害损失评估和建（构）筑物安全性鉴定；提供地震现场应急救援辅助决策建议。<BR>　　（2）中国地震台网中心：速报地震参数；及时发送地震信息短信；提供灾区社会、经济和人文等基本情况以及辅助决策意见；提出震后趋势判断的初步意见；保障信息网络的畅通和抗震救灾指挥部的正常运作；派出本单位地震现场应急工作队队员参加现场应急工作。<BR>　　（3）中国地震局机关服务中心：负责为中国地震局首脑机关应急区提供通讯、交通、安全、电力、食宿等后勤保障服务。<BR>　　（4）其他直属单位：按照中国地震局地震应急指挥部的统一部署和《地震现场工作规定》参加地震应急工作。<BR>　　2.2.3&nbsp;&nbsp;省级及以下地震工作机构和台站<BR>　　（1）灾区省级地震工作机构在省（区、市）人民政府和中国地震局领导下，按照省（区、市）抗震救灾指挥部的部署开展应急工作，向灾区省（区、市）人民政府和中国地震局报告震情、灾情、社情和震后趋势判断等信息。<BR>　　（2）派出地震现场应急工作队，按照《地震现场工作规定》开展现场应急工作。<BR>　　（3）协调省（区、市）行政区域内地震灾害救援队伍实施紧急救援。<BR>　　（4）为中国地震局地震现场指挥部和地震现场应急工作队提供保障。<BR>　　（5）其他省级地震工作机构根据中国地震局地震应急指挥部的统一调度和中国地震局地震现场指挥部、地震现场工作组的现场统一指挥、协调，参加灾区地震现场应急工作。<BR>　　（6）市（地、州、盟）、县（市、区、旗）地震工作机构和台站在本级人民政府的领导和上级地震工作机构的协调、指导下开展地震应急工作。<BR>　<STRONG>　3&nbsp;&nbsp;大陆地震灾害事件应急响应<BR>　　3.1&nbsp;&nbsp;临震应急响应<BR></STRONG>　　当省（区、市）人民政府发布地震临震预报，预报区进入临震应急期，对于预报区可能造成地震灾害、或者涉及预报区周边重要地区的临震应急时，地震部门应急响应如下：<BR>　　3.1.1&nbsp;&nbsp;中国地震局机关司室和局直属单位<BR>　　局机关司室和局直属单位根据职责落实以下工作：<BR>　　（1）向国务院报告，视情建议召开国务院防震减灾工作联席会议通报情况、部署应急准备工作。<BR>　　（2）组织、协调预报区的震情跟踪和应急准备，必要时向预报区派出震情跟踪专家小组，加强震情跟踪。<BR>　　（3）直属单位地震监测力量和应急人员根据中国地震局的调配，进入预报区加强地震监测和震情跟踪，并协助预报区省级地震工作机构对预报区重大基础设施、生命线工程和易发次生灾害源等进行应急危险评估。<BR>　　3.1.2&nbsp;&nbsp;省级及以下地震工作机构和台站<BR>　　（1）预报区省级及以下地震工作机构和台站开展强化震情跟踪、加密观测、会商，对预报区的各种基础设施、重大生命线工程和易发次生灾害源等进行危险评估和震害预测工作。<BR>　　（2）向省（区、市）人民政府和中国地震局提出备震和应急工作建议，视情协调省（区、市）行政区域内地震灾害紧急救援队伍做好紧急救援准备。<BR>　　（3）强化对预报区防震避震、自救互救等防震减灾知识的宣传。<BR>　　（4）市（地、州、盟）、县（市、区、旗）地震工作机构和台站在本级政府的领导和上级地震工作机构的协调、指导下，落实各项应急措施，做好应急准备。<BR>　　<STRONG>3.2&nbsp;&nbsp;震后应急响应<BR></STRONG>　　3.2.1&nbsp;&nbsp;应急期开始<BR>　　地震灾害事件发生后，中国地震局及所属有关单位进入应急状态，根据地震灾害事件级别，中国地震局进行应急响应，启动特别重大和重大地震灾害事件应急响应的同时，中国地震局宣布本部门震后应急期开始。<BR>　　3.2.2&nbsp;&nbsp;I级响应<BR>　　应对特别重大地震灾害事件，实施I级响应，启动中国地震局地震应急指挥部。<BR>　　3.2.2.1&nbsp;&nbsp;中国地震局机关司室和局直属单位<BR>　　局机关司室和局直属单位根据职责落实以下工作：<BR>　　（1）向国务院报告震情和灾情等信息,提请启动国务院抗震救灾指挥部；履行国务院抗震救灾指挥部办公室职责。<BR>　　（2）成立中国地震局地震现场指挥部，并向灾区派出中国地震局地震现场应急工作队开展现场应急工作。<BR>　　（3）加强震情监测、分析预报和震后趋势判断；向国务院和有关部门及时报送和续报震情和灾情等信息。<BR>　　（4）向国务院抗震救灾指挥部建议派遣国家地震灾害紧急救援队，并对地震灾害现场的各级地震应急队伍、救援队伍、保障队伍等的活动进行协调。<BR>　　（5）向国务院抗震救灾指挥部提出国际救援队伍是否来华开展救援工作的初步意见。<BR>　　（6）视情协调中国人民解放军总参谋部调用飞机进行航空遥感、航空摄影，快速获取灾情信息。<BR>　　（7）向国务院抗震救灾指挥部提出抗震救灾工作建议。<BR>　　（8）协助灾区省（区、市）人民政府做好抗震救灾和社会稳定工作。<BR>　　3.2.2.2&nbsp;&nbsp;省级及以下地震工作机构和台站<BR>　　灾区省级及以下地震工作机构须迅速启动相应应急预案并开展以下工作：<BR>　　（1）向省（区、市）人民政府和中国地震局速报地震参数。<BR>　　（2）及时向省（区、市）人民政府和中国地震局报告和续报震情、灾情、社情和震后趋势判断等信息。<BR>　　（3）向省（区、市）人民政府提请启动省（区、市）抗震救灾指挥部。成立省级地震工作机构地震应急指挥部，并履行省（区、市）抗震救灾指挥部办公室职责，为中国地震局地震现场指挥部和地震现场应急工作队提供保障。<BR>　　（4）派出省级地震工作机构地震现场应急工作队，在省（区、市）抗震救灾指挥部的领导和中国地震局地震现场指挥部的指挥下，根据《地震现场工作规定》开展地震现场应急工作；协调省（区、市）人民政府有关部门灾害救援队伍和省（区、市）行政区域内各级地震灾害紧急救援队伍实施紧急救援。<BR>　　（5）视灾区地震应急需求，其他省（区、市）省级地震工作机构根据中国地震局地震应急指挥部的统一调度和中国地震局地震现场指挥部的统一指挥、协调，帮助灾区省级地震工作机构开展现场应急工作。<BR>　　（6）市（地、州、盟）、县（市、区、旗）地震工作机构和台站服从省（区、市）抗震救灾指挥部和中国地震局地震现场指挥部的统一指挥，在省级地震工作机构的协调、指导下，开展地震应急工作。<BR>　　3.2.3&nbsp;&nbsp;Ⅱ级响应<BR>　　应对重大地震灾害事件，实施Ⅱ级响应，启动中国地震局地震应急指挥部。<BR>　　3.2.3.1&nbsp;&nbsp;中国地震局机关司室和局直属单位<BR>　　局机关司室和局直属单位根据职责落实以下工作：<BR>　　（1）向国务院报告震情和灾情等信息，在国务院领导下组织、协调地震应急工作。及时向国务院报告地震应急工作进展情况。<BR>　　（2）成立中国地震局地震现场指挥部，并向灾区派出中国地震局地震现场应急工作队开展现场应急工作。<BR>　　（3）加强震情监测、分析预报和震后趋势判断；向国务院和有关部门及时报送和续报震情和灾情等信息。<BR>　　（4）向国务院建议派遣国家地震灾害紧急救援队，并对地震灾害现场的各级地震应急队伍、救援队伍、保障队伍等的活动进行协调。<BR>　　（5）向国务院提出国际救援队伍是否来华开展救援工作的初步意见。<BR>　　（6）视情协调中国人民解放军总参谋部调用飞机进行航空遥感、航空摄影快速获取灾情信息。<BR>　　（7）向国务院提出抗震救灾工作建议。<BR>　　（8）协助灾区省（区、市）人民政府做好抗震救灾和社会稳定工作。<BR>　　3.2.3.2&nbsp;&nbsp;省级及以下地震工作机构和台站<BR>　　灾区省级及以下地震工作机构须迅速启动相应应急预案并开展以下工作：<BR>　　（1）向省（区、市）人民政府和中国地震局速报地震参数。<BR>　　（2）及时向省（区、市）人民政府和中国地震局报告和续报震情、灾情、社情和震后趋势判断等信息。<BR>　　（3）向省（区、市）人民政府提请启动省（区、市）抗震救灾指挥部。成立省级地震工作机构地震应急指挥部，并履行省（区、市）抗震救灾指挥部办公室职责，为中国地震局地震现场指挥部和地震现场应急工作队提供保障。<BR>　　（4）派出省级地震工作机构地震现场应急工作队，在省（区、市）抗震救灾指挥部的领导和中国地震局地震现场指挥部的指挥下，根据《地震现场工作规定》开展地震现场应急工作；协调省（区、市）人民政府有关部门灾害救援队伍和省（区、市）行政区域内各级地震灾害紧急救援队伍实施紧急救援。<BR>　　（5）视灾区地震应急需求，其他省（区、市）省级地震工作机构根据中国地震局地震应急指挥部的统一调度和中国地震局地震现场指挥部的统一指挥、协调，帮助灾区省级地震工作机构开展现场应急工作。<BR>　　（6）市（地、州、盟）、县（市、区、旗）地震工作机构和台站服从省（区、市）抗震救灾指挥部和中国地震局地震现场指挥部的统一指挥，在省级地震工作机构的协调、指导下，开展地震应急工作。<BR>　　3.2.4&nbsp;&nbsp;Ⅲ级响应<BR>　　应对较大地震灾害事件，实施Ⅲ级响应，视情启动中国地震局地震应急指挥部。成立中国地震局地震现场指挥部或向灾区派遣中国地震局地震现场工作组。<BR>　　3.2.4.1&nbsp;&nbsp;中国地震局机关司室和局直属单位<BR>　　局机关司室和局直属单位根据职责落实以下工作：<BR>　　（1）向国务院报告震情和灾情等信息；组织、协调地震应急工作。适时向国务院报告地震应急工作进展情况。<BR>　　（2）向灾区派出中国地震局地震现场应急工作队开展现场应急工作。<BR>　　（3）加强震情监测、分析预报和震后趋势判断。<BR>　　（4）视情向国务院建议派遣国家地震灾害紧急救援队开展救援工作。对地震灾害现场的各级地震应急队伍、救援队伍、保障队伍等的活动进行协调。<BR>　　（5）指导省级地震工作机构开展地震应急工作，协助灾区省（区、市）人民政府做好社会稳定工作。<BR>　　3.2.4.2&nbsp;&nbsp;省级及以下地震工作机构和台站<BR>　　灾区省级及以下地震工作机构须迅速启动相应应急预案并开展以下工作：<BR>　　（1）向省（区、市）人民政府和中国地震局速报地震参数，并及时报告和续报震情、灾情和震后趋势判断等信息。<BR>　　（2）成立省级地震工作机构地震应急指挥部，视情向省（区、市）人民政府提请启动省（区、市）抗震救灾指挥部，并履行指挥部办公室职责，为中国地震局地震现场指挥部和地震现场应急工作队提供保障。<BR>　　（3）派出省级地震工作机构地震现场应急工作队，在省（区、市）抗震救灾指挥部的领导和中国地震局地震现场指挥部的指挥下，根据《地震现场工作规定》开展地震现场应急工作；协调省（区、市）行政区域内各级地震灾害紧急救援队伍实施紧急救援。<BR>　　（4）视灾区地震应急需求，其他省（区、市）省级地震工作机构根据中国地震局地震现场指挥部的统一调度和指挥，帮助灾区省级地震工作机构开展现场应急工作。<BR>　　（5）市（地、州、盟）、县（市、区、旗）地震工作机构和台站服从中国地震局地震现场指挥部和省级地震工作机构地震应急指挥部的统一指挥，在省级地震工作机构的协调、指导下，开展地震应急工作。<BR>　　3.2.5&nbsp;&nbsp;Ⅳ级响应<BR>　　应对一般地震灾害事件，实施Ⅳ级响应，视情成立中国地震局地震现场指挥部或向灾区派遣中国地震局地震现场工作组。<BR>　　3.2.5.1&nbsp;&nbsp;中国地震局机关司室和局直属单位<BR>　　局机关司室和局直属单位根据职责落实以下工作：<BR>　　（1）向国务院报告震情和灾情，组织、协调地震应急工作。适时向国务院报告地震应急工作进展情况。&nbsp;<BR>　　（2）向灾区派遣地震现场应急工作队开展现场应急工作。对地震灾害现场的各级地震应急队伍、保障队伍等的活动进行协调。<BR>　　（3）加强震情监测、分析预报和震后趋势判断。<BR>　　（4）指导省级地震工作机构开展地震应急工作。<BR>　　3.2.5.2&nbsp;&nbsp;省级及以下地震工作机构和台站<BR>　　灾区省级及以下地震工作机构须迅速启动相应应急预案并开展以下工作：<BR>　　（1）向省（区、市）人民政府和中国地震局报告和续报震情、灾情和震后趋势判断等信息。<BR>　　（2）视情成立省级地震工作机构地震应急指挥部，成立省级地震工作机构地震现场指挥部，在省（区、市）人民政府的领导下，组织、协调地震应急工作，为中国地震局地震现场工作组和地震现场应急工作队提供保障。<BR>　　（3）派出省级地震工作机构地震现场应急工作队，在本部门地震应急指挥部和中国地震局地震现场工作组的领导下和中国地震局地震现场应急工作队的协调、指导下，根据《地震现场工作规定》开展地震现场应急工作；视情协调省（区、市）行政区域内各级地震灾害紧急救援队伍实施紧急救援。<BR>　　（4）视灾区地震应急需求，其他省（区、市）省级地震工作机构在中国地震局的组织、调配下，帮助灾区省级地震工作机构开展现场应急工作。<BR>　　（5）市（地、州、盟）、县（市、区、旗）地震工作机构和台站服从省级地震工作机构地震现场指挥部的统一指挥，在省级地震工作机构地震现场应急工作队的协调、指导下，开展地震应急工作。<BR>　　3.2.6&nbsp;&nbsp;提高或降低响应级别条件<BR>　　视震情、灾害程度、灾区救灾能力、人口疏密情况和社会影响等综合因素，中国地震局可提高或降低响应级别。<BR>　　3.2.7&nbsp;&nbsp;应急期结束<BR>　　中国地震局地震现场应急工作基本完成、震情形势基本趋于稳定、灾情基本得到控制、灾区生活基本恢复正常、灾区省（区、市）人民政府应急工作基本结束，中国地震局宣布本部门震后应急期结束。<BR>　　3.2.8&nbsp;&nbsp;区域联动应急响应<BR>　　当大陆地震灾害事件发生在两个或两个以上省（区、市）级行政区划交界处，或发生在某省（区、市）级行政区划边缘，但地震造成的影响或地震灾害损失波及或影响到相邻省（区、市）时，由震中所在地省（区、市）省级地震工作机构在本省（区、市）人民政府的领导下负责牵头实施区域联动应急，视情可由灾害损失较重的省（区、市）省级地震工作机构在本省（区、市）人民政府的领导下负责牵头实施区域联动应急，其它受地震灾害波及或影响的相邻省（区、市）省级地震工作机构参加区域联动应急，共同处置跨省（区、市）间的地震灾害事件。中国地震局地震现场指挥部协助牵头实施区域联动应急工作的省（区、市）人民政府进行指挥、协调。具体联动应急工作按照中国地震局组织制定的区域联动应急工作方案执行。<BR>　　<STRONG>4&nbsp;&nbsp;大陆其他地震事件应急响应<BR>　　4.1&nbsp;&nbsp;有感地震应急响应</STRONG><BR>　　当大中城市、人口较密集的城市群、大型水库、核电站等重要设施场地及其附近地区发生有感地震，但没有造成灾害，震中所在地和周边相关省（区、市）省级地震工作机构按有关速报规定，确定地震参数，进行震情会商和震后趋势判断，上报省（区、市）人民政府和中国地震局，同时向省（区、市）人民政府提出应对和处置建议，并组织实施。中国地震局收集震情与社情，提出震后趋势判断报告国务院，同时通报有关省（区、市）人民政府，中国地震局协调、指导相关省级地震工作机构开展地震应急工作，并视情派出专家组协助当地人民政府做好社会稳定工作。<BR>　　<STRONG>4.2&nbsp;&nbsp;地震谣传应急处置<BR></STRONG>　　出现地震谣传并造成社会影响时，事发地省级地震工作机构迅速调查、分析，将有关情况上报省（区、市）人民政府和中国地震局并协助当地人民政府采取有效措施平息地震谣传；中国地震局将有关情况上报国务院，并视情派出专家组协助当地人民政府做好社会稳定工作。<BR>　　<STRONG>4.3&nbsp;&nbsp;特殊时期应急戒备<BR></STRONG>　　在重大政治、社会活动期间，有关省级地震工作机构应加强震情值班、地震监测、异常上报与核实、信息报送与震情会商等工作，并将应急戒备情况上报省（区、市）人民政府和中国地震局。中国地震局进行应急戒备，加强震情值班、地震监测、震情会商等工作，确定统一的宣传口径，并将应急戒备情况适时上报国务院。<BR>　　<STRONG>5&nbsp;&nbsp;香港澳门和台湾发生地震应急响应<BR>　　5.1&nbsp;&nbsp;香港澳门特别行政区发生地震应急响应<BR></STRONG>　　香港、澳门特别行政区发生地震，以及珠江三角洲地区发生对于香港或澳门有较大影响地震，香港、澳门特别行政区周边大陆相关省级地震工作机构和中国地震局驻深圳办事处负责收集灾情，了解对港澳地区及其周边大陆相关省的受灾影响，提出震后趋势判断意见报当地人民政府和中国地震局，并根据事件影响程度采取职能范围内相应应急措施；中国地震局加强对香港、澳门特别行政区周边大陆相关省级地震工作机构和中国地震局驻深圳办事处地震应急工作的指导，并将震情、灾情上报国务院，同时抄送国务院港澳办。必要时中国地震局调配全国地震系统力量协助开展地震应急工作。<BR>　　<STRONG>5.2&nbsp;&nbsp;台湾地区发生地震应急响应<BR></STRONG>　　台湾地区及台湾海峡发生地震时，事发地邻近省份省级地震工作机构负责收集灾情，并了解对事发地邻近省份的受灾影响，提出震后趋势判断意见报当地人民政府和中国地震局；中国地震局加强对事发地邻近省份省级地震工作机构应急工作的指导，并将震情、灾情上报国务院，同时抄送国务院台办，并就大陆和国际对台开展救助工作提出建议。&nbsp;<BR>　　<STRONG>6&nbsp;&nbsp;国外震灾应急响应<BR>　　6.1&nbsp;&nbsp;毗邻震灾应急响应<BR></STRONG>　　毗邻国家发生地震，对我国境内造成影响时，相关省（区、市）省级地震工作机构启动地震应急预案，开展现场应急工作，同时将有关情况报当地人民政府和中国地震局。中国地震局视情部署和组织有关应急工作。<BR>　　<STRONG>6.2&nbsp;&nbsp;国外发生特别重大地震灾害事件应急响应<BR></STRONG>　　国外发生特别重大地震灾害事件时，中国地震局负责收集震情、灾情并向国务院报告；向国务院提出派遣中国国际救援队实施国际救援建议，并组织实施。<BR>　　<STRONG>7&nbsp;&nbsp;火山灾害应急响应</STRONG><BR>　　当火境内山喷发或出现多种强烈临喷异常现象，中国地震局派出地震与火山现场应急工作队会同当地省级地震工作机构，进行火山喷发实时监测和地球物理、地球化学监测，必要时向灾区所在县（市、区、旗）人民政府提出人口撤离或迁移建议；中国地震局收集各种情况，适时向国务院报告。<BR>　　<STRONG>8&nbsp;&nbsp;附则<BR>　　8.1&nbsp;&nbsp;总结<BR></STRONG>　　地震应急工作结束后，各级地震工作机构对应急工作进行总结，对应急预案实施情况进行评估，提出改进措施。<BR>　　<STRONG>8.2&nbsp;&nbsp;预案管理</STRONG><BR>　　8.2.1&nbsp;&nbsp;预案实施<BR>　　本预案由中国地震局制订并组织实施。<BR>　　8.2.2&nbsp;&nbsp;预案演练<BR>　　震灾应急救援司根据地震应急工作实际情况，制订演练计划，适时组织不同形式和规模的演练。<BR>　　8.2.3&nbsp;&nbsp;预案备案<BR>　　本预案报国务院备案。各省级地震工作机构和有关直属单位应制定本单位地震应急预案，报中国地震局备案。<BR>　　8.2.4&nbsp;&nbsp;预案修订<BR>　　中国地震局根据实际情况的变化，及时修订本预案。<BR>　　<STRONG>8.3&nbsp;&nbsp;预案实施时间<BR></STRONG>　　本预案自印发之日起施行。2000年制订的《中国地震局系统地震应急预案》（中震发测〔2000〕296号）同时废止。</P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

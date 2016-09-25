@@ -1,0 +1,263 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<script type="text/javascript" src="../../../../../images/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript">
+    <!-- 换cS的jS-->
+ var objs = document.getElementsByTagName("link");
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3];   
+var url = changese(chun,xia,qiu,dong);
+objs[0].href='../../../../../'+url;
+</script>
+
+
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ 
+<script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top_box">
+  <div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.eqsc.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+     
+    </div>
+    <div class="banner"><img src="../../../../../images/banner.jpg" width="982" height="170"/></div>
+    <div class="main_but">
+        
+        <ul>
+          <li class="cut"><a href="../../../../../" TARGET="_top"><img src="../../../../../images/but_index.jpg" width="68" height="38"/></a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+                    
+        <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="268" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="197"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="13">&nbsp;</td>
+              <td width="58"><img src="../../../../../images/index_01.jpg" width="67" height="21" onclick="eqscwebsearch();"/></td>
+            </tr>
+          </table>
+        </form>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.eqsc.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+        </div>
+    </div>
+      
+</div>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">视频播报</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>【科学重建·芦山新模式】地质灾害治理：钱要花在刀刃上 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '央视网';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-04-17 12:01:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-17 12:01:00&nbsp;&nbsp;&nbsp;  ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-04-17 12:01:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-17 12:01:00&nbsp;&nbsp;&nbsp; ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;" id="content">
+		<center>
+        <!-- <script type="text/javascript" language="JavaScript">
+					var swf_width=600;
+					var swf_height=400;
+					var texts='';
+					var domain = "http://220.167.54.135";//地震局门户网站ip地址
+					var url =document.location.href;
+					if(url.indexOf("http://")>-1){
+						url = url.substring(7,url.length);
+					}
+					if(url.indexOf("/")>-1){
+						url = url.substring(url.indexOf("/"),url.length);
+					}
+					
+					var flv='';
+					var flv_n='P020150417435762504345.flv';
+					if(flv==""){
+						flv = domain + url.substring(0,url.lastIndexOf("/")+1)+flv_n;
+					}
+					//flv = "./1_"+flv.substring(flv.lastIndexOf("/")+1,flv.length);
+					var hz='flv';
+					
+					//var files=url.substring(0,url.lastIndexOf("/")+1)+flv;
+					var files=flv;
+					function setflv(){
+					document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ swf_width +'" height="'+ swf_height +'">');
+					document.write('<param name="movie" value="../../../../../images/vcastr.swf"><param name="quality" value="high">');
+					document.write('<param name="menu" value="false"><param name="wmode" value="opaque">');
+					document.write('<param name="FlashVars" value="vcastr_file='+files+'&vcastr_title='+texts+'">');
+					document.write('<embed src="vcastr.swf" wmode="opaque" FlashVars="vcastr_file='+files+'&vcastr_title='+texts+'&IsAutoPlay=0" menu="false" quality="high" width="'+ swf_width +'" height="'+ swf_height +'" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">'); document.write('</object>');
+					}
+					function setswf(){
+					document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="'+ swf_width +'" height="'+ swf_height +'">');
+					document.write('<param name="movie" value="'+files+'"><param name="quality" value="high">');
+					document.write('<embed src="'+files+'" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="'+swf_width+'" height="'+swf_height+'"></embed>');
+					document.write('</object>');
+					} 
+					 
+					 
+					if(hz=="flv"){
+					 
+					setflv();
+					}
+					else if(hz=="swf"){
+					setswf();
+					}
+					 
+      </script>-->
+<div class="xlrne1">
+					<script type="text/javascript" language="JavaScript">
+					var swf_width=720;
+					var swf_height=480;
+					var texts='【科学重建·芦山新模式】地质灾害治理：钱要花在刀刃上';
+					var flv='./P020150417435762504345.flv';
+					var hz='flv';
+					var url =document.location.href;
+					var files=url.substring(0,url.lastIndexOf("/")+1)+flv;
+					function setflv(){
+					document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="'+ swf_width +'" height="'+ swf_height +'">');
+					document.write('<param name="movie" value="../../../../../images/vcastr_2015.swf"><param name="quality" value="high">');
+					document.write('<param name="menu" value="false"><param name=wmode value="opaque">');
+					document.write('<param name="FlashVars" value="vcastr_file='+files+'&vcastr_title='+texts+'">');
+					document.write('<embed src="../../../../../images/vcastr_2015.swf" wmode="opaque" FlashVars="vcastr_file='+files+'&vcastr_title='+texts+'& menu="false" quality="high" width="'+ swf_width +'" height="'+ swf_height +'" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />'); document.write('</object>');
+					}
+					function setswf(){
+					document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="'+ swf_width +'" height="'+ swf_height +'">');
+					document.write('<param name="movie" value="'+files+'"><param name="quality" value="high">');
+					document.write('<embed src="'+files+'" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="'+swf_width+'" height="'+swf_height+'"></embed>');
+					document.write('</object>');
+					} 
+					 
+					 
+					if(hz=="flv"){
+					 
+					setflv();
+					}
+					else if(hz=="swf"){
+					setswf();
+					}
+					else{
+					alert("视频格式不支持");
+					}
+      </script>
+
+					</div>
+ 	  </center>
+				  <div style="display:none">
+				     <a href="./t20150417_32828.html"><img src="./W020150417435782180530.jpg" alt="视频截图2.jpg"/></a>
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class="" p_bottomline"></div>
+      <div class="" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>

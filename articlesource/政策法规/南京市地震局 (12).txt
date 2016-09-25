@@ -1,0 +1,546 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../images/style(2).css">
+<SCRIPT src="../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17863';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>政策法规</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>部门规章</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>地震行政规章制定程序规定</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2000-03-01</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_988396"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=988396"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <p align="left">地震行政规章制定程序规定 <br> 
+  中国地震局令 第6号 <br> 
+  《地震行政规章制定程序规定》，已于2000年1月18日经中国地震局局务会议通过，现予发布，自2000年3月1日起施行。 <br> 
+  局 长 陈章立<br> 
+  2000年1月18日 <br> 
+  ---------------------------------------------------------------------<br> 
+  ----- 第一章 总 则 <br> 
+  第一条 为了保证制定地震行政规章科学化、规范化，提高质量，根据有关法律、法规，制定本规定。 <br> 
+  第二条本规定所称规章，是指由中国地震局或者中国地震局会同国务院有关部门，根据有关法律、法规，在职权范围内制定的，调整防震减灾活动的社会关系，具有普遍约束力的行为规范的总和。规章由中国地震局局长签署中国地震局令发布。以中国地震局令以外形式发布的其他规范性文件、政策性文件、内部工作规则和不具有普遍约束力的文件不属于地震行政规章。 <br> 
+  第三条 地震行政规章按内容不同，称为“规定”、“办法”或者“实施细则”。 对某一方面的行政管理关系作比较全面、系统的规范，称“规定”。 <br> 
+  对某一项行政管理关系作比较具体的规范，称“办法”。 <br> 
+  对国务院行政法规所作的具体实施规范，称为“实施细则”。 <br> 
+  第四条 地震行政规章的起草、审议、发布、修改、废止和解释，应当依照本规定。 <br> 
+  第五条 中国地震局法规司负责管理地震行政规章制定的组织、协调等工作。 <br> 
+  第二章 规章制定规划和计划 <br> 
+  第六条中国地震局法规司根据国家防震减灾事业发展和管理工作的需要，在广泛调研论证的基础上拟订规章制定规划，报局务会议审定实施。中国地震局法规司，根据规章制定规划，结合全局工作部署，拟订规章制定计划，所局长办公会议审定实施。规章制定规划的年限一般为五年，规章制定计划的年限一般为一年。 <br> 
+  第七条规章制定规划、计划的制定和实施，应当与防震减灾法律体系建设相一致，保证立法工作的严肃性、连续性。 <br> 
+  第八条 规章制定计划、计划的调整，应当由法规司提出，报局长办公会议审定。 <br> 
+  第九条 法规司负责规章制定规划、计划实施的组织和监督执行工作。 <br> 
+  第三章 规章的起草 <br> 
+  第十条已列入年度计划的规章由业务主管司（室）负责起草。规章内容涉及两个别以上司（室）工作的，组成起草组，由主要业务司（室）负责牵头，有关司（室）参加起草工作。法规司在规章起草中进行立法指导，重要的规章可以由法规司直接负责或者会同有关司（室）起草。 <br> 
+  第十一条 起草规章包括规章草案和起草说明。 <br> 
+  规章草案的具体内容一般应当包括：制定的宗旨、依据、适用范围、基本原则、管理机关、实体内容、执行程序、奖励办法和旅行日期等。 <br> 
+  起草说明的内容主要包括：制定的目的和依据、立法指导思想和原则、起草过程、需要解释的政策界限和有关问题等。 <br> 
+  第十二条规章的内容分条文书写，冠以“第某条”字样，每条应当包含一项规则，可以分设款、项、目。款不冠数字，项冠以（一）、（二）、（三）等数字，目冠以1、2、3等数字。条、款、项、目均应当另起一行缩进二字书写。规章内容繁杂或者条文较多的，可以分章、节。必要时，可以有目录、注释、附录、附表、索引等附加部分。 <br> 
+  第十三条 规章应当结构严谨、条理清晰、概念明确、文字简炼规范、标点正确。 <br> 
+  第十四条起草规章，应当征求有关单位及专家的意见，对于涉及其他司室主管的业务或者与其他部门关系密切的规定，应当与有关部门协商一致。经过充分协商不能取得一致意见的，应当附有关情况的说明。 <br> 
+  第十五条起草规章，应当注意与有关行政法规、规章的衔接和协调。对同一事项，如果作出与别的行政法规、规章不相一致的规定，应当在上报规章草案时专门提出并说明情况和理由。 <br> 
+  第十六条起草规章，应当对现行内容相同的规章进行清理。如果现行的规章将被起草的规章所代替，必须在草案中写明予以废止。 <br> 
+  第四章 规章的审定 <br> 
+  第十七条 规章草案定稿后，由起草单位领导签署送审报告，将送审稿、起草说明一并送法规司审查。在审查中，有下列情况之一的，由起草单位予以修改： <br> 
+  （一）体例和结构不符合本规定第十一条、第十二条和第十三条要求的； <br> 
+  （二）意见分歧大，需要作较大调整的； <br> 
+  （三）内容与法律、行政法规相抵触的； <br> 
+  （四）条文内容不明确，适用性、可操作性差的。 <br> 
+  第十八条规章草案，经法规司审查后，由法规司提出审议报告，报送主管副局长批准后，按程序提交局务会议审议。 <br> 
+  第十九条规章草案应当经局务会议审议通过。内容简单或者专业性较强的规章，局长或者主管副局长认为必要的，也可由局长或者有关别局长传阅审批。 <br> 
+  第二十条局务会议审议法规、规章草案时，负责起草工作部门的负责人作起草说明，法规司负责人作审查说明。对局务会议提出重大问题或者需要作大量修改的规章草案，须经起草部门论证、修改后，再次提交局务会审定。 <br> 
+  第五章 规章的发布 <br> 
+  第二十一条 规章草案经审定后，由法规司负责起草中国地震局令，统一编号，报局长签署发布。 <br> 
+  第二十二条规章发布令应当包括发布机关、序号、规章名称、通过形式、通过日期、生效日期和签署人等项内容。 <br> 
+  第二十三条 规章明确规定自发布之日起施行的，自发布之日起发生效力。规章有特定施行日期的，自该特定日期起发生效力。规章有特定施行区域的，在该特定区域内具有效力。 <br> 
+  第二十四条 经中国地震局局长签署中国地震局令发布的规章，全文刊登于《国务院公报》。在国务院公报上刊登的规章文本，为标准文本。 <br> 
+  第六章 规章的修改和废止 <br> 
+  第二十五条境 规章的修改包括修订和修正。对规章进行全面修改，应当采取修订的形式。规章因下列情况之一需要修改的，应当采取修正的形式： <br> 
+  （一）基于政策或者事实的需要，有必要增减内容的； <br> 
+  （二）因有关法律、行政法规的修正或者废止而应当作相应修正的； <br> 
+  （三）规定的主管机关或者执行机关发生变更的； <br> 
+  （四）同一事项在两个以上的规章中予以规定，且不相一致的； <br> 
+  （五）其他需要修改的情况。 <br> 
+  规章修改，应当遵循本规定有关规章起草和审议的程序规定。规章的某一项规定适用其他规章规定的，其他规章修正后，适用修正后的规章。 <br> 
+  第二十六条 规章有下列情况之一的，应当予以废止： <br> 
+  （一）规定的事项已经执行完毕，或者因情况变更，无继续施行必要的； <br> 
+  （二）因有关法律、行政法规的废止或者修正，失去立法依据的； <br> 
+  （三）同一事项已由新规章规定，并发布施行的。 <br> 
+  第二十七条规章的修改或者废止，应当给予法规司审查，报局务会议通过后，由局长签署中国地震局令予以颂。但因第二十六第三项原因废止的规章除外。依前款程序废止的规章，自废止令发布之日起失效。 <br> 
+  第二十八条规章规定有施行期限的，期满自行废止。主管司（室）认为需要延长的，应当于期限届满3个月前报送局务会议审议。延长规章的施行期限批准后，由局长签署发布，予以公告。 <br> 
+  第七章 规章的备案和解释 <br> 
+  第二十九条 规章自中国地震局令发布之日起30日内，由法规司负责报送国务院备案。 <br> 
+  第三十条各省、自治区、直辖市人民政府负责管理地震工作的部门关于规章具体应用的请示，由法规司负责以书面形式进行解释。解释内容由法规司会同有关司（室）商定起草，经局长或者主管副局长审定签发生效。 <br> 
+  第八章 附 则 <br> 
+  第三十一条国务院立法规划和计划规定由中国地震局负责的法律、行政法规草案的起草工作，由法规司负责组织。 <br> 
+  第三十二条《地震行政法制监督规定》第十四条规定的由中国地震局制定的规范性文件，应当经法规司审查会签后，提请主管局长签发。 <br> 
+  第三十三条 防震减灾法律、行政法规和规章的汇编工作，由法规司负责。 第三十四条 本规定自2000年3月1日起施行。1989年8月10日原国家地震局颁布的《关于行政法规制定的暂行办法》同时废止。 </p>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17863';var __$contentid='988396';var __$title='地震行政规章制定程序规定';var __$AuthorPh='';var __$Editor='';var __$Liability='Administrator';var __$pubtime='2000-03-01 00:00:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

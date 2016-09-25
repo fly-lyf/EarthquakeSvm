@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">公开事项</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n111/index.html" class="now" target="_parent" title="政府采购公告"><span>政府采购公告</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/index.html" target="_parent" title="采购结果公示"><span>采购结果公示</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../../../index.html">政务公开</A> &gt; <A class=black-y-text HREF="../../index.html">政府采购公开事项</A> &gt; <A class=black-y-text HREF="../index.html">公开事项</A> &gt; <A class=black-y-text HREF="index.html">政府采购公告</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>政府采购公告</h2>
+            </div>
+            <ul class="listTxt">
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/326994?target=xq" title="上海市地震局崇明地震台专用设备采购项目（GDC-20151204145426994）网上竞价公告">上海市地震局崇明地震台专用设备采购项目（GDC-20151204145...</a><span>2015-12-28</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/324505?target=xq" title="上海市地震局监测中心甚宽频地震计采购项目（GDC-20151123170524505）网上竞价公告">上海市地震局监测中心甚宽频地震计采购项目（GDC-2015112317...</a><span>2015-12-28</span></li>
+               
+                
+                <li><a href="http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/201511/t20151110_6113275.htm" title="关于佘山地震基准台弱电系统工程的磋商公告（第二次）">关于佘山地震基准台弱电系统工程的磋商公告（第二次）</a><span>2015-11-24</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/316914?target=xq" title="上海市地震局NETAPP存储设备采购项目（GDC-20151014155216914）网上竞价公告">上海市地震局NETAPP存储设备采购项目（GDC-2015101415...</a><span>2015-11-24</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/315401?target=xq" title="上海市地震局震防中心戴尔显示器采购项目（GDC-20150929111815401）网上竞价公告">上海市地震局震防中心戴尔显示器采购项目（GDC-20150929111...</a><span>2015-11-24</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/314730?target=xq" title="上海市地震局震防中心显示器采购项目（GDC-20150923102014730）网上竞价公告">上海市地震局震防中心显示器采购项目（GDC-2015092310201...</a><span>2015-11-24</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/313425?target=xq" title="上海市地震局监测中心震防中心刀片服务器采购项目（GDC-20150914170613425）网上竞价公告">上海市地震局监测中心震防中心刀片服务器采购项目（GDC-2015091...</a><span>2015-11-24</span></li>
+               
+                
+                <li><a href="http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/201510/t20151027_6042796.htm" title="关于佘山地震基准台弱电系统工程的磋商公告">关于佘山地震基准台弱电系统工程的磋商公告</a><span>2015-10-30</span></li>
+               
+                
+                <li><a href="http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/201510/t20151027_6042807.htm" title="关于佘山地震基准台环境改造工程的磋商公告">关于佘山地震基准台环境改造工程的磋商公告</a><span>2015-10-30</span></li>
+               
+                
+ 
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n111/u1ai6812.html" title="佘山地震基准台办公楼整体装修项目招标公告">佘山地震基准台办公楼整体装修项目招标公告</a><span>2015-09-17</span></li>
+                
+                <li><a href="http://www.ccgp.gov.cn/cggg/dfgg/qtgg/201507/t20150722_5598724.htm" title="上海市地震局数据云系统维保项目竞争性磋商公告">上海市地震局数据云系统维保项目竞争性磋商公告</a><span>2015-09-17</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/312392?target=xq" title="上海市地震局震防中心及监测中心刀片服务器采购项目（GDC-20150907122612392）网上竞价公告">上海市地震局震防中心及监测中心刀片服务器采购项目（GDC-201509...</a><span>2015-09-17</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/311562?target=xq" title="上海市地震局监测中心及震防中心服务器采购项目（GDC-20150828163611562）网上竞价公告">上海市地震局监测中心及震防中心服务器采购项目（GDC-20150828...</a><span>2015-09-17</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/311469?target=xq" title="上海市地震局保障中心监测中心千兆交换机采购项目（GDC-20150828100211469）网上竞价公告">上海市地震局保障中心监测中心千兆交换机采购项目（GDC-2015082...</a><span>2015-09-17</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/310537?target=xq" title="上海市地震局监测中心保障中心千兆交换机采购项目（GDC-20150821094110537）网上竞价公告">上海市地震局监测中心保障中心千兆交换机采购项目（GDC-2015082...</a><span>2015-09-17</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/308714?target=xq" title="上海市地震局崇明地震台电磁扰动仪及大地电场仪采购项目（GDC-20150806150008714）网上竞价公告">上海市地震局崇明地震台电磁扰动仪及大地电场仪采购项目（GDC-2015...</a><span>2015-09-17</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/308259?target=xq" title="上海市地震局震防中心高速扫描仪采购项目（GDC-20150804095208259）网上竞价公告">上海市地震局震防中心高速扫描仪采购项目（GDC-20150804095...</a><span>2015-09-17</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/307896?target=xq" title="上海市地震局崇明地震台大地电场仪及电磁扰动仪采购项目（GDC-20150731105407896）网上竞价公告">上海市地震局崇明地震台大地电场仪及电磁扰动仪采购项目（GDC-2015...</a><span>2015-09-17</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/306851?target=xq" title="上海市地震局震防中心扫描仪采购项目（GDC-20150723162606851）网上竞价公告">上海市地震局震防中心扫描仪采购项目（GDC-2015072316260...</a><span>2015-09-17</span></li>
+               
+                
+                <li><a href="http://www.zycg.gov.cn/article/wsjj_show/306559?target=xq" title="上海市地震局震防中心监测中心服务器采购项目（GDC-20150722112206559）网上竞价公告">上海市地震局震防中心监测中心服务器采购项目（GDC-201507221...</a><span>2015-09-17</span></li>
+               
+                
+            </ul>
+            <div class="page">
+<font color=gray>首页 </font><font color=gray> 上一页 </font><A class=text-1 HREF="/gb\dzj/zwgk/n107/n109/n111/index1.html"> 下一页 </A><A  HREF=index1.html> 尾页 </A>
+                <span>第1页&nbsp;共2页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

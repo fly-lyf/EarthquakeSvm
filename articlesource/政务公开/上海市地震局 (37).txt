@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">公开事项</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/zwgk/n107/n109/n111/index.html" class="now" target="_parent" title="政府采购公告"><span>政府采购公告</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/zwgk/n107/n109/n112/index.html" target="_parent" title="采购结果公示"><span>采购结果公示</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../../../index.html">政务公开</A> &gt; <A class=black-y-text HREF="../../index.html">政府采购公开事项</A> &gt; <A class=black-y-text HREF="../index.html">公开事项</A> &gt; <A class=black-y-text HREF="index.html">政府采购公告</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">佘山地震基准台办公楼整体装修项目招标公告<span>发布时间：2015-09-17</span></div>
+                <p><p align="center">
+	&nbsp;</p>
+<p align="center">
+	<img align="middle" alt="图像" src="/uploads/month_1509/20150918090204211.png" title="图像" wdimgid="image_402" /></p>
+<p align="center">
+	<img align="middle" alt="图像" src="/uploads/month_1509/201509180902046274.png" title="图像" wdimgid="image_403" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

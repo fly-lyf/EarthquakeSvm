@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局党员参观淞沪抗战纪念馆<span>发布时间：2015-10-10</span></div>
+                <p><p style="text-align: center">
+	<strong>缅怀先烈 勿忘历史</strong></p>
+<p>
+	　　作为我局纪念抗日战争胜利70周年系列活动之一，10月8日，机关党委组织全局党员和入党积极分子集中参观了淞沪抗战纪念馆，铭记历史，缅怀先烈。</p>
+<p>
+	　　淞沪抗战纪念馆全面反映了&ldquo;一&bull;二八&rdquo;、 &ldquo;八&bull;一三&rdquo;两次淞沪抗战和上海人民14年抗日斗争史实，主要有介绍淞沪抗战历史的《抗日战争与上海》陈列；运用多媒体影视合成等高科技手段，以场景与文物紧密结合为特点的《血沃淞沪---淞沪抗战史事掇英》陈列；以翔实的图片与文物为基础的《上海郊县抗日武装斗争大型图片展》、《日军在上海的暴行》陈列等。通过参观和讲解，我局党员再次感受到了当年侵华日军的残暴和无耻，也被先烈们的英勇无畏所震撼，更认识到如今的安定和平来之不易，应该倍加珍惜。本次活动，让我局党员职工再次受到了深刻的爱国主义教育，激励大家铭记历史，珍爱和平。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1510/201510191007344172.jpg" title="图像" wdimgid="image_415" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1510/201510191013009364.jpg" title="图像" wdimgid="image_417" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1510/201510191007354380.jpg" title="图像" wdimgid="image_416" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

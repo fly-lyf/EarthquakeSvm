@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">欢歌笑语颂党恩 重温誓词迎七一<span>发布时间：2015-07-02</span></div>
+                <p><p>
+	　　6月30日下午，我局全体职工共聚一堂，热烈庆祝中国共产党94周年华诞。局党组书记、局长吴建春同志在开场致词中回顾了我们党94年的光辉历程，并针对建设地震安全城市的总体工作目标对全体党员提出了殷切希望。</p>
+<p>
+	　　整场庆祝活动分文艺表演、党的知识问答和重温入党誓词三项内容。其中，文艺节目主要由各党支部选送，节目形式丰富多彩，涵盖独唱、合唱、配乐诗朗诵、小品和舞蹈等，节目内容紧扣歌颂党和祖国、为民服务、发扬行业精神等主题。现场高潮迭起，精彩纷呈，大家在欢歌笑语中抒发了爱国爱党的情怀，坚定了紧跟党走发展事业的决心，共同憧憬防震减灾事业的美好未来。党的知识问答穿插在各个节目之间进行，由各党支部选派代表参与，在一问一答中帮助全体党员重新温习了党章、党史和党的治国理念等知识。重温入党誓词环节把会场气氛推向了最高潮，几位老党员坚持要参加这个庄严的环节，其对党无限的忠诚感染了在场的每一位职工。</p>
+<p>
+	　　整场活动在全体合唱国歌声中拉开序幕，又在第一党支部合唱《没有共产党，就没有新中国》的慷慨激昂的歌声里落下帷幕，对党的热爱、对党的信念在每个人的心中激荡，深深回味，永不停息。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507020507253342.jpg" title="图像" wdimgid="image_351" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507020507267769.jpg" title="图像" wdimgid="image_352" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507020445069754.jpg" title="图像" wdimgid="image_345" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507020447514247.jpg" title="图像" wdimgid="image_346" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/20150702044817626.jpg" title="图像" wdimgid="image_347" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507020458224247.jpg" title="图像" wdimgid="image_349" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

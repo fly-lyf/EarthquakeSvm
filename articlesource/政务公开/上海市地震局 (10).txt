@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">政务公开</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/zwgk/jggk/index.html" class="now" target="_parent" title="机构概况"><span>机构概况</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/zwgk/ldjj/index.html" target="_parent" title="领导简介"><span>领导简介</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/jdsj/index.html" target="_parent" title="局大事记"><span>局大事记</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/xxgk/index.html" target="_parent" title="政府信息公开"><span>政府信息公开</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/xxgkzn/index.html" target="_parent" title="政府信息公开指南"><span>政府信息公开指南</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/ysqgk/index.html" target="_parent" title="依申请公开"><span>依申请公开</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/tzgg/index.html" target="_parent" title="通知公告"><span>通知公告</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/n107/index.html" target="_parent" title="政府采购公开事项"><span>政府采购公开事项</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">政务公开</A> &gt; <A class=black-y-text HREF="index.html">机构概况</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">机构概况<span>发布时间：2015-09-08</span></div>
+                <p><p>
+	<strong>　　机构简介</strong></p>
+<p>
+	　　上海市地震局在中国地震局和上海市人民政府的领导下，依照《中华人民共和国防震减灾法》等有关法律、法规，承担着上海市行政区范围内的地震监测预报、地震灾害预防和地震紧急救援等政府行政管理职能和各区、县防震减灾的指导工作。</p>
+<p>
+	　　近年来，上海市地震局狠抓地震监测预报设施的更新改造，建成了数字地震观测网、地震前兆观测网、强震观测网、地震信息通信网和地震应急指挥系统，率先建成了世界先进、全国第一个宽频带地震台阵，进一步提高了地震监测预报能力，为实现上海市防震减灾战略目标打下了坚实基础。</p>
+<p>
+	　　上海市地震局还在地震监测预报、地球动力学、地震工程、模糊地震学、地球信息系统、传感技术、人工智能与专家系统以及城市隐伏断层勘查等领域开展了广泛深入地研究，有五十多项成果荣获国家或省、部级科技进步奖，推进了防震减灾科技进步。同时在建设工程场地地震安全性评价、工程地质勘探以及核电站地震监控系统开发与研制等方面也取得了可喜的成绩。</p>
+<p>
+	　<strong>　机构沿革</strong></p>
+<p>
+	　　上海是我国乃至世界较早开展地震观测的基地之一。1872年，法国天主教耶稣会神父在徐家汇创建观象台，1874年开始地磁观测，1904年又增加地震观测，1932年迁往佘山观象台继续观测。1950年，中国科学院华东办事处会同中国科学院地球物理所、紫金山天文台接管了徐家汇观象台和佘山观象台。佘山观象台的地震、地磁观测工作由中国科学院地球物理所领导。</p>
+<p>
+	　　1972年1月，佘山观象台划归中国科学院上海天文台领导，并于1973年成立上海天文台地震观测预报研究室。</p>
+<p>
+	　　1974年根据国务院（74）69号文件精神决定成立上海市地震办公室。1975年2月1日组成上海市地震办公室领导班子，地点设在中国科学院上海天文台内。</p>
+<p>
+	　　1976年7月的唐山大地震发生后，上海地震工作得到了进一步发展。同年8月21日成立上海市地震办公室领导小组。10月初，上海市地震办公室从上海天文台迁出。</p>
+<p>
+	　　1977年2月上海市地震办公室建立党委。</p>
+<p>
+	　　1978年9月上海市地震办公室迁至今兰溪路87号。</p>
+<p>
+	　　1979年4月25日，上海市地震局在原上海市地震办公室的基础上成立，并建立党组。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" class="now" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">应急救援</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局应急指挥项目工程通过验收<span>发布时间：2008-07-30</span></div>
+                <p><div align="center"><strong>我局应急指挥项目工程通过验收</strong></div>
+<div>&nbsp;</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12月22日至23日，中国地震局震灾应急救援司在南京组织召开了江苏、上海、黑龙江、浙江、西藏、青海、新疆等七省市数字地震观测网络项目应急指挥分项工程验收会。中国地震局原党组成员、纪检组长李友博研究员，震灾应急救援司苗崇刚副司长出席了会议，王建军副局长带领上海局有关项目建设人员参加验收会。 </div>
+<div>　　开幕式由震灾应急救援司应急协调处侯建盛处长主持，我局朱元清副局长和其它五省局领导，通过各局的远程视频会议系统和江苏局应急指挥大厅会议系统的联接参加了开幕式。江苏局丁仁杰局长在开幕式上致欢迎辞，中国地震局苗崇刚副司长作了重要讲话。</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 应急指挥分项综合程度高，软件模型量大、数据量大，这次验收，既是前阶段各单位应急分项建设工作的总结和阶段性成果展示，也是今后工作的新起点。这一项目工程的建成，使地震部门承担的抗震救灾指挥部工作有了技术依托，也使各省市政府开展地震应急指挥、震情快速处置具备了有效的支撑平台，将显著提升各省市的地震应急指挥和公共安全应急指挥能力。</div>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 会议中，验收专家组听取了各单位地震应急指挥技术系统项目建设的执行情况报告和专家组的测试报告，通过现场测试和远程链接检查了各省市地震应急指挥技术系统的联动和其它相关功能，并通过随机设定地震事件检验了系统功能的实战性。专家组经过全面考评和质询，对包括上海局在内的七省市应急指挥分项工程形成了具体的验收意见，并一致同意通过验收。<span><span>&nbsp;&nbsp;&nbsp; </span></span><strong>&nbsp;</strong></div>
+<div align="right">宋治平<span><span>&nbsp;&nbsp; 黄金贵</span></span></div>
+<div align="center"><span><span><img height="508" alt="" width="700" src="http://web.sbsn.net/resource/042.jpg" /></span></span></div>
+<div align="center"><span><span></span></span></div>
+<div align="center"><span><span><img height="497" alt="" width="700" src="http://web.sbsn.net/resource/044.jpg" /></span></span></div></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

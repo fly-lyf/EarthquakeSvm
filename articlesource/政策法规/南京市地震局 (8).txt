@@ -1,0 +1,695 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../../images/style(2).css">
+<SCRIPT src="../../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55215';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../../" class='wz CurrChnlCls'>政策法规</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>政策文件</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>国家、省相关文件</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>关于加强建设工程抗震设防要求管理工作的意见</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2009-10-03</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_3035814"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=3035814"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <DIV align=center><B>关于加强建设工程</B></DIV>
+<DIV align=center><B>抗震设防要求管理工作的意见</B></DIV>
+<DIV align=center><B>&nbsp;</B></DIV>
+<DIV><B>驻宁工程设计企业</B><B>、各有关单位、各审图中心：</B><B></B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为贯彻执行新修订的《中华人民共和国防震减灾法》，<A name=OLE_LINK5>进一步加强本市建设工程的抗震设防管理工作，保护人民群众生命财产安全，</A>结合本市工程建设的实际情况，提出如下实施意见。</DIV>
+<DIV><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 一、抗震设防要求 </B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; 新建、扩建、改建建设工程应达到抗震设防要求，必须严格执行有关建设工程的强制性标准。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; 重大建设工程和可能发生严重次生灾害的建设工程必须按照审定的地震安全性评价结果确定抗震设防要求，须进行地震安全性评价的建设工程范围执行宁发改投资字<A name=OLE_LINK6><B>〔2006〕</B>892</A>号文（附件1）。</DIV>
+<DIV align=left>&nbsp;&nbsp;&nbsp;&nbsp; 对学校、医院等人员密集场所的建设工程抗震设防要求应当执行现行的工程建设标准，按不低于重点设防类标准执行。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>二、地震安全性评价流程</B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; 凡须进行地震安全性评价的工程，建设单位在可行性研究阶段或委托建设工程设计前，应到市地震局办理登记手续（附件2），市地震局核定地震安全性评价等级并出具指导意见书，建设单位按指导意见书开展地震安全性评价工作。</DIV>
+<DIV><B>&nbsp;&nbsp;&nbsp;&nbsp; 三、建设单位全程负责制</B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; 建设单位对抗震设计、施工、监理、选材等全过程负责，不得明示或暗示降低抗震设防标准或不进行抗震设防。任何单位和个人有权举报不进行抗震设防或降低设防标准的行为。<B></B></DIV>
+<DIV><B>&nbsp;&nbsp;&nbsp;&nbsp; 四、设计终身负责制</B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; 依据“谁设计、谁负责”的原则实行责任终身追究，设计人员应依法进行抗震设计。凡须进行而未进行地震安全性评价的工程，需告知建设单位按规定程序确定抗震设防要求。凡已进行地震安全性评价的工程，应按审定的抗震设防要求进行设计。设计单位应对抗震设计质量以及设计文件的准确性负责。</DIV>
+<DIV><B>&nbsp;&nbsp;&nbsp;&nbsp; 五、抗震设防信息交流制</B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; 对应进行而未进行地震安全性评价工程项目，建设部门在初步设计审查、抗震设计审查等环节需将有关信息（附件2）告知同级地震管理部门,地震管理部门应依法要求建设单位整改并进行跟踪管理，设计部门及相关单位应当予以协助。</DIV>
+<DIV><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 六、法律责任追究制</B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 应进行而未进行地震安全性评价，或者已进行而未按照地震安全性评价报告所确定的抗震设防要求进行设防的，将依据《中华人民共和国防震减灾法》第八十七条的规定进行处罚。</DIV>
+<DIV><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 七、</B>本文自公布之日起30日后正式实施。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><B>附件：</B>1.《南京市须进行地震安全性评价的建设工程范围（试行）》宁发改投资字<B>〔2006〕</B>892号文</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.建设工程基本情况登记表</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 南京市建设委员会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 南京市地震局</DIV>
+<DIV><B>&nbsp;</B></DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 二○○九年八月三十一日</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<TABLE cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD vAlign=top width=604>
+<DIV>主题词：意见 工程 安全 抗震设防 管理 </DIV></TD></TR></TBODY></TABLE>
+<DIV>抄送：市人民政府、市政府法制办、市监察局、市科技局。</DIV>
+<DIV>南京市建设委员会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2009年9 月3 日印发 </DIV>
+<DIV>（共印200份）</DIV><BR clear=all>
+<DIV>附件1：</DIV>
+<DIV align=center><B>《南京市须进行地震安全性评价的建设工程范围（试行）》</B></DIV>
+<DIV align=center><B>宁发改投资字〔2006〕892号</B></DIV>
+<DIV align=center><B>&nbsp;</B></DIV>
+<DIV>为进一步完善本市重大建设工程和可能发生严重次生灾害建设工程的抗震设防要求管理，保护人民生命财产安全，减少城市安全隐患，根据相关法律、法规和省地震局、省发展计划委员会、建设厅联合印发的《关于印发江苏省须进行地震安全性评价的建设工程范围的通知》（苏震发[2001]248号）的规定，结合本地实际，对南京市范围内须进行地震安全性评价的建设工程范围调整细化如下：</DIV>
+<DIV><B>一、市政公用工程</B></DIV>
+<DIV>1、投资超过5亿元以上的隧道工程；</DIV>
+<DIV>2、城市轨道快速交通（地铁及轻轨工程）；</DIV>
+<DIV>3、多孔跨径大于等于100米或者单孔跨径大于等于40米的城市桥梁；</DIV>
+<DIV>4、施工面积大于等于10万平方米的城市道路工程；</DIV>
+<DIV>5、20万吨／日的供水工程和10万吨／日以上污水处理工程；</DIV>
+<DIV>6、总存储容积1000立方米以上液化气贮存罐站、供气规模15万立方米／日以上的燃气工程；</DIV>
+<DIV><B>二、工业与民用建筑</B></DIV>
+<DIV>1、按照《建筑抗震设防分类标准》(GB50223—95)划归为甲类抗震设防等级的建筑工程；</DIV>
+<DIV>2、200千瓦以上广播发射台、省级广播电视中心、200米以上的电视发射塔；</DIV>
+<DIV>3、省、市中心电信枢纽建筑；邮政枢纽；</DIV>
+<DIV>4、县级以上急救中心的指挥、通信、运输系统的重要建筑和疾病预防与控制中心的主要建筑；玄武区、白下区、秦淮区、建邺区、鼓楼区、栖霞区、下关区和雨花台区范围内总床位500张以上医院的住院楼、医技楼、门诊楼，其它区、县范围内总床位200张以上医院的住院楼、医技楼、门诊楼；</DIV>
+<DIV>5、6000座以上（含6000座）体育馆（中心）、40000座以上（含40000座）体育场、设计容纳人数5000人以上的展览馆、1200座以上（含1200座）的影剧院及娱乐中心、存放国家一、二级重要珍贵文物博物馆；</DIV>
+<DIV>6、高度100米以上（含100米）的建筑；</DIV>
+<DIV>7、铁路干线上大型站的候车室和枢纽的主要用房。</DIV>
+<DIV><B>三、可能发生严重次生灾害的工程</B></DIV>
+<DIV>1、易燃、易爆、易腐蚀、易污染物质的大中型实验、检验、生产和贮存、仓储等工程，以及研究、中试生产和存放剧毒生物制品和天然人工细菌与病毒（如鼠疫、霍乱、伤寒等）建筑；</DIV>
+<DIV>2、大中型炼油、化工及石油化工、化纤等工程。</DIV>
+<DIV><B>四、工程交通运输</B></DIV>
+<DIV>1、500米以上隧道、高速公路、公路干线上的特大桥；</DIV>
+<DIV>2、铁路干线上的特大桥梁；</DIV>
+<DIV>3、干线机场及其主要建筑；</DIV>
+<DIV>4、2万吨级以上的港口、码头；</DIV>
+<DIV><B>五、能源水利</B></DIV>
+<DIV>1、单机容量30万千瓦以上或规划容量80万千瓦以上的火力发电厂和装机容量20万千瓦以上的水电站；300千伏以上的变电站；</DIV>
+<DIV>2、省、市电力调度中心大楼；</DIV>
+<DIV>3、区域性输油、输气管道；</DIV>
+<DIV>4、大型水利枢纽，位于市区内或上游的I级挡水坝(堤防)，重要泄洪闸、节制闸(I级)；</DIV>
+<DIV>5、城区大型供热主体工程。</DIV>
+<DIV><B>六、核工程及军事工程</B></DIV>
+<DIV>1、核电站、核反应堆、核供热装置、核废料处理工程；</DIV>
+<DIV>2、重要军事工程、各级人防指挥中心。</DIV>
+<DIV><B>七、其他工程</B></DIV>
+<DIV>1、位于地震动峰值加速度区划分区界线附近两侧各4公里内的下列建设工程：</DIV>
+<DIV>（1）高度达到或者超过80米的；</DIV>
+<DIV>（2）建筑面积达到或者超过2万平方米的；</DIV>
+<DIV>（3）基本建设投资总额达到或者超过3000万元的。</DIV>
+<DIV>2、按照法律、法规规定应当进行地震安全性评价的其它建设工程。</DIV><BR clear=all>
+<DIV><A name=OLE_LINK1>附件2：</A><A name=OLE_LINK3></A><B>申报服务表格：</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B><B>&nbsp;</B><B>编号：</B><B></B></DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center><B>建设工程基本情况登记表</B></DIV>
+<DIV align=center><B>&nbsp;</B></DIV>
+<DIV align=center>
+<TABLE cellSpacing=0 cellPadding=0 border=1>
+<TBODY>
+<TR>
+<TD width=118>
+<DIV align=center>建设单位名称</DIV></TD>
+<TD width=430 colSpan=6>
+<DIV align=center><B>&nbsp;</B></DIV></TD></TR>
+<TR>
+<TD width=118>
+<DIV align=center>单 位 地 址</DIV></TD>
+<TD width=218 colSpan=3>
+<DIV align=center><B>&nbsp;</B></DIV></TD>
+<TD width=119>
+<DIV align=center>邮&nbsp;&nbsp;&nbsp; 编<B></B></DIV></TD>
+<TD width=93 colSpan=2>
+<DIV align=center><B>&nbsp;</B></DIV></TD></TR>
+<TR>
+<TD width=118>
+<DIV align=center>法定代表人</DIV></TD>
+<TD width=218 colSpan=3>
+<DIV align=center><B>&nbsp;</B></DIV></TD>
+<TD width=119>
+<DIV align=center>联系电话<B></B></DIV></TD>
+<TD width=93 colSpan=2>
+<DIV align=center><B>&nbsp;</B></DIV></TD></TR>
+<TR>
+<TD width=118>
+<DIV align=center>联&nbsp;&nbsp; 系&nbsp; 人</DIV></TD>
+<TD width=218 colSpan=3>
+<DIV align=center><B>&nbsp;</B></DIV></TD>
+<TD width=119>
+<DIV align=center>联系电话<B></B></DIV></TD>
+<TD width=93 colSpan=2>
+<DIV align=center><B>&nbsp;</B></DIV></TD></TR>
+<TR>
+<TD width=118 rowSpan=10>
+<DIV align=center>建设工程概况</DIV></TD>
+<TD width=117>
+<DIV align=center>工程项目名称</DIV></TD>
+<TD width=313 colSpan=5>
+<DIV align=center><B>&nbsp;</B></DIV></TD></TR>
+<TR>
+<TD width=117>
+<DIV align=center>工 程 地 点</DIV></TD>
+<TD width=313 colSpan=5>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=117>
+<DIV align=center>工程主要用途</DIV></TD>
+<TD width=101 colSpan=2>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=119>
+<DIV>工程总投资额</DIV></TD>
+<TD width=93 colSpan=2>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=117>
+<DIV align=center>最大高度（m）</DIV></TD>
+<TD width=101 colSpan=2>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=119>
+<DIV align=center>建筑面积（m<SUP>2</SUP>）</DIV></TD>
+<TD width=93 colSpan=2>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=117>
+<DIV align=center>最大跨度（m）</DIV></TD>
+<TD width=101 colSpan=2>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=119>
+<DIV>装机容量(kw)</DIV></TD>
+<TD width=93 colSpan=2>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=117>
+<DIV align=center>长&nbsp;&nbsp;&nbsp; 度（m）</DIV></TD>
+<TD width=101 colSpan=2>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=119>
+<DIV>其&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 他</DIV></TD>
+<TD width=93 colSpan=2>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=117>
+<DIV>地 质 条 件</DIV></TD>
+<TD width=313 colSpan=5>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=213 colSpan=2>
+<DIV>拟采用的抗震设防要求</DIV></TD>
+<TD width=217 colSpan=4>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=213 colSpan=2>
+<DIV>是否已进行地震安全性评价</DIV></TD>
+<TD width=217 colSpan=4>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=347 colSpan=5>
+<DIV>是否对地震监测设施和地震监测环境产生影响</DIV></TD>
+<TD width=83>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=548 colSpan=7>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>建设单位：&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市地震主管部门：</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>&nbsp;年&nbsp;&nbsp; 月&nbsp;&nbsp; 日（盖章）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 年&nbsp;&nbsp; 月&nbsp;&nbsp; 日（盖章）</DIV></TD></TR>
+<TR>
+<TD width=118>
+<DIV align=center>备&nbsp; 注</DIV></TD>
+<TD width=430 colSpan=6>
+<DIV>&nbsp;</DIV></TD></TR>
+<TR height=0>
+<TD width=118></TD>
+<TD width=117></TD>
+<TD width=96></TD>
+<TD width=5></TD>
+<TD width=119></TD>
+<TD width=10></TD>
+<TD width=83></TD></TR></TBODY></TABLE></DIV>
+<DIV>1、&nbsp; 本表一式三份，由建设单位填写，服务电话及传真：83365821；</DIV>
+<DIV>2、&nbsp; 主管部门签章表明该项目已登记并可获安评指导意见书，作为审定安评结果材料之一。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <B></B></DIV>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55215';var __$contentid='3035814';var __$title='关于加强建设工程抗震设防要求管理工作的意见';var __$AuthorPh='';var __$Editor='';var __$Liability='陈琳';var __$pubtime='2009-10-03 00:00:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

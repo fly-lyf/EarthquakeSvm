@@ -1,0 +1,493 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../images/style(2).css">
+<SCRIPT src="../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17860/" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17872';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>科技监测</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>地震目录</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>2013全国M5级地震目录</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2014-01-02</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_2356924"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=2356924"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <div class=TRS_Editor><style type="text/css">
+
+.TRS_PreAppend 
+
+.TRS_PreAppend td{padding-top:1px;padding-right:1px;padding-left:1px;color:black;font-size:11.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;text-align:general;vertical-align:middle;border:none;white-space:nowrap;}
+
+.TRS_PreAppend .xl63{font-weight:700;text-align:center;}
+
+.TRS_PreAppend ruby{ruby-align:left;}
+
+.TRS_PreAppend rt{color:windowtext;font-size:9.0pt;font-weight:400;font-style:normal;text-decoration:none;font-family:宋体;display:none;}</style><div class="TRS_PreExcel TRS_PreAppend"><table style="width: 857pt; border-collapse: collapse" border="0" cellspacing="0" cellpadding="0" width="1141">    <tbody>        <tr style="height: 13.5pt" height="18">            <td style="width: 143pt; height: 13.5pt" class="xl66" height="18" width="190">发震时刻</td>            <td style="width: 71pt" class="xl66" width="94">震级(M)</td>            <td style="width: 76pt" class="xl66" width="101">纬度(°)</td>            <td style="width: 68pt" class="xl66" width="91">经度(°)</td>            <td style="width: 66pt" class="xl66" width="88">深度(千米)</td>            <td style="width: 433pt" class="xl66" width="577">参考位置</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-01-18 20:42:49</td>            <td class="xl65">5.4</td>            <td class="xl65">31</td>            <td class="xl65">99.4</td>            <td class="xl65">15</td>            <td>四川省甘孜藏族自治州白玉县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-01-23 12:18:17</td>            <td class="xl65">5.1</td>            <td class="xl65">41.5</td>            <td class="xl65">123.2</td>            <td class="xl65">7</td>            <td>辽宁省辽阳市灯塔市、沈阳市苏家屯区交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-01-30 17:27:03</td>            <td class="xl65">5.1</td>            <td class="xl65">32.9</td>            <td class="xl65">94.7</td>            <td class="xl65">20</td>            <td>青海省玉树藏族自治州杂多县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-02-12 03:13:03</td>            <td class="xl65">5.1</td>            <td class="xl65">38.5</td>            <td class="xl65">92.4</td>            <td class="xl65">10</td>            <td>青海省海西蒙古族藏族自治州</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-02-25 13:11:11</td>            <td class="xl65">5.4</td>            <td class="xl65">34.4</td>            <td class="xl65">85.7</td>            <td class="xl65">9</td>            <td>西藏自治区阿里地区改则县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-03-07 11:36:47</td>            <td class="xl65">5.7</td>            <td class="xl65">24.3</td>            <td class="xl65">121.5</td>            <td class="xl65">6</td>            <td>台湾花莲县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-03-11 11:01:37</td>            <td class="xl65">5.2</td>            <td class="xl65">40.2</td>            <td class="xl65">77.5</td>            <td class="xl65">8</td>            <td>新疆维吾尔自治区克孜勒苏柯尔克孜自治州阿图什市</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-03-27 10:03:19</td>            <td class="xl65">6.5</td>            <td class="xl65">24</td>            <td class="xl65">121</td>            <td class="xl65">8</td>            <td>台湾南投县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-03-29 13:01:10</td>            <td class="xl65">5.6</td>            <td class="xl65">43.4</td>            <td class="xl65">86.8</td>            <td class="xl65">13</td>            <td>新疆维吾尔自治区昌吉回族自治州昌吉市、乌鲁木齐市乌鲁木齐县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-05 21:00:03</td>            <td class="xl65">6.5</td>            <td class="xl65">42.8</td>            <td class="xl65">131.1</td>            <td class="xl65">570</td>            <td>中、俄交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-06 08:29:54</td>            <td class="xl65">5.8</td>            <td class="xl65">42.8</td>            <td class="xl65">131.1</td>            <td class="xl65">570</td>            <td>中、俄交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-17 09:45:54</td>            <td class="xl65">5</td>            <td class="xl65">25.9</td>            <td class="xl65">99.8</td>            <td class="xl65">11</td>            <td>云南省大理白族自治州洱源县、漾濞彝族自治县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-20 08:02:46</td>            <td class="xl65">7</td>            <td class="xl65">30.3</td>            <td class="xl65">103</td>            <td class="xl65">13</td>            <td>四川省雅安市芦山县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-20 08:07:32</td>            <td class="xl65">5.1</td>            <td class="xl65">30.3</td>            <td class="xl65">102.9</td>            <td class="xl65">10</td>            <td>四川省雅安市芦山县、宝兴县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-20 11:34:17</td>            <td class="xl65">5.3</td>            <td class="xl65">30.1</td>            <td class="xl65">102.9</td>            <td class="xl65">11</td>            <td>四川省雅安市天全县、芦山县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-21 04:53:44</td>            <td class="xl65">5</td>            <td class="xl65">30.3</td>            <td class="xl65">103</td>            <td class="xl65">16</td>            <td>四川省雅安市芦山县、成都市邛崃市交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-21 07:21:27</td>            <td class="xl65">5</td>            <td class="xl65">35.2</td>            <td class="xl65">124.6</td>            <td class="xl65">10</td>            <td>黄海海域</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-21 17:05:22</td>            <td class="xl65">5.4</td>            <td class="xl65">30.3</td>            <td class="xl65">103</td>            <td class="xl65">17</td>            <td>四川省雅安市芦山县、成都市邛崃市交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-04-22 17:11:53</td>            <td class="xl65">5.3</td>            <td class="xl65">42.9</td>            <td class="xl65">122.4</td>            <td class="xl65">6</td>            <td>内蒙古自治区通辽市科尔沁左翼后旗、辽宁省阜新市彰武县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-05-15 18:54:30</td>            <td class="xl65">5.2</td>            <td class="xl65">31.6</td>            <td class="xl65">86.5</td>            <td class="xl65">10</td>            <td>西藏自治区那曲地区尼玛县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-05-16 11:34:17</td>            <td class="xl65">5</td>            <td class="xl65">31.6</td>            <td class="xl65">86.5</td>            <td class="xl65">10</td>            <td>西藏自治区那曲地区尼玛县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-05-18 06:02:23</td>            <td class="xl65">5.1</td>            <td class="xl65">37.7</td>            <td class="xl65">124.7</td>            <td class="xl65">8.4</td>            <td>黄海海域</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-06-02 13:43:03</td>            <td class="xl65">6.7</td>            <td class="xl65">23.9</td>            <td class="xl65">120.9</td>            <td class="xl65">9</td>            <td>台湾南投县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-06-05 08:43:36</td>            <td class="xl65">5</td>            <td class="xl65">37.6</td>            <td class="xl65">95.9</td>            <td class="xl65">4</td>            <td>青海省海西蒙古族藏族自治州</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-06-08 00:38:03</td>            <td class="xl65">5.9</td>            <td class="xl65">24</td>            <td class="xl65">122.7</td>            <td class="xl65">40</td>            <td>台湾花莲县附近海域</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-06-20 17:05:12</td>            <td class="xl65">5</td>            <td class="xl65">49.8</td>            <td class="xl65">125.2</td>            <td class="xl65">6</td>            <td>内蒙古自治区呼伦贝尔市莫力达瓦达斡尔族自治旗、黑龙江省黑河市嫩江县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-06-29 07:51:52</td>            <td class="xl65">5.6</td>            <td class="xl65">24</td>            <td class="xl65">122.3</td>            <td class="xl65">8</td>            <td>台湾花莲县附近海域</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-06-30 12:59:30</td>            <td class="xl65">5</td>            <td class="xl65">39.2</td>            <td class="xl65">73.4</td>            <td class="xl65">9.5</td>            <td>中、塔交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-07-16 18:11:35</td>            <td class="xl65">5</td>            <td class="xl65">24.2</td>            <td class="xl65">121.5</td>            <td class="xl65">8</td>            <td>台湾花莲县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-07-22 07:45:55</td>            <td class="xl65">6.6</td>            <td class="xl65">34.5</td>            <td class="xl65">104.2</td>            <td class="xl65">20</td>            <td>甘肃省定西市岷县、漳县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-07-22 09:12:34</td>            <td class="xl65">5.6</td>            <td class="xl65">34.6</td>            <td class="xl65">104.2</td>            <td class="xl65">14</td>            <td>甘肃省定西市岷县、漳县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-08-06 23:31:32</td>            <td class="xl65">5.2</td>            <td class="xl65">31.4</td>            <td class="xl65">86.6</td>            <td class="xl65">10</td>            <td>西藏自治区那曲地区尼玛县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-08-12 05:23:40</td>            <td class="xl65">6.1</td>            <td class="xl65">30</td>            <td class="xl65">98</td>            <td class="xl65">10</td>            <td>西藏自治区昌都地区左贡县、芒康县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-08-12 07:58:48</td>            <td class="xl65">5.1</td>            <td class="xl65">30.1</td>            <td class="xl65">97.9</td>            <td class="xl65">10</td>            <td>西藏自治区昌都地区左贡县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-08-28 04:44:48</td>            <td class="xl65">5.1</td>            <td class="xl65">28.2</td>            <td class="xl65">99.3</td>            <td class="xl65">9</td>            <td>四川省甘孜藏族自治州得荣县、云南省迪庆藏族自治州德钦县、香格里拉县交界地区</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-08-30 13:27:30</td>            <td class="xl65">5.1</td>            <td class="xl65">43.8</td>            <td class="xl65">87.6</td>            <td class="xl65">12</td>            <td>新疆维吾尔自治区乌鲁木齐市</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-08-31 08:04:18</td>            <td class="xl65">5.9</td>            <td class="xl65">28.2</td>            <td class="xl65">99.4</td>            <td class="xl65">10</td>            <td>云南省迪庆藏族自治州香格里拉县、德钦县、四川省甘孜藏族自治州得荣县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-09-20 05:37:01</td>            <td class="xl65">5.1</td>            <td class="xl65">37.7</td>            <td class="xl65">101.5</td>            <td class="xl65">7</td>            <td>甘肃省张掖市肃南裕固族自治县、青海省海北藏族自治州门源回族自治县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-10-30 04:17:51</td>            <td class="xl65">5.3</td>            <td class="xl65">43.3</td>            <td class="xl65">130.9</td>            <td class="xl65">539</td>            <td>吉林省延边朝鲜族自治州珲春市</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-10-31 11:03:34</td>            <td class="xl65">5.5</td>            <td class="xl65">44.6</td>            <td class="xl65">124.2</td>            <td class="xl65">8</td>            <td>吉林省松原市前郭尔罗斯蒙古族自治县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-10-31 11:10:07</td>            <td class="xl65">5</td>            <td class="xl65">44.6</td>            <td class="xl65">124.2</td>            <td class="xl65">6</td>            <td>吉林省松原市前郭尔罗斯蒙古族自治县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-10-31 20:02:10</td>            <td class="xl65">6.7</td>            <td class="xl65">23.5</td>            <td class="xl65">121.4</td>            <td class="xl65">20</td>            <td>台湾花莲县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-11-06 12:16:19</td>            <td class="xl65">5</td>            <td class="xl65">26.5</td>            <td class="xl65">93.6</td>            <td class="xl65">40</td>            <td>中、印交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-11-22 16:18:51</td>            <td class="xl65">5.3</td>            <td class="xl65">44.7</td>            <td class="xl65">124.1</td>            <td class="xl65">8</td>            <td>吉林省松原市乾安县、前郭尔罗斯蒙古族自治县交界</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-11-23 06:04:23</td>            <td class="xl65">5.8</td>            <td class="xl65">44.6</td>            <td class="xl65">124.1</td>            <td class="xl65">9</td>            <td>吉林省松原市前郭尔罗斯蒙古族自治县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-11-23 06:32:29</td>            <td class="xl65">5</td>            <td class="xl65">44.6</td>            <td class="xl65">124.1</td>            <td class="xl65">8</td>            <td>吉林省松原市前郭尔罗斯蒙古族自治县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-11-24 07:30:46</td>            <td class="xl65">5.6</td>            <td class="xl65">36.8</td>            <td class="xl65">86.7</td>            <td class="xl65">10</td>            <td>新疆维吾尔自治区巴音郭楞蒙古自治州且末县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-12-01 16:34:23</td>            <td class="xl65">5.3</td>            <td class="xl65">40.3</td>            <td class="xl65">79</td>            <td class="xl65">9</td>            <td>新疆维吾尔自治区阿克苏地区柯坪县</td>        </tr>        <tr style="height: 13.5pt" height="18">            <td style="height: 13.5pt" height="18">2013-12-16 13:04:52</td>            <td class="xl65">5.1</td>            <td class="xl65">31.1</td>            <td class="xl65">110.4</td>            <td class="xl65">5</td>            <td>湖北省恩施土家族苗族自治州巴东县</td>        </tr>    </tbody></table></div><img style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" uploadpic="W020140102679261925174.bmp" alt="" src="./W020140102679261925174.bmp" OLDSRC="W020140102679261925174.bmp" /></div>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17872';var __$contentid='2356924';var __$title='2013全国M5级地震目录';var __$AuthorPh='';var __$Editor='';var __$Liability='市地震局1';var __$pubtime='2014-01-02 18:48:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

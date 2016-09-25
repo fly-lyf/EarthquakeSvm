@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" class="now" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">区县动态</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>区县动态</h2>
+            </div>
+            <ul class="listTxt">
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai6984.html" title="奉贤区地震办组织开展防震减灾知识讲座">奉贤区地震办组织开展防震减灾知识讲座</a><span>2015-12-28</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai6930.html" title="2015年我市区县防震减灾工作取得多项成绩">2015年我市区县防震减灾工作取得多项成绩</a><span>2015-12-25</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai6931.html" title="奉贤区两社区被认定为国家地震安全示范社区">奉贤区两社区被认定为国家地震安全示范社区</a><span>2015-12-24</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai6882.html" title="市地震局评估组赴杨浦区开展地震安全示范社区创建评估验收工作">市地震局评估组赴杨浦区开展地震安全示范社区创建评估验收工作</a><span>2015-11-10</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai6879.html" title="长宁区组织开展“上海市防震减灾科普示范学校”申报单位评审工作">长宁区组织开展“上海市防震减灾科普示范学校”申报单位评审工作</a><span>2015-11-06</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai6878.html" title="市地震局对奉贤区三家示范社区开展评审认定工作">市地震局对奉贤区三家示范社区开展评审认定工作</a><span>2015-11-06</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai6870.html" title="奉贤区两校赴实验中学调研防震减灾科普示范学校创建工作">奉贤区两校赴实验中学调研防震减灾科普示范学校创建工作</a><span>2015-10-12</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai6860.html" title="宝山区地震办召开街镇园区防震减灾工作会议">宝山区地震办召开街镇园区防震减灾工作会议</a><span>2015-09-18</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai6861.html" title="青浦区地震办组织街镇地震专项应急预案修编培训工作">青浦区地震办组织街镇地震专项应急预案修编培训工作</a><span>2015-09-15</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5578.html" title="松江区民乐学校开展防震减灾夏令营活动">松江区民乐学校开展防震减灾夏令营活动</a><span>2015-08-25</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5576.html" title="“平安中国”金山区防震减灾电影公益放映专场顺利完成">“平安中国”金山区防震减灾电影公益放映专场顺利完成</a><span>2015-08-18</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5575.html" title="静安区石门二路街道壹街区举行“国家地震安全示范社区”揭牌仪式">静安区石门二路街道壹街区举行“国家地震安全示范社区”揭牌仪式</a><span>2015-08-18</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5527.html" title="松江区：发挥科普示范学校作用 开展防震减灾特色活动">松江区：发挥科普示范学校作用 开展防震减灾特色活动</a><span>2015-06-10</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5526.html" title="闸北区开展5.12“防灾减灾日”大型宣传咨询活动">闸北区开展5.12“防灾减灾日”大型宣传咨询活动</a><span>2015-06-10</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5523.html" title="杨浦区积极开展区级地震专项应急实战演练">杨浦区积极开展区级地震专项应急实战演练</a><span>2015-06-08</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5522.html" title="市地震局专家赴马桥镇强恕中学举办防震减灾讲座">市地震局专家赴马桥镇强恕中学举办防震减灾讲座</a><span>2015-06-08</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5521.html" title="长宁区召开2015年防震减灾联席会议">长宁区召开2015年防震减灾联席会议</a><span>2015-06-08</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5520.html" title="金山区召开2015年防震减灾联席会议工作会议">金山区召开2015年防震减灾联席会议工作会议</a><span>2015-06-08</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5519.html" title="市教委一行来静安区市西中学防震减灾科普馆督导调研">市教委一行来静安区市西中学防震减灾科普馆督导调研</a><span>2015-06-08</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai5518.html" title="闵行区举行第七届“浦江二中杯”中小学生防震减灾知识竞赛">闵行区举行第七届“浦江二中杯”中小学生防震减灾知识竞赛</a><span>2015-06-08</span></li>
+                
+            </ul>
+            <div class="page">
+<font color=gray>首页 </font><font color=gray> 上一页 </font><A class=text-1 HREF="/gb\dzj/xwzx/qxdt/index1.html"> 下一页 </A><A  HREF=index19.html> 尾页 </A>
+                <span>第1页&nbsp;共20页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,680 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>截至2日22时 云南盈江6.1级地震共记录到地震总数2120个 </title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/515/index.html' class='navigation_style'>热点报道</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">截至2日22时 云南盈江6.1级地震共记录到地震总数2120个 </div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2014-06-02 22:28:23 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局办公室
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><p>　　2014年5月30日09时20分云南省盈江县发生6.1级强震， 截至2014年06月02日22时00分共记录到地震总数为2120个。</p>
+<p align="left">　　截至2014年06月02日22时00分，3.0级以上地震余震25个，其中5.0~5.9级地震余震1个，4.0~4.9级地震余震2个，3.0~3.9级地震余震22个。</p>
+<p style="text-align: center"><img width="500" height="477" alt="" src="/publish/dizhenj/464/515/20140602222823263389133/1401719862194.bmp" />&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0" width="638">
+    <colgroup><col style="width: 31pt; mso-width-source: userset; mso-width-alt: 1312" width="41" /><col style="width: 53pt; mso-width-source: userset; mso-width-alt: 2272" width="71" /><col style="width: 46pt; mso-width-source: userset; mso-width-alt: 1952" width="61" /><col style="width: 54pt" span="4" width="72" /><col style="width: 133pt; mso-width-source: userset; mso-width-alt: 5664" width="177" /></colgroup>
+    <tbody>
+        <tr style="height: 13.5pt" height="18">
+            <td style="border-bottom: black 1pt solid; width: 31pt; height: 27.75pt" class="xl72" height="37" rowspan="2" width="41">序号</td>
+            <td style="border-bottom: black 1pt solid; width: 53pt" class="xl72" rowspan="2" width="71">发震日期</td>
+            <td style="border-bottom: black 1pt solid; width: 46pt" class="xl72" rowspan="2" width="61">发震时刻</td>
+            <td style="width: 54pt" class="xl63" width="72">纬度</td>
+            <td style="width: 54pt" class="xl63" width="72">经度</td>
+            <td style="width: 54pt" class="xl63" width="72">震源深度</td>
+            <td style="width: 54pt" class="xl63" width="72">震级</td>
+            <td style="border-bottom: black 1pt solid; width: 133pt" class="xl72" rowspan="2" width="177">震中地点</td>
+        </tr>
+        <tr style="height: 14.25pt" height="19">
+            <td style="width: 54pt; height: 14.25pt" class="xl64" height="19" width="72">（&deg;<font class="font6">N</font><font class="font5">）</font></td>
+            <td style="width: 54pt" class="xl64" width="72">（&deg;<font class="font6">E</font><font class="font5">）</font></td>
+            <td style="width: 54pt" class="xl64" width="72">（<font class="font6">Km</font><font class="font5">）</font></td>
+            <td style="width: 54pt" class="xl64" width="72">（<font class="font6">M</font><font class="font5">）</font></td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">1</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:20:12</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">12</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">6.1</span></td>
+            <td style="width: 133pt" class="xl69" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">2</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:20:50</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25.1</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">14</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">5.1</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">3</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:21:09</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">4.3</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">4</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:22:04</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">15</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.5</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">5</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:22:25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.2</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">6</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:23:44</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">11</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.1</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">7</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:24:18</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">15</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.5</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">8</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:31:09</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.5</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">9</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:59:55</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">13</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.1</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">10</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">10:01:06</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">14</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.1</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">11</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">10:50:33</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl71" width="72"><span lang="EN-US">14</span></td>
+            <td style="width: 54pt" class="xl71" width="72"><span lang="EN-US">3</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">12</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">10:52:21</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25.1</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl71" width="72"><span lang="EN-US">11</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.1</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">13</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">11:26:46</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl71" width="72"><span lang="EN-US">11</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.1</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">14</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">12:25:01</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">15</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.4</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">15</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">15:03:48</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">5</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.2</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">16</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">17:27:46</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">24.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">5</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">17</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">19:36:10</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">7</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.4</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">18</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">19:38:08</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">5</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.3</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">19</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">19:39:12</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">7</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">20</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">21:56:46</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">14</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.2</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">21</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">21:57:06</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">14</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.2</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">22</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">22:29:49</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">12</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.5</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">23</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-30 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">23:53:36</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.9</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">5</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">4.5</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">24</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-31 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">1:12:24</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">11</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.3</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">25</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-31 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">3:19:37</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">11</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3.4</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+        <tr style="height: 26.25pt" height="35">
+            <td style="width: 31pt; height: 26.25pt" class="xl65" height="35" width="41"><span lang="EN-US">26</span></td>
+            <td style="width: 53pt" class="xl66" width="71"><span lang="EN-US">2014-5-31 </span></td>
+            <td style="width: 46pt" class="xl67" width="61"><span lang="EN-US">9:50:46</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">25</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">97.8</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">5</span></td>
+            <td style="width: 54pt" class="xl68" width="72"><span lang="EN-US">3</span></td>
+            <td style="width: 133pt" class="xl70" width="177">云南省德宏傣族景颇族自治州盈江县</td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: center"><!--[if gte mso 9]><![endif]--><!--[if !mso]>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{
+	mso-style-parent:"";
+	font-size:10.5pt;"Calibri","sans-serif";
+	mso-bidi-"Times New Roman";}
+</style>
+<![endif]--></p></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

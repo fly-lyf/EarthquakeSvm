@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/hybz/index.html" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/flfg/qt/index.html" class="now" target="_parent" title="其他"><span>其他</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">其他</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海市地震行政执法培训练习题<span>发布时间：2009-04-27</span></div>
+                <p><p><font face="Arial">一、填空题<br />
+1、我国第一部防震减灾法律《中华人民共和国防震减灾法》于&nbsp;&nbsp;&nbsp; 年&nbsp;&nbsp;&nbsp; 月&nbsp;&nbsp;&nbsp; 日施行。<br />
+2、防震减灾工作，实行&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 的方针。<br />
+3、防震减灾工作，应当纳入&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 和&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 计划。<br />
+4、在国务院的领导下，国务院地震行政主管部门、经济综合主管部门、建设行政主管部门、民政部门以及其他有关部门，按照职责分工，各负其责，密切配合，共同做好防震减灾工作。<br />
+5、国务院地震行政主管部门根据地震活动趋势，提出确定地震重点监视防御区的意见，报国务院批准。<br />
+6、国务院地震行政主管部门和县级以上地方人民政府负责管理地震工作的部门或者机构，应当加强对地震活动与地震前兆的信息检测、传递、分析、处理和对可能发生地震的地点、时间和震级的预测。<br />
+7、国家对地震监测台网的建设，实行&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ，&nbsp;&nbsp;&nbsp;&nbsp; 、&nbsp;&nbsp;&nbsp; 管理。<br />
+8、国家依法保护地震监测设施和地震观测环境，任何单位和个人不得危害地震监测设施和地震观测环境。地震观测环境应当按照地震监测设施周围不能有影响其工作效能的干扰源的要求划定保护范围。<br />
+9、《中华人民共和国防震减灾法》所称重大建设工程，是指对社会有重大价值或者有重大影响的工程。<br />
+10、国家对地震预报实行&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 制度。</font></p>
+<p><font face="Arial">　　上海市的地震短期和监震预报，应当由&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 按照《地震预报管理条例》规定的程序发布。<br />
+11、国务院建设行政主管部门负责制定各类房屋建筑及其附属设施和城市市政设施的建设工程的抗震设计规范。<br />
+12、《中华人民共和国防震减灾法》第十七条规定，重大建设工程和可能发生严重次生灾害的建设工程，必须进行&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ；并根据&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 的结果，确定&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ，进行&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 。<br />
+13、建设工程必须按照&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 和&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 进行抗震设计，并按照抗震设计进行施工。<br />
+14、对地震可能引起的火灾、水灾、山体滑坡、放射性污染、疫情等次生灾害源，有关地方人民政府应当采取相应的有效防范措施。<br />
+15、可能发生破坏性地震地区的县级以上地方人民政府应当责成有关部门进行必要的地震应急、救助装备的储备和使用训练工作。<br />
+16、如果在上海市发生破坏性地震，市政府及有关区、县人民政府应当设立&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ，组织有关部门实施&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 。<br />
+17、工程建设单位A某不依法进行地震安全性评价，黄浦区地震办公室对其进行行政处罚，如果A某对地震行政处罚决定不服，可以向&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 或者&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 申请行政复议。<br />
+18、2001年12月28日，上海市代市长陈良宇签署上海市人民政府令第113号，发布了&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ，自&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 年&nbsp;&nbsp;&nbsp; 月&nbsp;&nbsp;&nbsp; 日起施行。<br />
+19、上海市地震局是本市地震安全性评价及抗震设防要求的主管部门。各区、县地震工作主管部门按照其职责权限，负责本辖区内的具体管理工作。<br />
+20、 本市范围内从事地震安全性评价的单位，必需持有地震安全性评价资质证书。外省市单位从事本市范围内建设工程地震安全性评价的，应当向市地震局备案资质证书。<br />
+21、从事地震安全性评价的单位，应当在其资质许可的范围内从事地震安全性评价。<br />
+22、从事地震安全性评价的单位应当按照国家规定的要求编制地震安全性评价报告；建设单位应当将安评报告报地震工作主管部门评审。<br />
+23、符合《上海市建设工程抗震设防管理办法》第七条规定的建设工程，市或者区、县有关部门在审核建设项目可行性研究报告时，对未包含抗震设防要求的，不予批准。<br />
+24、设计单位在报送抗震设计审查的同时，应当将建设工程设计计算书中有关抗震设计的材料，报市地震局备案。</font></p>
+<p><font face="Arial">二、简答题<br />
+1、防震减灾工作的四个环节是什么？<br />
+2、《中华人民共和国防震减灾法》所称的地震监测设施有哪些？<br />
+是指地震监测台网的监测设施、设备、仪器和其他依照国务院地震行政主管部门的规定设立的地震监测设施、设备、仪器。<br />
+3、《中华人民共和国防震减灾法》所称可能发生严重次生灾害的建设工程是什么?<br />
+是指受地震破坏后可能引发水灾、火灾、爆炸、剧毒或者强腐蚀性物质大量泄漏和其他严重次生灾害的建设工程，包括水库大坝、堤防和贮油、贮气、贮存易燃易爆、剧毒或者强腐蚀性物质的设施以及其他可能发生严重次生灾害的建设工程。<br />
+4、《中华人民共和国防震减灾法》所称破坏性地震和严重破坏性地震的含义是什么？<br />
+破坏性地震是指造成人员伤亡和财产损失的地震灾害。严重破坏性地震是指造成严重的人员伤亡和财产损失，使灾区丧失或者部分丧失自我恢复能力，需要国家采取相应行动的地震灾害。<br />
+5、破坏性地震应急预案应当包括哪些内容？<br />
+6、如何表述《上海市建设工程抗震设防管理办法》所称的抗震设防要求和地震安全性评价？<br />
+抗震设防要求，是指国家和市地震工作主管部门制定或者审定的，建设工程必须达到的抗御地震破坏的准则和技术指标，以地震烈度或者地震动参数进行表述。<br />
+&nbsp;&nbsp;&nbsp; 　</font></p>
+<p><font face="Arial">　　地震安全性评价，是指对具体建设工程地区或者场址周围的地震地质、地球物理、地震活动性、地形变等研究，给出相应的工程规划和设计所需的有关抗震设防要求的地震动参数及基础资料的活动。<br />
+7、根据《上海市建设工程抗震设防管理办法》，上海市必须进行地震安全性评价的建设工程有哪些？<br />
+8、根据《上海市建设工程抗震设防管理办法》，从事地震安全性评价的单位的禁止行为有哪些？<br />
+9、工程建设单位在工程抗震设防方面的法定义务是什么？<br />
+10、工程设计单位的义务是什么？<br />
+建设工程的设计单位应当按照国家和本市规定的抗震设防要求和抗震设计规范、规程，进行建设工程的抗震设计。</font></p>
+<p><font face="Arial">三、论述题（共2题，每题15分，共30分）<br />
+1、根据有关防震减灾法律、法规和规章，试述地震部门在建设工程抗震设防方面的管理职权。<br />
+2、结合你所在单位的实际，谈谈如果推进地震行政执法工作？</font></p>
+<p><font face="Arial"></font>&nbsp;</p>
+<p><font face="Arial"></font>&nbsp;</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

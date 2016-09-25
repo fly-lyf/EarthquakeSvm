@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>纪念中国共产党九十年 </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '杨晓源';
+					var sourcecontent = '退休一支部';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-06-30 15:28:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:28:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:杨晓源  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:28:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者:杨晓源 &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:28:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P align=center>　　调寄《贺新郎》三首&nbsp;</P>
+<P align=center>&nbsp;</P>
+<P align=center>　　<STRONG>建党立国&nbsp;</STRONG></P>
+<P>　　十月炮声响。破坚冰、春风送暖，马列传扬。五四青运亮旗帜，掀起惊涛骇浪。开先河、南湖建党。从此神州红潮涌，反旧制、征途有领航。虽磨难，更悲壮。&nbsp;</P>
+<P>　　八一建军战南昌。奠基石，揭竿秋收，会师井冈。长征万里播火种，抗日号角激昂。收山河，有人贼心藏。四大战役定乾坤，入京都、定国安邦。换天地，历沧桑。&nbsp;</P>
+<P>&nbsp;</P>
+<P align=center>　　<STRONG>探索奋进</STRONG>&nbsp;</P>
+<P>&nbsp;</P>
+<P>　　红日升东方。孰料到、烽烟乍起。援朝渡江。从此卅年多波折，欲治旧病膏肓。忍饥饿、反霸保疆。忽见文革群魔舞，黑白易，大地风雨狂。多少事，费思量。&nbsp;</P>
+<P>　　惊雷一声震天响。三中会，反正拨乱，指点迷惘。改革开放聚人心，思盼民富国强。雪耻恨，两治收澳港。肃贪除黑抗洪水，学三讲、政廉国运昌。举旗帜，焕春光。&nbsp;</P>
+<P>&nbsp;</P>
+<P align=center>　　<STRONG>富国强军&nbsp;</STRONG></P>
+<P>&nbsp;</P>
+<P>　　治国有新纲。继先辈，和平崛起，和谐兴邦。入世当是新起点，迎来腾飞翱翔。征程慢慢有人挡。反恐维稳抗非典，批三独、雪震灾中救死伤。靠舵手，破风浪。&nbsp;</P>
+<P>　　十年机遇书华章。逆危机，超日赶美，志高气昂。三军不忘现代化，冲岛链护鱼航。办奥运，世博声名扬。冷眼面对围追堵，运筹幄，破一枕黄粱。富强梦，当无恙。&nbsp;</P>
+<P>　　</P><br/>
+					  
+				  <div style="display:none">
+				     
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

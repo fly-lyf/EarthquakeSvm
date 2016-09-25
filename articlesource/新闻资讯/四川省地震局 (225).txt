@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">媒体聚焦</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>四川日报：走进“4·20”芦山地震重建现场：如画新村在生长 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '四川日报';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-04-16 18:12:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-16 18:12:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-04-16 18:12:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-16 18:12:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <P class=Custom_UnionStyle>　　灾后新建的雅安市芦山县龙门乡白伙新村美不胜收，当地产业恢复重建、公共服务等基础设施建设全面推进。 </P>
+<P class=Custom_UnionStyle>　　本报记者走进“4·20”芦山强烈地震灾区灾后恢复重建现场——</P>
+<P class=Custom_UnionStyle>　　开栏的话</P>
+<P class=Custom_UnionStyle>　　春到蜀中，万物生长。在“4·20”芦山强烈地震两周年前夕，四川日报派出多路记者深入芦山地震灾区，访民生，看变化，察未来。灾区曾遭受创伤的土地上，如今新村矗立、道路延伸、产业腾飞，人们信心满怀，笑容如春花绽放。</P>
+<P class=Custom_UnionStyle>　　芦山地震灾后恢复重建，是新中国成立以来，国家第一次探索实施“中央统筹指导、地方作为主体、灾区群众广泛参与”的重建新路子，目的是为自然灾害频发的中国寻找一种可复制的重建新模式。四川把灾后重建作为全省重要工作和灾区中心工作来抓，带领灾区干部群众强化主体意识，弘扬自力更生、开拓创新精神，全力在“国家试验”中交出一份令人满意的芦山答卷。</P>
+<P class=Custom_UnionStyle>　　从即日起到4月下旬，本报将开设“重建新路子 芦山新模式”专栏，刊发记者发自灾区重建一线的报道，探寻芦山“试验田”体制机制的创新、项目推进的成效、群众主体作用的发挥、可持续发展路径的构建等，敬请垂注。</P>
+<P class=Custom_UnionStyle>　　本报记者 张立东 罗之飏</P>
+<P class=Custom_UnionStyle>　　芦山县龙门乡白伙新村村民任欣慧没有想到，不到两年时间，不仅住进了新房，还在家创业当上餐馆老板。</P>
+<P class=Custom_UnionStyle>　　4月8日，记者走进白伙新村聚居点，任欣慧的新房位置显眼，房前就是小广场。室内，工人们正在进行内部装饰，小桌上放着一个台历，4月20日这天被蓝色的笔圈了出来，“20号开业，让大家尝下我们的地道农家菜。”</P>
+<P class=Custom_UnionStyle>　　芦山地震发生当天，李克强总理曾来到这里查看灾情、慰问群众、指导抢险救援。两年后，一栋栋红色琉璃瓦屋顶、棕红色与浅黄色相间的仿古木楼拔地而起。今年的全国两会上，李克强总理参加四川代表团审议时，看到代表带去的龙门乡新村聚居点照片，高兴地说：“这是实景照片？我以为是规划图呢，很美！”</P>
+<P class=Custom_UnionStyle>　　灾后恢复重建以来，从白伙新村到宝兴县的雪山村，再到石棉县的新场村，一座座如画新村正在灾区大地生长。</P>
+<P class=Custom_UnionStyle>　　废墟上“长出”美丽新村</P>
+<P class=Custom_UnionStyle>　　宝兴县城对面的半山上，矗立着雪山村新村聚居点。4月9日下午，记者来到这里，别致的川西民居风格建筑十分醒目，三层楼外墙用竹片装饰，远观像一幅浓郁的油漆彩绘。</P>
+<P class=Custom_UnionStyle>　　87岁的卫同祥请记者来到他家3楼阳台，这里可以一览宝兴县城，穆坪土司衙门遗址清晰可见。震后新村如何建？雪山新村面向全球征集规划设计方案，汇聚了众多的优秀设计方案和创意，华南理工、清华大学、哈佛大学等国内外高校的专业志愿者前来担任驻场设计。“风貌打造上，我们用木材、竹片、瓦片和小鹅卵石，就地取材。”雪山村党支部书记李德安说，新村建成后，每天下午城里人都会上山散步，把这里作为一个景点。石棉县安顺彝族乡新场村村民余成华住过三套房：上世纪80年代末用竹子编制泥巴糊成的“笆笆房”、90年代末用乱石片砌成的石头房，以及地震后新建成的砖瓦房。“没想到还能住上这么好的房子。”余成华所在的新场村地处安顺彝族乡三角地带，平均海拔1400米以上，一场地震，让全村半数房屋受损，近百间房屋毁坏。如今，新场村涅槃重生。“建改结合，八度设防。”安顺彝族乡乡长倪虹介绍起抗震强度已很懂行，钢筋混凝土不能少，砖要砌两层，200多户房屋改建，85户房屋重建，全部请来省级建筑规划设计院操刀。</P>
+<P class=Custom_UnionStyle>　　实用和美观兼顾，如今，一个按川西民居和传统彝寨风格打造，学校、广场、卫生室、小卖部等一应俱全，水泥路通往家家户户的新场村拔地而起。</P>
+<P class=Custom_UnionStyle>　　特色产业支撑回乡就业</P>
+<P class=Custom_UnionStyle>　　“有了产业规划，新村能留住人了。”4月8日上午，芦山县清仁乡大同村，村支书袁超为几家农户的土地流转进行协调。今年，2000亩土地的流转是全村的重点工作，村里引进了龙头企业，以“公司+合作社+农户”的方式发展猕猴桃产业。新村聚居点建成后，大同村着力打造产业生产与休闲观光一体的旅游新村。“去年以来，我们的就近务工增加了30%。”</P>
+<P class=Custom_UnionStyle>　　袁超说，以前村里70%以上的劳动力都外出务工，随着周边芦山工业集中区的建设和猕猴桃特色产业的发展，很多人又回来了。</P>
+<P class=Custom_UnionStyle>　　产业发展是新场村灾后恢复重建中的一道必选题。辖区面积22.4平方公里的新场村除了石疙瘩，还有多年的老核桃树。“老树产量低，果子卖不起价。”新场村村民毛万军家有核桃林，却并没赚到钱。“邻居”凉山州的优质核桃成为破题关键，“直接把优质核桃枝运过来，在老树上嫁接。”当地政府补贴核桃枝苗，派技术人员上门免费进行嫁接服务，毛万军率先对自家100多株核桃树嫁接新枝。“等核桃树进入盛产期，每年可以给家里带来4万多元的收入。”如今，新场村已嫁接1500多亩良种核桃，1000亩高山错季蔬菜开始规划实施，村民人均年收入已达8000元。</P>
+<P class=Custom_UnionStyle>　　在天全县多功乡南天新镇，错落有致的新房不远处，就是南天现代农业科技园，现代化的温控大棚里，村民高红燕在无土栽培养心菜。高红燕说，务工的同时，自己还学到了无土栽培技术，以后也可以加盟搞现代农业。</P>
+<P class=Custom_UnionStyle align=center><IMG style="BORDER-LEFT-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-TOP-WIDTH: 0px" src="./W020150416658030466239.jpg" width=545 height=376 OLDSRC="W020150416658030466239.jpg" _fcksavedurl="/webpic/W0201504/W020150416/W020150416658030466239.jpg"/></P>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     <a href="./t20150416_32821.html"><img src="./W020150416658060463983.jpg" alt="四川日报.jpg"/></a>
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

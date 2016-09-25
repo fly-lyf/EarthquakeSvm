@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" class="now" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">区县动态</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>区县动态</h2>
+            </div>
+            <ul class="listTxt">
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai985.html" title="利用科技节载体普及防震减灾知识">利用科技节载体普及防震减灾知识</a><span>2007-06-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai984.html" title="南汇区地震办组织党员参观革命史迹馆">南汇区地震办组织党员参观革命史迹馆</a><span>2007-06-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai983.html" title="沪东中学举办珍爱生命专题讲座">沪东中学举办珍爱生命专题讲座</a><span>2007-06-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai982.html" title="奉贤区地震办积极开展防震减灾宣传活动">奉贤区地震办积极开展防震减灾宣传活动</a><span>2007-06-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai981.html" title="浦东新区召开区域应急联动研讨会">浦东新区召开区域应急联动研讨会</a><span>2007-06-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai980.html" title="浦东新区召开区防震减灾工作联席会议">浦东新区召开区防震减灾工作联席会议</a><span>2007-06-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai979.html" title="闵行区地震办领导视察浦江二中地震科普室">闵行区地震办领导视察浦江二中地震科普室</a><span>2007-06-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai978.html" title="民乐学校“防震减灾”校本课程介绍">民乐学校“防震减灾”校本课程介绍</a><span>2007-06-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai977.html" title="民乐学校举行地震应急避险专题教育活动">民乐学校举行地震应急避险专题教育活动</a><span>2007-06-02</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/qxdt/u1ai976.html" title="民乐学校防震减灾教育回顾">民乐学校防震减灾教育回顾</a><span>2007-06-02</span></li>
+                
+            </ul>
+            <div class="page">
+<A HREF=index.html> 首页 </A><A  HREF="/gb\dzj/xwzx/qxdt/index18.html"> 上一页 </A><font color=gray> 下一页 </font><font color=gray> 尾页 </font>
+                <span>第20页&nbsp;共20页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

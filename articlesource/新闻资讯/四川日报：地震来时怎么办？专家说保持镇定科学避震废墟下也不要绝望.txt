@@ -1,0 +1,390 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>四川日报：地震来时怎么办？专家说保持镇定科学避震废墟下也不要绝望</title>
+<LINK href="../../../../../images/chun_styles.css" type='text/css' rel='stylesheet'/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script ignoreapd="1" type="text/javascript" src="../../../../../zhuangtai_164.js"></script>
+
+<script type="text/javascript">
+    <!-- 换cS的jS-->
+ var objs = document.getElementsByTagName("link");
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3];   
+var url = changese(chun,xia,qiu,dong);
+ objs[0].href='../../../../../'+url;
+</script>
+
+
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+
+</head>
+
+<body>
+	<div id="box">
+		
+		<script type="text/javascript">
+function show(div){ 
+   var ids=[163,167,171,176,181,187,191,196,199,206,211,213];   
+           for(i=0;i<ids.length;i++){
+		      var obj   = document.getElementById(ids[i]+"_menu");
+			   obj.style.display='none';
+			  
+		   }    
+      var div1; 
+	  div1  = document.getElementById(div);
+	  
+	
+	  div1.style.display='block';
+	 
+   }
+   function  shut(div){
+      //salert(div);
+       var div  = document.getElementById(div);
+	  div.style.display='none';
+   }
+
+
+</script>
+<div class="top">
+			<div id="logo" class="logo">
+			      
+			</div>
+<script type="text/javascript">
+
+    <!-- 换cS的jS-->
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3]; 
+ var url ; 
+if(chun==1){
+   url="chun.swf";
+}
+if(xia==1){
+   url="xia.swf";
+}
+if(qiu==1){
+   url="qiu.swf";
+}
+if(dong==1){
+   url="dong.swf";
+}
+ url="xia.swf";
+var  value='../../../../../images/'+url;
+var content = "<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'"+ "codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='1000' height='137'>"+
+  "<param value='false' name='menu'/>"+
+     " <param value='opaque' name='wmode'/>"+
+    "<param name='movie' id='movie'  value='"+value+"'/>"+
+   "<param name='quality' value='high' />"+
+    "<embed src='"+value+"'" +"quality='high'"+ "pluginspage='http://www.adobe.com/shockwave/download/download.cgi?"+   "P1_Prod_Version=ShockwaveFlash'"+ 
+"type='application/x-shockwave-flash' width='1000' height='137'></embed>"+
+  "</object>"
+
+var logo = document.getElementById("logo");
+logo.innerHTML=content;
+
+</script>
+
+			<div class="nes">
+				<ul class="u_anes">
+					<li class="u_ali"><a class="a_nes" href="../../../../../">首 页</a><span></span></li>
+					<li class="u_ali" onmouseover="show(this.id+'_menu')"  onmouseout="shut(this.id+'_menu')" id="163" > <a   class="a_nes"   href="../../../../../jcyb/">监测预报</a>				
+					<span>  
+					</span>
+				       <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="163_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jcyb/scjctw/">四川监测台网</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/gcjs/">观测技术</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/ybyj/">预报研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/luntan/">2011年西南及华东南地区青年分析预报人员科技论坛</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  onmouseover="show(this.id+'_menu')" id="167"  ><a     class="a_nes" href="../../../../../zzfy/">震灾防御</a><span></span>
+					
+					     <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="167_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zzfy/zcfg/">政策法规</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/fzjs/">法制建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/kzsf/">抗震设防</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" id="171"  onmouseover="show(this.id+'_menu')" onmouseout="shut(this.id+'_menu')"   ><a  class="a_nes" href="../../../../../yjjy/">应急救援</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="171_menu" >
+					          
+								<li class="treeli"><a href="../../../../../yjjy/jyd/">救援队</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/bncs/">避难场所</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/yjgl/">应急管理</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/flfg/">法律法规</a></li>
+							
+						</ul>
+					</li>
+					<li  class="u_ali" onmouseout="shut(this.id+'_menu')"  id="176"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/">震情速报</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="176_menu" >
+					          
+								<li id="地震目录"   class="treeli"><a href="../../../../zqsb/dzml/">地震目录</a></li>
+							
+								<li id="全球震讯"   class="treeli"><a href="../../../../zqsb/qqzx/">全球震讯</a></li>
+							
+								<li id="震情灾情"   class="treeli"><a href="../../../../zqsb/zqzq/">震情灾情</a></li>
+							
+								<li id="省内近期四级以上地震"   class="treeli"><a href="../../../../zqsb/snsjysdz/">省内近期四级以上地震</a></li>
+							
+						</ul>
+					
+					</li>
+                                         					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="178"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/qqzx/">全球震讯</a><span></span>
+<!--
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="178_menu" >
+					          
+						</ul>
+-->
+					</li>					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="181"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../zhxx/">工作动态</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="181_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zhxx/gg/">公告信息</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/sjgzdt/">省局工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/szgzdt/">市县工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gndt/">国内动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gjdt/">国际动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/yjxx/">预警信息</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="187"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../jgjj/">机构简介</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="187_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgjj/ldjs/">领导介绍</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/znzz/">职能职责</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/nsjg/">内设机构</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="191"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../dzkj/">地震科技</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="191_menu" >
+					          
+								<li class="treeli"><a href="../../../../../dzkj/kjcg/">科技成果</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/jcyj/">基础研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/kjcx/">科技创新</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/zdxm/">重大项目</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali"  onmouseout="shut(this.id+'_menu')"  id="196"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../xzsp/">行政审批</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="196_menu" >
+					          
+								<li class="treeli"><a href="../../../../../xzsp/bszn/">办事指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../xzsp/wsbs/">网上办事</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="199"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../zfxxgk/">政府信息公开</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree02" style="display:none" id="199_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkml/">政府信息公开目录</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkzn/">政府信息公开指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgknb/">政府信息公开年报</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/ysqgk/">依申请公开</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/jdts/">监督投诉</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgg/">公告</a></li>
+							
+						</ul>
+					
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="206"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../kpxc/">科普宣传</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="206_menu" >
+					          
+								<li class="treeli"><a href="../../../../../kpxc/dzzs/">地震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/kzzs/">抗震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/dzkpsp/">地震科普宣传视频点播</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/zddz/">世界重大地震</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="211"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../jgdj/">机关党建</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="211_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgdj/djgz/">党建工作</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/xxyd/">学习园地</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/ddzs/">党的知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/wmjs/">文明建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/qtgz/">群团工作</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="213"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../lzjs/">廉政建设</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="213_menu" >
+					          
+								<li class="treeli"><a href="../../../../../lzjs/gzdt/">工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/jzcm/">警钟长鸣</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lzwh/">廉政文化</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lltt/">理论探讨</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/gzzd/">规章制度</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/sxjs/">三项建设</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" ><a  target="_blank"   class="a_nes" href="http://220.167.54.135:8088/">数据共享</a>
+				
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+		
+		<div class="bmain">
+			<div class="dqxl">
+				<span>当前位置：<a href="../../../../../">首页</a>&gt;&gt;<a href="../../../../">新闻资讯</a>&gt;&gt;<a href="../../../">重要专题</a>&gt;&gt;<a href="../../">2012年地震演练专版</a>&gt;&gt;<a href="../">媒体聚焦</a></span>
+			</div>
+			<div class="bxltop"><img src="../../../../../images/dz_42.jpg"/></div>
+			<div class="tyxl">
+				<h1 style="font-family:宋体;">四川日报：地震来时怎么办？专家说保持镇定科学避震废墟下也不要绝望 </h1>
+<script>
+var futitle='';
+if(futitle.length>0){
+document.write('<br><br><span style="font-family:黑体;font-size:16px;padding-top:15px;">──&nbsp;'+futitle+'</span>');
+}
+</script>
+
+				<div class="title" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '四川日报(记者 刘淼淼)';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2012-04-16 11:42:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2012-04-16 11:42:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2012-04-16 11:42:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2012-04-16 11:42:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xgljdz" id="xiangguandiv">
+					<ul id="xiangguan" >
+					     
+					</ul>
+                                    				</div>
+	                       <script type="text/javascript">
+					   //控制相关文档的显示
+	                                           var  obj = document.getElementById("xiangguan");
+                                                 var div  = document.getElementById("xiangguandiv");  
+						var eles  = obj.childNodes;
+                                                  
+						if(eles.length==0){
+						    div.style.display="none";
+                                                      
+						}
+					
+					</script>
+
+				<div class="xl_box" id="content" >
+				  <div class="spbf"><DIV class=Custom_UnionStyle>
+<P>　　“地震来时，首先要镇定，然后视具体情况决定是跑还是躲。”4月6日，省地震局原局长、研究员韩渭宾为公众详解地震来时应如何应急避险时说，“即使被埋在废墟下，也不要放弃希望。”</P>
+<P>　　遇到大地震怎么办？</P>
+<P>　　低楼层“立即跑”，高楼层“先躲后跑”</P>
+<P>　　据韩渭宾介绍，大家遇到的地震大体可分为两种情况，一种是有感地震，仅仅有感觉而没有破坏性，包括发生在本地的小地震和发生在远处的较大地震。对此不必恐慌，也不需要采取任何避震措施。</P>
+<P>　　“‘5·12’汶川特大地震时，成都市民有些跑出去了，有些留在家里，这些人没事，出事的是那些采取极端措施，比如跳楼的人。”韩渭宾说，成都市区没有大的断层，不具备发生大地震的条件，且建筑的抗震设防烈度为7度设防，比较安全。</P>
+<P>　　另一种是有破坏性的大地震。遇到这种情况有两种选择，一是立即跑，二是先躲后跑。“在平房或楼房的较低楼层，比如一二层，可以立即跑出去避震。”韩渭宾说，如果是较高楼层，应选择就地避震，躲在室内安全的地方，等地震完了再撤离。</P>
+<P>　　“高楼往往在抗震设计上有特殊考虑，尽管地震时摇得很厉害，但不意味着会倒。”他说，即使真的垮塌，在较高楼层也来不及跑，而且地震时楼梯间往往破坏更重，贸然往外跑反而更危险。</P>
+<P>　　韩渭宾提醒公众，撤离时要快，但一定要有序，防止跌倒、拥挤、踩踏事件的发生；一定不要乘坐电梯；撤出房屋后一定要远离建筑物、高墙、陡崖、高压电线等危险部位。震区的群众还要注意两点：一是决不能再回到危房居住；二是要尽量远离可能出现地质灾害的危险地段。</P>
+<P>　　被埋在废墟里怎么办？</P>
+<P>　　想法自救或求救，保存体力</P>
+<P>　　“如果整栋建筑物垮塌，人被埋在废墟里，首先要镇定，想办法自救或求救。”韩渭宾说，如果无法自救或求救，就要保存体力，尽可能改善自己所处的环境。比如用湿毛巾、衣物捂住口鼻，防止灰尘呛闷发生窒息；清除脸上的灰土和压在身上的物件；用周围可以挪动的物品支撑身体上方的重物，避免进一步塌落；扩大活动空间，保持足够的空气。听到人声时，用硬物敲打墙壁、铁管等发出信号，或者吹口哨求救。</P>
+<P>　　其次，一定要有获救的信心。“在废墟下也不要绝望。虽说黄金救援时间是72小时，但如果坚持得好，人在废墟里可以坚持到一周，甚至十来天。”</P>
+<P>　　“除地震发生后的自救互救，平时多做些预防准备工作，也可减少地震带来的伤害。”韩渭宾强调，地震应急演练需要常态化，大家应多学一些防震避险知识，学习简单的伤口包扎处理方法，买房的时候先了解房子的抗震性能，尽量购买结实的家具，装修时尽可能将高大的家具固定等。还应摸清附近有哪些应急避险场所，明确地震发生后该往哪儿跑。</P>
+<P>　　室内避震位置</P>
+<P>　　●在教室、办公室、实验室、图书馆等处，可躲在书桌、实验台下面或旁边。</P>
+<P>　　●在礼堂、食堂、体育场馆、健身房内，可躲避在立柱旁边、内承重墙的墙根、墙角，也可躲在排椅、桌子、运动器具旁边。</P>
+<P>　　●在宿舍或家里，可躲进小开间的卫生间内，也可躲在内承重墙的墙根、墙角，躲在床、沙发等坚固家具旁边，或躲在坚固的桌子下面。</P>
+<P>　　注意：尽量避开阳台、窗户等不够安全的部位；避开可能有悬挂物或其他重物坠落的地方；避开非承重墙。</P>
+<P>　　错误避险案例</P>
+<P>　　江西九江地震的教训：</P>
+<P>　　缺乏正确应急知识造成不应有伤亡</P>
+<P>　　在2005年11月26日的江西九江5.7级地震中，死亡13人，没有一人是因为整栋房屋完全倒塌而压死，没有一人是死在家里，几乎都是由于缺乏正确的防震知识，仓皇出逃，在室外被掉落的砖块构件砸死。九江地震发生后，湖北省阳新、武穴、薪春三地学生在撤离时发生踩踏事件，造成103人受伤，其中7人重伤。</P>
+<P align=center><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020120416425823617056.jpg" OLDSRC="W020120416425823617056.jpg" _fcksavedurl="/webpic/W0201204/W020120416/W020120416425823617056.jpg"/></P>
+<P align=center>&nbsp;</P>
+<P align=center><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020120416425823615793.jpg" OLDSRC="W020120416425823615793.jpg" _fcksavedurl="/webpic/W0201204/W020120416/W020120416425823615793.jpg"/></P></DIV></div><br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+    			</div>
+			</div>
+			<div class="bxlbottom"><img src="../../../../../images/dz_44.jpg"/></div>
+		</div>
+		<div class="foot">
+
+
+			版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号<br />
+
+<a href="http://10.51.0.225:8080/wcm" target="_blank">网站管理</a>     <a target="_blank" href="http://mail.eqsc.gov.cn/">邮件登陆</a>     <a target='_blank' href="../../../../../wzdh/">网站地图</a>     <a href="../../../../../lxwm/" target="_blank">联系我们</a>
+		</div>
+		
+	</div>
+	
+</body>
+</html>

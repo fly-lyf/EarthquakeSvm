@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" class="now" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">震害防御</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">关于公示2012年上海市二级地震安全性评价工程师初始注册拟同意人员名单的通告<span>发布时间：2012-12-21</span></div>
+                <p><p><br />
+&nbsp;&nbsp;&nbsp; <font face="Arial">根据<font face="Arial">《地震安全性评价工程师制度暂行规定》（国人部发〔2005〕72号）和</font>《上海市二级地震安全性评价工程师注册实施办法》的规定，经审核，李志国等3人符合二级地震安全性评价工程师初始注册条件。现在上海市地震局网站（<a href="http://web.shea.gov.cn">http://web.shea.gov.cn</a>）上予以公示，公示截止日期为2012年12月30日。</font>&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp; 任何单位和个人如对符合二级地震安全性评价工程师注册条件的人员有异议，在公示期内可向我局震害防御处举报，举报或反映的情况应实事求是。以单位名义反映情况的，应加盖单位公章；以个人名义反映情况的，应署真实姓名和联系电话。&nbsp;<br />
+<br />
+&nbsp;&nbsp;&nbsp; 联系地址：上海市沈括路449号上海市地震局震防处 <br />
+&nbsp;&nbsp;&nbsp; 邮政编码：201203<br />
+&nbsp;&nbsp;&nbsp; 联系电话：021-58955275<br />
+&nbsp;&nbsp;&nbsp; 联系传真：021-58955275 <br />
+&nbsp;&nbsp;&nbsp; 邮箱地址：<a href="mailto:shfangzhenjianzai@126.com">shfangzhenjianzai@126.com</a><br />
+&nbsp;&nbsp;&nbsp; 联 系 人：宋思峻<font color="#000000">&nbsp;<br />
+</font><br />
+&nbsp;&nbsp;&nbsp; 附件：<font face="Arial">李志国等3人符合二级地震安全性评价工程师初始注册条件的名单</font> </p>
+<p>&nbsp;</p>
+<div align="center"><strong><font size="4"><font size="5"><font face="Arial">李志国等3人符合二级地震安全性评价工程师初始注册条件的名单</font></font></font></strong></div>
+<p>
+<table border="1" cellspacing="0" summary="" cellpadding="0" width="730" align="center" height="348">
+    <tbody>
+        <tr>
+            <td width="38">
+            <div align="center">序号</div>
+            </td>
+            <td width="155">
+            <div align="center">注册单位名称</div>
+            </td>
+            <td width="63">
+            <div align="center">姓 名</div>
+            </td>
+            <td width="47">
+            <div align="center">性别</div>
+            </td>
+            <td width="113">
+            <div align="center">资格证书专业</div>
+            </td>
+            <td width="113">
+            <div align="center">申请注册专业</div>
+            </td>
+            <td width="113">
+            <div align="center">审核通过专业</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="38">
+            <div align="center"><strong>1 </strong></div>
+            </td>
+            <td width="155">
+            <div align="center">中国电力工程顾问集团</div>
+            <div align="center">华东电力设计院</div>
+            </td>
+            <td width="63">
+            <div align="center"><font face="Arial">李志国</font></div>
+            </td>
+            <td width="47">
+            <div align="center">男</div>
+            </td>
+            <td width="113">
+            <div align="center">地震活动性评价</div>
+            </td>
+            <td width="113">
+            <div align="center">地震活动性评价</div>
+            </td>
+            <td width="113">
+            <div align="center">地震活动性评价</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="38">
+            <div align="center"><strong>2 </strong></div>
+            </td>
+            <td width="155">
+            <div align="center">上海岩土工程勘察设计</div>
+            <div align="center">研究院有限公司</div>
+            </td>
+            <td width="63">
+            <div align="center"><font face="Arial">李洪然</font></div>
+            </td>
+            <td width="47">
+            <div align="center">男</div>
+            </td>
+            <td width="113">
+            <div align="center">地震构造评价</div>
+            </td>
+            <td width="113">
+            <div align="center">地震构造评价</div>
+            </td>
+            <td width="113">
+            <div align="center">地震构造评价</div>
+            </td>
+        </tr>
+        <tr>
+            <td width="38">
+            <div align="center"><strong>3 </strong></div>
+            </td>
+            <td width="155">
+            <div align="center">上海岩土工程勘察设计</div>
+            <div align="center">研究院有限公司</div>
+            </td>
+            <td width="63">
+            <div align="center"><font face="Arial">沈&nbsp; 超</font></div>
+            </td>
+            <td width="47">
+            <div align="center">男</div>
+            </td>
+            <td width="120" nowrap="nowrap">
+            <div align="center">工程场地</div>
+            <div align="center">地震影响评价</div>
+            </td>
+            <td width="120">
+            <div align="center">工程场地</div>
+            <div align="center">地震影响评价</div>
+            </td>
+            <td width="120">
+            <div align="center">工程场地</div>
+            <div align="center">地震影响评价</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br />
+</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

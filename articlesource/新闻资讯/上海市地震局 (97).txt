@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">中国地震局赵和平副局长出席北京市2012年防灾减灾日主题宣传活动并为武警北京市总队地震灾害应急救援队揭牌 <span>发布时间：2012-05-15</span></div>
+                <p><p><br />
+&nbsp;&nbsp;&nbsp; 2012年5月12日上午，中国地震局赵和平副局长应邀出席由北京市政府在大兴区南海子公园举行的北京市5.12防灾减灾日主题宣传活动，北京市政府郭金龙市长、刘敬民副市长、丁向阳副市长和市政府孙康林秘书长等领导同志出席活动。中国地震局震灾应急救援司赵明司长、尹光辉副司长、北京市地震局吴卫民局长出席了活动，北京市有关委办局领导、北京市14个突发事件专项应急指挥部的23支专业应急救援队伍等1000余人参加活动。震灾应急救援司赵明司长、尹光辉副司长、北京市地震局吴卫民局长陪同出席。</p>
+<p>&nbsp;&nbsp;&nbsp; 活动主要内容是为武警北京市总队地震灾害应急救援队授旗和揭牌是活动的一项主要内容。郭金龙市长为武警北京市总队地震灾害应急救援队授旗，赵和平副局长和武警总部参谋长牛志忠中将、刘敬民副市长、武警北京市总队政委张瑞清少将共同为救援队揭牌。</p>
+<p>&nbsp;&nbsp;&nbsp; 武警北京市总队地震灾害应急救援队是为深入贯彻落实中国地震局陈建民局长和、武警总部王建平司令员在去年抗灾救灾力量建设会议上的讲话精神，由北京市地震局和武警北京市总队根据《北京市人民政府关于印发武警北京市总队地震灾害应急救援队组建方案的通知》（京政发〔2012〕6号），共同组建的一支由134人组成、担负发生地震灾害后搜索营救人员生命为主的地震应急救援队伍。</p>
+<p>&nbsp;&nbsp;&nbsp; 北京市地震局刚刚组建的北京市地震应急志愿者服务队作为北京市地震应急指挥部代表队参加活动。主题活动还发布了北京市社区防灾减灾电子地图。</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

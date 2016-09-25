@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局完成各单位、各部门集中考核工作<span>发布时间：2016-01-04&nbsp;&nbsp;&nbsp;&nbsp;信息来源：人事教育处</span></div>
+                <p><p>
+	　　12月21日-28日，由人事教育处组织，局机关各处室及各事业单位共分为6个考核小组进行了集中述职、考核。</p>
+<p>
+	　　所有参加述职的人员均高度重视这一年一次的个人述职机会，精心准备讲话稿，认真汇报个人一年来的工作、学习情况，对本职工作的感悟及自身存在的不足。并且在今年的述职中，越来越多职工采用了脱稿演讲方式，提高了自身表达能力，展现了所在部门的风采。</p>
+<p>
+	　　局党组成员也分别参加了不同组别的述职考核，对广大职工一年来的工作表现进行了点评，并借考核机会对台站的年度重点工作完成情况进行了检查。</p>
+<p>
+	　　随着我局事业单位绩效考核工作的全面推广，年度考核工作将越来越多地与日常绩效考核相结合，通过不断探索新方式，力求科学化的评价广大干部职工的工作实绩，促进防震减灾事业发展。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1601/201601040455359654.jpg" title="图像" wdimgid="image_478" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1601/201601040455368923.jpg" title="图像" wdimgid="image_479" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" class="now" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">应急救援</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局参加2010年全国地震应急指挥系统技术演练<span>发布时间：2010-08-27</span></div>
+                <p><p><br />
+&nbsp;&nbsp;&nbsp; 为了全面了解和掌握地震应急指挥系统运行情况，进一步提高地震应急指挥系统服务能力，2010年8月10至11日，在中国地震局震灾应急救援司的组织下，我局参加了2010年全国地震应急指挥系统技术演练。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 本次演练，局领导高度重视，亲自挂帅，成立了以王绍博副局长为总指挥长的上海市地震局演练指挥部，成员由局应急救援处，应急救援保障中心等部门参加，同时成立了3个工作小组，分别是指挥大厅技术保障组、现场通信系统保障组、后勤保障组，各个工作组分工明确，岗位到个人，责任到领导。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 8月10日，进行了指挥中心的技术系统演练，模拟了2010年08月10日08时28分00秒（北京时间）在上海市奉贤区（北纬31度，东经121.5度）发生5.6级地震。在接收到应急短信后，各应急人员迅速到岗，按照应急模式启动应急指挥大厅。演练中，分别使用动态评估系统、辅助决策系统产出《灾情简报》、《辅助决策报告》；制作行政区划，道路分布等专题图供指挥决策使用；通过视频会议向国家局进行了演练汇报。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 8月11日，进行了全国现场系统演练，将现场系统架设到崇明长江农场，使用现场通信系统实现了现场到我局应急指挥大厅、国家局的视频会议，并通过现场系统对演练进行了简要汇报。演练中，还根据要求使用VAST卫星信道，CDMA信道方式上传了灾情简报、地震要素图、灾情图片。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 本次全国地震应急指挥系统演练，检验了应急指挥系统的运行情况，同时还增强了应急人员的应急能力，更是对世博地震应急安保的一次体检，更好地服务世博安保工作，为今后的地震应急救援工作打下了坚实的基础。 </p>
+<p align="center"><img height="480" alt="" width="640" src="http://10.31.13.25/resource/Image/2010年/8月/应急演练/_MG_7845.JPG" /></p>
+<p align="center"><img height="480" alt="" width="640" src="http://10.31.13.25/resource/Image/2010年/8月/应急演练/_MG_7960.JPG" /></p>
+<p align="center"><img height="480" alt="" width="640" src="http://10.31.13.25/resource/Image/2010年/8月/应急演练/DSCF0142.JPG" /></p>
+<p align="center"><img height="480" alt="" width="640" src="http://10.31.13.25/resource/Image/2010年/8月/应急演练/_MG_8071.JPG" /><br />
+</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" class="now" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">应急救援</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>应急救援</h2>
+            </div>
+            <ul class="listTxt">
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai6890.html" title="2015年上海地震紧急救援联合演练举行">2015年上海地震紧急救援联合演练举行</a><span>2015-11-18</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai6862.html" title="上海市首次举行地震化救实战演练">上海市首次举行地震化救实战演练</a><span>2015-09-30</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai6865.html" title="我局参加2015年度华东地震应急联动协作演练">我局参加2015年度华东地震应急联动协作演练</a><span>2015-09-24</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai6864.html" title="上海市地震局局长吴建春出席中俄地震灾害卫生应急联合演练">上海市地震局局长吴建春出席中俄地震灾害卫生应急联合演练</a><span>2015-09-24</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai5439.html" title="2015年上海市防震减灾工作联席会议召开">2015年上海市防震减灾工作联席会议召开</a><span>2015-04-09</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai5390.html" title="市地震、民防、应急三部门联合调研上海市应急避难场所建设情况">市地震、民防、应急三部门联合调研上海市应急避难场所建设情况</a><span>2015-01-20</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai5356.html" title="2014年上海市地震应急救援技能实战演练在浦东地震应急训练基地举行">2014年上海市地震应急救援技能实战演练在浦东地震应急训练基地举行</a><span>2014-11-24</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai5251.html" title="我局开展应急值守总值班工作培训">我局开展应急值守总值班工作培训</a><span>2014-07-21</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai5187.html" title="我局与澳大利亚昆士兰消防与应急署开展中澳应急救援交流">我局与澳大利亚昆士兰消防与应急署开展中澳应急救援交流</a><span>2014-05-22</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai5049.html" title="上海市政府召开市防震减灾联席会议2014年工作会议">上海市政府召开市防震减灾联席会议2014年工作会议</a><span>2014-04-25</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai196.html" title="我局参加2010年全国地震应急指挥系统技术演练">我局参加2010年全国地震应急指挥系统技术演练</a><span>2010-08-27</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai189.html" title="上海地震应急救援队赴闽演练">上海地震应急救援队赴闽演练</a><span>2009-01-05</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai195.html" title="我局应急指挥项目工程通过验收">我局应急指挥项目工程通过验收</a><span>2008-07-30</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai194.html" title="华东地震应急联动协作区应急处长例会在沪召开">华东地震应急联动协作区应急处长例会在沪召开</a><span>2008-07-30</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai193.html" title="奥运保障专项演练成功举行">奥运保障专项演练成功举行</a><span>2008-07-30</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai192.html" title="我局指导长宁应急演练">我局指导长宁应急演练</a><span>2007-12-29</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai191.html" title="国家突发地质灾害应急预案">国家突发地质灾害应急预案</a><span>2007-12-29</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai190.html" title="国家自然灾害救助应急预案">国家自然灾害救助应急预案</a><span>2007-12-29</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai188.html" title="我局地震应急人员举行首次军训">我局地震应急人员举行首次军训</a><span>2007-12-18</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/yjjy/u1ai187.html" title="华东地震应急联动协作区第二次联席会议在上海地震局举行">华东地震应急联动协作区第二次联席会议在上海地震局举行</a><span>2007-12-17</span></li>
+                
+            </ul>
+            <div class="page">
+<font color=gray>首页 </font><font color=gray> 上一页 </font><A class=text-1 HREF="/gb\dzj/gzdt/yjjy/index1.html"> 下一页 </A><A  HREF=index1.html> 尾页 </A>
+                <span>第1页&nbsp;共2页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

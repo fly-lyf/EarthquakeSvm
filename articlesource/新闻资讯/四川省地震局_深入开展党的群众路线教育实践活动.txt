@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link href="../../../images/qzlx_default.css" rel="stylesheet" type="text/css"/>
+<title>四川省地震局_深入开展党的群众路线教育实践活动</title>
+
+</head>
+
+<body>
+<div class="top_banner">
+  <div class="nav">
+   <a href="./sjjs/">上级精神</a>|<a href="./bmdt/">部门动态</a>|<a href="./zywj/">重要文件</a>|<a href="./jcqk/">基层情况</a>|<a href="./fdcl/">辅导材料</a>
+  </div>
+</div>  
+<div class="main">
+ <div class="flash">
+ 
+ <DIV class=fla>
+<SCRIPT language=javascript type=text/javascript src="../../../images/lhflash.js"></SCRIPT>
+
+<DIV style="MARGINP: 1px; FLOAT: right;" id=focusViewer1>
+<SCRIPT language=javascript type=text/javascript>
+		var focus_width = 377;
+		var focus_height = 278;
+		var text_height = 20;
+		var swf_height = focus_height + text_height;
+		var curhref = document.location.href;
+
+		var pic = new Array();
+		var linka = new Array();
+		var text = new Array();
+		
+		
+		
+		pic.push('./jysjtpxw/201307/W020130711627512340004.jpg');
+		linka.push('./jysjtpxw/201307/t20130711_26712.html');
+		text.push('习近平在党的群众路线教育实践活动工作...');
+		
+		pic.push('./jysjtpxw/201307/W020130711627391554609.jpg');
+		linka.push('./jysjtpxw/201307/t20130711_26711.html');
+		text.push('习近平主持召开中共中央政治局专门会议...');
+		
+		pic.push('./jysjtpxw/201308/W020130805419137132491.jpg');
+		linka.push('./jysjtpxw/201308/t20130805_26868.html');
+		text.push('中国地震局党的群众路线教育实践活动全...');
+		
+		pic.push('./jysjtpxw/201308/W020130805553630115172.jpg');
+		linka.push('./jysjtpxw/201308/t20130805_26883.html');
+		text.push('四川省召开党的群众路线教育实践活动工...');
+		
+			
+		var pics = pic.join('|');
+		var links = linka.join('|');
+		var texts = text.join('|');					
+
+		var FocusFlash = new sinaFlash("../../../images/pixviewer.swf", "focusflash", focus_width, swf_height, "7", "#FFFFFF", false, "High");
+		FocusFlash.addParam("allowScriptAccess", "sameDomain");
+		FocusFlash.addParam("menu", "false");
+		FocusFlash.addParam("wmode", "opaque");
+		FocusFlash.addVariable("pics", pics);
+		FocusFlash.addVariable("links", links);
+		FocusFlash.addVariable("texts", texts);
+		FocusFlash.addVariable("borderwidth", focus_width);
+		FocusFlash.addVariable("borderheight", focus_height);
+		FocusFlash.addVariable("textheight", text_height);
+		FocusFlash.addVariable("curhref", curhref);
+		FocusFlash.write("focusViewer1");
+	</SCRIPT>
+</DIV></DIV>
+ 
+ </div>
+ <div class=" news">
+  <span style="float:right; line-height:36px; margin-right:12px;"><a href="./sjjs/" style="color:#FFF;">>>更多</a></span>
+   <div class="topnew">
+     <h3><a href="./sjjs/201307/t20130711_26696.html" target="_blank">习近平主持召开中共中央政治局专门会议并发表重要讲话</a></h3>
+     <p>按照中央关于党的群众路线教育实践活动首先在中央政治局开展的精神，中共中央政治局于６月２２日至２５日召开专门会议，围绕保持党的先......  <a TARGET="_blank" href='./sjjs/201307/t20130711_26696.html'>[详细内容]</a></p>
+     <ul>
+	 
+       <li><span>[2014-02-07]</span>&middot;<a href="./sjjs/201402/t20140207_28696.html" target="_blank">贯彻群众路线没有休止符　作风建设永远在路上</a></a></li>
+	   
+       <li><span>[2014-01-22]</span>&middot;<a href="./sjjs/201401/t20140122_28648.html" target="_blank">习近平在党的群众路线教育实践活动第一批总结暨第二批部署会议上强...</a></a></li>
+	   
+       <li><span>[2014-01-09]</span>&middot;<a href="./sjjs/201401/t20140109_28598.html" target="_blank">刘云山主持中央党的群众路线教育实践活动领导小组会议部署第一批活...</a></a></li>
+	   
+       <li><span>[2013-12-20]</span>&middot;<a href="./sjjs/201312/t20131220_28518.html" target="_blank">中共中央政治局常委听取联系点省区群众路线教育实践活动总体情况汇...</a></a></li>
+	   
+       <li><span>[2013-12-20]</span>&middot;<a href="./sjjs/201312/t20131220_28517.html" target="_blank">确保形成的制度长期管用——一鼓作气抓好第一批活动收尾工作之二</a></a></li>
+	   
+       <li><span>[2013-12-20]</span>&middot;<a href="./sjjs/201312/t20131220_28516.html" target="_blank">确保整改成效让群众满意——一鼓作气抓好第一批活动收尾工作之一</a></a></li>
+	   
+     </ul>
+   </div>
+ </div>
+ <p class="clear"> </p>
+ <div class="list_box">
+   <div class="tit"><span><a href='./bmdt/'>>>更多</a></span><b>部门动态</b></div>
+   <ul>
+      
+       <li><span>[2014-02-27]</span>&middot;<a href="./bmdt/201402/t20140227_28751.html" target="_blank">“党的群众路线教育实践活动只有起点，没有终点”</a></a></li>
+	   
+       <li><span>[2014-01-23]</span>&middot;<a href="./bmdt/201401/t20140123_28656.html" target="_blank">四川省地震局召开党组中心组（扩大）学习会——传达贯彻...</a></a></li>
+	   
+       <li><span>[2014-01-20]</span>&middot;<a href="./bmdt/201401/t20140120_28633.html" target="_blank">四川省地震局举办党的群众路线教育实践活动先进事迹报告会</a></a></li>
+	   
+       <li><span>[2014-01-14]</span>&middot;<a href="./bmdt/201401/t20140114_28616.html" target="_blank">四川省地震局召开党组中心组学习会</a></a></li>
+	   
+       <li><span>[2014-01-14]</span>&middot;<a href="./bmdt/201401/t20140114_28612.html" target="_blank">四川省地震局赴“挂包帮”活动联系点开展春节走访慰问活动</a></a></li>
+	   
+     </ul>
+ </div>
+ <div class="list_box list_box_left">
+   <div class="tit"><span><a href='./zywj/'>&gt;&gt;更多</a></span><b>重要文件</b></div>
+   <ul>
+     
+       <li><span>[2013-11-28]</span>&middot;<a href="./zywj/201311/t20131128_28462.html" target="_blank">党政机关厉行节约反对浪费条例</a></a></li>
+	   
+       <li><span>[2013-11-06]</span>&middot;<a href="./zywj/201311/t20131106_28324.html" target="_blank">中国地震局党组研究部署整改落实、建章立制环节工作</a></a></li>
+	   
+       <li><span>[2013-10-11]</span>&middot;<a href="./zywj/201310/t20131011_28195.html" target="_blank">中央党的群众路线教育实践活动领导小组印发《关于认真学...</a></a></li>
+	   
+       <li><span>[2013-08-27]</span>&middot;<a href="./zywj/201308/t20130827_27055.html" target="_blank">中央党的群众路线教育实践活动领导小组印发通知要求深入...</a></a></li>
+	   
+       <li><span>[2013-07-11]</span>&middot;<a href="./zywj/201307/t20130711_26701.html" target="_blank">关于第一批党的群众路线教育实践活动学习用书有关事项的...</a></a></li>
+	   
+   </ul>
+ </div>
+ <div class="list_box">
+   <div class="tit"><span><a href='./jcqk/'>&gt;&gt;更多</a></span><b>基层情况</b></div>
+   <ul>
+     
+       <li><span>[2014-01-30]</span>&middot;<a href="./jcqk/201401/t20140130_28685.html" target="_blank">乐山市防震减灾局学习习近平总书记在党的群众路线教育实...</a></a></li>
+	   
+       <li><span>[2013-11-22]</span>&middot;<a href="./jcqk/201311/t20131122_28425.html" target="_blank">办公室党支部组织开展“回头看”学习活动</a></a></li>
+	   
+       <li><span>[2013-11-22]</span>&middot;<a href="./jcqk/201311/t20131122_28424.html" target="_blank">四川省地震局测绘工程院传达学习党的十八届三中全会精神</a></a></li>
+	   
+       <li><span>[2013-11-15]</span>&middot;<a href="./jcqk/201311/t20131115_28368.html" target="_blank">四川省地震局测绘工程院召开党的群众路线教育实践活动专...</a></a></li>
+	   
+       <li><span>[2013-11-11]</span>&middot;<a href="./jcqk/201311/t20131111_28352.html" target="_blank">四川省地震局测绘工程院召开党的群众路线教育实践活动专...</a></a></li>
+	   
+   </ul>
+ </div>
+ <div class="list_box list_box_left">
+   <div class="tit"><span><a href='./fdcl/'>&gt;&gt;更多</a></span><b>辅导材料</b></div>
+   <ul>
+     
+       <li><span>[2014-01-22]</span>&middot;<a href="./fdcl/201401/t20140122_28650.html" target="_blank">以上率下　示范全党——习近平总书记等中共中央政治局常...</a></a></li>
+	   
+       <li><span>[2014-01-22]</span>&middot;<a href="./fdcl/201401/t20140122_28649.html" target="_blank">永远植根人民　永远服务人民——第一批党的群众路线教育...</a></a></li>
+	   
+       <li><span>[2013-12-13]</span>&middot;<a href="./fdcl/201312/t20131213_28493.html" target="_blank">实现伟大奋斗目标的基本遵循——一论深入学习贯彻习近平...</a></a></li>
+	   
+       <li><span>[2013-12-12]</span>&middot;<a href="./fdcl/201312/t20131212_28488.html" target="_blank">解决突出问题要“准、狠、韧”——三论整改落实如何推进</a></a></li>
+	   
+       <li><span>[2013-11-22]</span>&middot;<a href="./fdcl/201311/t20131122_28422.html" target="_blank">警惕形式主义换“马甲”</a></a></li>
+	   
+   </ul>
+ </div>
+<p class="clear"> </p>
+<div class="pic_box">
+  <ul>
+
+  <!--图片滚动开始-->
+<div id="demo" style="overflow:hidden;width:900px;"> 
+
+<table cellpadding="0" cellspacing="0" border="0"> 
+<tr><td id="demo1" valign="top" align="center"> 
+<table cellpadding="8" cellspacing="0" border="0"> 
+<tr align="center"> 
+<td>
+<!--图片列表-->
+
+
+<table cellpadding="2" cellspacing="8" border="0"> 
+<tr align="center"> 
+  
+     
+   <td><a href="./tpj/201308/t20130808_26917.html"><img src='./tpj/201308/W020130808450608254156.jpg' width="167" height="115"/></a><br><a href="./tpj/201308/t20130808_26917.html" target="_blank">四川省地震局副局长吕弋培...</a></td>
+   
+   <td><a href="./tpj/201308/t20130805_26880.html"><img src='./tpj/201308/W020130808449945753147.jpg' width="167" height="115"/></a><br><a href="./tpj/201308/t20130805_26880.html" target="_blank">四川省地震局主持召开教育...</a></td>
+   
+   <td><a href="./tpj/201308/t20130805_26879.html"><img src='./tpj/201308/W020130805545720382291.jpg' width="167" height="115"/></a><br><a href="./tpj/201308/t20130805_26879.html" target="_blank">四川省地震局召开党的群众...</a></td>
+   
+   <td><a href="./tpj/201307/t20130719_26755.html"><img src='./tpj/201307/W020130719346069730150.jpg' width="167" height="115"/></a><br><a href="./tpj/201307/t20130719_26755.html" target="_blank">中国地震局督导五组组长丁...</a></td>
+   
+   <td><a href="./tpj/201307/t20130719_26758.html"><img src='./tpj/201307/W020130719347597707904.jpg' width="167" height="115"/></a><br><a href="./tpj/201307/t20130719_26758.html" target="_blank">中国地震局督导组组织开展...</a></td>
+   
+   <td><a href="./tpj/201308/t20130805_26871.html"><img src='./tpj/201308/W020130805398342886303.jpg' width="167" height="115"/></a><br><a href="./tpj/201308/t20130805_26871.html" target="_blank">四川省地震局副局长吕弋培...</a></td>
+   
+   <td><a href="./tpj/201308/t20130805_26872.html"><img src='./tpj/201308/W020130805398634002930.jpg' width="167" height="115"/></a><br><a href="./tpj/201308/t20130805_26872.html" target="_blank">四川省地震局副局长吕弋培...</a></td>
+   
+   <td><a href="./tpj/201308/t20130805_26873.html"><img src='./tpj/201308/W020130805398940587389.jpg' width="167" height="115"/></a><br><a href="./tpj/201308/t20130805_26873.html" target="_blank">四川省地震局副局长李广俊...</a></td>
+   
+   <td><a href="./tpj/201307/t20130719_26759.html"><img src='./tpj/201307/W020130719348142854138.jpg' width="167" height="115"/></a><br><a href="./tpj/201307/t20130719_26759.html" target="_blank">四川省地震局宣教中心传达...</a></td>
+   
+   <td><a href="./tpj/201307/t20130719_26757.html"><img src='./tpj/201307/W020130719347166608682.jpg' width="167" height="115"/></a><br><a href="./tpj/201307/t20130719_26757.html" target="_blank">四川省地震局办公室传达贯...</a></td>
+   
+   <td><a href="./tpj/201308/t20130805_26875.html"><img src='./tpj/201308/W020130805399473599574.jpg' width="167" height="115"/></a><br><a href="./tpj/201308/t20130805_26875.html" target="_blank">四川省地震局减灾救助研究...</a></td>
+   
+   <td><a href="./tpj/201307/t20130719_26756.html"><img src='./tpj/201307/W020130719346602852739.jpg' width="167" height="115"/></a><br><a href="./tpj/201307/t20130719_26756.html" target="_blank">四川省地震局局长张宏卫在...</a></td>
+   
+   <td><a href="./tpj/201307/t20130719_26754.html"><img src='./tpj/201307/W020130719345529734396.jpg' width="167" height="115"/></a><br><a href="./tpj/201307/t20130719_26754.html" target="_blank">四川省地震局召开党的群众...</a></td>
+   	  
+
+</tr> 
+</table> 
+<!--图片列表-->
+</td> 
+</tr> 
+</table> 
+</td> 
+<td id="demo2" valign="top"></td> 
+</tr> 
+</table> 
+</div> 
+<script>
+
+ 
+var speed=50 //速度数值越大速度越慢 
+demo2.innerHTML=demo1.innerHTML 
+function Marquee(){ 
+if(demo.scrollLeft<=0) 
+demo.scrollLeft+=demo2.offsetWidth 
+else{ 
+demo.scrollLeft-- 
+} 
+} 
+var MyMar=setInterval(Marquee,speed) 
+demo.onmouseover=function() {clearInterval(MyMar)} 
+demo.onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+</script>
+
+<!--图片滚动结束-->
+
+  </ul>
+  <p class="clear"></p>
+</div>
+<a href="mailto:jysjhdyjx@eqsc.gov.cn"><img src="../../../images/an01.jpg" width="105" height="27" style="float:right; margin-bottom:10px;"/></a>
+<img src="../../../images/qzlx_links.jpg" width="921" height="47" border="0" usemap="#Map2"/>
+
+<map name="Map2" id="Map2">
+  <area shape="rect" coords="0,1,226,40" href="http://qzlx.people.com.cn" target="_blank" />
+  <area shape="rect" coords="231,2,459,40" href="http://www.cpcnews.cn"  target="_blank" />
+  <area shape="rect" coords="462,2,690,76" href="http://www.cea.gov.cn"  target="_blank" />
+  <area shape="rect" coords="693,1,920,63" href="http://www.eqsc.gov.cn/zdzj/zgm/" target="_blank"/>
+</map>
+</div>
+
+
+<div id="ShowAD" style="position:absolute;z-index:100;">
+	        
+				<div style="margin-top: 6px"> 
+					<a target="_blank" href="./sbdby/" > 
+						<img width="145" height="122" src="../../../images/qzlx_sbby.jpg" border="0"/>
+				</a>
+			</div>				
+					
+		
+</div>
+
+
+		
+	
+		
+<script language="javascript">  
+    var bodyfrm = ( document.compatMode.toLowerCase()=="css1compat" ) ? document.documentElement : document.body;
+    var adst = document.getElementById("ShowAD").style;
+    adst.top = ( bodyfrm.clientHeight -530-22 ) + "px";
+    adst.left = ( bodyfrm.clientWidth -145 ) + "px";
+    function moveR() {
+    adst.top = ( bodyfrm.scrollTop + bodyfrm.clientHeight - 530-22) + "px";
+  
+    }
+    setInterval("moveR();", 80);
+    function closead()
+    {
+    adst.display='none';
+    }
+</script>
+<div class="footer">
+  
+  版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+  防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号</div>
+</body>
+</html>

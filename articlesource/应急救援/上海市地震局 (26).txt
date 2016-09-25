@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" class="now" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">应急救援</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局举行突发地震应急模拟实战演练<span>发布时间：2007-12-17</span></div>
+                <p><p align="center"><font face="Arial" size="4"><strong>我局举行突发地震应急模拟实战演练</strong></font></p>
+<p align="left"><font face="Arial">　　<img style="WIDTH: 331px; HEIGHT: 247px" height="369" alt="" width="501" src="http://web2.sbsn.net/resource/现场演示.jpg" /><img style="WIDTH: 345px; HEIGHT: 247px" height="311" alt="" width="314" src="http://web2.sbsn.net/resource/分析震情.jpg" /></font></p>
+<p align="left"><font face="Arial">&nbsp;&nbsp;&nbsp; 　5月3日下午3时，我局举行了一次突发地震应急模拟实战演练。张骏局长一声令下，监测中心根据我局地震应急预案要求，立即通知我局1号应急人员紧急集合。所有接到命令人员立刻扔下手头的一切事情，从全市四面八方，以最快的速度迅速赶到了自己的岗位上。</font></p>
+<p align="left"><font face="Arial">　　演练开始，朱元清副局长即刻通告值班人员，在某地发生了一次地震，局监测中心迅即在规定地震速报时间内并提前准确地报出了地震发生的时间、地点和震级三要素。局预测分析中心立刻调集有关近期和历史资料进行分析，按实战要求在规定时间内快速拿出了震情发展趋势判断意见。 </font></p>
+<p align="left"><font face="Arial">　　地震应急演练成功举行后，副局长王建军、纪检组长李红芳对这次行动作了评估，局党组书记张骏局长肯定了这次演练所取得的成绩，并指出了演练中还存在的问题和不足之处。张骏局长再三告戒大家，悠悠万事，震情第一，尤其是在节假日的时候，地震工作者更要时刻保持高度的震情观念，时刻做好防震准备，要做到常备不懈，招之即来，来之能战，战之能胜！</font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

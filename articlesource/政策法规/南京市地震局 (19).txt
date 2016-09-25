@@ -1,0 +1,574 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../../images/style(2).css">
+<SCRIPT src="../../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55216';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../../" class='wz CurrChnlCls'>政策法规</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>政策文件</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>南京市相关文件</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>南京市地震应急工作检查管理办法</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2012-04-15</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_3035820"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=3035820"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <DIV align=center>关于印发《南京市地震应急工作检查</DIV>
+<DIV align=center>管理办法》的通知</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>各区县人民政府、各有关单位： </DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为进一步加强我市地震应急工作，增强地震应急反应能力，规范地震应急检查，以便及时发现和解决地震应急工作中存在的问题，根据《中华人民共和国防震减灾法》、《破坏性地震应急条例》、《江苏省防震减灾条例》和《江苏省地震应急工作检查管理办法》（苏震发〔2011〕63号）等法律法规和文件精神，市地震局会同市政府应急办、市发展和改革委员会、市民政局、市安全生产监督管理局，制定了《南京市地震应急工作检查管理办法》，现印发给你们，请认真实施。</DIV>
+<DIV>2005年12月21日市地震局、市发改委、市财政局、市民政局、市安监局联合印发的《关于印发〈南京市地震应急检查工作实施方案〉的通知》（宁震〔2005〕21号）同时废止。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>南&nbsp;&nbsp; &nbsp;京&nbsp;&nbsp;&nbsp; 市&nbsp; &nbsp;&nbsp;地 &nbsp; &nbsp;震&nbsp;&nbsp; 局&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南京市政府应急管理办公室</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>南京市市发展和改革委员会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 南&nbsp; &nbsp;京&nbsp;&nbsp; 市&nbsp;&nbsp; 民 &nbsp;&nbsp;政&nbsp; &nbsp;局</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>南京市安全生产监督管理局</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>二○一二年三月十六日</DIV>
+<DIV>&nbsp;</DIV><BR clear=all>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center><B>南京市地震应急工作检查管理办法</B></DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>第一章&nbsp; 总则</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第一条&nbsp; 为加强地震应急管理工作，规范地震应急工作检查，促进地震应急救援工作科学依法统一、有力有序有效开展，根据《中华人民共和国突发事件应对法》、《中华人民共和国防震减灾法》、《破坏性地震应急条例》、以及《江苏省破坏性地震应急预案管理规定》（苏震联办〔2004〕1号）、《南京市突发公共事件总体应急预案》宁政发〔2006〕28号)、《南京市地震应急预案》，参照《江苏省地震应急工作检查管理办法》(苏震发[2011]63号)，制定本办法。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第二条 &nbsp;地震应急检查工作要在各级政府的统一领导下，实行分级、分部门管理。</DIV>
+<DIV>南京市地震应急检查工作在南京市人民政府的领导下，由南京市地震局和南京市政府应急管理办公室、南京市发展和改革委员会、南京市民政局、南京市安全生产监督管理局（以下简称：市政府应急办、市发改委、市民政局、市安监局）及南京市人民政府其他有关部门，共同做好全市地震应急工作检查。</DIV>
+<DIV>各区县人民政府负责管理地震工作的部门或者机构和其他有关部门在本级人民政府领导下，共同做好本行政区域地震应急工作检查。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 市地震局对区县地震应急检查工作进行指导。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第三条&nbsp; 地震应急检查工作遵循实事求是、注重实效的原则，及时发现问题、总结经验，促进地震应急准备工作的落实，实现高效、有序地实施地震应急和救灾工作。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>第二章&nbsp; 机构组成与职责</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第四条&nbsp; 南京市地震应急工作检查，在南京市人民政府的领导下，由南京市抗震救灾指挥部办公室(市地震局)会同市政府应急办、市发改委、市民政局、市安监局、及南京市人民政府其他有关部门共同组成南京市地震应急工作检查组。检查组职责包括：</DIV>
+<DIV>&nbsp; &nbsp;&nbsp;&nbsp; （一）制定全市地震应急工作检查方案；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （二）组织开展全市地震应急工作检查；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （三）向市人民政府报告全市地震应急工作检查情况；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; （四）向接受检查的区县人民政府反馈地震应急工作检查情况，提出整改意见；</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; （五）跟踪监督地震应急工作检查整改措施落实情况。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第五条&nbsp; 各区县地震应急工作检查由区县级人民政府负责管理地震工作的部门或者机构会同本级人民政府其他有关部门共同组成本行政区域地震应急工作检查组组织实施。检查组的具体组成及职责由各地根据实际情况制定。</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>第三章&nbsp; 检查对象与内容</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第六条&nbsp; 全市地震应急工作检查对象包括：本级政府有关部门、各区县人民政府及其有关部门和相关单位（企事业单位、社会团体和居民居住区等）。全市地震应急检查的重点是位于地震重点监视防御区和地震重点危险区的区县人民政府及其有关部门、重要基础设施和人员密集场所的经营管理单位，以及可能发生次生灾害的生产经营单位和基层组织等。</DIV>
+<DIV>区县地震应急工作检查对象包括：区县政府有关部门、乡镇（街道）人民政府及其有关部门、重要基础设施和人员密集场所的经营管理单位，以及可能发生次生灾害的生产经营单位和基层组织等。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第七条&nbsp; 地震应急工作检查依据《中华人民共和国防震减灾法》、《破坏性地震应急条例》、《江苏省防震减灾条例》、《南京市地震应急预案》，以及市、县（区）人民政府及其有关部门和相关单位等制定的地震应急预案进行。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; 第八条&nbsp; 地震应急工作检查主要内容：</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; （一）地震应急救援组织体系建设：地震应急管理工作部署及贯彻落实情况；抗震救灾指挥机构建设情况；地震应急工作机构建设情况。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; （二）地震应急救援法规制度建设情况：地震应急救援法律、法规和标准贯彻执行情况；地震应急救援工作制度建设情况等。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; （三）地震应急预案体系建设：地震应急预案和与地震相关防灾减灾综合预案制定情况；地震应急救援培训、演练计划制定和实施情况；地震应急预案管理制度建设情况等。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; （四）地震应急救援技术体系建设：地震应急指挥技术平台及灾情速报系统建设情况；地震应急救援技术研究和科技支撑建设情况。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; （五）地震应急和救援队伍建设：地震应急处置队伍建设情况；地震灾害紧急救援队伍建设情况；矿山和危险品救护队伍建设情况；紧急医学救援队伍建设情况；其他可从事地震抢险救援队伍建设情况等。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; （六）地震应急救援工作机制建设情况：地震应急救援工作制度建设情况；震情灾情公告、通报、发布机制建设情况；地震应急资源与信息共享机制建设情况；地震应急救援联动工作机制建设情况；地震应急救援协调机制建设情况等。</DIV>
+<DIV>&nbsp;&nbsp; （七）地震应急救援物资装备和基础设施建设：抗震救灾应急物资储备情况；地震应急救援专用装备建设情况；地震应急救援物资装备征用机制建设情况；防震减灾及地震应急救援财政资金投入情况等。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; （八）地震应急避难场所规划、建设及使用管理情况。重点目标（生命线工程、重大次生灾害源、人员密集场所等）的应急保障措施情况。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; （九）地震应急救援社会动员机制建设：地震灾害社会工作人才队伍建设情况；地震应急救援志愿者队伍建设情况；企事业单位、社会组织和基层组织等应急救援能力建设情况；社会公众防震避险与自救互救能力建设情况等。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp; （十）地震应急救援科普宣传教育：地震应急救援科普宣教制度与机制建设情况；地震应急救援科普宣教体系建设情况；社会公众应急救援知识宣传普及情况等。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>第四章&nbsp; 检查方式与步骤</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第九条&nbsp; 地震应急工作检查一般采取自查和抽查等方式。抽查方式包括：听取汇报、召开座谈会、实地检查以及现场观摩等。&nbsp; </DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十条&nbsp; 全市地震应急工作检查由全市地震应急工作检查组统一部署，根据需要可采用全面检查方式，也可采用对部分内容或单项进行检查方式，一般每年开展一次，或根据震情形势需要，随时进行。</DIV>
+<DIV>各区县人民政府根据全市地震应急工作检查安排开展自查，并将自查报告按要求报市地震应急工作检查组。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp; 第十一条&nbsp; 各区县地震应急工作检查由区县级人民政府地震应急工作检查组根据需要定期、不定期开展。</DIV>
+<DIV>市地震局和区县人民政府负责管理地震工作的部门或者机构视情派人员实地参与下一级地震应急检查工作。</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>第五章&nbsp; 检查总结与评估</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十二条&nbsp; 市地震应急工作检查组在全市地震应急工作检查结束后，对检查情况进行总结和评估，及时向有关区县人民政府进行反馈，并将全市地震应急工作检查情况报市人民政府和省地震局。</DIV>
+<DIV>接受检查的区县人民政府、有关部门和单位，应当根据检查组提出的反馈意见，及时制定整改措施，并将整改落实情况报检查组。 </DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=center>第六章&nbsp; 附则</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十三条&nbsp; 开展地震应急工作检查时，应做好可能引发地震谣言等影响社会稳定的各项防范工作。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十四条&nbsp; 各区县根据实际情况，参照本办法制定或修订本行政区域的地震应急工作检查管理办法。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十五条&nbsp; 本办法由南京市地震局负责解释。</DIV>
+<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 第十六条&nbsp; 本办法自2012年4月15日起施行。</DIV>
+<DIV align=right>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>主题词：地震&nbsp; 应急&nbsp; 检查&nbsp; 办法&nbsp; 通知</DIV>
+<DIV align=left>&nbsp;&nbsp; 抄送：江苏省地震局、市政府办公厅</DIV>
+<DIV align=left>&nbsp;&nbsp;&nbsp;南京市地震局&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012年3月16日印发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </DIV>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55216';var __$contentid='3035820';var __$title='南京市地震应急工作检查管理办法';var __$AuthorPh='';var __$Editor='';var __$Liability='陈琳';var __$pubtime='2012-04-15 00:00:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

@@ -1,0 +1,1162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" class="now" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">震害防御</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海市地震安全性评价收费项目和收费标准<span>发布时间：2011-08-12</span></div>
+                <p><span>&nbsp;
+<p align="center"><img alt="" width="495" height="700" src="http://10.31.13.25/resource/Image/002011年/8/收费标准/1.jpg" /></p>
+<p align="center"><img alt="" width="495" height="700" src="http://10.31.13.25/resource/Image/002011年/8/收费标准/2.jpg" /></p>
+<div>
+<div align="center"><img alt="" width="495" height="700" src="http://10.31.13.25/resource/Image/002011年/8/收费标准/3.jpg" /></div>
+<br />
+<br />
+一、区域地震活动性和地震构造分析</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="31">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="111">
+            <div>名称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="132">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="top" width="264" colspan="3">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="middle" rowspan="2" width="72">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="86">
+            <div>一级工作</div>
+            </td>
+            <td valign="top" width="86">
+            <div>二级工作</div>
+            </td>
+            <td valign="top" width="90">
+            <div>三、四级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="31">
+            <div>1-1</div>
+            </td>
+            <td valign="middle" width="111">
+            <div>区域地震</div>
+            <div>活动性分析</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>收集资料、编目编图、计算分析</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>10000</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>4500</div>
+            </td>
+            <td valign="middle" width="90">
+            <div>2000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10％</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="31">
+            <div>1-2</div>
+            </td>
+            <td valign="middle" width="111">
+            <div>区域地震构造调查与综合分析</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>收集资料、编图、野外调查、分析</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>40000</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>12000</div>
+            </td>
+            <td valign="middle" width="90">
+            <div>8000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10％</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="31">
+            <div>1-3</div>
+            </td>
+            <td valign="middle" width="111">
+            <div>地震区、带</div>
+            <div>划分</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>综合分析、边界确定、分析编图</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>10000</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>3500</div>
+            </td>
+            <td valign="middle" width="90">
+            <div>2000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10％</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="610" colspan="7">
+            <div>备注：不含地震构造调查所需进行的勘察和样品分析费用，区域范围超过300&times;300（平方公里）时比照增加收费。</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div><br />
+&nbsp;二、近场场区地震活动性与地震构造分析</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="31">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="111">
+            <div>名称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="132">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="top" width="264" colspan="3">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="middle" rowspan="2" width="72">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="86">
+            <div>一级工作</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>二级工作</div>
+            </td>
+            <td valign="middle" width="91">
+            <div>三、四级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="31">
+            <div>2-1</div>
+            </td>
+            <td valign="middle" width="111">
+            <div>近场区地震活动性分析</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>编目、分析</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>6000★</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>2500★</div>
+            </td>
+            <td valign="middle" width="91">
+            <div>1200★</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10％</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="31">
+            <div>2-2</div>
+            </td>
+            <td valign="middle" width="111">
+            <div>近场和场区地震构造综合分析</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>搜集资料、野外勘察、编图、综合分析</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>28000</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>14000</div>
+            </td>
+            <td valign="middle" width="91">
+            <div>8400</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10％</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="31">
+            <div>2-3</div>
+            </td>
+            <td valign="middle" width="111">
+            <div>近场和场区地震构造</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>物探、化探</div>
+            </td>
+            <td valign="middle" width="336" colspan="4">
+            <div>参照国家计委、建设部《关于发布&lt;工程勘察设计收费管理规定&gt;的通知》（计价格[2002]10号）的收费项目和收费标准执行</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="610" colspan="7">
+            <div>备注：1.带★项目指不含重要地震参数复核费用；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.近场区面积超过50&times;50（平方公里）、场区面积超过2平方公里时比照增加收费；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.工程勘察设计收费规定应参照国家最新勘察收费规定实施。</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div><br />
+&nbsp;三、场地工程地震条件评价</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="30">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="112">
+            <div>名称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="132">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="top" width="264" colspan="3">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="top" rowspan="2" width="71">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="86">
+            <div>一级工作</div>
+            </td>
+            <td valign="top" width="86">
+            <div>二级工作</div>
+            </td>
+            <td valign="top" width="92">
+            <div>三、四级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="30">
+            <div>3-1</div>
+            </td>
+            <td valign="middle" width="112">
+            <div>场地土动力性质及常规测定</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>场地现场和室内实验、测试</div>
+            </td>
+            <td valign="middle" rowspan="2" width="335" colspan="4">
+            <div>参照国家计委、建设部《关于发布&lt;工程勘察设计收费管理规定&gt;的通知》（计价格[2002]10号）的收费项目和收费标准执行</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" rowspan="2" width="30">
+            <div>3-2</div>
+            </td>
+            <td valign="middle" rowspan="2" width="112">
+            <div>场地工程地震条件评价</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>钻探</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="132">
+            <div>分析计算、综合研究</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>11000★</div>
+            </td>
+            <td valign="middle" width="86">
+            <div>5500★</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>3500★</div>
+            </td>
+            <td valign="middle" width="71">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="610" colspan="7">
+            <div>备注：1.带★项目指场区面积超过2平方公里时比照增加收费；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.工程勘察设计收费规定应参照国家最新勘察收费规定实施。</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div><br />
+&nbsp;四、地震烈度与地震动衰减关系分析</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="38">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="117">
+            <div>名&nbsp;称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="120">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="top" width="264" colspan="3">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="top" rowspan="2" width="72">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="85">
+            <div>一级工作</div>
+            </td>
+            <td valign="top" width="85">
+            <div>二级工作</div>
+            </td>
+            <td valign="top" width="92">
+            <div>三、四级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>4-1</div>
+            </td>
+            <td valign="middle" width="117">
+            <div>地震烈度衰减关系确定</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>搜集资料、分析计算</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>17000</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>5000</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>2000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>4-2</div>
+            </td>
+            <td valign="middle" width="117">
+            <div>基岩地震动衰减关系确定</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>分析资料、分析计算</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>22000</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>5500</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>2000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div><br />
+&nbsp;五、地震危险性确定性分析</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="38">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="123">
+            <div>名称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="162">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="middle" width="216">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="middle" rowspan="2" width="72">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="216">
+            <div>一级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>5-1</div>
+            </td>
+            <td valign="middle" width="123">
+            <div>地震构造法</div>
+            </td>
+            <td valign="middle" width="162">
+            <div>野外调查、分析计算</div>
+            </td>
+            <td valign="middle" width="216">
+            <div>25000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>5-2</div>
+            </td>
+            <td valign="middle" width="123">
+            <div>历史地震法</div>
+            </td>
+            <td valign="middle" width="162">
+            <div>资料收集、分析计算</div>
+            </td>
+            <td valign="middle" width="216">
+            <div>20000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>5-3</div>
+            </td>
+            <td valign="middle" width="123">
+            <div>综合评价</div>
+            </td>
+            <td valign="middle" width="162">
+            <div>分析计算、综合评价</div>
+            </td>
+            <td valign="middle" width="216">
+            <div>8000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="540" colspan="4">
+            <div>备注：不含相关的勘察和样品分析费用。</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>&nbsp;</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div><br />
+六、地震危险性概率分析</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="38">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="105">
+            <div>名称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="132">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="top" width="264" colspan="3">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="top" rowspan="2" width="72">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="85">
+            <div>一级工作</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>二级工作</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>三、四级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>6-1</div>
+            </td>
+            <td valign="middle" width="105">
+            <div>潜在震源区划分</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>模型设计、综合分析</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>18000</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>7000</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>4000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>6-2</div>
+            </td>
+            <td valign="middle" width="105">
+            <div>地震活动性参数确定</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>模型计算、参数选取</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>11000</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>7000</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>4000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>6-3</div>
+            </td>
+            <td valign="middle" width="105">
+            <div>地震危险性概率计算</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>模拟分析、概率计算</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>18000</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>9000</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>6000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>6-4</div>
+            </td>
+            <td valign="middle" width="105">
+            <div>不确定性校正</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>经验估计、综合计算</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>7000</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>4000</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>2000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>6-5</div>
+            </td>
+            <td valign="middle" width="105">
+            <div>综合评价</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>分析计算、综合评价</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>6000</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>2000</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>1000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div><br />
+&nbsp;七、场地基岩地震动参数确定</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="38">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="105">
+            <div>名称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="132">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="top" width="264" colspan="3">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="middle" rowspan="2" width="72">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="85">
+            <div>一级工作</div>
+            </td>
+            <td valign="top" width="85">
+            <div>二级工作</div>
+            </td>
+            <td valign="top" width="92">
+            <div>三、四级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>7-1</div>
+            </td>
+            <td valign="middle" width="105">
+            <div>基岩反应谱衰减关系确定</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>资料收集、衰减规律确定、计算分析</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>13200</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>4400</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>2200</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>7-2</div>
+            </td>
+            <td valign="middle" width="105">
+            <div>基岩目标反应谱和形状函数确定</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>形状函数设计、分析计算</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>11000</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>4400</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>2200</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>7-3</div>
+            </td>
+            <td valign="middle" width="105">
+            <div>基岩加速度时程</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>计算分析</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>4400</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>2200</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>1100</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="612" colspan="7">
+            <div>备注：1.基岩反应谱及形状函数确定以一个场点、水平向一个概率水准为计价单位；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.基岩水平向加速度时程以一条为计价单位；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.竖向地震动参数确定在此基础上增加20%。</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div>&nbsp;</div>
+<div>&nbsp;八、场地设计地震动参数确定</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="38">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="117">
+            <div>名称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="120">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="top" width="264" colspan="3">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="top" rowspan="2" width="72">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="85">
+            <div>一级工作</div>
+            </td>
+            <td valign="top" width="85">
+            <div>二级工作</div>
+            </td>
+            <td valign="top" width="92">
+            <div>三、四级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>8-1</div>
+            </td>
+            <td valign="middle" width="117">
+            <div>计算模型及模型参数确定</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>软件调试、资料收集、计算分析</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>14300</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>4400</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>3300</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>8-2</div>
+            </td>
+            <td valign="middle" width="117">
+            <div>场地地震动效应分析</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>资料收集、分析计算</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>16500</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>4400</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>2200</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>8-3</div>
+            </td>
+            <td valign="middle" width="117">
+            <div>地震动参数与场地相关反应谱确定</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>计算分析</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>13200</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>4400</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>4400</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>8-4</div>
+            </td>
+            <td valign="middle" width="117">
+            <div>场地设计地震动参数确定</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>计算分析、综合评定</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>16500</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>4400</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>4400</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="38">
+            <div>8-5</div>
+            </td>
+            <td valign="middle" width="117">
+            <div>设计加速度时程</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>计算分析</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>4950</div>
+            </td>
+            <td valign="middle" width="85">
+            <div>3850</div>
+            </td>
+            <td valign="middle" width="92">
+            <div>1650</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="612" colspan="7">
+            <div>备注：1.平坦场地的地震动效应研究、地震动参数与场地相关反应谱确定及场地设计地震动参数确定以一个场点、水平方向、一个概率水准为计费单位；存在局部地形影响的非平坦场地及介质横向不均匀性较大场地，按3倍收费；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.设计加速度时程以一条为计费单位；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.大型桥梁、高层建筑等需在同一场点多个层位提供地震动的工程，收费根据工作议定；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.场地竖向地震动参数确定在此基础上增加20%。</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div>&nbsp;<br />
+九、地震小区划综合分析</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" width="46">
+            <div>序号</div>
+            </td>
+            <td valign="middle" width="168">
+            <div>名称</div>
+            </td>
+            <td valign="middle" width="156">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="46">
+            <div>9-1</div>
+            </td>
+            <td valign="middle" width="168">
+            <div>地震动小区划</div>
+            </td>
+            <td valign="middle" width="156">
+            <div>综合分析、地震模拟计算分析、编图</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>10000</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="46">
+            <div>9-2</div>
+            </td>
+            <td valign="middle" width="168">
+            <div>地震地质灾害小区划</div>
+            </td>
+            <td valign="middle" width="156">
+            <div>综合分析计算、编图</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>12000</div>
+            </td>
+            <td valign="middle" width="120">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="610" colspan="5">
+            <div>备注：以50平方公里为计费单位，不含基础工作。</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div><br />
+&nbsp;十、地震地质灾害评价</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="46">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="107">
+            <div>名称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="120">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="top" width="264" colspan="3">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="top" rowspan="2" width="72">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="84">
+            <div>一级工作</div>
+            </td>
+            <td valign="top" width="84">
+            <div>二级工作</div>
+            </td>
+            <td valign="top" width="96">
+            <div>三、四级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="46">
+            <div>10-1</div>
+            </td>
+            <td valign="middle" width="107">
+            <div>地震地质灾害评估</div>
+            </td>
+            <td valign="top" width="120">
+            <div>现场调查、综合分析</div>
+            </td>
+            <td valign="middle" width="84">
+            <div>18000</div>
+            </td>
+            <td valign="middle" width="84">
+            <div>12000</div>
+            </td>
+            <td valign="middle" width="96">
+            <div>8000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="610" colspan="7">
+            <div>备注：1.地震地质灾害指可能因地震影响引起的湖涌、地裂缝、滑坡崩塌、砂土液化、软土震陷等；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.以一个场地、一个地震地质灾害为计费单位；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.不含钻孔、物探、样品分析等基础工作。</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div>&nbsp;<br />
+十一、辅助工作与评审</div>
+<div>
+<table border="1" cellspacing="0" summary="" cellpadding="0">
+    <tbody>
+        <tr>
+            <td valign="middle" rowspan="2" width="46">
+            <div>序号</div>
+            </td>
+            <td valign="middle" rowspan="2" width="96">
+            <div>名称</div>
+            </td>
+            <td valign="middle" rowspan="2" width="132">
+            <div>主要作业方法</div>
+            </td>
+            <td valign="top" width="264" colspan="3">
+            <div>收费标准（元）</div>
+            </td>
+            <td valign="top" rowspan="2" width="72">
+            <div>上下浮动幅度</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="84">
+            <div>一级工作</div>
+            </td>
+            <td valign="top" width="84">
+            <div>二级工作</div>
+            </td>
+            <td valign="top" width="96">
+            <div>三、四级工作</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="46">
+            <div>12-1</div>
+            </td>
+            <td valign="middle" width="96">
+            <div>辅助工作</div>
+            </td>
+            <td valign="top" width="132">
+            <div>编写报告、清绘图件、报告打印、复印、装订</div>
+            </td>
+            <td valign="middle" width="84">
+            <div>17500</div>
+            </td>
+            <td valign="middle" width="84">
+            <div>11000</div>
+            </td>
+            <td valign="middle" width="96">
+            <div>8000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="46">
+            <div>12-2</div>
+            </td>
+            <td valign="middle" width="96">
+            <div>工作成果</div>
+            <div>评审</div>
+            </td>
+            <td valign="middle" width="132">
+            <div>市级评审</div>
+            </td>
+            <td valign="middle" width="84">
+            <div>11000</div>
+            </td>
+            <td valign="middle" width="84">
+            <div>10000</div>
+            </td>
+            <td valign="middle" width="96">
+            <div>8000</div>
+            </td>
+            <td valign="middle" width="72">
+            <div>10%</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="middle" width="610" colspan="7">
+            <div>备注：1.评审费包括差旅费、会议费、专家评审费、资料费等；</div>
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.国家级评审、市级初审由双方协商。</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</span></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>四川省地震局召开庆祝建党90周年暨“创先争优”表彰大会 </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '四川省地震局机关党委';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-06-30 12:06:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 12:06:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 12:06:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 12:06:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P>　　6月29日，四川省地震局召开&nbsp;“庆祝建党90周年暨‘&nbsp;创先争优’表彰大会”。在蓉局离休老干部，局机关、直属事业单位全体党员，离退休各党支部委员，在蓉下属单位各支部委员以及接受表彰的先进集体、先进个人参加会议，党组书记、局长张宏卫，党组成员、副局长王力、吕弋培，党组成员、副局长、直属机关党委书记李广俊，党组成员、纪检组长王继斌出席会议。会议由王继斌主持。&nbsp;</P>
+<P>　　王力通报了中共四川省直机关工委《关于表彰命名创先争优“示范单位、示范党组织、示范星”的决定》，水库地震研究所党支部被省直工委评为创先争优示范党组织，成都地震基准台党支部被评为创先争优示范单位，李建明同志被评为创先争优示范星；宣读了中共四川省地震局直属机关党委《关于表彰“创先争优”先进党组织、优秀共产党员和优秀党务工作者的决定》，为人事教育处等7个先进党组织，杨志敏等25位优秀共产党员，曾援朝等8名优秀党务工作者颁发了荣誉证书。&nbsp;</P>
+<P>　　李广俊代表局直属机关党委作了主题讲话。讲话中，他回顾了中国共产党的光辉历程，总结了四川省防震减灾事业取得的新成绩，对基层党组织发挥的战斗堡垒作用和共产党员发挥的先锋模范作用给予充分肯定，并就下一步工作做出了具体部署，要求各党支部以深入开展“创先争优”活动为载体，进一步加强基层党组织建设和党员队伍建设；以扎实推进学习型党组织建设为重点，进一步加强党的思想政治建设和能力建设；以着力推动机关作风建设和党风廉政建设为抓手，进一步加强党的作风建设；以切实抓好学习贯彻《党和国家机关基层组织工作条例》为契机，进一步加强党务部门自身建设；统一思想认识，凝聚发展合力，切实推进四川防震减灾事业进一步发展。&nbsp;</P>
+<P>　　王继斌在最后强调,四川防震减灾工作者要更加紧密地团结在以胡锦涛同志为总书记的党中央周围，高举中国特色社会主义伟大旗帜，深入贯彻落实科学发展观，坚持科学防震减灾、依法防震减灾、合力防震减灾，坚持抢抓机遇，一心一意谋发展，坚持夯实基础，时刻准备防大震防早震，坚持齐抓共管，全力打造干事创业内外部环境的工作思路，时刻牢记党的宗旨，大力弘扬优良传统，认真履行历史使命，为保护四川人民生命财产安全，为实现四川由防震减灾大省向防震减灾强省转变作出新的更大的贡献。&nbsp;</P>
+<P>　　会议在慷慨激昂的《国际歌》声中圆满结束。会后，局党组成员与获得表彰的单位代表和先进个人亲切合影。</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415160695304.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701412063346026.jpg" OLDSRC=W020110701415160695304.jpg/></P>
+<P align=center>会议现场</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415160691166.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701412206626844.jpg" OLDSRC=W020110701415160691166.jpg/></P>
+<P align=center>局长张宏卫出席会议</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415160841029.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701412495533668.jpg" OLDSRC=W020110701415160841029.jpg/></P>
+<P align=center>副局长王力宣读表彰决定</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415160846430.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701412753659415.jpg" OLDSRC=W020110701415160846430.jpg/></P>
+<P align=center>创先争优“示范单位”“示范党组织”“示范星”</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415160847741.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701413137569037.jpg" OLDSRC=W020110701415160847741.jpg/></P>
+<P align=center>“创先争优”先进党组织</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415160846654.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701413390065474.jpg" OLDSRC=W020110701415160846654.jpg/></P>
+<P align=center>局领导向优秀共产党员颁发荣誉证书</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415161006596.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701414107729030.jpg" OLDSRC=W020110701415161006596.jpg/></P>
+<P align=center>优秀党务工作者</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415161003143.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701414368816846.jpg" OLDSRC=W020110701415161003143.jpg/></P>
+<P align=center>副局长李广俊做专题讲话</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415161005831.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701414641940666.jpg" OLDSRC=W020110701415161005831.jpg/></P>
+<P align=center>纪检组长王继斌主持会议</P>
+<P align=center><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110701415161004723.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110701414913196860.jpg" OLDSRC=W020110701415161004723.jpg/></P>
+<P align=center>局党组成员与获得表彰的单位代表和先进个人亲切合影</P><br/>
+					  
+				  <div style="display:none">
+				     <a href="./t20110701_20131.html"><img src="./W020110701415162406019.jpg" alt="庆祝建党90周年暨“创先争优”表彰大会"/></a><BR/><a href="./t20110701_20131.html"><img src="./W020110701415162405988.jpg" alt="局党组成员与获得表彰的单位代表和先进个人亲切合影"/></a>
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,419 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>云南盐津“8.25”5.1级地震现场应急工作</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">云南盐津“8.25”5.1级地震现场应急工作</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-08-30 11:13:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局震灾应急救援司
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><P align=center>[[image1]]&nbsp; [[image2]]</P>
+<P align=center>[[image3]]&nbsp; [[image4]]</P>
+<P align=center>[[image5]]</P>
+<P>&nbsp;&nbsp;&nbsp; 据中国地震台网测定，2006年8月25日13时51分41秒，云南盐津县发生Ms5.1级地震，震中位于北纬28°03′，东经104°07′，震源深度7公里。据当地政府报告，此次地震造成一定人员伤亡，盐津县和大关县部分乡镇受灾。</P>
+<P><STRONG>&nbsp;&nbsp;&nbsp; 一、中国地震局应急响应</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp; 地震发生后，中国地震局立即启动地震应急预案，并派出了由震灾应急救援司陈虹副司长、高玉峰处长和中国地震应急搜救中心地质构造专家李岩峰博士、中国地震台网中心预报专家薛艳副研究员以及地震工程研究中心结构专家田学民博士组成的现场工作组，于25日晚飞赴云南地震现场，26日，现场工作组与云南省地震局现场工作队会合后，成立地震现场联合指挥部，协助灾区政府开展抗震救灾工作。</P>
+<P><STRONG>&nbsp;&nbsp;&nbsp; 二、云南省地震局应急响应</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp; 地震发生后，云南省地震局立即启动地震应急预案，成立了由胡永龙副局长为队长的38人现场工作队，在震后50分钟后分批出发，赶赴地震灾区。第一批队员于25日18时30分到达灾区后立即投入到现场工作中， 26日02时云南省地震现场工作队与昭通市地震局有关同志在指挥部召开第一次工作会议，部署各项工作。由于地震导致道路受阻，云南省地震现场工作队后续队员于26日04时30分全部安全到达现场指挥部。</P>
+<P><STRONG>&nbsp;&nbsp;&nbsp; 三、现场指挥部工作</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp; 26日上午，先期到达的云南省地震局现场工作队派出了8个地震现场灾害评估小组，对本次受灾较为严重的村镇进行了灾害调查。26日下午，现场联合指挥部与云南省政府副秘书长何兴泽带领的云南省政府现场工作组，共同考察了盐津县人民医院、盐津二中、豆沙镇小学、盐井镇黎山村、芭蕉村和新民村等受灾较严重的灾区，并慰问了受灾群众。</P>
+<P>&nbsp;&nbsp;&nbsp; 26日晚22:30，地震现场联合指挥部召开会议，各组介绍了当天的工作情况和存在的问题。陈虹副司长首先传达了中国地震局党组对云南盐津地震现场工作的关心和重视，并对云南省地震局近两天来的工作给予了充分肯定，同时要求在开展现场工作中要特别注意安全，并强调针对此次地震灾害与上次地震灾害叠加的情况，要采取科学有效的手段和令人信服的数据，对本次地震灾害给出科学合理和实事求是的评估结果。胡永龙指挥长对做好下一步地震现场工作进行了具体安排。</P>
+<P>&nbsp;&nbsp;&nbsp; 27日上午，陈虹副司长和胡永龙副局长等一行参加了由云南省人民政府副秘书长何兴泽主持召开的“云南盐津‘8.25’地震抗震救灾现场办公会”。云南省民政厅等10个省直机关和昭通市人民政府、部分市直机关，盐津县委、县政府和大关县政府的领导，以及新闻媒体等共100余人参加了此次会议。</P>
+<P>&nbsp;&nbsp;&nbsp; 胡永龙副局长，首先介绍了此次地震灾情、震情和现场工作的开展情况，并对滇东北地区未来震情趋势进行了简要分析，同时建议政府要注意次生灾害的发生造成新的灾害损失，要求盐津和大关两县教育、民政、水利等部门抓紧把灾害损失情况报现场指挥部。</P>
+<P>&nbsp;&nbsp;&nbsp; 陈虹副司长，首先传达了中国地震局党组对此次地震的高度重视和关心，对灾区各级政府的抗震救灾工作给予了充分肯定，并对此次地震的震害特点进行了分析，陈虹副司长要求，要采取科学有效的方法，以令人信服的数据，实事求是地给出灾害评估结果，对当地政府抗震救灾和恢复重建工作提出了以下建议：</P>
+<P>&nbsp;&nbsp;&nbsp; 1、在抗震救灾过程中应注意避险保安，应对好恶劣天气和地质次生灾害给抗震救灾和恢复重建带来的困难，应做好险情排查，对灾区沿山公路采取护坡措施，防止滑坡、滚石等次生灾害的发生。</P>
+<P>&nbsp;&nbsp;&nbsp; 2、应进一步加强对抗震救灾和防震减灾知识的宣传，增强民众的防震减灾意识，提高防震、避震能力，安抚民心，维护社会稳定。</P>
+<P>&nbsp;&nbsp;&nbsp; 3、恢复重建工作应与推进地震安全民居工程紧密结合起来，在恢复重建中应加强建筑物的抗震设防。</P>
+<P>&nbsp;&nbsp;&nbsp; 27日晚，现场指挥部召开会议，胡永龙指挥长介绍了当日上午现场办公会情况，之后对当天现场工作进行了总结，同时布置了28日的工作任务，他要求大家要注意安全，继续做好下阶段工作。陈虹副司长传达了陈建民局长和赵和平副局长局对现场工作队的关心，并强调大家在现场工作中要注意安全，再接再厉做好最后阶段的工作。</P>
+<P>&nbsp;&nbsp;&nbsp; 28日，陈虹副司长一行在昭通市、盐津县、大关县省政府和昭通市地震局、民政局等有关领导的陪同下，深入到盐津县中和乡艾田村、中和村，中和乡柿子一社，大关县高桥乡派出所、计划生育办公室、高桥乡苗圃希望中学和木杆镇甘顶村等地仔细了解灾情，亲切慰问受灾群众，检查指导抗震救灾工作。陈副司长每到一户，都仔细询问受灾情况，了解群众的生产生活情况，并鼓励大家要坚定信心，在党和政府的关心和支持下，克服困难、重建家园。在查看灾情期间，陈副司长建议各级有关部门要采取有效措施，进一步排危除险，确保人民群众生命财产安全。</P>
+<P>&nbsp;&nbsp;&nbsp; 胡永龙副局长一行在大关县委、县政府及有关部门领导的陪同下，前往灾情较重的大关县吉利镇营底村新华村民小组及大关县高桥乡等地深入灾区详细察看灾情并看望了受灾群众，并对部分贫穷的少数民族灾民进行了亲切慰问。</P>
+<P><STRONG>&nbsp;&nbsp;&nbsp; 四、现场工作队应急行动</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp; 25日19时05分，云南省地震现场工作队在赶往盐津县地震现场途中，在大关县吉利镇架设完成第一台测震仪；胡永龙副局长在途经大关县吉利镇时与大关县县委书记就灾情交换了意见。进入盐津后，在盐津县县长的陪同下，与民政厅有关领导一起初步察看了豆沙镇灾情，受省委、省政府委托前往盐津县第一人民医院看望并慰问了受伤的群众。</P>
+<P>&nbsp;&nbsp;&nbsp; 26日02时，云南省地震局现场工作队与由7人组成的昭通市地震局现场工作队联合召开第一次工作会议，宣布成立地震现场指挥部，指挥长由胡永龙副局长担任，同时明确了秘书、震情监视预报、测震、强震、灾评、后勤和通讯7个工作组和相关负责人；会议强调了现场工作纪律和安全问题。 截至26日04:30，测震组已在大关县吉利镇，盐津县豆沙镇、柿子乡完成3台测震仪架设工作，并记录到90多次余震，通讯组已完成第一批资料的上传工作，当日灾评组分8个小组（大关3组，盐津5组）深入灾区展开灾害调查工作。截至26日晚，现场工作队共架设了3台测震仪和2台强震仪，密切监测震区微震活动情况。</P>
+<P>&nbsp;&nbsp;&nbsp; 27日，现场工作队各小组继续分头行动。灾害评估分9个小组前往灾情较为严重的盐津、大关、豆沙、中和等乡镇开展调查，并扩大工作区域，继续对民房、教育系统、卫生系统和其他公用房屋以及生命线工程展开调查，中国地震局现场工作组3位专家分别参加各小组开展工作。截至27日晚，灾评组共调查了46个点，调查显示，由于灾害叠加原因，受灾范围明显扩大。 </P>
+<P>&nbsp;&nbsp;&nbsp; 测震组继续密切监视灾区的余震情况。27日共收集了3个台的数据，强震组共收集到26条记录，其中26日16时48分四川布拖县ML4.7级地震的强震记录，27日08时54分2.8级余震自由场地响应为40.4gal。预报组积极分析地震序列，提供趋势判定意见。</P>
+<P>&nbsp;&nbsp;&nbsp; 28日，灾评组克服了山高路险等困难，继续加大对灾区民房的抽样调查。本次地震波及范围明显大于“7.22”5.1级地震，盐津县新老城区的遭受此次地震破坏的程度也高于上次，28日灾评组派出了3个工作小组对城区房屋进行了深入抽样调查。同时派出了4个工作组加强了对生命线系统受灾情况的调查力度，分别对水利设施、通讯、电力、交通和供排水等系统进行专项调查。</P>
+<P>&nbsp;&nbsp;&nbsp; 截至8月28日22:00，此次地震共造成2人死亡，分别因25日13时51分5.1级地震和27日08时54分的2.8级余震造成滚石滑落砸死，39人受伤，其中重伤7人（盐津5人，大关2人）。此次地震共记录到10次余震,其中1.0-1.9级地震3次, 2.0-2.9级地震6次，3.0-3.9级地震1次，最大余震是26日02:26分的3.3级地震。</P>
+<P>&nbsp;&nbsp;&nbsp; 2006年8月29日09时14分，云南盐津县（北纬28°00"，东经104°11"，震源深度8公里）再次发生了4.7级地震，据当地政府报告，截至29日中午12:00，此次地震共造成18人受伤，其中重伤4人（盐津县豆沙镇1人、盐井镇1人；大关县2人），轻伤14人（盐津县豆沙镇3人、柿子乡1人、盐井镇2人；大关县天星乡1人、寿山乡中心校学生2人教师1人、吉利镇4人）。盐津县柿子乡水平村、中平村、岔河村、柿子村灾情相对较重；中和乡政府办公楼受损；落雁乡共和小学、天井小学教学楼受损，学生已全部转移。截至29日下午16:00，当日共记录5次余震，分别为12时19分2.6级、12时43分2.8级、13时25分2.5级、13时35分3.1级和13时44分2.3级地震。测震组判定此次地震为震群型地震。29日4.7级地震发生后，现场指挥部派出7个灾评小组分别赶赴灾情较重的地区进一步展开灾害调查工作，强震组也赶赴强震台站收集分析相关数据，测震组严密监视余震的发生，分析地震序列，截止发稿，灾情详细情况在进一步核实调查中。</P>
+<P><STRONG>&nbsp;&nbsp;&nbsp; 五、当地政府应急响应</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp; 27日云南省地震现场工作组在盐津县召开了“云南盐津‘8.25’地震抗震救灾现场办公会”，云南省人民政府何兴泽副秘书长，首先感谢由陈虹副司长带领的中国地震局现场工作一行对盐津5.1级地震抗震救灾工作的重视和关心，并对下一阶段的抗震救灾工作提出要求：</P>
+<P>&nbsp;&nbsp;&nbsp; 1、要从讲政治的高度，认真贯彻省委、省政府关于此次地震的重要批示和指示精神，确保灾民有住所、有被盖、有饭吃、有水喝、伤病能医治。各级主要领导要亲自抓，其他领导要抓好落实，必须责任到人。各部门要各司其职，帮助灾区解决实际问题。</P>
+<P>&nbsp;&nbsp;&nbsp; 2、要加强宣传报道，宣传好各级党委政府和在一线抗震救灾的好典型、好榜样，使全社会形成合力，抗震救灾、重建家园。</P>
+<P>&nbsp;&nbsp;&nbsp; 3、要发动广大群众自力更生，重建家园，并抓住有利时机，积极开展恢复重建，恢复重建一定要先行规划，在使用这两次地震救灾资金时，一定要严肃纪律，强化管理，统筹安排，项目建设一定要公开、公正、公平，按程序和规定办事。</P>
+<P>&nbsp;&nbsp;&nbsp; 25日-28日来，当地政府全力救治伤员，伤势较重的人员已全部收治住院，对其他伤势较轻的伤员全部进行了现场治疗，目前医疗队仍在灾区继续为灾民服务。省、市、县组织的帐篷、棉被、衣物、大米、食用油、矿泉水等应急物资已陆续运抵灾区向灾民发放。解放军、武警战士、消防官兵以及当地干部群众积极帮助灾民搭建帐篷、抗震棚。基本上确保了广大灾民有临时住所、有被盖、有饭吃、有干净水喝、有伤有病能医治，灾民情绪稳定，灾区社会安宁。各方媒体对当地政府的抗震救灾工作给予极大关注和报道，维护了社会稳定。同时，当地政府正在率领灾区人民积极开展恢复重建工作。（云南盐津5.1级地震联合地震现场工作队供稿）</P>
+<P align=center>[[image10]]</P>
+<P align=center>[[image6]]&nbsp; [[image7]]</P>
+<P align=center>[[image8]]&nbsp; [[image9]]</P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

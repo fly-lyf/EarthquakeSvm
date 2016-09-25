@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>生命只为一个信仰——重庆红色教育有感 </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '颜晓晔';
+					var sourcecontent = '台管中心党支部党员';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-06-30 15:13:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:13:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:颜晓晔  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:13:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者:颜晓晔 &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:13:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P>　　《红岩》、《烈火中永生》是那么的熟悉，又是那么的陌生。还依稀记得小学每逢清明，老师便携上我们来到“华西”毛英才烈士像前，送上一朵小白花，鞠上深深的一躬。幼年的我是那么的朦胧，不知道什么是地下党，更不知道什么是信仰。&nbsp;</P>
+<P>　　我志愿加入中国共产党．．．．．．&nbsp;</P>
+<P>　　二○一一年六月十四日，入党的第一次宣誓。在渣滓洞前，在人群之中，我为这个称号而荣耀，我更为我是一名共产党人而自豪、而骄傲。曾经向着少先队旗宣誓，继承先烈的遗志，踏着先烈们的脚印前进。现在我来到了先烈们战斗的地方，步过一间间牢房，望着一张张照片，仿佛穿越到了过去，去感悟他们的内心，去领略他们的精神，去触碰他们的力量。&nbsp;</P>
+<P>　　渣滓洞原为煤窑，因为渣多煤少而得名。三面环山，一面邻沟，地形隐蔽。1943年军统特务逼死矿主，霸占煤窑及矿工住房，将其改造为看守所。监狱分为内外两院，内院有一个放风场，有一楼一底的男牢16间，另有女牢两间。被囚禁在渣滓洞监狱的主要是“6.1”大逮捕的“要犯”，华蓥山武装起义失败后的革命者，《挺进报》案和民革命案中的被捕人员。如江竹筠、许建业、余祖胜、何雪松等政治犯最多时达300多人。我们已无法见到当初的原貌，重庆解放前夕，国民党特务纵火焚烧了渣滓洞，仅逃出15位被囚禁的革命者，其余皆不幸牺牲。&nbsp;</P>
+<P>　　“白公馆”原为四川军阀白驹的别墅，1939年春，戴笠为审讯、关押革命者，亲自出马到歌乐山下一带选址，用重金买下改为看守所。军统将白公馆改为监狱，地下贮藏室改为地牢，原防空洞改为刑讯室，一楼一底的住房改为牢房。关押的均属军统认为“案情严重”的政治犯，例如抗日爱国将领黄显声、同济大学校长周均时、爱国人士廖承志、共产党员宋绮云、徐林侠夫妇及幼子“小萝卜头”等200多人。&nbsp;</P>
+<P>　　为人进出的门紧锁着，一批批关押的革命者和共产党人，大多被相继一一残忍杀害，他们没有屈服，他们没有低下高贵的头，这需要何等的英勇气概，需要对党和祖国的无比热爱以及他们对信仰的无比忠诚。&nbsp;</P>
+<P>　　红岩上红梅开，千里冰霜脚下踩，三九严寒何所惧，一片丹心向阳开．．．．．．&nbsp;</P>
+<P>　　社会在发展，历史的车轮在向前推进，当年的疾风暴雨，血火硝烟早已散去，我们已随着时代的步伐迈入二十一世纪，迈入温馨、和平的时代，我们过着安详、充裕的生活，那段历史已离我们渐行渐远。&nbsp;</P>
+<P>　　忘记历史就意味着背叛，失去信仰，我们将一无所有。“为人民服务”不仅仅是一句口号，作为一名普普通通的共产党员，我无法去改变什么，只能律己而已。</P><br/>
+					  
+				  <div style="display:none">
+				     
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

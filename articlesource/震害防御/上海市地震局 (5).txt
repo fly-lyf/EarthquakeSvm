@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" class="now" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">震害防御</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">关于印发《上海市二级地震安全性评价工程师注册实施办法》的通知<span>发布时间：2011-08-12</span></div>
+                <p><p align="center"><br />
+<font size="5"><strong>上海市二级地震安全性评价工程师注册实施办法 </strong></font></p>
+<p align="center"><font size="4"><strong>第一章　总则</strong></font> </p>
+<p align="left">&nbsp;&nbsp;&nbsp; <strong>第一条</strong>　为规范上海市二级地震安全性评价工程师注册管理工作，根据《中华人民共和国行政许可法》、《地震安全性评价工程师制度暂行规定》（国人部发〔2005〕72号）、《关于印发&lt;一级地震安全性评价工程师注册实施办法&gt;的通知》（中震防发〔2008〕153号）和相关法律法规，制定本办法。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第二条</strong>　上海市行政区域内二级地震安全性评价工程师注册管理适用本办法。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第三条</strong>　上海市地震工作主管部门（以下称受理部门）为上海市二级地震安全性评价工程师注册审批机关，负责上海市行政区域内二级地震安全性评价工程师注册申请的受理和审批工作。 </p>
+<p align="center"><font size="4"><strong>第二章　注册申报程序</strong></font></p>
+<p align="left">&nbsp;<br />
+&nbsp;&nbsp;&nbsp; <strong>第四条</strong>　取得二级地震安全性评价工程师资格证书并申请注册的人员，应受聘于本市具有地震安全性评价资质的单位，并通过聘用单位向上海市地震局提出注册申请。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第五条</strong>　申请人应当如实向聘用单位提供有关申报材料，聘用单位应当进行核实并如实向受理部门提供申请材料，申请人和聘用单位对材料内容的真实性负责。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第六条</strong>　注册申请包括初始注册、延续注册、变更注册、注销注册。二级地震安全性评价工程师遗失或污损注册证书、执业印章的，可申请补办。 <br />
+<br />
+&nbsp;&nbsp;&nbsp;<strong> 第七条</strong>　申请人可自资格证书签发之日起1年内申请初始注册。逾期未申请的，在申请初始注册时，应当提供相应的继续教育证明，其学习内容应当符合有关二级地震安全性评价工程师继续教育的规定。初始注册有效期为3年。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 申请初始注册应当提交下列材料： <br />
+&nbsp;&nbsp;&nbsp; （一）《上海市二级地震安全性评价工程师初始注册申请表》（附表1－1）； <br />
+&nbsp;&nbsp;&nbsp; （二）资格证书和身份证明复印件； <br />
+&nbsp;&nbsp;&nbsp; （三）申请人与聘用单位签订的劳动（聘用）合同复印件，或聘用单位出具的劳动、人事、工资关系证明； <br />
+&nbsp;&nbsp;&nbsp; （四）逾期申请初始注册的继续教育证明材料复印件。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第八条</strong>　申请初始注册按照下列程序办理： <br />
+&nbsp;&nbsp;&nbsp; （一）申请人向聘用单位提交《上海市二级地震安全性评价工程师初始注册申请表》； <br />
+&nbsp;&nbsp;&nbsp; （二）聘用单位将《上海市二级地震安全性评价工程师初始注册申请汇总表》（附表1－2）和申请人的全部申请材料一式二份报上海市地震局； <br />
+&nbsp;&nbsp;&nbsp; （三）上海市地震局审核上报材料，对符合条件者核发《中华人民共和国二级地震安全性评价工程师注册证》和执业印章。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第九条</strong>　注册有效期满需继续执业的，应当在注册有效期满前30日内，按照本办法第八条规定的程序，申请延续注册。延续注册的有效期限为3年。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 申请延续注册应当提交下列材料： <br />
+&nbsp;&nbsp;&nbsp; （一）《上海市二级地震安全性评价工程师延续注册申请表》（附表2－1）； <br />
+&nbsp;&nbsp;&nbsp; （二）注册证书原件和执业印章； <br />
+&nbsp;&nbsp;&nbsp; （三）申请人与聘用单位签订的劳动（聘用）合同复印件，或聘用单位出具的劳动、人事、工资关系证明； <br />
+&nbsp;&nbsp;&nbsp; （四）达到注册期内继续教育要求的证明材料复印件。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第十条</strong>　在注册有效期内，二级地震安全性评价工程师变更执业单位、聘用单位名称变更或姓名变更的，应当按照本办法第八条规定的程序，及时申请变更注册。变更注册后，有效期执行原注册证书的有效期。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 申请变更注册应当提交下列材料： <br />
+&nbsp;&nbsp;&nbsp; （一）《上海市二级地震安全性评价工程师变更注册申请表》（附表3－1）； <br />
+&nbsp;&nbsp;&nbsp; （二）注册证书原件和执业印章； <br />
+&nbsp;&nbsp;&nbsp; （三）变更执业单位的，应当提供申请人与新聘用单位签订的劳动（聘用）合同复印件，或新聘用单位出具的劳动、人事、工资关系证明；同时提供工作调动证明复印件，或与原聘用单位解除聘用（劳动）关系的证明，或退休人员的退休证明； <br />
+&nbsp;&nbsp;&nbsp; （四）聘用单位名称变更的，应当提供变更后的《企业法人营业执照》或《事业单位法人证书》复印件。 <br />
+&nbsp;&nbsp;&nbsp; （五）地震安全性评价工程师姓名变更的，应当提供变更后的身份证明复印件或公安机关户籍管理部门出具的有效证明。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第十一条</strong>　二级地震安全性评价工程师有下列情形之一的，应由二级地震安全性评价工程师本人和聘用单位，按照本办法第八条规定的程序，及时提出注销注册申请。 <br />
+&nbsp;&nbsp;&nbsp; （一）申请注销注册的； <br />
+&nbsp;&nbsp;&nbsp; （二）聘用单位破产的； <br />
+&nbsp;&nbsp;&nbsp; （三）聘用单位被吊销营业执照的； <br />
+&nbsp;&nbsp;&nbsp; （四）聘用单位被吊销地震安全性评价资质证书的； <br />
+&nbsp;&nbsp;&nbsp; （五）与聘用单位解除劳动（聘用）关系的； <br />
+&nbsp;&nbsp;&nbsp; （六）注册有效期满且未延续注册的； <br />
+&nbsp;&nbsp;&nbsp; （七）被依法撤销注册的； <br />
+&nbsp;&nbsp;&nbsp; （八）被依法吊销注册证书的； <br />
+&nbsp;&nbsp;&nbsp; （九）年龄超过70周岁的； <br />
+&nbsp;&nbsp;&nbsp; （十）丧失行为能力、死亡、被宣告失踪或不具有完全民事行为能力的； <br />
+&nbsp;&nbsp;&nbsp; （十一）受到刑事处罚，处罚尚未执行完毕的； <br />
+&nbsp;&nbsp;&nbsp; （十二）法律、法规规定应当注销注册的其他情形。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 申请注销注册应当提供下列材料： <br />
+&nbsp;&nbsp;&nbsp; （一）《上海市二级地震安全性评价工程师注销注册申请表》（附表4-1）； <br />
+&nbsp;&nbsp;&nbsp; （二）注册证书原件和执业印章； <br />
+&nbsp;&nbsp;&nbsp; （三）符合注销注册条件的证明材料复印件。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第十二条</strong>　被注销注册或不予注册的人员，在重新具备注册条件后，可按初始注册要求申请注册。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第十三条</strong>　注册证书、执业印章遗失或污损，需要补办的，可按照本办法第八条规定的程序申请补办。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 申请补办注册证书、执业印章应当提交下列材料： <br />
+&nbsp;&nbsp;&nbsp; （一）《上海市二级地震安全性评价工程师注册证书、执业印章补办申请表》（附表5-1）； <br />
+&nbsp;&nbsp;&nbsp; （二）身份证明复印件； <br />
+&nbsp;&nbsp;&nbsp; （三）注册证书、执业印章遗失的，应当提供市级以上报纸刊登的遗失声明原件； <br />
+&nbsp;&nbsp;&nbsp; （四）注册证书、执业印章污损的，应当提供污损的注册证书原件、执业印章。 </p>
+<p align="center"><font size="4"><strong>第三章　受理</strong></font></p>
+<p align="left">&nbsp;&nbsp;&nbsp; <strong>第十四条</strong>　受理部门收到二级地震安全性评价工程师注册申请材料后，应对申请材料的完整性进行查验，并根据下列情况分别作出处理： <br />
+&nbsp;&nbsp;&nbsp; （一）申请材料存在可以当场更正错误的，应允许申请人当场更正； <br />
+&nbsp;&nbsp;&nbsp; （二）申请材料不齐全或者不符合法定形式的，应当场或在5个工作日内一次性告知申请人需要补正的全部内容，逾期不告知的，自收到申请材料之日起即为受理； <br />
+&nbsp;&nbsp;&nbsp; （三）申请材料齐全、符合法定形式，或者申请人按要求提交全部补正材料的，应当受理申请人的注册申请。 <br />
+受理或不予受理注册申请，应出具加盖上海市地震局专用印章和注明日期的书面凭证，不予受理的应当说明理由。 </p>
+<p align="center"><font size="4"><strong>第四章　审核与审批</strong></font> </p>
+<p align="left">&nbsp;&nbsp;&nbsp; <strong>第十五条</strong>　对申请初始注册、注销注册和变更注册的，受理部门应当自受理申请之日起，20个工作日内审批完毕并作出书面决定，审批结果向社会公示10日，公示无异议的，准予注册，并核发《中华人民共和国二级地震安全性评价工程师注册证书》和执业印章。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 对申请延续注册的，受理部门应当自受理申请之日起，10个工作日内审批完毕并作出书面决定，审批结果向社会公示10日，公示无异议的，准予延续。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 对申请补办注册证书（执业印章）的，受理部门应当自受理申请之日起，10个工作日内审批完毕并作出书面决定，符合条件的，准予补办。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第十六条</strong>　申请人有下列情形之一的，不予注册： <br />
+&nbsp;&nbsp;&nbsp; （一）不具有完全民事行为能力的； <br />
+&nbsp;&nbsp;&nbsp; （二）申请在两个或者两个以上单位注册的； <br />
+&nbsp;&nbsp;&nbsp; （三）未达到二级地震安全性评价工程师继续教育要求的； <br />
+&nbsp;&nbsp;&nbsp; （四）刑事处罚尚未执行完毕的； <br />
+&nbsp;&nbsp;&nbsp; （五）因执业活动受到刑事处罚，自刑事处罚执行完毕之日起至申请注册之日止不满2年的； <br />
+&nbsp;&nbsp;&nbsp; （六）被吊销注册证书，自处罚决定之日起至申请注册之日止不满2年的； <br />
+&nbsp;&nbsp;&nbsp; （七）申请人因以不正当手段获取注册，依法被审批机关撤销注册，自处罚决定之日起至申请注册之日止不满3年的； <br />
+&nbsp;&nbsp;&nbsp; （八）申请人的聘用单位不符合地震安全性评价资质单位要求的； <br />
+&nbsp;&nbsp;&nbsp; （九）年龄超过70周岁的； <br />
+&nbsp;&nbsp;&nbsp; （十）法律、法规规定不予注册的其他情形。 </p>
+<p align="center"><font size="4"><strong>第五章　附则</strong></font> </p>
+<p align="left">&nbsp;&nbsp;&nbsp; <strong>第十七条</strong>　上海市二级地震安全性评价工程师注册原则上不收取费用。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第十八条</strong> 上海市地震局在核发二级地震安全性评价工程师注册证书和执业印章后，应在30日内报中国地震局备案。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第十九条</strong> 本实施办法由上海市地震局负责解释。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; <strong>第二十条</strong>　本办法自印发之日起执行。 <br />
+</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

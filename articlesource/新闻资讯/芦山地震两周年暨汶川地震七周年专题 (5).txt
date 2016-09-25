@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>芦山地震两周年暨汶川地震七周年专题</title>
+<link rel="stylesheet" type="text/css" href="../../../../images/zn2015_conf_style.css"/>
+<script type="text/javascript" src="../../../../images/currPage.js"></script>
+</head>
+<body>
+<div id="mainWiap">
+  <div class="blankH10" style="height:301px;"></div>
+  <div class="contwiap">
+    <div class="blankH10"></div>
+    <div class="zn_dqwz white">当前位置：<a href="../../../../">首页</a>&gt;<a href="../../../">新闻资讯</a>&gt;<a href="../../">重要专题</a>&gt;<a href="../">芦山地震两周年暨汶川地震七周年专题</a>&gt;<a href="./">综合信息</a></div>
+    <div class="blankH14"></div>
+    <div class="zz_cont3">
+      <div class="contL fl">
+        <!--menu-->
+        <div class="p_menu">
+          <h2 class="f14 white"><a href="./">综合信息</a></h2>
+          <div class="blankH10"></div>
+          <ul>
+          
+          <li>&middot;<a href="../tpyw_20150415/">图片要闻</a></li>
+        
+          <li>&middot;<a href="./">综合信息</a></li>
+        
+          <li>&middot;<a href="../gddt_20150416/">各地动态</a></li>
+        
+          <li>&middot;<a href="../mtjj_20150416/">媒体聚焦</a></li>
+        
+          <li>&middot;<a href="../dzkp_20150416/">地震科普</a></li>
+        
+          <li>&middot;<a href="../spbb_20150416/">视频播报</a></li>
+        
+          <li>&middot;<a href="../tpxw_20150416/">图片新闻</a></li>
+        
+          </ul>
+        </div>
+        <!--menu end-->
+      </div>
+      <div class="contR fr">
+        <!--政策法规-->
+        <div class="i_tyMenu">
+          <h2 class="fl f14"><a href="./">综合信息</a></h2>
+          <p class="clear"></p>
+        </div>
+        <div class="blankH14"></div>
+        <div class="i_list2">
+          <ul>
+           
+          <li><span>[2015-05-15]</span>&middot;<a href="./201505/t20150515_32991.html" target="_blank" title="四川各地举办防震减灾主题宣传系列活动">四川各地举办防震减灾主题宣传系列活动</a></li>
+         
+          <li><span>[2015-05-15]</span>&middot;<a href="./201505/t20150515_32987.html" target="_blank" title="四川省中小学校“5·12”防震减灾应急演练活动正式启动">四川省中小学校“5·12”防震减灾应急演练活动正式启动</a></li>
+         
+          <li><span>[2015-05-15]</span>&middot;<a href="./201505/t20150515_32975.html" target="_blank" title="四川省地震局开展“防灾减灾日”科普宣传活动">四川省地震局开展“防灾减灾日”科普宣传活动</a></li>
+         
+          <li><span>[2015-05-13]</span>&middot;<a href="./201505/t20150513_32963.html" target="_blank" title="“平安中国”防灾宣导千城大行动德阳站启动">“平安中国”防灾宣导千城大行动德阳站启动</a></li>
+         
+          <li><span>[2015-05-13]</span>&middot;<a href="./201505/t20150513_32946.html" target="_blank" title="四川省举行2015年省级防震救灾综合演练">四川省举行2015年省级防震救灾综合演练</a></li>
+         
+          <li><span>[2015-05-11]</span>&middot;<a href="./201505/t20150511_32929.html" target="_blank" title="2015年省级防震救灾综合演练启动 模拟沐川发生6.5级地震">2015年省级防震救灾综合演练启动 模拟沐川发生6.5级地震</a></li>
+         
+          <li><span>[2015-04-24]</span>&middot;<a href="./201504/t20150424_32876.html" target="_blank" title="康定地震灾后重建全面拉开序幕 8个集中安置点项目集中开工">康定地震灾后重建全面拉开序幕 8个集中安置点项目集中开工</a></li>
+         
+          <li><span>[2015-04-21]</span>&middot;<a href="./201504/t20150421_32859.html" target="_blank" title="王东明在探索芦山强烈地震恢复重建新路子研讨会上作主旨发言">王东明在探索芦山强烈地震恢复重建新路子研讨会上作主旨发言</a></li>
+         
+          <li><span>[2015-04-21]</span>&middot;<a href="./201504/t20150421_32858.html" target="_blank" title="学习贯彻习近平总书记重要批示精神 探索芦山强烈地震恢复重建新路子研讨会举行">学习贯彻习近平总书记重要批示精神 探索芦山强烈地震恢复重建新路子研讨会举行</a></li>
+         
+          <li><span>[2015-04-20]</span>&middot;<a href="./201504/t20150420_32845.html" target="_blank" title="王东明魏宏赴雅安调研指导灾后重建工作">王东明魏宏赴雅安调研指导灾后重建工作</a></li>
+         
+          <li><span>[2015-04-20]</span>&middot;<a href="./201504/t20150420_32846.html" target="_blank" title="书写无愧于时代的芦山答卷 ——写在&quot;4.20&quot;芦山强烈地震两周年之际">书写无愧于时代的芦山答卷 ——写在"4.20"芦山强烈地震两周年之际</a></li>
+         
+          <li><span>[2015-04-16]</span>&middot;<a href="./201504/t20150416_32800.html" target="_blank" title="地震应急宣传交流研讨会在西昌召开">地震应急宣传交流研讨会在西昌召开</a></li>
+         
+          <li><span>[2015-04-17]</span>&middot;<a href="./201504/t20150417_32839.html" target="_blank" title="震后芦山花更妍—— “4·20”芦山强烈地震两周年回眸">震后芦山花更妍—— “4·20”芦山强烈地震两周年回眸</a></li>
+         
+          </ul>
+        </div>
+        <!--政策法规 end-->
+        <div class="blankH20"></div>
+        <div class="p_next"><script type="text/javascript">
+		 createPageHTML(1, 0, "index", "html");
+	  </script></div>
+      </div>
+      <p class="clear"></p>
+    </div>
+    <div class="blankH16"></div>
+    <!--底部开始-->
+    <div class="botCont">
+      <div class="blankH12"></div>
+      版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+       蜀ICP备05030409号 </div>
+  </div>
+</div>
+</body>
+</html>

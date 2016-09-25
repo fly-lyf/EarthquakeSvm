@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">综合信息</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>书写无愧于时代的芦山答卷 ——写在"4.20"芦山强烈地震两周年之际 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '四川日报';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-04-20 09:45:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-20 09:45:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-04-20 09:45:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-20 09:45:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<P>　　<SPAN>[</SPAN><SPAN>一</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>　　四月芳菲，春到龙门。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>这里是芦山县龙门乡白伙新村。山青水碧、鲜花正艳，黄墙红顶的木质小楼错落有致地点缀其间，勾勒出一幅美丽的乡村画卷。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>这里是村民白世强刚刚搬进的一楼一底</SPAN><SPAN>180</SPAN><SPAN>平方米新家。一楼开起了小卖部，月收入有</SPAN><SPAN>1000</SPAN><SPAN>多元。家门口那副对联仍然字迹鲜艳：“芦山震中建幸福家园，龙门田野绘感恩新篇”，横批——“共产党好！”</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>共产党好！一句话，四个字，是成千上万灾区人民的心声凝成，盛满了他们对党、对祖国发自内心的感恩之情。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>人们忘不了，就在“</SPAN><SPAN>4</SPAN><SPAN>·</SPAN><SPAN>20</SPAN><SPAN>”芦山强烈地震灾区启动恢复重建的关键时刻，以习近平同志为总书记的党中央作出重要决策：探索出一条中央统筹指导、地方作为主体、灾区群众广泛参与的恢复重建的新路子。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>党中央的重要决策，是对广大灾区群众和灾后重建工作的深情关怀，更是立足实际、着眼长远，依靠群众、科学重建，探索一条独具中国特色的恢复重建新路子的动员令。</SPAN><SPAN>&nbsp;</P>
+<P>　　3</SPAN><SPAN>月</SPAN><SPAN>8</SPAN><SPAN>日，北京，十二届全国人大三次会议四川代表团全体会议。来自雅安的代表向李克强总理展示了龙门乡新村聚居点的照片，总理欣然点赞：“这是实景照片？我以为是规划图呢，很美！”</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>今天，距离</SPAN><SPAN>2013</SPAN><SPAN>年</SPAN><SPAN>4</SPAN><SPAN>月</SPAN><SPAN>20</SPAN><SPAN>日那个地动山摇的日子已经整整两周年。灾区的干部群众可以自豪地用一张张照片、一段段视频、一个个故事告诉全国人民：这美，是脱胎换骨的美、重获新生的美。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>“结果是愉快的，过程是艰苦的。”芦山县委书记宋开慧掏心窝的一句话，表达了重建新路上疾步前行的灾区人民的心声。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>两年，</SPAN><SPAN>730</SPAN><SPAN>个昼夜，可能只是时间长河的短短一瞬。但对四川、对芦山地震灾区的干部群众来说，这两年却经历了、铭记了、收获了太多太多……</SPAN><SPAN>&nbsp;</P>
+<P>　　[</SPAN><SPAN>二</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>天灾无情。没有什么地方像这里，在短短几年间遭遇两次大地震连环袭击；</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>芦山无惧。没有什么地方像这里，在极短时间内又从废墟上涅槃重生、顽强挺立。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>进入芦山县隆兴中心校，一栋灰色外墙的连体建筑已看不出地震的痕迹。修建于汶川特大地震后的这栋校舍，在芦山地震中经受了检验，维护加固后很快投入使用。围绕这栋校舍的，是新建的学生食堂、幼儿园和科技馆，铺上塑胶跑道的运动场已能与中心城市同类设施比肩。重建中最好的，是民居、是学校，这样的理念一脉相传。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>“</SPAN><SPAN>5</SPAN><SPAN>·</SPAN><SPAN>12</SPAN><SPAN>”汶川特大地震灾后恢复重建，是在世所罕见的巨灾面前的一次国家行动、举国动员；而“</SPAN><SPAN>4</SPAN><SPAN>·</SPAN><SPAN>20</SPAN><SPAN>”芦山强烈地震灾后恢复重建，则更多体现为在中央统筹指导下的地方行动、区域动员。变的，是灾后重建的责任主体、执行主体、实施主体；不变的，是灾后重建的目标追求、质量控制、科学理念。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>变与不变之间，一条灾后恢复重建的新路子越来越清晰地在脚下铺展。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>这条新路子，中央统筹指导是首要前提，地方作为主体是突破重点，群众广泛参与是坚实基础。三者环环相扣，紧密关联，缺一不可，构成有机联系的统一整体，体现了全局与局部、总揽与执行、党委政府与人民群众之间协调互动、充分发挥各自积极作用的良性关系。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>中央统筹指导坚强有力，发挥了揽全局、决大事的重要作用。在灾后重建的每个关键阶段和重要时刻，习近平总书记和李克强总理、张高丽副总理等中央领导多次作出重要批示指示，为重建工作指明方向。国务院及时颁发《芦山地震灾后恢复重建总体规划》和《关于支持芦山地震灾后恢复重建政策措施的意见》，明确了恢复重建的总体要求、目标任务和支持政策。国家</SPAN><SPAN>11</SPAN><SPAN>个部委出台文件，从政策、规划、资金等方面给予恢复重建极大支持。没有这些支持和保障，一路走来，芦山地震灾区不可能有今天这般的自信和坦然。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>循着“三年基本完成、五年整体跨越、七年同步小康”的重建目标，在中央统筹指导之下，四川省委、省政府举全省之力，因地制宜发挥主体作用，科学高效配置各种资源，扛起了芦山地震灾后恢复重建的重担。</SPAN><SPAN>&nbsp;</P>
+<P>　　2014</SPAN><SPAN>年底，灾区全面完成农房重建；今年</SPAN><SPAN>3</SPAN><SPAN>月底，灾区重建项目完工率、投资完成率达</SPAN><SPAN>63%</SPAN><SPAN>、</SPAN><SPAN>68.5%</SPAN><SPAN>，其中教育、医疗卫生等公共服务设施项目完工率均逾八成，远超平均进度。实现主汛期和次生地质灾害群众“零伤亡”，确保每一名受灾群众安全温暖过冬……一项项、一桩桩，既有条不紊，又重点凸显。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>努力让灾区人民住上好房子、过上好日子，全省人民的心愿正一天天实现。</SPAN><SPAN>&nbsp;</P>
+<P>　　[</SPAN><SPAN>三</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>在一个自然灾害多发频发的国家，我们还可以选择什么样的恢复重建道路？</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>在推进国家治理体系和治理能力现代化的进程中，该如何确定各级党委、政府的责任边界，更好发挥各级党委、政府的作用？</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>回答好上述问题，正是芦山地震灾后恢复重建非同寻常之意义所在。“探出一条新路”的使命，历史地落到了四川人民的肩上。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>这是体现科学的恢复重建之路，是灾害多发国家准确把握灾情、科学调配力量、有效配置资源、高效实施重建的必然选择。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>以往，每当大灾之后，我们熟悉的是以中央直接安排部署为主的灾后恢复重建路径。“全国一盘棋”、“一方有难、八方支援”的巨大力量，在短时间内创造了抗灾救灾、恢复重建的一个又一个奇迹。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>当前，我国已进入全面深化改革的攻坚期。实现党委、政府决策水平科学化、治理能力现代化，是深化改革的应有之义。进一步丰富并完善我国灾后恢复重建的对策体系，更加从容有效地应对每一场不期而至的自然灾害，也是一场大考。根据灾情大小、危害程度，分类指导、区别对待，立足实际、体现科学，把各级各方面的积极性都激发出来、凝聚起来，走出一条恢复重建的新路子，事关大局。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>这是把握大势的重建之路，是在新的历史背景下，灾害多发国家科学高效、有序推进恢复重建的必然选择。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>今天，中国经济正步入一个调速换挡、调优结构的新常态。新常态不是拼投入、拼资源、拼消耗，而是要求资源节约、环境友好，投资高效、集约精细，更加合理有效地配置资源。牢牢把握这一发展态势，才能在面对各种难题时科学排序、精准发力。灾后重建也是如此，地方负责制的实施，进一步明晰地方主体责任，促进地方因地制宜、自加压力，务实高效开展重建，至关重要。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>由此观之，走出一条中央统筹指导、地方作为主体、灾区群众广泛参与的恢复重建新路子，已成为历史的必然、发展的必然！</SPAN><SPAN>&nbsp;</P>
+<P>　　[</SPAN><SPAN>四</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>地方作为主体，拓展了大灾之后恢复重建的新路子，检验并提升了地方党委、政府的执政能力、治理能力。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>芦山地震之后不久，党中央决定由四川牵头，开启“四川负总责，地方为主体”的恢复重建探索。芦山地震灾后恢复重建也因此成为国家探索以“地方为主体”重建新机制的首个“试验田”。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>这既是对四川省委、省政府和灾区广大干部群众的极大信任，也是巨大考验。从某种意义上说，芦山地震灾后恢复重建，不仅关乎灾区人民生产生活、奔康致富，也关系到地方负责制这一重建新路的可行性、有效性，其全局意义不言而喻。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>经过近两年灾后恢复重建，四川用一个个生动的事实告诉全国人民：芦山行！四川行！</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>从规划引领、民生优先的规律认识，到同步防治次生灾害的各种预案；从不让一个受灾群众挨饿受冻的民本情怀，到恢复重建是趁势而起、整体提升的发展理念……我们汇聚起化危为机、克难而进的智慧和力量。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>在雅安，在芦山、天全、宝兴……省委、省政府团结带领灾区广大干部群众，大胆探索、勇闯新路，努力书写无愧于时代的芦山答卷——</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>整体联动、下沉到底的指挥体系有力运转。省市县三级有效承担起恢复重建的主体责任，形成三级联动、合力推进的新格局。建立网格化、下沉式、专业性的重建责任管理体系，省、市、县、乡（镇）四级均成立灾后恢复重建委员会，统一组织推进恢复重建工作。省重建委员会先后召开</SPAN><SPAN>5</SPAN><SPAN>次全体会议、</SPAN><SPAN>10</SPAN><SPAN>次工作推进会和多次专题会，研究解决重大问题，部署推进恢复重建工作。省委十届三次全会专门作出《推进芦山地震灾区科学重建跨越发展加快建设幸福美丽新家园的决定》，省级相关部门及时审定</SPAN><SPAN>11</SPAN><SPAN>个专项规划，先后三轮出台</SPAN><SPAN>17</SPAN><SPAN>项扶持政策，为恢复重建送去“及时雨”。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>民生优先、科学重建的工作主线全程贯穿。牢固树立民生优先的理念，并将其作为灾后重建不可动摇的核心取向。重建为了人民，重建必须为民。首位推进城乡住房重建，优先推进公共服务设施重建，加快基础设施和城镇体系重建，同步推进产业重建……重点工作、中心环节、优先次序，在此一目了然。基于这一理念，政府出资兜底，灾区</SPAN><SPAN>625</SPAN><SPAN>户特困户在</SPAN><SPAN>2014</SPAN><SPAN>年春节前就搬进新居；政府综合帮扶，</SPAN><SPAN>4482</SPAN><SPAN>户困难群众在震后一年就全部完成住房重建，创造了令人信服的“芦山速度”。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>不等不靠、攻坚克难的主体意识生根发芽。正确处理好各级党委、政府作为组织领导主体和灾区干部群众作为重建实施主体“两个主体”的关系，积极引导群众，大力弘扬自力更生、艰苦奋斗的精神，树立不等不靠、攻坚克难的主体意识，精打细算，互帮互助，用自己勤劳的双手建起幸福美丽新家园。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>地方作为主体，不仅是制度设计，也是工作举措；不仅是创新理念，也是实践要素。一张上下贯通、无缝衔接的“网”，密织在恢复重建的各个环节、方方面面。</SPAN><SPAN>&nbsp;</P>
+<P>　　[</SPAN><SPAN>五</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>地方作为主体，其优势的充分发挥，有赖于新体制新机制的强劲支撑。走好恢复重建的新路，必须全过程树立改革创新观念，以制度创新、机制创新、工作创新保障行稳致远。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>决策指挥权下沉，地方作为主体，意味着对重建过程中可能遭遇的难题和障碍，理当反应更快速、应对更及时。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>为提高工作效率，恢复重建中创新实施了规划设计总负责、建设施工总承包、项目建设总管理、规划建设总督导、组织领导总指挥的“五总”工作机制，告别了项目建设“一哄上马、忙乱无序”；重建项目审批有了“绿色通道”，实行并联评价、并联评审、并联审批，程序不减、交叉运行、周期缩短，“三个并联”使过去需</SPAN><SPAN>20</SPAN><SPAN>个工作日完成的项目审批做到了“不过夜”。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>为破解资金难题，恢复重建中采取了市场化运作、多元化投入的有效做法，切实发挥财政资金的乘数效应。钱从创新里来，推动中期票据、灾区债券发行，整合专项资金，将社会捐赠资金全部纳入统筹安排和监管范围；钱在市场中找，鼓励企业上市融资，雅安正兴汉白玉股份有限公司“新三板”挂牌上市，一举实现雅安在全国性场外股权交易市场“零”的突破。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>为放大援建效应，恢复重建中开展了省内对口援建，探索建立“输血”与“造血”结合的援建帮扶长效机制，变对口援建为对口合作。</SPAN><SPAN>8</SPAN><SPAN>个省直部门、</SPAN><SPAN>7</SPAN><SPAN>个援建市发扬互帮互助精神，或为项目牵线搭桥，或直接投入真金白银，有力推动了灾区重建。在芦山县产业集中区建设中，作为援建方的德阳市既“筑巢”又“引凤”，不仅建起了一批标准厂房，还成功引来包括琪达制衣厂在内的</SPAN><SPAN>25</SPAN><SPAN>家德阳企业签约落地，投资金额</SPAN><SPAN>12</SPAN><SPAN>亿元。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>为创新社会服务，全国首创的雅安抗震救灾社会组织和志愿者服务中心应运而生，分布在灾区的</SPAN><SPAN>700</SPAN><SPAN>余家社会组织、</SPAN><SPAN>1.8</SPAN><SPAN>万多名志愿者，由此“捏指成拳”。社会力量的参与积极有序，“党政领导、群团实施、社会协同、公众参与、法制保障”的社会管理服务新机制日渐成型。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>这样的创新还很多很多……</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>千难万难，创新就能破难。在芦山地震灾区，重建新模式如同一块“试验田”，一项项创新，铺展开这里最美的风景。</SPAN><SPAN>&nbsp;</P>
+<P>　　[</SPAN><SPAN>六</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>用发展的眼光看，灾后恢复重建绝不仅仅是“复原”，更是灾区产业结构的优化、发展能力的升级、整体风貌的提升，为灾区可持续发展打造跳板、拓展空间。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>检视近期自然灾害发生的地理分布图，有个特点十分明显：多位于西部高山峡谷、地灾频发地区。基础条件差、经济欠发达，往往是人们对这些地区最直观的印象。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>地震带来创痛，重建蕴含机遇。如果把遭遇灾害比作一次“跌倒”，那么“跌倒”之后，光是缓口气、原地站起来，还是在战胜灾害的崛起中脱胎换骨、超越自我？</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>答案，就在记者的眼睛里。一排排造型独特、木石结构浑然一体的建筑群，在阳光下泛出金黄的光泽，这里是与宝兴县城隔河相望的穆坪雪山新村。重建之后，雪山新村盯上了乡村度假旅游业。“我们新建的多是三层小楼，底楼搞餐饮，二楼自家住，三楼腾出来统一风格、统一装修，开家庭连锁旅馆接待游客。”穆坪镇党委书记李德伟显得信心满满，“我们的目标，就是将重建与发展结合起来，以重建提升新村整体风貌，以乡村旅游实现可持续发展。”</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>行走在地震灾区，我们屡屡听到这样的观点：重建与发展是一体两面，离开发展的重建，建不好，更走不远。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>毋庸讳言，只有将恢复重建与规划提升、功能提升、水平提升相结合，与新型城镇化、新农村建设相结合，与产业发展、群众致富相结合，才能发挥灾区自身生态、区位、资源、重建政策等优势，放大重建效应。只有这样的“造血式”重建，才能成为补发展欠账的有利契机，为芦山地震灾区长远发展打下坚实基础。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>论生态，灾区虽然地处偏远，但青山绿水、生态优美，发展绿色产业、特色旅游业未尝不是“以长补短”。雅安森林覆盖率位居全省第一，生态打底无疑是其最大的潜力和最响的名片。在天全县，一座依托自然生态，集生产示范带动、现代农业产业孵化、生态旅游观光于一体的综合性现代农业产业园区正拔地而起，将当地农业发展拉升一个档次；在上里镇，特色农居与绿水青山交相辉映，蒸蒸日上的旅游业助农户走上致富之路。成功创建全国首批生态文明先行示范区的雅安，正着力将“绿水青山”转化为“金山银山”。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>论资源，灾区虽然工业落后，但资源富集、劳力充沛，发展精深加工业、延伸产业链条未尝不能“突出重围”。雅安的水电、矿产、茶叶等，都是“叫得响的资源”。进入宝兴县玉龙石材有限公司加工车间，听不见刺耳噪声，看不到粉尘飞舞。兴建废污水循环处理系统，引进水切割工艺，注重产品高端化设计，汉白玉边角余料被加工成精品马赛克，</SPAN><SPAN>80%</SPAN><SPAN>出口国外，附加值由过去每吨数百元提升至</SPAN><SPAN>10</SPAN><SPAN>万元。将资源优势转化为产业优势、市场优势，其实大有可为。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>论产业，灾区虽然限制无序开发，但创新思路、转变观念，建设飞地园区、构建共享机制未尝不可“抱团取暖”。芦山、天全、宝兴等重灾区担负着构建长江上游生态屏障的重任，产业发展要求高、容量有限，客观上属于限制开发区。能不能“飞出去”异地发展产业？芦天宝飞地产业园区的实践，提供了一个样本。飞地园区地处名山区境内，实行市、县共同建设、共同管理、共享发展成果的管理体制和利益链接机制，机械装备及汽车制造等优势产业向园区聚集、利益分成向“飞出地”倾斜，其结果，是灾区涵养生态与异地产业发展的双赢。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>经济发展新常态下，重建的过程就是发展的过程，也是转型升级、提质增效、增强后劲的过程。抓住稍纵即逝的发展机遇，强筋壮骨、整体跨越……地震灾区的重建之路，正越走越宽。</SPAN><SPAN>&nbsp;</P>
+<P>　　[</SPAN><SPAN>七</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>灾后恢复重建中，多方投入的重建资金怎么花，是门学问，更考验能力。务实重建、节约重建，标注灾后重建的新刻度。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>恢复重建中，短期内集中开工这么多项目，集中投入数百甚至上千亿资金，“钱”的问题始终引人关注。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>灾区上下形成共识：搞好重建，既要量力而行、又要尽力而为，始终坚持符合实际、合理适度、务实节约的原则。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>天全县始阳镇凤翔新民小区广场入口处，立着一块就地取材的巨石。以石为碑，上面刻有“凤翔新民赋”——南邻通衢，北环碧溪；阡陌交通，产村相融……极富文化气息的石碑为新村增添了别样的韵味。全程参与小区重建的镇党委书记杨斌介绍，按最初设计，这里该立着一尊凤凰展翅的钢结构雕塑，预算投资</SPAN><SPAN>100</SPAN><SPAN>万元，最后大家一致决定，更改原设计方案，用当地山间的巨石取代，如此一来，实际只花了</SPAN><SPAN>5</SPAN><SPAN>万元。资金安排，体现“实事求是”。科学合理布局城乡住房、新村聚居点、公共服务设施等项目，既防止低水平复制，又严禁贪大求洋、华而不实、搞面子工程。建立重建规划“纠偏机制”，对重建项目和资金安排据实作出优化配置和调整。在清理压缩党政机关办公楼和业务用房过程中，调整出</SPAN><SPAN>1.2</SPAN><SPAN>亿元资金用于住房、学校、道路等民生项目重建，恢复重建的实际效果有效提升。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>项目投入，体现“实用管用”。对所有重建项目的招标控制价、预算安排、投资变更、财务决算全部纳入财政投资评审，严格控制项目投资。财政部门对</SPAN><SPAN>4008</SPAN><SPAN>个灾后重建项目进行控制价、结算、变更评审，送审金额</SPAN><SPAN>243.23</SPAN><SPAN>亿元，审定金额</SPAN><SPAN>227.38</SPAN><SPAN>亿元，综合审减率</SPAN><SPAN>6.52%</SPAN><SPAN>。严格的项目投入管控，实现了重建资金的有效使用和务实节约</SPAN><SPAN>。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>正面引导，体现“针对实情”。深入细致做好灾区群众思想工作，引导对重建的合理预期，消除盲目攀比心态，激励他们自力更生、立足实际搞好恢复重建。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>在灾区采访，记者听到两个颇有“新意”的表述：一是有限的资金要用到刀刃上，还要注重效果最大化；二是资金如“布”，只有那么多“布”，所以花起钱来除了“量体裁衣”，还要“量布裁衣”。无疑，它们都与资金使用有关，与务实节约有关。</SPAN><SPAN>&nbsp;</P>
+<P>　　[</SPAN><SPAN>八</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>地方作为主体，离不开群众参与；群众广泛参与，铸就恢复重建的牢固根基。在任何时候任何情况下，人民群众始终是灾后恢复重建的主力军和原动力。人民群众是历史的创造者。无论是平常时期，还是非常时刻；无论是开展经济建设，还是应对极重灾害。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>相信群众、发动群众、依靠群众……从抗灾救灾到恢复重建，这条“红线”贯穿始终。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>灾区群众既是地震灾害的受害者，也是恢复重建的受益人。能否充分动员群众参与灾后重建，不仅直接关系灾后重建的进程，也影响到群众对重建成果的“满意指数”。“群众满意是最高要求，群众认可是最硬标准。”这一理念换来的是：重建决策，听群众意见；重建过程，靠群众参与；重建创新，集群众智慧；重建结果，由群众评判。尊重群众意愿、发扬首创精神、协力攻坚克难，成为芦山地震恢复重建的一大亮点。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>不能不说的，是恢复重建中创造的充分体现群众主体意识的自建自管新机制。众所周知，住房重建紧连群众切身利益，矛盾纠纷多，协调处理难。“群众自己的事情就让群众作主自己办”。在党委政府引导下，</SPAN><SPAN>232</SPAN><SPAN>个新村聚居点建立起“自建委”，对重建选址、户型设计、工程监理、土地流转等涉及群众切身利益的事情，由群众自主选择、民主决策，那些看起来很难的问题，迎刃而解。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>有例为证——芦山县龙门乡隆兴村组建的“自建委”，成立伊始，便和施工方“杠上了”，双方经过</SPAN><SPAN>10</SPAN><SPAN>多次谈判博弈，方才签订新村聚居点建设的施工合同，每平方米价格也“谈”到了群众认可的</SPAN><SPAN>850</SPAN><SPAN>元。</SPAN></P>
+<P>　　<SPAN><SPAN>&nbsp; </SPAN></SPAN><SPAN>住房建好了，新村成型了，搬进新家了，下一步又该怎么办？雅安的做法是，因势利导，引导“自建委”向“自管委”转变，实现群众的管理自主、利益自享、矛盾自调，将群众参与的效应延伸放大。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>事实证明，通过“自建委”、“自管委”这一载体，不仅激发了群众参与的主动性自觉性，更有效化解了恢复重建中的诸多矛盾，开创了基层社会治理的新格局。</SPAN><SPAN>&nbsp;</P>
+<P>　　[</SPAN><SPAN>九</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>灾后恢复重建，灾区党员干部既是组织者，也是参与者；既是带头人，也是“定盘星”。灾后重建的战场，就是党员干部的考场，检验并彰显了党员干部队伍的本色。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>党员干部队伍作风硬不硬，战斗力强不强，灾难是最好的“试金石”。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>灾后重建的过程，其实也是干部队伍再造、党员作风重塑的过程。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>危难之际显担当，重担压身验真功。一支坚强有力、廉洁自律，能打硬仗、善打胜仗的党员干部队伍，是恢复重建顺利实施的重要保证。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>恢复重建的实践，是党员干部践行群众路线、转变工作作风的“考场”。在灾区，创新群众工作法，实行市级领导“包县联点帮扶”、市级部门“联村帮户”，</SPAN><SPAN>270</SPAN><SPAN>余名市、县领导干部联系</SPAN><SPAN>143</SPAN><SPAN>个乡镇（街道），</SPAN><SPAN>6400</SPAN><SPAN>名科级以上干部结对帮扶</SPAN><SPAN>21</SPAN><SPAN>万重建户。各级党员干部深入基层深入群众，“同坐一根凳、同讲一席话、同聚一条心、同向一起干”，密切了党群干群关系，一些重建中的难题也在与群众“交心换心”中融化消解。</SPAN></P>
+<P>　　<SPAN>恢复重建的实践，是党员干部践行“三严三实”要求的“赛场”。在灾区，鲜明崇尚实干、有为有位的导向，营造风正心齐、苦干实干的氛围，注重从恢复重建一线发现、锤炼、使用干部。在全省率先采用记功的方式激励一线干部，制定重建期间公务员奖励办法，先后对</SPAN><SPAN>30</SPAN><SPAN>个单位</SPAN><SPAN>60</SPAN><SPAN>名个人记功。学先进、比先进、争先进，蔚然成风。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>恢复重建的实践，是提升领导干部思想政治水平和工作能力的“加速器”。在重建中学习重建，在排难中增强能力。各级领导干部拧紧“总开关”，干在最前列，冲在第一线，哪里矛盾多、困难大，哪里就有他们的身影。芦山县清仁乡大同村党支部书记袁超，罹患癌症却不下火线，带病坚持奋战在恢复重建的第一线，被人们誉为“抗癌书记”。正是有一大批袁超式的干部带头实干、敢于担当、勇破难关，灾区才一天天“旧貌换新颜”。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>平常，人们常用“主心骨”、“顶梁柱”来形容党员干部中的优秀分子。到了灾区，见到那一个个沉在基层、扑向工作的忙碌身影，这样的词句便生动而鲜活起来，人们会更加明白“一个党员就是一面旗帜，一名干部就是一个标杆”的深刻含义。</SPAN><SPAN>&nbsp;</P>
+<P>　　[</SPAN><SPAN>十</SPAN><SPAN>]</P>
+<P>　　</SPAN><SPAN>恩格斯说，没有哪一次巨大的历史灾难不是以历史的进步为补偿的。</SPAN><SPAN>&nbsp;</P>
+<P>　　</SPAN><SPAN>是的，没人喜欢灾害带来的撕裂与伤痛。但是，人们却不能左右地震等自然灾害的发生。人们能做的，就是研究其规律，掌握其性状，以科学的思维和手段防灾、避灾、减灾，努力将灾害造成的损失减到最低限度。人们能做的，就是以更加顽强的姿</SPAN><SPAN>态，高昂着头颅，勇敢面对一次次灾害，并不断在灾害中汲取浴火重生的力量。<SPAN>&nbsp;</P>
+<P>　　</SPAN>灾难磨砺精神，苦痛铸就坚韧。灾害之后，生活继续……<SPAN>&nbsp;</P>
+<P>　　</SPAN>站在芦山县龙门乡龙门山庄大院里，一边是已建成投用的两层木结构房屋，餐厅、茶馆、客房，一应俱全；一边是正在施工的两层钢混结构房屋，升级的房间、新修的会议室，已显雏形。朴实的山庄老板彭大芬毫不掩饰对未来的憧憬：政府今后将重点打造龙门旅游古镇，我们肯定不愁客源。<SPAN>&nbsp;</P>
+<P>　　</SPAN>彭大芬正是灾区群众的缩影，乐观、坚强、淡定，始终对未来满怀信心。<SPAN>&nbsp;</P>
+<P>　　</SPAN>两年的时光里，奔腾不息的青衣江，已把灾难与苦痛沉淀在历史河床的深处，也把勇于克难、自强奋进的涛声激荡在岁月的天空。<SPAN>&nbsp;</P>
+<P>　　</SPAN>从地震的创伤中复苏，灾区正趟出一条新路，一条前人没有走过的重建之路。<SPAN>&nbsp;</P>
+<P>　　</SPAN>中央统筹指导、地方作为主体、灾区群众广泛参与——这条新路将引领四川人民、引领灾区人民，在面对大自然的挑战之时，始终临危不惧，奋勇向前！<SPAN>&nbsp;</P>
+<P>　　</SPAN>“<SPAN>4</SPAN>·<SPAN>20</SPAN>”芦山地震两周年前夕，本报记者赴雅安灾区调研采访。新城新村、新区新园、新路新桥、新楼新厂，新的家园、新的景象、新的生活、新的笑脸，让我们看到了一个浴火新生的新芦山、新雅安。请您拿起手机，扫码观看，与我们一起走进灾区，感受新貌、感受巨变。 </SPAN></P></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

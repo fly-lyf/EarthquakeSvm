@@ -1,0 +1,2020 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../../images/style(2).css">
+<SCRIPT src="../../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55216';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../../" class='wz CurrChnlCls'>政策法规</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>政策文件</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>南京市相关文件</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>南京市地震应急避难场所疏散安置预案编制指南（试行）</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2011-12-27</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_3035819"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=3035819"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <DIV align=center><B>&nbsp;</B></DIV>
+<DIV align=center><B>南京市地震应急避难场所疏散安置</B></DIV>
+<DIV align=center><B>预案编制指南（试行） </B></DIV>
+<DIV align=center>（宁震〔2011〕36号）<B></B></DIV>
+<DIV align=left>　<B>目 录 </B></DIV>
+<DIV align=left><B>　　1 总则 </B></DIV>
+<DIV align=left>　　1.1 编制目的 </DIV>
+<DIV align=left>　　1.2 适用范围 </DIV>
+<DIV align=left>　　1.3 编制依据 </DIV>
+<DIV align=left>　　1.4 工作原则 </DIV>
+<DIV align=left>　　<B>2 场所基本情况 </B></DIV>
+<DIV align=left>　　2.1 场所名称 </DIV>
+<DIV align=left>　　2.2 场所位置 </DIV>
+<DIV align=left>　　2.3 周边资源 </DIV>
+<DIV align=left>　　2.4 场所类型 </DIV>
+<DIV align=left>　　2.5 场所类别 </DIV>
+<DIV align=left>　　2.6 场所面积 </DIV>
+<DIV align=left>　　2.7 设施情况 </DIV>
+<DIV align=left>　　2.8 服务对象 </DIV>
+<DIV align=left>　　<B>3 组织机构</B> </DIV>
+<DIV align=left>　　3.1 设立疏散安置指挥部 </DIV>
+<DIV align=left>　　3.2 设立相关工作组 </DIV>
+<DIV align=left>　　<B>4 疏散安置工作准备 </B></DIV>
+<DIV align=left>　　4.1 场所准备 </DIV>
+<DIV align=left>　　4.2 物资准备 </DIV>
+<DIV align=left>　　4.3 组织准备 </DIV>
+<DIV align=left>　　4.4 检查、宣传和演练 </DIV>
+<DIV align=left>　　<B>5 疏散 </B></DIV>
+<DIV align=left>　　5.1 疏散通知 </DIV>
+<DIV align=left>　　5.2 疏散引导 </DIV>
+<DIV align=left>　　5.3 场所启用 </DIV>
+<DIV align=left>　　5.4 民众疏散 </DIV>
+<DIV align=left>　　<B>6 安置 </B></DIV>
+<DIV align=left>　　6.1 搭建帐篷 </DIV>
+<DIV align=left>　　6.2 设立指挥机构工作点 </DIV>
+<DIV align=left>　　6.3 民众安置登记 </DIV>
+<DIV align=left>　　6.4 设施、设备和物资保障 </DIV>
+<DIV align=left>　　6.5 医疗救护和卫生防疫 </DIV>
+<DIV align=left>　　6.6 对外通信联络 </DIV>
+<DIV align=left>　　6.7 场所信息的统计上报 </DIV>
+<DIV align=left>　　6.8 信息通告与宣传 </DIV>
+<DIV align=left>　　6.9 民众心理干预 </DIV>
+<DIV align=left>　　6.10 治安维护 </DIV>
+<DIV align=left>　　6.11 特殊帮助人员的安置 </DIV>
+<DIV align=left>　　6.12 垃圾处理和环境卫生维护 </DIV>
+<DIV align=left>　　6.13 临时志愿者招募 </DIV>
+<DIV align=left>　　6.14 失散人员登记查询 </DIV>
+<DIV align=left>　　6.15 宠物安置 </DIV>
+<DIV align=left>　　6.16 转移安置 </DIV>
+<DIV align=left>　　<B>7 安置结束 </B></DIV>
+<DIV align=left>　　<B>8 附则 </B></DIV>
+<DIV align=left>　　8.1 预案制定与解释 </DIV>
+<DIV align=left>　　8.2 预案管理 </DIV>
+<DIV align=left>　　8.3 预案实施 </DIV>
+<DIV align=left>　　<B>9 附件</B> </DIV>
+<DIV align=left>　　9.1 地震应急避难场所疏散安置指挥部通讯录 </DIV>
+<DIV align=left>　　9.2 地震应急避难场所场外疏散路线平面示意图 </DIV>
+<DIV align=left>　　9.3 地震应急避难场所规划设计平面示意图 </DIV>
+<DIV align=left>　　9.4 地震应急避难场所规划设计平面示意图图例 </DIV>
+<DIV align=left>　　9.5 地震应急避难场所应急物资、装备储备清单表 </DIV>
+<DIV align=left>　　9.6 地震应急避难场所物资、装备接收、拨付登记表 </DIV>
+<DIV align=left>　　9.7 地震应急避难场所伤病人员登记表 </DIV>
+<DIV align=left>　　9.8 地震应急避难场所每日情况调查表 </DIV>
+<DIV align=left>　　9.9 地震应急避难场所社区特殊帮助人员登记表 </DIV>
+<DIV align=left>　　9.10 地震应急避难场所临时志愿者招募登记表 </DIV>
+<DIV align=left>　　<B>1 总则 </B></DIV>
+<DIV align=left>　　总则部分应明确疏散安置预案的编制目的、适用范围、编制依据和工作原则等内容。 </DIV>
+<DIV align=left>　　1.1编制目的 </DIV>
+<DIV align=left>　　应明确预案编制目的，一般可表述为：为规范地震应急避难场所的使用及民众的疏散安置工作，确保灾时地震应急避难场所的有效启用和民众疏散安置工作的高效、有序开展,保障民众在场所内的基本生活而制定。 </DIV>
+<DIV align=left>　　1.2适用范围 </DIV>
+<DIV align=left>　　应明确预案的适用范围，一般应适用于本市或临近地区发生地震灾害事件或政府发布临震预报后，街道、乡镇及社区、村、其他基层组织和单位依托临近的地震应急避难场所，有组织、有计划地开展民众的各项应急疏散安置工作。 </DIV>
+<DIV align=left>　　1.3 编制依据 </DIV>
+<DIV align=left>　　编制依据应包括国家及本市相关法律法规、国家及地方有关标准、相关应急预案和政府文件。 </DIV>
+<DIV align=left>　　1.4工作原则 </DIV>
+<DIV align=left>　　应体现出“政府主导、社会参与，预防为主、依法管理，统一指挥、协调配合，快速反应、高效有序，先人后物、伤病优先”等工作原则。 </DIV>
+<DIV align=left>　<B>　2 场所基本情况 </B></DIV>
+<DIV align=left>　　2.1场所名称 </DIV>
+<DIV align=left>　　应体现出行政隶属关系。 </DIV>
+<DIV align=left>　　2.2场所位置 </DIV>
+<DIV align=left>　　分别用行政区位表述和地理作标（地震应急避难场所中心的经纬度：北纬°′″、东经°′″）表述。 </DIV>
+<DIV align=left>　　2.3周边资源 </DIV>
+<DIV align=left>　　应明确在应急疏散安置工作时能够获得的周边资源，如医院、商场、超市等。 </DIV>
+<DIV align=left>　　2.4场所类型 </DIV>
+<DIV align=left>　　分别为《地震应急避难场所场址及配套设施》（GB21734-2008）所列公园、绿地、广场、体育场、室内公共场馆所等类型。 </DIV>
+<DIV align=left>　　2.5场所类别 </DIV>
+<DIV align=left>　　分别为《地震应急避难场所场址及配套设施》（GB21734-2008）所列Ⅰ、Ⅱ、Ⅲ类中的类别。 </DIV>
+<DIV align=left>　　2.6场所面积 </DIV>
+<DIV align=left>　　包括场所总面积（场所实际面积）、有效面积（应急时期的使用面积）、疏散安置面积（场所内篷宿区面积）和人均居住面积（疏散安置面积除以疏散人数），单位用“平方米”。 </DIV>
+<DIV align=left>　　2.7设施情况 </DIV>
+<DIV align=left>　　场所中生活服务设施的种类、数量等。 </DIV>
+<DIV align=left>　　2.8服务对象 </DIV>
+<DIV align=left>　　明确场所服务对象（本场所接纳疏散安置的基层政府、组织和单位）名称，常住和流动疏散人口数量（需注明少数民族、港澳台、外籍人员），特殊帮助人员（老人、残疾人、孕妇、婴幼儿等）数量及比例等情况。 </DIV>
+<DIV align=left>　　<B>3 组织机构 </B></DIV>
+<DIV align=left>　　3.1设立疏散安置指挥部 </DIV>
+<DIV align=left>　　每个地震应急避难场所均应设立一个“应急避难场所疏散安置指挥部”(以下简称疏散安置指挥部)，并明确疏散安置指挥部的工作职责、工作地点、人员构成及联络方式。 </DIV>
+<DIV align=left>　　疏散安置指挥部的人员应以乡镇、街道相关负责人为主体，社区、村、物业管理公司、场所所有权单位、辖区派出所、医疗机构、志愿者队伍等人员参加。 </DIV>
+<DIV align=left>　　单个基层政府、组织或单位使用一个场所时，则本基层政府、组织或单位即为疏散安置指挥部主体；多个基层政府、组织或单位共用一个场所时，共同组成疏散安置指挥部，疏散安置指挥部的主要责任人由本级或上级政府指定；单个基层组织或单位单独使用多个场所时，则各疏散安置指挥部主要责任人由该基层组织或单位指定。 </DIV>
+<DIV align=left>　　3.2设立相关工作组 </DIV>
+<DIV align=left>　　结合场所内疏散安置工作实际需要，疏散安置指挥部可下设协调联络工作组、人员疏散工作组、医疗救护工作组、治安保卫工作组、后勤保障工作组、宣传教育工作组等相关工作组，并分别明确各工作组人员构成、主要负责人及成员姓名、联系方式（人员通讯录格式参见附件9.1）。 </DIV>
+<DIV align=left>　　各工作组的设置及所承担的工作任务可结合实际情况进行调整。 </DIV>
+<DIV align=left>　<B>　4 疏散安置工作准备 </B></DIV>
+<DIV align=left>　　4.1场所准备 </DIV>
+<DIV align=left>　　4.1.1设施配备。 </DIV>
+<DIV align=left>　　应按照《地震应急避难场所场址及配套设施》（GB21734-2008）所列Ⅰ、Ⅱ、Ⅲ类场所生活服务设施配置要求并结合实际，列明本场所配设的相应设施、设备情况。 </DIV>
+<DIV align=left>　　4.1.2安置区域划分。 </DIV>
+<DIV align=left>　　根据场所面积、疏散人数等实际情况，对场所内安置区域进行划分并以数字编号。每个篷宿区分区不应超过1000平方米，划分区域时应考虑民族、宗教信仰等因素。 </DIV>
+<DIV align=left>　　4.1.3设置或发放疏散安置示意图。 </DIV>
+<DIV align=left>　　应预先设计并制作地震应急避难场所疏散安置平面示意图，包括场外疏散路线平面示意图和场所规划设计平面示意图，用地形图表示（文件格式为.cad格式）。也可根据实际需要，绘制其他不同功用的疏散安置图。示意图应以展板等形式，在显要位置及场所主要入口处进行展示。 </DIV>
+<DIV align=left>　　（1）场外疏散路线平面示意图应包括以下内容（参见附件9.2）： </DIV>
+<DIV align=left>　　疏散对象：以场所周边街道、社区为主，并标明街道或社区名称、疏散总人数，背景为黄色。 </DIV>
+<DIV align=left>　　疏散线路：用红色线条表示，并标注箭头指向。 </DIV>
+<DIV align=left>　　方位指示图标：标于总图右上角，用箭头指示北方，箭头前方标注“北”字。 </DIV>
+<DIV align=left>　　图例：位于该图右下角或右侧。 </DIV>
+<DIV align=left>　　比例尺：1︰2000或1︰500 </DIV>
+<DIV align=left>　　场所底色：绿色 </DIV>
+<DIV align=left>　　（2）场所规划设计平面示意图应包括以下内容（参见附件9.3）： </DIV>
+<DIV align=left>　　场所：场所底色为绿色，应标注场内主要建筑的位置及名称。 </DIV>
+<DIV align=left>　　设施位置：设施种类参照《地震应急避难场所场址及配套设施》（GB21734-2008）。 </DIV>
+<DIV align=left>　　篷宿区区域：篷宿区区域颜色应与避难场所底色（绿色）区分，并分别标注各篷宿区编号。 </DIV>
+<DIV align=left>　　方位指示图标：标于总图右上角，用箭头指示北方，箭头前方标注“北”字。 </DIV>
+<DIV align=left>　　图例：参照附件9.4。 </DIV>
+<DIV align=left>　　4.2物资准备 </DIV>
+<DIV align=left>　　4.2.1场所物资储备。 </DIV>
+<DIV align=left>　　地震应急避难场所的物资储备可参照《民政部关于进一步加强救灾应急物资储备工作的通知》（民函〔2008〕118号）等相关规定，并结合本场所服务对象的实际情况确定物资储备的种类、数量、储备形式及相关供应部门或单位（物资储备清单表格参见附件9.5）。 </DIV>
+<DIV align=left>　　应预先与已确定作为地震应急避难场所物资供应点的商场、超市、仓储等单位签订物资供应协议。 </DIV>
+<DIV align=left>　　4.2.2 家庭应急物资储备。 </DIV>
+<DIV align=left>　　倡导每个家庭结合自身需要，进行家庭应急物资储备。可提示家庭应急物品储备的种类（如饮用水和食品、防寒防雨用品、照明设备、家庭常用药物、现金等）和数量等内容。 </DIV>
+<DIV align=left>　　4.3组织准备 </DIV>
+<DIV align=left>　　4.3.1疏散分组。 </DIV>
+<DIV align=left>　　基层政府、组织和单位要将疏散安置民众划分成组，以小组（如楼栋）为单位，明确各疏散小组负责人和协助人员的姓名、联系方式及负责疏散的人数（户数）。各疏散小组用数字编号。疏散分组相关信息应告知民众。 </DIV>
+<DIV align=left>　　4.3.2疏散线路。 </DIV>
+<DIV align=left>　　依据疏散分组情况，分别明确各疏散小组的疏散路线、场内到达区域，以及到达场所的大致距离及步行预计时间。 </DIV>
+<DIV align=left>　　疏散路线的设计应本着安全、就近、快捷的原则，尽可能避开潜在地震危险区域。可设定多条疏散线路，避免疏散人群过度集中。应优先选择道路相对较宽，且两侧没有高大建筑物和次生灾害源的线路。 </DIV>
+<DIV align=left>　　4.4检查、宣传和演练 </DIV>
+<DIV align=left>　　4.4.1应确定人员定期检查疏散线路，确保疏散线路畅通；定期检查场所设施、设备，确保正常使用；定期检查食品储备，确保质量。 </DIV>
+<DIV align=left>　　4.4.2基层政府、组织和单位应采取多种形式开展应急避险知识宣传，明确应急避险的注意示项，加强自救互救技能培训，并定期开展疏散演练。 </DIV>
+<DIV align=left>　<B>　5 疏散 </B></DIV>
+<DIV align=left>　　5.1疏散通知 </DIV>
+<DIV align=left>　　由人员疏散工作组负责疏散通知工作。应根据情况指定一名或多名疏散通知员，并明确通知条件、通知内容和通知方式（警报、喇叭、约定哨声等）。 </DIV>
+<DIV align=left>　　5.2疏散引导 </DIV>
+<DIV align=left>　　由人员疏散工作组负责疏散引导工作。应根据情况指定疏散引导员，并明确引导位置、引导方式及引导工作流程，按照疏散路线有序进入指定的疏散区域。 </DIV>
+<DIV align=left>　　5.3场所启用 </DIV>
+<DIV align=left>　　应明确启用地震应急避难场所的负责单位，并确定负责启用场所和设施、设备的相关人员及启用程序。 </DIV>
+<DIV align=left>　　5.4民众疏散 </DIV>
+<DIV align=left>　　由人员疏散工作组负责，医疗救护工作组等相关工作组配合，开展民众由驻地至场所内指定区域的疏散工作。应明确民众疏散流程及交通、医疗等相关保障措施，并组织人员对特殊帮助人员进行帮扶。 </DIV>
+<DIV align=left>　<B>　6 安置 </B></DIV>
+<DIV align=left>　　6.1搭建帐篷 </DIV>
+<DIV align=left>　　由后勤保障工作组负责组织搭建帐篷，并优先保障老人、残疾人、孕妇、婴幼儿、伤病人员的使用。 </DIV>
+<DIV align=left>　　6.2设立指挥机构工作点 </DIV>
+<DIV align=left>　　由协调联络工作组负责设立疏散安置指挥部工作点，其他工作组负责设立各自的工作点。应分别明确各工作点的设置地点、必备设施和负责人员，并在周围设立明显标识。 </DIV>
+<DIV align=left>　　6.3民众安置登记 </DIV>
+<DIV align=left>　　由人员疏散工作组负责组织对场所内安置的民众进行登记（港澳台及外籍人员、特殊帮助人员进行单独登记）。应明确此项工作的负责人员和负责范围。 </DIV>
+<DIV align=left>　　6.4设施、设备和物资保障 </DIV>
+<DIV align=left>　　6.4.1场所设施、设备保障。 </DIV>
+<DIV align=left>　　由协调联络工作组负责向上级政府指挥机构提出场所设施、设备的需求，设施种类参照《地震应急避难场所场址及配套设施》（GB21734-2008）。由后勤保障工作组负责场所设施、设备的接收、安装和维修等工作。应明确场所设施、设备的供应、维修等工作程序（如数量统计、上报、设施提供、接收、安装等）；明确相关保障单位及上级负责单位的负责人及联系方式（登记表格式参见附件9.6）。 </DIV>
+<DIV align=left>　　6.4.2生活物资保障。 </DIV>
+<DIV align=left>　　由协调联络工作组负责向上级政府指挥机构提出民众生活物资保障需求，由后勤保障工作组负责场所生活物资的接收、清点、登记、发放等工作。应明确生活物资（如食品、水、炊事用具、被褥、毛巾、母婴用品等）的发放、领取方式及程序；明确相关供应单位、负责人及联系方式（登记表格式参见附件9.6）。 </DIV>
+<DIV align=left>　　6.4.3医疗物资保障。 </DIV>
+<DIV align=left>　　由协调联络工作组负责向上级政府指挥机构提出医疗物资需求。由医疗救护工作组负责场所药品和医疗器械物资的接收、清点、登记、发放等工作。应明确药品、医疗器械等医疗物资的发放、领取方式及程序；明确相关单位、负责人及联系方式（登记表格式参见附件9.6）。 </DIV>
+<DIV align=left>　　6.5医疗救护和卫生防疫 </DIV>
+<DIV align=left>　　由医疗救护工作组负责在场所内设立医疗救护点，开展场所内人员医疗救护和卫生防疫工作，并协助做好重伤员的转运。应明确负责此项工作的医务人员名单；明确开展医疗救护的工作内容（如伤病人员登记、救治、医品发放、心理疏导等）和工作方式（如根据篷宿区数量将医疗人员划分成工作小组，每日进行巡诊或在医疗点负责接诊等）；明确场所内卫生防疫的工作内容（如定期消毒、疫病监测、患者隔离、疫情报告等）和工作方式。伤病人员登记表格式参见附件9.7。 </DIV>
+<DIV align=left>　　6.6对外通信联络 </DIV>
+<DIV align=left>　　由协调联络工作组负责协调设立民众临时通讯点，配备一定数量的通讯器材，确保疏散安置指挥部与上级政府指挥机构的通信畅通，并保障民众对外通讯联络。应确定负责对外通信联络工作的人员名单；明确疏散安置指挥部对外联络和民众对外联络的保障方式（如手机、座机、无线手台、人工送达方式等）；明确可提供通讯联络设施、设备的单位名称、联络人及联系方式。 </DIV>
+<DIV align=left>　　6.7场所信息的统计上报 </DIV>
+<DIV align=left>　　由协调联络工作组负责，其他工作组配合，建立场所每日情况统计上报制度。协调联络工作组应在震后1小时内向上级政府指挥机构进行初报，其后每日定时报送；其他工作组应在协调联络工作组报送前，向其提供相关统计数据。 </DIV>
+<DIV align=left>　　应分别明确协调联络工作组及其他工作组负责场所情况信息报送的人员名单；确认上级政府指挥机构的名称、联络方式和工作地点。明确场所情况统计、报送的工作程序和报送内容（格式参见附件9.8）。 </DIV>
+<DIV align=left>　　6.8信息通告与宣传 </DIV>
+<DIV align=left>　　由宣传教育工作组负责场所内的政府抗震救灾信息通告、减灾知识宣传等工作。应明确场所内的信息通告方式（如广播、电视、广告屏、信息公告栏、材料发放等）及宣传点的设立地点。 </DIV>
+<DIV align=left>　　6.9民众心理干预 </DIV>
+<DIV align=left>　　由医疗救护工作组负责组织相关人员开展心理咨询、抚慰等心理干预工作。应明确心理干预工作的人员名单及工作内容等。 </DIV>
+<DIV align=left>　　6.10治安维护 </DIV>
+<DIV align=left>　　由治安保卫工作组负责场所内的治安保卫工作。应明确负责此项工作的人员名单；明确场所内治安保卫工作内容（如夜间治安巡逻、维护场所秩序、布设警戒线、治安案件处理、火灾等次生灾害预防和处置等）；依据场所疏散安置图，划定安保人员分布、人员数量、巡逻路线；拟定重点巡查目标（如疏散安置指挥部所在地、物资储备点、供电设施、次生灾害危险源等）；明确治安事件的处置方式等。 </DIV>
+<DIV align=left>　　6.11特殊帮助人员的安置 </DIV>
+<DIV align=left>　　由后勤保障工作组结合实际情况，负责为特殊帮助人员设立单独的安置区域，组织人员搭建安置帐蓬，并定时提供食品等特殊服务；由医疗救护工作组负责提供必要的医疗服务（特殊帮助人员登记表参见附件9.9）。 </DIV>
+<DIV align=left>　　6.12垃圾处理和环境卫生维护 </DIV>
+<DIV align=left>　　由后勤保障工作组负责，其他相关工作组配合，开展垃圾处理及环境卫生维护相关工作。应明确负责此项工作的人员名单；明确场内垃圾清理方式及时间间隔；明确场所环境卫生维护方式（如增设垃圾点、开展场所环境卫生维护宣传，张贴注意事项，引导民众良好卫生习惯等）。 </DIV>
+<DIV align=left>　　6.13临时志愿者招募 </DIV>
+<DIV align=left>　　由协调联络工作组负责在场所内设立临时志愿者招募点，对报名参加志愿者工作的人员进行登记（登记表参见附件9.10），并分配至各工作组。应确定负责临时志愿者招募的人员名单；明确临时志愿者招募的程序（如设立招募点、公布信息、场内动员、报名人员登记、分配任务等）和方式（如民众自愿报名或根据需要动员等）。 </DIV>
+<DIV align=left>　　6.14失散人员登记查询 </DIV>
+<DIV align=left>　　由人员疏散工作组负责失散人员的登记、查询等相关工作。应明确失散人员登记查询的工作内容（如设立失散人员登记查询点、与其他地震应急避难场所联系交换查询人员名单、已找到人员通知等）和工作方式（如场内布告栏张贴、场内广播告知、设置网络信息共享平台等）。 </DIV>
+<DIV align=left>　　6.15宠物安置 </DIV>
+<DIV align=left>　　后勤保障工作组应考虑为宠物设立单独饲养区域，并负责组织人员为宠物饲养区域搭建围栏，定时提供食品，进行卫生清扫等。医疗救护工作组负责该区域的疫病防控工作。 </DIV>
+<DIV align=left>　　6.16转移安置 </DIV>
+<DIV align=left>　　6.16.1紧急状态下的转移。 </DIV>
+<DIV align=left>　　紧急状态下的转移是指当应急避难场所面临危险，不适宜继续安置民众，需紧急转移的情况。 </DIV>
+<DIV align=left>　　当政府下达转移指令或自身查觉危险临近时，疏散安置指挥部在政府指导下或自主组织本场所民众向安全地带转移，并向上级政府报告所在位置及情况，请求救援。 </DIV>
+<DIV align=left>　　6.16.2长期性安置转移。 </DIV>
+<DIV align=left>　　根据长期安置工作需要，已安置于Ⅱ、Ⅲ类地震应急避难场所内的民众，在上级政府的安排下，由疏散安置指挥部负责组织从所在地震应急避难场所转移至指定Ⅰ类地震应急避难场所进行安置。 </DIV>
+<DIV align=left>　<B>　7 安置结束 </B></DIV>
+<DIV align=left>　　应明确避难场所安置结束后，人员撤离、物资整理等善后工作内容，以及负责此项工作的人员和工作程序。 </DIV>
+<DIV align=left>　<B>　8 附则</B> </DIV>
+<DIV align=left>　　8.1预案制定与解释 </DIV>
+<DIV align=left>　　应明确预案的制定与解释机构。 </DIV>
+<DIV align=left>　　8.2预案管理 </DIV>
+<DIV align=left>　　应明确预案的更新、修订条件及备案部门。 </DIV>
+<DIV align=left>　　8.3预案实施 </DIV>
+<DIV align=left>　　应明确预案的实施日期，一般自发布之日起实施。</DIV>
+<DIV align=left><B>&nbsp;</B></DIV>
+<DIV align=left><B>&nbsp;</B></DIV>
+<DIV align=left><B>&nbsp;</B></DIV>
+<DIV align=left><B>&nbsp;</B></DIV>
+<DIV align=left><B>&nbsp;</B></DIV>
+<DIV align=left><B>&nbsp;</B></DIV>
+<DIV align=left><B>&nbsp;</B></DIV>
+<DIV align=left><B>&nbsp;</B></DIV>
+<DIV align=left><B>&nbsp;</B></DIV>
+<DIV align=left>9 附件 </DIV>
+<DIV align=left>　　9.1地震应急避难场所疏散安置指挥部通讯录 </DIV>
+<DIV align=center><B><U>　　　</U></B><B><U> </U></B><B><U>　</U></B><B><U>&nbsp;</U></B><B>区（县）<U>　　　　　</U></B><B><U>&nbsp; </U></B><B>地震应急避难场所</B></DIV>
+<DIV align=center><B>疏散安置指挥部通讯录</B><B>&nbsp;</B></DIV>
+<DIV align=center>
+<TABLE border=1 cellSpacing=0 cellPadding=0 width=603>
+<TBODY>
+<TR>
+<TD width=160 colSpan=2>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=66>
+<DIV align=center>姓名</DIV></TD>
+<TD width=60>
+<DIV align=center>性别</DIV></TD>
+<TD width=149>
+<DIV align=center>所属单位</DIV></TD>
+<TD width=78>
+<DIV align=center>职务</DIV></TD>
+<TD width=89>
+<DIV align=center>联系方式</DIV></TD></TR>
+<TR>
+<TD width=160 colSpan=2>
+<DIV align=center>指挥长</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=2 width=160 colSpan=2>
+<DIV align=center>副指挥长</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>…</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=6 width=81>
+<DIV align=center>协调联络</DIV>
+<DIV align=center>工作组</DIV></TD>
+<TD width=78>
+<DIV align=center>组长</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=3 width=78>
+<DIV align=center>副组长</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>…</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=2 width=78>
+<DIV align=center>成员</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>…</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=6 width=81>
+<DIV align=center>医疗救护</DIV>
+<DIV align=center>工作组</DIV></TD>
+<TD width=78>
+<DIV align=center>组长</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=3 width=78>
+<DIV align=center>副组长</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>…</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=2 width=78>
+<DIV align=center>成员</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>…</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=6 width=81>
+<DIV align=center>治安保卫</DIV>
+<DIV align=center>工作组</DIV></TD>
+<TD width=78>
+<DIV align=center>组长</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=3 width=78>
+<DIV align=center>副组长</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>…</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD rowSpan=2 width=78>
+<DIV align=center>成员</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD width=66>
+<DIV align=center>…</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR>
+<TR>
+<TD>
+<DIV align=center>…</DIV></TD>
+<TD>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=66>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=60>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=149>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=78>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=89>
+<DIV align=center>&nbsp;</DIV></TD></TR></TBODY></TABLE></DIV>
+<DIV align=left>　9.2地震应急避难场所场外疏散路线平面示意图</DIV>
+<DIV align=center></DIV>
+<DIV align=left>　</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>　<B>9.3</B><B>地震应急避难场所规划设计平面示意图</B><B></B></DIV>
+<DIV align=center></DIV>
+<DIV align=left>　</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left><B>　</B><B>9.4 </B><B>地震应急避难场所规划设计平面示意图图例</B><B></B></DIV>
+<DIV align=center>
+<TABLE border=1 cellSpacing=0 cellPadding=0 width=561>
+<TBODY>
+<TR>
+<TD width=75>
+<DIV align=center>图形符号</DIV></TD>
+<TD width=91>
+<DIV align=center>名称</DIV></TD>
+<TD width=107>
+<DIV align=center>图形符号</DIV></TD>
+<TD width=91>
+<DIV align=center>名称</DIV></TD>
+<TD width=107>
+<DIV align=center>图形符号</DIV></TD>
+<TD width=91>
+<DIV align=center>名称</DIV></TD></TR>
+<TR>
+<TD width=75>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急避难</DIV>
+<DIV align=center>场所</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急供电</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急棚宿区</DIV></TD></TR>
+<TR>
+<TD width=75>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急水井</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急停机坪</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急物资</DIV>
+<DIV align=center>供应</DIV></TD></TR>
+<TR>
+<TD width=75>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急指挥</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=left>方向</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=left>入口</DIV></TD></TR>
+<TR>
+<TD width=75>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=left>出口</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=left>紧急出口</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=left>应急厕所</DIV></TD></TR>
+<TR>
+<TD width=75>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急供水</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急医疗</DIV>
+<DIV align=center>救护</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急灭火器</DIV></TD></TR>
+<TR>
+<TD width=75>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急停车场</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>应急自行车停放</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>（应急）</DIV>
+<DIV align=center>监控</DIV></TD></TR>
+<TR>
+<TD width=75>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>（应急）</DIV>
+<DIV align=center>通讯</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>（应急）</DIV>
+<DIV align=center>广播</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>（应急）</DIV>
+<DIV align=center>淋浴</DIV></TD></TR>
+<TR>
+<TD width=75>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>（应急）</DIV>
+<DIV align=center>通信</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>（应急）</DIV>
+<DIV align=center>排污</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>（应急）</DIV>
+<DIV align=center>垃圾存放</DIV></TD></TR>
+<TR>
+<TD width=75>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>（应急）</DIV>
+<DIV align=center>废物箱</DIV></TD>
+<TD width=107>
+<DIV align=center></DIV></TD>
+<TD width=91>
+<DIV align=center>（应急）</DIV>
+<DIV align=center>通风</DIV></TD>
+<TD width=107>
+<DIV align=center>&nbsp;</DIV></TD>
+<TD width=91>
+<DIV align=center>&nbsp;</DIV></TD></TR></TBODY></TABLE></DIV>
+<DIV align=left>　</DIV>
+<DIV align=left><B>　</B><B>9.5</B><B>地震应急避难场所应急物资、装备储备清单表</B><B></B></DIV>
+<DIV align=center><B><U>　　　</U></B><B><U> </U></B><B><U>　</U></B><B><U>&nbsp;</U></B><B>区（县）<U>　　　　　</U></B><B><U>&nbsp; </U></B><B>地震应急避难场所</B></DIV>
+<DIV align=center><B>应急物资、装备储备清单</B><B>&nbsp;</B></DIV>
+<DIV align=center>
+<TABLE border=1 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD width=48>
+<DIV align=center>序号</DIV></TD>
+<TD width=114>
+<DIV align=center>物资(装备)名称</DIV></TD>
+<TD width=100>
+<DIV align=center>型号</DIV></TD>
+<TD width=47>
+<DIV align=center>单位</DIV></TD>
+<TD width=47>
+<DIV align=center>数量</DIV></TD>
+<TD width=132>
+<DIV align=center>存放地点</DIV></TD>
+<TD width=79>
+<DIV align=center>保管人</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=114>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=100>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=47>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=132>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=79>
+<DIV align=left>&nbsp;</DIV></TD></TR></TBODY></TABLE></DIV>
+<DIV align=left>　　</DIV>
+<DIV align=left><B>9.6</B><B>地震应急避难场所物资、装备接收、拨付登记表</B><B></B></DIV>
+<DIV align=center><B><U>　　　</U></B><B><U> </U></B><B><U>　</U></B><B><U>&nbsp;</U></B><B>区（县）<U>　　　　　</U></B><B><U>&nbsp; </U></B><B>地震应急避难场所<U>　</U></B><B><U> XX</U></B><B><U>物资（装备）　</U></B><B><U> </U></B><B>接收、拨付登记表</B></DIV>
+<DIV align=center>
+<TABLE border=1 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD width=111 colSpan=4>
+<DIV align=center>日期时间</DIV></TD>
+<TD width=410 colSpan=6>
+<DIV align=center>接收</DIV></TD>
+<TD width=358 colSpan=5>
+<DIV align=center>拨付</DIV></TD>
+<TD rowSpan=2 width=89>
+<DIV align=center>剩余数量</DIV></TD></TR>
+<TR>
+<TD width=111 colSpan=4>
+<DIV align=center>年 月 日 时</DIV></TD>
+<TD width=48>
+<DIV align=center>单位</DIV></TD>
+<TD width=57>
+<DIV align=center>数量</DIV></TD>
+<TD width=97>
+<DIV align=center>供应单位</DIV></TD>
+<TD width=73>
+<DIV align=center>运送人</DIV></TD>
+<TD width=64>
+<DIV align=center>接收人</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=center>存储地</DIV></TD>
+<TD width=52>
+<DIV align=center>单位</DIV></TD>
+<TD width=56>
+<DIV align=center>数量</DIV></TD>
+<TD width=102>
+<DIV align=center>使用单位</DIV></TD>
+<TD width=72>
+<DIV align=center>拨付人</DIV></TD>
+<TD width=76>
+<DIV align=center>领用人</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=28>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=57>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=97>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=64>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=71>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=52>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=56>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=102>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=72>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=76>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD></TR></TBODY></TABLE></DIV>
+<DIV align=left>　</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>&nbsp;</DIV>
+<DIV align=left>　<B>9.7</B><B>地震应急避难场所伤病人员登记表</B></DIV>
+<DIV align=center><B><U>　　　</U></B><B><U> </U></B><B><U>　</U></B><B><U>&nbsp;</U></B><B>区（县）<U>　　　　　</U></B><B><U>&nbsp; </U></B><B>地震应急避难场所</B></DIV>
+<DIV align=center><B>（</B><B>□</B><B>伤、</B><B>□</B><B>病）人员登记表</B></DIV>
+<DIV align=center>
+<TABLE border=1 cellSpacing=0 cellPadding=0 width=632>
+<TBODY>
+<TR>
+<TD width=48>
+<DIV align=center>序号</DIV></TD>
+<TD width=39>
+<DIV align=center>姓名</DIV></TD>
+<TD width=73>
+<DIV align=center>性别</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=center>户籍</DIV>
+<DIV align=center>所在地</DIV></TD>
+<TD width=39>
+<DIV align=center>年龄</DIV></TD>
+<TD width=89>
+<DIV align=center>伤势及部位</DIV>
+<DIV align=center>或病因</DIV></TD>
+<TD width=69>
+<DIV align=center>安置</DIV>
+<DIV align=center>所在地</DIV></TD>
+<TD width=84>
+<DIV align=center>是否</DIV>
+<DIV align=center>转移救治</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=center>转移时间</DIV>
+<DIV align=center>(年月日)</DIV></TD>
+<TD width=53>
+<DIV align=center>转移</DIV>
+<DIV align=center>地点</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>□男 □女</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=69>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=84>
+<DIV align=left>□是 □否</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=53>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>□男 □女</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=69>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=84>
+<DIV align=left>□是 □否</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=53>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>□男 □女</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=69>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=84>
+<DIV align=left>□是 □否</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=53>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>□男 □女</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=69>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=84>
+<DIV align=left>□是 □否</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=53>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>□男 □女</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=69>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=84>
+<DIV align=left>□是 □否</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=53>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>□男 □女</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=69>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=84>
+<DIV align=left>□是 □否</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=53>
+<DIV align=left>&nbsp;</DIV></TD></TR>
+<TR>
+<TD vAlign=top width=48>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=73>
+<DIV align=left>□男 □女</DIV></TD>
+<TD vAlign=top width=70>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=39>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=89>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=69>
+<DIV align=left>&nbsp;</DIV></TD>
+<TD vAlign=top width=84>&lt;DIV align=lef
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55216';var __$contentid='3035819';var __$title='南京市地震应急避难场所疏散安置预案编制指南（试行）';var __$AuthorPh='';var __$Editor='';var __$Liability='陈琳';var __$pubtime='2011-12-27 00:00:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

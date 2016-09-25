@@ -1,0 +1,675 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>截至31日10时 云南盈江6.1级地震共记录到地震总数1047个</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/515/index.html' class='navigation_style'>热点报道</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">截至31日10时 云南盈江6.1级地震共记录到地震总数1047个</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2014-05-31 11:24:51 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局办公室
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><p>　　2014年5月30日09时20分云南省盈江县发生6.1级强震， 截至2014年05月31日10时00分共记录到地震总数为1047个。</p>
+<p>　　截至2014年05月31日10时00分，3.0级以上地震余震25个，其中5.0~5.9级地震余震1个，4.0~4.9级地震余震2个，3.0~3.9级地震余震22个。<br />
+&nbsp;</p>
+<p style="text-align: center">
+<table style="width: 463pt; border-collapse: collapse; -webkit-text-stroke-width: 0px" border="0" cellspacing="0" cellpadding="0" width="618" x:str="">
+    <colgroup><col style="width: 26pt; mso-width-source: userset; mso-width-alt: 1120" width="35" /><col style="width: 54pt" span="6" width="72" /><col style="width: 113pt; mso-width-source: userset; mso-width-alt: 4832" width="151" /></colgroup>
+    <tbody>
+        <tr style="height: 14.25pt" height="19">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 36.75pt; border-top: black 1pt solid; border-right: black 1pt solid" class="xl24" height="49" rowspan="3" width="35"><font size="2" face="宋体">序号</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 54pt; border-top: black 1pt solid; border-right: black 1pt solid" class="xl24" rowspan="3" width="72"><font size="2" face="宋体">发震日期</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 54pt; border-top: black 1pt solid; border-right: black 1pt solid" class="xl24" rowspan="3" width="72"><font size="2" face="宋体">发震时刻</font></td>
+            <td style="border-bottom: #f0f0f0; border-left: black; background-color: transparent; width: 54pt; border-top: black 1pt solid; border-right: black 1pt solid" class="xl24" width="72"><font size="2" face="宋体">纬度</font></td>
+            <td style="border-bottom: #f0f0f0; border-left: black; background-color: transparent; width: 54pt; border-top: black 1pt solid; border-right: black 1pt solid" class="xl24" width="72"><font size="2" face="宋体">经度</font></td>
+            <td style="border-bottom: #f0f0f0; border-left: black; background-color: transparent; width: 54pt; border-top: black 1pt solid; border-right: black 1pt solid" class="xl24" width="72"><font size="2" face="宋体">震源深度</font></td>
+            <td style="border-bottom: #f0f0f0; border-left: black; background-color: transparent; width: 54pt; border-top: black 1pt solid; border-right: black 1pt solid" class="xl24" width="72"><font size="2" face="宋体">震级</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 113pt; border-top: black 1pt solid; border-right: black 1pt solid" class="xl24" rowspan="3" width="151"><font size="2" face="宋体">震中地点</font></td>
+        </tr>
+        <tr style="height: 7.5pt; mso-height-source: userset" height="10">
+            <td style="border-bottom: #f0f0f0; border-left: black; background-color: transparent; width: 54pt; height: 7.5pt; border-top: #f0f0f0; border-right: black 1pt solid" class="xl26" height="10" width="72"><font face="宋体">　</font></td>
+            <td style="border-bottom: #f0f0f0; border-left: black; background-color: transparent; width: 54pt; border-top: #f0f0f0; border-right: black 1pt solid" class="xl26" width="72"><font face="宋体">　</font></td>
+            <td style="border-bottom: #f0f0f0; border-left: black; background-color: transparent; width: 54pt; border-top: #f0f0f0; border-right: black 1pt solid" class="xl26" width="72"><font face="宋体">　</font></td>
+            <td style="border-bottom: #f0f0f0; border-left: black; background-color: transparent; width: 54pt; border-top: #f0f0f0; border-right: black 1pt solid" class="xl26" width="72"><font face="宋体">　</font></td>
+        </tr>
+        <tr style="height: 15pt" height="20">
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; height: 15pt; border-top: #f0f0f0; border-right: black 1pt solid" class="xl27" height="20" width="72"><font size="2"><font face="宋体">（&deg;</font><font class="font6">N</font><font class="font5" face="宋体">）</font></font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: #f0f0f0; border-right: black 1pt solid" class="xl27" width="72"><font size="2"><font face="宋体">（&deg;</font><font class="font6">E</font><font class="font5" face="宋体">）</font></font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: #f0f0f0; border-right: black 1pt solid" class="xl27" width="72"><font size="2"><font face="宋体">（</font><font class="font6">Km</font><font class="font5" face="宋体">）</font></font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: #f0f0f0; border-right: black 1pt solid" class="xl27" width="72"><font size="2"><font face="宋体">（</font><font class="font6">M</font><font class="font5" face="宋体">）</font></font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">1</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.38902777777777775">9:20:12</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">12</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">6.1</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">2</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.38946759259259256">9:20:50</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25.1</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">14</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">5.1</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">3</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.38968750000000002">9:21:09</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">4.3</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">4</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.3903240740740741">9:22:04</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">15</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">5</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.39056712962962964">9:22:25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.2</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德<font class="font5" size="2">宏傣族景颇族自治州盈江县</font></font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">6</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.39148148148148149">9:23:44</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">11</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.1</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">7</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.39187499999999997">9:24:18</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">15</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">8</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.39663194444444444">9:31:09</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">9</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.41660879629629632">9:59:55</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">13</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.1</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">10</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.41743055555555553">10:01:06</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">14</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.1</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">11</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.45177083333333329">10:50:33</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl33" width="72" x:num=""><font size="2" face="Arial">14</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl33" width="72" x:num=""><font size="2" face="Arial">3</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">12</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.45302083333333337">10:52:21</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25.1</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl33" width="72" x:num=""><font size="2" face="Arial">11</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.1</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">13</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.47692129629629632">11:26:46</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl33" width="72" x:num=""><font size="2" face="Arial">11</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.1</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">14</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.5173726851851852">12:25:01</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">15</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.4</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">15</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.62763888888888886">15:03:48</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.2</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">16</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.72761574074074076">17:27:46</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">24.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">17</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.81678240740740737">19:36:10</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">7</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.4</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">18</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.81814814814814818">19:38:08</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.3</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">19</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.81888888888888889">19:39:12</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">7</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">20</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.91442129629629632">21:56:46</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">14</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.2</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">21</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.91465277777777787">21:57:06</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">14</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.2</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">22</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.93737268518518524">22:29:49</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">12</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">23</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41789">2014/5/30</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.99555555555555564">23:53:36</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.9</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">4.5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">24</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41790">2014/5/31</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="5.0277777777777775E-2">1:12:24</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">11</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.3</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">25</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41790">2014/5/31</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.1386226851851852">3:19:37</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">11</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3.4</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+        <tr style="height: 35.1pt; mso-height-source: userset" height="46">
+            <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; background-color: transparent; width: 26pt; height: 35.1pt; border-top: black; border-right: black 1pt solid" class="xl28" height="46" width="35" x:num=""><font size="2">26</font></td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl29" width="72" x:num="41790">2014/5/31</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl30" width="72" x:num="0.41025462962962966">9:50:46</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">25</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">97.8</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">5</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 54pt; border-top: black; border-right: black 1pt solid" class="xl31" width="72" x:num="">3</td>
+            <td style="border-bottom: black 1pt solid; border-left: black; background-color: transparent; width: 113pt; border-top: black; border-right: black 1pt solid" class="xl32" width="151"><font face="宋体">云南省德宏傣族景颇族自治州盈江县</font></td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p style="text-align: center"><img width="554" height="529" alt="" src="/publish/dizhenj/464/515/20140531112451477823298/1401506900827.png" /></p></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

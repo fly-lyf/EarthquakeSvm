@@ -1,0 +1,603 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>四川防震减灾信息网--辅导材料</title>
+<LINK href="../../../../images/xia_styles.css" type='text/css' rel='stylesheet'/>
+<script type="text/javascript" src="../../../../images/currPage.js"></script>
+<script type="text/javascript" src="../../../../images/sechange.js"></script>
+<script ignoreapd="1" type="text/javascript" src="../../../../zhuangtai_164.js"></script>
+
+
+<script type="text/javascript">
+    <!-- 换cS的jS-->
+ var objs = document.getElementsByTagName("link");
+var arr = getStatu();
+var chun = arr[0];
+
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3];   
+var url = changese(chun,xia,qiu,dong);
+
+ objs[0].href='../../../../'+url;
+</script>
+
+</head>
+
+<body>
+	<div id="box">
+		
+		<script type="text/javascript">
+function show(div){ 
+   var ids=[163,167,171,176,181,187,191,196,199,206,211,213];   
+           for(i=0;i<ids.length;i++){
+		      var obj   = document.getElementById(ids[i]+"_menu");
+			   obj.style.display='none';
+			  
+		   }    
+      var div1; 
+	  div1  = document.getElementById(div);
+	  
+	
+	  div1.style.display='block';
+	 
+   }
+   function  shut(div){
+      //salert(div);
+       var div  = document.getElementById(div);
+	  div.style.display='none';
+   }
+
+
+</script>
+<div class="top">
+			<div id="logo" class="logo">
+			      
+			</div>
+<script type="text/javascript">
+
+    <!-- 换cS的jS-->
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3]; 
+ var url ; 
+if(chun==1){
+   url="chun.swf";
+}
+if(xia==1){
+   url="xia.swf";
+}
+if(qiu==1){
+   url="qiu.swf";
+}
+if(dong==1){
+   url="dong.swf";
+}
+var  value='../../../../images/'+url;
+var content = "<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'"+ "codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='1000' height='137'>"+
+  "<param value='false' name='menu'/>"+
+     " <param value='opaque' name='wmode'/>"+
+    "<param name='movie' id='movie'  value='"+value+"'/>"+
+   "<param name='quality' value='high' />"+
+    "<embed src='"+value+"'" +"quality='high'"+ "pluginspage='http://www.adobe.com/shockwave/download/download.cgi?"+   "P1_Prod_Version=ShockwaveFlash'"+ 
+"type='application/x-shockwave-flash' width='1000' height='137'></embed>"+
+  "</object>"
+
+var logo = document.getElementById("logo");
+logo.innerHTML=content;
+
+</script>
+
+			<div class="nes">
+				<ul class="u_anes">
+					<li class="u_ali"><a class="a_nes" href="../../../../">首 页</a><span></span></li>
+					<li class="u_ali" onmouseover="show(this.id+'_menu')"  onmouseout="shut(this.id+'_menu')" id="163" > <a   class="a_nes"   href="../../../../jcyb/">监测预报</a>				
+					<span>  
+					</span>
+				       <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="163_menu" >
+					          
+								<li class="treeli"><a href="../../../../jcyb/scjctw/">四川监测台网</a></li>
+							
+								<li class="treeli"><a href="../../../../jcyb/gcjs/">观测技术</a></li>
+							
+								<li class="treeli"><a href="../../../../jcyb/ybyj/">预报研究</a></li>
+							
+								<li class="treeli"><a href="../../../../jcyb/luntan/">2011年西南及华东南地区青年分析预报人员科技论坛</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  onmouseover="show(this.id+'_menu')" id="167"  ><a     class="a_nes" href="../../../../zzfy/">震灾防御</a><span></span>
+					
+					     <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="167_menu" >
+					          
+								<li class="treeli"><a href="../../../../zzfy/zcfg/">政策法规</a></li>
+							
+								<li class="treeli"><a href="../../../../zzfy/fzjs/">法制建设</a></li>
+							
+								<li class="treeli"><a href="../../../../zzfy/kzsf/">抗震设防</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" id="171"  onmouseover="show(this.id+'_menu')" onmouseout="shut(this.id+'_menu')"   ><a  class="a_nes" href="../../../../yjjy/">应急救援</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="171_menu" >
+					          
+								<li class="treeli"><a href="../../../../yjjy/jyd/">救援队</a></li>
+							
+								<li class="treeli"><a href="../../../../yjjy/bncs/">避难场所</a></li>
+							
+								<li class="treeli"><a href="../../../../yjjy/yjgl/">应急管理</a></li>
+							
+								<li class="treeli"><a href="../../../../yjjy/flfg/">法律法规</a></li>
+							
+						</ul>
+					</li>
+					<li  class="u_ali" onmouseout="shut(this.id+'_menu')"  id="176"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../zqsb/">震情速报</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="176_menu" >
+					          
+								<li id="地震目录"   class="treeli"><a href="../../../zqsb/dzml/">地震目录</a></li>
+							
+								<li id="全球震讯"   class="treeli"><a href="../../../zqsb/qqzx/">全球震讯</a></li>
+							
+								<li id="震情灾情"   class="treeli"><a href="../../../zqsb/zqzq/">震情灾情</a></li>
+							
+								<li id="省内近期四级以上地震"   class="treeli"><a href="../../../zqsb/snsjysdz/">省内近期四级以上地震</a></li>
+							
+						</ul>
+					
+					</li>
+                                         					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="178"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../zqsb/qqzx/">全球震讯</a><span></span>
+<!--
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="178_menu" >
+					          
+						</ul>
+-->
+					</li>					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="181"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zhxx/">工作动态</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="181_menu" >
+					          
+								<li class="treeli"><a href="../../../../zhxx/gg/">公告信息</a></li>
+							
+								<li class="treeli"><a href="../../../../zhxx/sjgzdt/">省局工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../zhxx/szgzdt/">市县工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../zhxx/gndt/">国内动态</a></li>
+							
+								<li class="treeli"><a href="../../../../zhxx/gjdt/">国际动态</a></li>
+							
+								<li class="treeli"><a href="../../../../zhxx/yjxx/">预警信息</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="187"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../jgjj/">机构简介</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="187_menu" >
+					          
+								<li class="treeli"><a href="../../../../jgjj/ldjs/">领导介绍</a></li>
+							
+								<li class="treeli"><a href="../../../../jgjj/znzz/">职能职责</a></li>
+							
+								<li class="treeli"><a href="../../../../jgjj/nsjg/">内设机构</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="191"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../dzkj/">地震科技</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="191_menu" >
+					          
+								<li class="treeli"><a href="../../../../dzkj/kjcg/">科技成果</a></li>
+							
+								<li class="treeli"><a href="../../../../dzkj/jcyj/">基础研究</a></li>
+							
+								<li class="treeli"><a href="../../../../dzkj/kjcx/">科技创新</a></li>
+							
+								<li class="treeli"><a href="../../../../dzkj/zdxm/">重大项目</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali"  onmouseout="shut(this.id+'_menu')"  id="196"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../xzsp/">行政审批</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="196_menu" >
+					          
+								<li class="treeli"><a href="../../../../xzsp/bszn/">办事指南</a></li>
+							
+								<li class="treeli"><a href="../../../../xzsp/wsbs/">网上办事</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="199"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../zfxxgk/">政府信息公开</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree02" style="display:none" id="199_menu" >
+					          
+								<li class="treeli"><a href="../../../../zfxxgk/zfxxgkml/">政府信息公开目录</a></li>
+							
+								<li class="treeli"><a href="../../../../zfxxgk/zfxxgkzn/">政府信息公开指南</a></li>
+							
+								<li class="treeli"><a href="../../../../zfxxgk/zfxxgknb/">政府信息公开年报</a></li>
+							
+								<li class="treeli"><a href="../../../../zfxxgk/ysqgk/">依申请公开</a></li>
+							
+								<li class="treeli"><a href="../../../../zfxxgk/jdts/">监督投诉</a></li>
+							
+								<li class="treeli"><a href="../../../../zfxxgk/zfxxgg/">公告</a></li>
+							
+						</ul>
+					
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="206"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../kpxc/">科普宣传</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="206_menu" >
+					          
+								<li class="treeli"><a href="../../../../kpxc/dzzs/">地震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../kpxc/kzzs/">抗震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../kpxc/dzkpsp/">地震科普宣传视频点播</a></li>
+							
+								<li class="treeli"><a href="../../../../kpxc/zddz/">世界重大地震</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="211"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../jgdj/">机关党建</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="211_menu" >
+					          
+								<li class="treeli"><a href="../../../../jgdj/djgz/">党建工作</a></li>
+							
+								<li class="treeli"><a href="../../../../jgdj/xxyd/">学习园地</a></li>
+							
+								<li class="treeli"><a href="../../../../jgdj/ddzs/">党的知识</a></li>
+							
+								<li class="treeli"><a href="../../../../jgdj/wmjs/">文明建设</a></li>
+							
+								<li class="treeli"><a href="../../../../jgdj/qtgz/">群团工作</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="213"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../lzjs/">廉政建设</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="213_menu" >
+					          
+								<li class="treeli"><a href="../../../../lzjs/gzdt/">工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../lzjs/jzcm/">警钟长鸣</a></li>
+							
+								<li class="treeli"><a href="../../../../lzjs/lzwh/">廉政文化</a></li>
+							
+								<li class="treeli"><a href="../../../../lzjs/lltt/">理论探讨</a></li>
+							
+								<li class="treeli"><a href="../../../../lzjs/gzzd/">规章制度</a></li>
+							
+								<li class="treeli"><a href="../../../../lzjs/sxjs/">三项建设</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" ><a  target="_blank"   class="a_nes" href="http://220.167.54.135:8088/">数据共享</a>
+				
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+		<div class="gdxw">
+			<div class="gx_left"><img src="../../../../images/dz_04.jpg"/></div>
+			<div class="gx_cent" style="margin-top:10px;">
+				<!--滚动内容-->
+				<marquee direction="left"   onmouseout="javascript:this.start()" onmouseover="javascript:this.stop();">
+				
+				</marquee>
+			</div>
+			<div class="gx_right"><img src="../../../../images/dz_05.jpg"/></div>
+		</div>
+		
+		
+		
+		<div class="bmain">
+			
+			<div class="maleft">
+				<div class="dqwz">
+					<span>当前位置：<a href="../../../../">首页</a>&gt;&gt;<a href="../../../">新闻资讯</a>&gt;&gt;<a href="../../">重要专题</a>&gt;&gt;<a href="../">深入开展党的群众路线教育实践活动</a>&gt;&gt;<a href="./">辅导材料</a></span>
+				</div>
+<div class="gllm" id="divclass1">
+					<h1>本栏目子频道</h1>
+					<div id="divclass"  class="blmzpd">
+					
+					</div>
+					
+					
+				</div>
+				<script type="text/javascript">
+                         	var cdiv = document.getElementById("divclass");
+							var cdiv1 = document.getElementById("divclass1");
+							var arr =  	cdiv.childNodes;
+							if(arr.length==0){
+							   cdiv1.style.display="none";
+							}			
+					</script>
+<div>
+				<div class="gllm">
+					<h1>辅导材料</h1>
+					<div class="glxx"> 
+						<ul>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="以上率下　示范全党——习近平总书记等中共中央政治局常委同志全程指导群众路线教育实践活动联系点纪实" href="./201401/t20140122_28650.html"> 以上率下　示范全党——习近平总书记等中共中央政治局常委同志全程指导群众路线教育实践活动联系点纪实 </a>							<span>[14.01.22]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="永远植根人民　永远服务人民——第一批党的群众路线教育实践活动深入开展纪实" href="./201401/t20140122_28649.html"> 永远植根人民　永远服务人民——第一批党的群众路线教育实践活动深入开展纪实 </a>							<span>[14.01.22]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="实现伟大奋斗目标的基本遵循——一论深入学习贯彻习近平总书记系列讲话精神" href="./201312/t20131213_28493.html"> 实现伟大奋斗目标的基本遵循——一论深入学习贯彻习近平总书记系列讲话精神 </a>							<span>[13.12.13]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="解决突出问题要“准、狠、韧”——三论整改落实如何推进" href="./201312/t20131212_28488.html"> 解决突出问题要“准、狠、韧”——三论整改落实如何推进 </a>							<span>[13.12.12]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="警惕形式主义换“马甲”" href="./201311/t20131122_28422.html"> 警惕形式主义换“马甲” </a>							<span>[13.11.22]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="十八届三中全会文件及学习辅导读物首发" href="./201311/t20131122_28421.html"> 十八届三中全会文件及学习辅导读物首发 </a>							<span>[13.11.22]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="“我”岂可置于“们”外（人民论坛）" href="./201311/t20131122_28420.html"> “我”岂可置于“们”外（人民论坛） </a>							<span>[13.11.22]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="对症下药，治住“新形式主义”" href="./201311/t20131122_28419.html"> 对症下药，治住“新形式主义” </a>							<span>[13.11.22]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="龚全珍先进事迹全国巡回报告" href="./201311/t20131122_28418.html"> 龚全珍先进事迹全国巡回报告 </a>							<span>[13.11.22]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="“走近”群众更要“走进”群众" href="./201311/t20131122_28417.html"> “走近”群众更要“走进”群众 </a>							<span>[13.11.22]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="关于《中共中央关于全面深化改革若干重大问题的决定》的说明" href="./201311/t20131120_28403.html"> 关于《中共中央关于全面深化改革若干重大问题的决定》的说明 </a>							<span>[13.11.20]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="让改革旗帜高高飘扬——《中共中央关于全面深化改革若干重大问题的决定》诞生记" href="./201311/t20131120_28402.html"> 让改革旗帜高高飘扬——《中共中央关于全面深化改革若干重大问题的决定》诞生记 </a>							<span>[13.11.20]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="深入整治七大“四风”突出问题" href="./201311/t20131120_28401.html"> 深入整治七大“四风”突出问题 </a>							<span>[13.11.20]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="凝聚在改革的旗帜下(人民观点)——增强推进改革的信心和勇气之一" href="./201311/t20131119_28398.html"> 凝聚在改革的旗帜下(人民观点)——增强推进改革的信心和勇气之一 </a>							<span>[13.11.19]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="坚持做好“三个进一步解放”——三论认真贯彻落实十八届三中全会精神" href="./201311/t20131119_28395.html"> 坚持做好“三个进一步解放”——三论认真贯彻落实十八届三中全会精神 </a>							<span>[13.11.19]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="四川重点整改群众痛恨的“推诿扯皮、吃拿卡要、办事拖拉”“四风”问题" href="./201311/t20131115_28374.html"> 四川重点整改群众痛恨的“推诿扯皮、吃拿卡要、办事拖拉”“四风”问题 </a>							<span>[13.11.15]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="四川反“四风”40多个单位的整改方案被退回重写省级机关紧扣“四风”找准查实问题严肃开展批评" href="./201311/t20131115_28373.html"> 四川反“四风”40多个单位的整改方案被退回重写省级机关紧扣“四风”找准查实问题严肃开展批评 </a>							<span>[13.11.15]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="四川省纪委再次公开曝光5起涉及“四风”问题典型案例" href="./201311/t20131115_28372.html"> 四川省纪委再次公开曝光5起涉及“四风”问题典型案例 </a>							<span>[13.11.15]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="四川省纪委第三次公开曝光4起涉及“四风”问题典型案件" href="./201311/t20131115_28371.html"> 四川省纪委第三次公开曝光4起涉及“四风”问题典型案件 </a>							<span>[13.11.15]</span></li>
+							
+							<li><em>&middot;</em>
+							<a TARGET="_blank" title="四川聚焦“四风”边查边改（反对“四风”服务群众 深入开展党的群众路线教育实践活动）" href="./201311/t20131115_28370.html"> 四川聚焦“四风”边查边改（反对“四风”服务群众 深入开展党的群众路线教育实践活动） </a>							<span>[13.11.15]</span></li>
+							
+						</ul>
+						<div class="fye">
+								          <script type="text/javascript">
+		 createPageHTML(4, 0, "index", "html");
+	  </script>
+						</div>
+					</div>
+					
+					
+				</div>
+			</div>
+			
+			</div>
+			
+			
+			
+			
+			<div class="maright">
+				
+				
+				
+				<div class="zlss">
+					<p>
+<form method="post" action ="/eqscsearch/showdocbus.jsp" target="_blank">
+<input type="text" name="value" class="stome"/><input type="submit" value="搜 索" class="submx"/>
+</form>
+</p>
+				</div>
+<div class="tpzs">
+					<h1><a href="../../../../kpxc/">地震科普知识</a></h1>
+					<ul>
+						
+					     
+						    <li> <a TARGET="_blank" title="“防灾演习可以救命”" href="../../../../kpxc/dzzs/201309/t20130910_28113.html"> “防灾演习可以救命” </a> </li>
+						 
+						    <li> <a TARGET="_blank" title="谈芦山地震余震" href="../../../../kpxc/dzzs/201304/t20130425_25982.html"> 谈芦山地震余震 </a> </li>
+						 
+						    <li> <a TARGET="_blank" title="自动地震速报你知道的和你不知道的" href="../../../../kpxc/dzzs/201304/t20130425_25977.html"> 自动地震速报你知道的和你不知道的 </a> </li>
+						 
+						    <li> <a TARGET="_blank" title="防震避震常识画册" href="../../../../kpxc/dzzs/201304/P020130420669006504537.pdf"> 防震避震常识画册 </a> </li>
+						 
+						    <li> <a TARGET="_blank" title="地震救灾和抢救指导手册" href="../../../../kpxc/dzzs/201304/P020130420652507919422.jpg"> 地震救灾和抢救指导手册 </a> </li>
+						 
+						    <li> <a TARGET="_blank" title="自救互救方法" href="../../../../kpxc/dzzs/201304/t20130420_25524.html"> 自救互救方法 </a> </li>
+						 
+						    <li> <a TARGET="_blank" title="震后避险方法" href="../../../../kpxc/dzzs/201304/t20130420_25523.html"> 震后避险方法 </a> </li>
+						 
+						    <li> <a TARGET="_blank" title="进入灾区的救援人员务必注意" href="../../../../kpxc/dzzs/201304/t20130420_25508.html"> 进入灾区的救援人员务必注意 </a> </li>
+						 
+						 
+					</ul>
+				</div>
+<div class="wlaq">
+					<h2><a href="../../../../wlaq/">网络安全</a></h2>
+					<ul>
+					
+						
+						   <li> <a TARGET="_blank" title="2014年11月微软安全公告含16个补丁更新" href="../../../../wlaq/201504/t20150407_32763.html"> 2014年11月微软安全公告含16个补丁更新 </a></li>
+						
+						
+						   <li> <a TARGET="_blank" title="计算机病毒知识与防治学习资料(安天提供)" href="../../../../wlaq/201504/t20150407_32762.html"> 计算机病毒知识与防治学习资料(安天... </a></li>
+						
+						
+						   <li> <a TARGET="_blank" title="病毒监测周报 第六百一十期（2014.12.7-2014.12.13）" href="../../../../wlaq/201504/t20150407_32761.html"> 病毒监测周报 第六百一十期（2014.1... </a></li>
+						
+						
+						   <li> <a TARGET="_blank" title="病毒监测周报 第六百零七期（2014.11.16-2014.11.22）" href="../../../../wlaq/201504/t20150407_32760.html"> 病毒监测周报 第六百零七期（2014.1... </a></li>
+						
+						
+						   <li> <a TARGET="_blank" title="病毒监测周报 第六百零二期（2014.10.12-2014.10.18）" href="../../../../wlaq/201504/t20150407_32759.html"> 病毒监测周报 第六百零二期（2014.1... </a></li>
+						
+						
+						   <li> <a TARGET="_blank" title="病毒监测周报 第五百九十九期（2014.9.21-2014.9.27）" href="../../../../wlaq/201504/t20150407_32758.html"> 病毒监测周报 第五百九十九期（2014... </a></li>
+						
+						
+						   <li> <a TARGET="_blank" title="病毒监测周报 第五百九十二期（2014.8.3-2014.8.9）" href="../../../../wlaq/201504/t20150407_32757.html"> 病毒监测周报 第五百九十二期（2014... </a></li>
+						
+						
+						   <li> <a TARGET="_blank" title="病毒监测周报 第五百八十八期（2014.7.6-2014.7.12）" href="../../../../wlaq/201504/t20150407_32756.html"> 病毒监测周报 第五百八十八期（2014... </a></li>
+						
+						
+					</ul>
+					<div  class="wlbottm"></div>
+				</div>
+				
+			</div>
+			<script type="text/javascript">
+			     <!-- 当select的onchange事件触发后做出跳转->
+				 function gotourl(obj){
+				 
+				     window.open(obj.value);
+				 }
+			</script>
+			<div class="dzlj">
+			<p>
+				<select id=Select2 style="WIDTH: 179px" onchange=javascript:gotourl(this) size=1 name=select2 class="blj">
+ 
+ 
+ 
+			    <option selected="selected">国际地震网站</option>
+					
+				<option value="http://earthquake.usgs.gov/regional/neic/">美国地震信息中心</option>
+				
+				<option value="http://www.iris.edu/">美国地震学联合研究会</option>
+				
+				<option value="http://www.seismo.ethz.ch/">瑞士地震服务中心</option>
+				
+				<option value="http://www.emsc-csem.org/">欧洲地中海地震中心</option>
+				
+				<option value="http://www.isc.ac.uk/">ISC</option>
+				
+				<option value="http://www.iaspei.org/">IASPEI</option>
+				
+				<option value="http://www.iugg.org">国际大地测量学与地球物理学联合会</option>
+				
+				<option value="http://www.iris.edu/about/GSN/index.htm">全球地震台网(GSN)</option>
+				
+				<option value="http://www.fdsn.org">美国数字宽频带地震台网联合会(FDSN)</option>
+				
+				<option value="http://neic.usgs.gov/neis/usnsn/usnsn_home.html">美国国家地震台网(USNSN)</option>
+				
+				
+				              </select>
+				</p>
+				<p>
+					<SELECT id=Select3 style="WIDTH: 179px" onchange=javascript:gotourl(this) size=1 name=select3 class="blj"> 
+ 
+    <option selected="selected">科研机构网站</option>
+					
+				
+					
+				<option value="http://www.cea.gov.cn/">中国地震局</option>
+				
+				<option value="http://www.cas.cn/">中国科学院</option>
+				
+				<option value="http://www.seis.ac.cn/">中国地震局地震预测研究所</option>
+				
+				<option value="http://www.iem.net.cn/">中国地震局工程力学研究所</option>
+				
+				<option value="http://www.cea-igp.ac.cn/">中国地震局地球物理研究所</option>
+				
+				<option value="http://www.csi.ac.cn/">中国地震信息网</option>
+				
+				
+				
+              </select>
+
+				</p>
+				<p>
+					<SELECT id=Select4 style="WIDTH: 179px" onchange=javascript:gotourl(this) size=1 name=select4 class="blj">
+ 
+<OPTION selected>数据服务网站</OPTION>
+			
+				<option value="http://www.iris.edu/">美国地震学联合研究会</option>
+				
+				<option value="http://www.seismo.ethz.ch/">瑞士地震服务中心</option>
+				
+				<option value="http://www.emsc-csem.org/">欧洲地中海地震中心</option>
+				
+				<option value="http://www.isc.ac.uk/">ISC</option>
+				
+				<option value="http://www.iaspei.org/">IASPEI</option>
+				
+				
+</SELECT>
+
+				</p>
+				<p>
+					<select id=Select1 style="WIDTH: 179px" onchange=javascript:gotourl(this) size=1 name=select1 class="blj">
+
+					<option selected="selected">其他网站</option>
+				
+				<option value="http://www.cea-igp.ac.cn/">地球所</option>
+				
+				<option value="http://www.Eq-igl.ac.cn/">地质所</option>
+				
+				<option value="http://www.eq-icd.cn/">地壳所</option>
+				
+				<option value="http://www.seis.ac.cn/">预测所</option>
+				
+				<option value="http://www.Iem.net.cn/">工力所</option>
+				
+				<option value="http://www.cenc.ac.cn/">台网中心</option>
+				
+				<option value="http://www.nerss.cn/">搜救中心</option>
+				
+				<option value="http://www.eq-cedpc.cn/">震防中心</option>
+				
+				<option value="http://www.neis.gov.cn/">地壳工程中心</option>
+				
+				<option value="http://www.gec-cea.org.cn/">物探中心</option>
+				
+				<option value="http://www.eq-gc1.com/">一测中心</option>
+				
+				<option value="http://www.ec.earthquake.cn/">二测中心</option>
+				
+				<option value="http://www.fzxy.edu.cn/">防灾科技学院</option>
+				
+				<option value="http://www.dzjfw.info/">机关服务中心</option>
+				
+				<option value="http://www.zzszpx.com/">深圳培训中心</option>
+				
+				
+              </select>
+
+				</p>		  
+
+			</div>
+			
+			
+			
+			
+		</div>
+		<div class="foot">
+
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a>
+		</div>
+		
+	</div>
+	
+</body>
+</html>

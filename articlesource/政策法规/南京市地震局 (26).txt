@@ -1,0 +1,483 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../../images/style(2).css">
+<SCRIPT src="../../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55216';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../../" class='wz CurrChnlCls'>政策法规</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>政策文件</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>南京市相关文件</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>市地震局防震减灾宣传经费使用管理办法(暂行)</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2015-04-20</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_3272403"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=3272403"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <div class=TRS_Editor><p align="center"><img style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" alt="" src="./W020150420539932135032.jpg" OLDSRC="W020150420539932135032.jpg" /></p><p style="text-align: center" class="MsoNormal" align="center">　　<span style="font-family: 黑体; font-size: 22pt" lang="EN-US">&nbsp;</span></p><p style="text-align: center" class="MsoNormal" align="center"><span style="font-family: 黑体; font-size: 18pt">市地震局防震减灾宣传经费使用管理办法<span lang="EN-US">(</span>暂行<span lang="EN-US">)</span></span>&nbsp;</p><p style="line-height: 26pt; text-indent: 31.5pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 33.6pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">防震减灾宣传经费主要用于我市防震减灾公益宣传活动及对相关企事业单位、社区开展防震减灾工作的引导和建设补助。</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">为保证经费科学、合理、有效使用，特制订本</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">办法。</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 33.6pt" class="MsoNormal">　　<span style="font-family: 黑体; font-size: 16pt">一、支持范围和标准：</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 33.6pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（一）公益宣传经费支出</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 33.6pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">1</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、在部分媒体开设专栏，开展防震减灾专栏系列宣传；</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 33.6pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">2</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、用于防震减灾公益广告、视频、动漫设计制作；</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 33.6pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">3</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、防震减灾知识动漫设计比赛；</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 33.6pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">4</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、《防震减灾市民手册》等宣传资料的编印。</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 30pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（二）防震减灾科普宣传“六进”活动</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 30pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">围绕防震减灾进机关、进学校、进企业、进社区、进农村、进家庭等“六进”活动，每年选择<span lang="EN-US">30</span>家左右社区、学校和企事业单位。主要用于：</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 32pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">1</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、建立防震减灾工作机制和科普宣传活动长效机制。</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 32pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">2</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、制定地震应急预案，建立地震应急救援志愿者队伍，开展应急培训和疏散演练。</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 32pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">3</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、开展地震科普志愿者宣讲员培训，举办防震减灾知识讲座，增强防震减灾意识，提高应急避险、自救互救技能。</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 32pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">对新获得国家、省地震安全示范社区、防震减灾科普示范学校、防震减灾科普教育基地称号的给予优先支持。其中对获得国家级称号的不超过<span lang="EN-US">5</span>万元；获得省级称号的不超过<span lang="EN-US">4</span>万元；其余不超过<span lang="EN-US">3</span>万元的支持。对先期已安排经费支持的新获国家、省称号的单位，以同等最高限额进行差额补助。</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（三）灾情速报与地震应急队伍建设</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">1</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、市级地震宏观观测点建设，每家建设补助费<span lang="EN-US">5</span>万元，每年运行补助费不超过<span lang="EN-US">1</span>万元；</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">2</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、地震灾情速报员网络建设，每年不超过<span lang="EN-US">10</span>万元；</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">3</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、依托企业新建地震应急救援队并开展宣传、培训和演练，每家补助不超过<span lang="EN-US">5</span>万元。</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 黑体; font-size: 16pt">二、项目申报与经费支出</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（一）年初制订防震减灾宣传工作计划和经费方案，分批组织项目申报，考核兑现。</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（二）公益宣传经费由主办处室根据年度计划提出具体实施方案，经局长办公会研究后使用。</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（三）防震减灾科普宣传“六进”活动经费、灾情速报与地震应急队伍建设经费由主办处室组织申报。</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">1</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、主办处室起草印发申报通知，明确申报内容和具体要求；</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">2</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、符合条件的申报单位填写《南京市防震减灾宣传经费申请表》（详见附件<span lang="EN-US">1</span>），连同相关附件材料</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">提交至所在区地震管理部门进行材料完备性审查后，由区地震部门统一报送市地震局。</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 32pt" class="MsoNormal">　　<span style="display: none; font-family: 仿宋_GB2312; font-size: 16pt">月）震局</span><span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">3</span><span style="font-family: 仿宋_GB2312; font-size: 16pt">、<span style="display: none" lang="EN-US">3</span><span style="display: none">、<span lang="EN-US">3</span>、</span>主办处室<span style="display: none">主办处室主办</span>对申报材料进行复核后，提出经费安排建议，经局长办公会研究通过后下达。</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（四）提高资金安排效率，原则上上半年资金安排进度不低于<span lang="EN-US">70%</span>。</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 黑体; font-size: 16pt">三、资金管理</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（一）公益宣传经费要做好项目合同管理，做好项目实施评估和相关总结工作。</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（二）项目类补助经费必须专款用于申报单位防震减灾工作宣传培训、应急演练等，主办处室应督促区地震管理部门加强对专项经费使用情况的跟踪检查和考核。</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（三）主办处室不定期进行专项检查。对在资金使用上弄虚作假、挪作他用的应责令其整改，情节严重的全数追回资助资金，并根据国务院《财政违法行为处罚处分条例》进行处罚。</span>&nbsp;</p><p style="text-align: left; line-height: 30pt; text-indent: 32pt" class="MsoNormal" align="left">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">（四）市地震局防震减灾宣传经费纳入年度部门预算，补助经费原则上直接拨付给项目承担单位，对于涉及区县对口地震部门的补助经费，须在年初部门预算中单列，年度中向市财政提交申请后，由市财政统一向区县财政转移支付，实施项目绩效管理，强化监督。</span>&nbsp;</p><p style="line-height: 30pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="line-height: 30pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="line-height: 30pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="line-height: 30pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="line-height: 30pt; text-indent: 232pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 16pt">二○一四年六月十九日</span>&nbsp;</p><p align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US"><br style="page-break-before: always" clear="all" /></span></p><p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center">　　<span style="font-family: 黑体; font-size: 22pt">《南京市防震减灾宣传经费申请表》</span>&nbsp;</p><p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center">　　<span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center">　　<span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center">　　<span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center">　　<span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center">　　<span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center">　　<span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-indent: 45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 15pt">项 目 名 称 </span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span><a name="xmmc"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u>&nbsp;</p><p style="text-indent: 45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 15pt">申 报 单 位 </span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span><a name="cddw"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u>&nbsp;</p><p style="text-indent: 45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 15pt">项</span><span style="font-family: 宋体; font-size: 3pt"> </span><span style="font-family: 宋体; font-size: 15pt">目</span><span style="font-family: 宋体; font-size: 4pt"> </span><span style="font-family: 宋体; font-size: 15pt">负</span><span style="font-family: 宋体; font-size: 3pt"> </span><span style="font-family: 宋体; font-size: 15pt">责</span><span style="font-family: 宋体; font-size: 3pt"> </span><span style="font-family: 宋体; font-size: 15pt">人</span><span style="font-family: 宋体; font-size: 15pt"> </span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span><a name="xmfzr"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span></span><span style="font-family: 宋体; font-size: 15pt" lang="EN-US"><span>&nbsp;</span></span><span style="font-family: 宋体; font-size: 15pt">电话 </span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span><a name="dh"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u>&nbsp;</p><p style="text-indent: 45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 15pt">项目联系人</span><span style="font-family: 宋体; font-size: 15pt"> </span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span><a name="xmlxr"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u><span style="font-family: 宋体; font-size: 15pt" lang="EN-US"><span>&nbsp;&nbsp;</span></span><span style="font-family: 宋体; font-size: 15pt">电话 </span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span><a name="xmlxrdh"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u>&nbsp;</p><p style="text-indent: 45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 15pt">单 位 地 址 </span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span><a name="dwdz"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u><span style="font-family: 新宋体; font-size: 15pt" lang="EN-US"><span>&nbsp;</span></span><span style="font-family: 宋体; font-size: 15pt" lang="EN-US"><span>&nbsp;</span></span><span style="font-family: 宋体; font-size: 15pt">邮编 </span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span><a name="yb"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u>&nbsp;</p><p style="text-indent: 45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 15pt">区地震主管部门 </span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"><span>&nbsp;</span><a name="zgbm"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u>&nbsp;</p><p class="MsoNormal">　　<span style="font-family: 宋体; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p class="MsoNormal">　　<span style="font-family: 宋体; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p class="MsoNormal">　　<span style="font-family: 宋体; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center" class="MsoNormal" align="center">　　<span style="font-family: 宋体; font-size: 15pt">填报日期</span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"> <a name="tbsjN"></a><span>&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></u><span style="font-family: 宋体; font-size: 15pt">年</span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"> <a name="tbsjY"></a><span>&nbsp;</span><span>&nbsp;&nbsp;</span></span></u><span style="font-family: 宋体; font-size: 15pt">月</span><u><span style="font-family: 楷体_GB2312; font-size: 15pt" lang="EN-US"> <a name="tbsjR"></a><span>&nbsp;</span><span>&nbsp;&nbsp;</span></span></u><span style="font-family: 宋体; font-size: 15pt">日</span>&nbsp;</p><p style="text-align: center" class="MsoNormal" align="center">　　<span style="font-size: 18pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center" class="MsoNormal" align="center">　　<span style="font-size: 18pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 18pt" class="MsoNormal" align="center">　　<span style="font-family: 宋体; font-size: 18pt">南京市地震局</span><span style="font-size: 18pt" lang="EN-US"><span>&nbsp; </span></span><span style="font-family: 宋体; font-size: 18pt">编制</span>&nbsp;</p><p style="text-align: center; line-height: 18pt" class="MsoNormal" align="center">　　<span style="font-size: 18pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 18pt" class="MsoNormal" align="center">　　<span style="font-size: 18pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 18pt" class="MsoNormal" align="center">　　<span style="font-size: 18pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 18pt" class="MsoNormal" align="center">　　<span style="font-size: 18pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 18pt" class="MsoNormal" align="center">　　<span style="font-size: 18pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p style="text-align: center; line-height: 18pt" class="MsoNormal" align="center">　　<span style="font-size: 18pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p align="center"><table style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; border-top: medium none; border-right: medium none" class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0">    <tbody>        <tr>            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 89.4pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="119" colspan="2">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">项目名称</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 366.4pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="489" colspan="3">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr>            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 89.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="119" colspan="2">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">申报单位</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 366.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="489" colspan="3">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr>            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 89.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="119" colspan="2">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">地<span lang="EN-US"><span>&nbsp;&nbsp; </span><span>&nbsp;</span></span>址</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 366.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="489" colspan="3">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr>            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 89.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="119" colspan="2">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">邮<span lang="EN-US"><span>&nbsp;&nbsp;&nbsp; </span></span>编</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 366.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="489" colspan="3">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr>            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 89.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="119" colspan="2">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">项目负责人</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 138.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="185">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 82pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="109">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">联系电话</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 145.9pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="195">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr>            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 89.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="119" colspan="2">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">项目联系人</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 138.5pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="185">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 82pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="109">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">联系电话</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 145.9pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="195">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr style="page-break-inside: avoid; height: 489.75pt">            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 89.4pt; layout-flow: vertical-ideographic; padding-right: 5.4pt; height: 489.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" width="119" colspan="2">            <p style="text-align: center; line-height: 26pt; margin: 0cm 5.65pt 0pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">申报内容</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 366.4pt; padding-right: 5.4pt; height: 489.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="489" colspan="3">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr style="page-break-inside: avoid; height: 567.6pt">            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 89.4pt; layout-flow: vertical-ideographic; padding-right: 5.4pt; height: 567.6pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" width="119" colspan="2">            <p style="text-align: center; line-height: 26pt; margin: 0cm 5.65pt 0pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">申报内容</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 366.4pt; padding-right: 5.4pt; height: 567.6pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="489" colspan="3">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr style="height: 116.25pt">            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 89.4pt; padding-right: 5.4pt; height: 116.25pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="119" colspan="2">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">项目受上级奖励和批复情况（请附证明材料）</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 366.4pt; padding-right: 5.4pt; height: 116.25pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="489" colspan="3">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt" lang="EN-US">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr style="height: 395.9pt">            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 455.8pt; padding-right: 5.4pt; height: 395.9pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="top" width="608" colspan="5">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">申请专项经费主要用途</span>&nbsp;</p>            </td>        </tr>        <tr style="height: 85.75pt">            <td style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 42.15pt; padding-right: 5.4pt; height: 85.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" rowspan="2" width="56">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">审核意见</span>&nbsp;</p>            </td>            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 413.65pt; padding-right: 5.4pt; height: 85.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="bottom" width="552" colspan="4">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">区地震主管部门</span>&nbsp;</p>            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">年<span lang="EN-US"><span>&nbsp;&nbsp; </span></span>月<span lang="EN-US"><span>&nbsp;&nbsp; </span></span>日</span>&nbsp;</p>            </td>        </tr>        <tr style="height: 171.5pt">            <td style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 413.65pt; padding-right: 5.4pt; height: 171.5pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" valign="bottom" width="552" colspan="4">            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">市地震局</span>&nbsp;</p>            <p style="text-align: center; line-height: 26pt" class="MsoNormal" align="center"><span style="font-family: 仿宋_GB2312; font-size: 15pt">年<span lang="EN-US"><span>&nbsp;&nbsp; </span></span>月<span lang="EN-US"><span>&nbsp;&nbsp; </span></span>日</span>&nbsp;</p>            </td>        </tr>        <tr>            <td style="border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none" width="56">&nbsp;</td>            <td style="border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none" width="63">&nbsp;</td>            <td style="border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none" width="185">&nbsp;</td>            <td style="border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none" width="109">&nbsp;</td>            <td style="border-bottom: medium none; border-left: medium none; border-top: medium none; border-right: medium none" width="195">&nbsp;</td>        </tr>    </tbody></table></p><p style="line-height: 26pt" class="MsoNormal">　　<span lang="EN-US">&nbsp;</span>&nbsp;</p></div>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='55216';var __$contentid='3272403';var __$title='市地震局防震减灾宣传经费使用管理办法(暂行)';var __$AuthorPh='';var __$Editor='';var __$Liability='市地震局1';var __$pubtime='2015-04-20 14:57:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

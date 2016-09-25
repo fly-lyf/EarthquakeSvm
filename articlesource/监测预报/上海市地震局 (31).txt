@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">中国科学院大学院士石耀霖一行来我局参观<span>发布时间：2014-11-06</span></div>
+                <p><p>
+	　　10月12日，中科院大学院士石耀霖一行来我局参观，上海市地震局李红芳副局长、朱元清研究员陪同接待。</p>
+<p>
+	　　石耀霖院士在地球动力学基础研究中将地质学、地震学以及比较行星学有机联系起来，研究变形、孔隙流体和热传递复杂耦合作用，在地球动力学定量化模拟中取得了突出成绩，开拓了地热构造学研究方向。石耀霖院士在参观了上海市地震监测中心、应急指挥大厅和应急车后，对我局综合深井观测资料产生极大兴趣。</p>
+<p>
+	　　13号下午，石耀霖院士再次来到我局，与专业技术人员就综合深井观测数据展开了热烈的讨论。他仔细地查阅了综合深井从开始运行到现在的所有数据，经同震效应对比和多种仪器记录数据的相互验证，认为我局的综合深井记录是可信且可实际应用研究的。石耀霖院士鼓励在场年轻同志要脚踏实地、认认真真地做好基础研究工作，为推动防震减灾事业稳步前进打下坚实基础。大家无不为石耀霖院士对地震科学孜孜以求的精神、渊博的知识储量和平易近人的态度深深打动。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1411/201411070313038765.jpg" title="图像" wdimgid="image_238" /></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

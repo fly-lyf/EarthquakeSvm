@@ -1,0 +1,150 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>四川省地震局高唱红歌迎接建党90周年 </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '？四川省地震局机关党委';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-07-01 11:26:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-07-01 11:26:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2011-07-01 11:26:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-07-01 11:26:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P class=Custom_UnionStyle>　　<SPAN>6</SPAN><SPAN>月<SPAN>28</SPAN>日</SPAN><SPAN>，四川省地震局举行纪念建党九十周年红歌演唱会。局离退休老干部，局机关各部门，局属在蓉各单位党员同志参加活动，党组书记、局长张宏卫，副局长王力、吕弋培、李广俊，纪检组长王继斌出席活动。</SPAN></P>
+<P class=Custom_UnionStyle>　　<SPAN>本次活动以“红色经典，红色旋律”为主题，平均年龄近<SPAN>90</SPAN>岁的离休干部党支部清唱的《没有共产党就没有新中国》与《解放军进行曲》为活动拉开了帷幕，老同志们高昂的情绪与认真的精神赢得了全场的阵阵掌声。各支部党员通过朗诵、独唱、大小合唱等多种形式，展现了对党的歌颂与热爱。</SPAN></P>
+<P class=Custom_UnionStyle>　　<SPAN>一首首经典的旋律在耳边响起，一幕幕熟悉的画面在眼前回荡，《五月的风》将大家带回了<SPAN>1919</SPAN>那段改变历史的红色岁月，《中国力量》则让大家重温了<SPAN>2008</SPAN>那个众志成城的红色奇迹。我们曾《在灿烂的阳光下》《唱支山歌给党听》，也曾唱着《映山红》《走向复兴》，改革开放后，《祖国慈祥的母亲》带领我们《走进新时代》，如今，《我和我的祖国》誓要做《时代最强者》！一次次激情飞扬的演唱，深情咏颂了中国共产党领导全国各族人民建设中国特色社会主义伟大祖国的丰功伟绩，充分表达了广大党员干部对伟大祖国的热爱。</SPAN></P>
+<P class=Custom_UnionStyle>　　<SPAN>活动最后，全体同志高唱《团结就是力量》，在嘹亮的歌声中，全场的气氛达到了高潮。本次活动加深了全局党员干部对中国特色社会主义发展道路的认识，坚定了中国共产党领导、始终不渝走中国特色社会主义道路的信念，增强了全局的凝聚力与战斗力，进一步树立了广大干部职工做好防震减灾工作的信心与决心，将有力促进四川防震减灾事业的发展。</SPAN></P>
+<P class=Custom_UnionStyle><SPAN></SPAN>&nbsp;</P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=356 src="./W020110701520816788250.jpg" width=531 v:shapes="_x0000_i1031" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image002.jpg" OLDSRC=W020110701520816788250.jpg/></SPAN></DIV>
+<P class=Custom_UnionStyle align=center><SPAN>离休老干部清唱《没有共产党就没有新中国》</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=351 src="./W020110701520816783161.jpg" width=528 v:shapes="_x0000_i1032" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image004.jpg" OLDSRC=W020110701520816783161.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>退休老同志朗诵《庆祝建党九十周年》</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520816788641.jpg" width=589 v:shapes="_x0000_i1033" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image006.jpg" OLDSRC=W020110701520816788641.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>退休老同志独唱《永远跟党走》</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=391 src="./W020110701520816946967.jpg" width=587 v:shapes="_x0000_i1034" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image008.jpg" OLDSRC=W020110701520816946967.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>退休老同志齐唱《红旗颂》</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520816940170.jpg" width=589 v:shapes="_x0000_i1035" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image010.jpg" OLDSRC=W020110701520816940170.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《团结就是力量》——成都地震基准台</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520816940484.jpg" width=589 v:shapes="_x0000_i1036" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image012.jpg" OLDSRC=W020110701520816940484.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《走进新时代》——地震地质勘察中心</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520816949468.jpg" width=589 v:shapes="_x0000_i1037" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image014.jpg" OLDSRC=W020110701520816949468.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>老科协独唱《把一切献给党》</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520816946431.jpg" width=589 v:shapes="_x0000_i1038" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image016.jpg" OLDSRC=W020110701520816946431.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>团委青年人带来《中国力量》</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=341 src="./W020110701520816943732.jpg" width=589 v:shapes="_x0000_i1039" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image018.jpg" OLDSRC=W020110701520816943732.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《唱支山歌给党听》——办公室、监测预报处、科学技术处</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520816941085.jpg" width=589 v:shapes="_x0000_i1040" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image020.jpg" OLDSRC=W020110701520816941085.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《走向复兴》——发展与财务处、应急救援处、核算中心</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=266 src="./W020110701520816947653.jpg" width=590 v:shapes="_x0000_i1041" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image022.jpg" OLDSRC=W020110701520816947653.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>红歌串唱——人事教育处、纪检监察审计处、机关党委、离退休干部管理处</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520816944620.jpg" width=589 v:shapes="_x0000_i1025" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image024.jpg" OLDSRC=W020110701520816944620.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《祖国慈祥的母亲》——震害防御处</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520817090304.jpg" width=589 v:shapes="_x0000_i1026" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image026.jpg" OLDSRC=W020110701520817090304.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《长江之歌》——台站管理中心</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=397 src="./W020110701520817094614.jpg" width=594 v:shapes="_x0000_i1042" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image028.jpg" OLDSRC=W020110701520817094614.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>团委新青年诵来《五月的风》</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=238 src="./W020110701520817094209.jpg" width=589 v:shapes="_x0000_i1043" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image030.jpg" OLDSRC=W020110701520817094209.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《我和我的祖国》——预报研究所</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520817097662.jpg" width=589 v:shapes="_x0000_i1044" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image032.jpg" OLDSRC=W020110701520817097662.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《时代最强者》——监测研究所</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520817095475.jpg" width=589 v:shapes="_x0000_i1027" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image034.jpg" OLDSRC=W020110701520817095475.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《中国中国鲜红的太阳永不落》——减灾救助研究所</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520817097937.jpg" width=589 v:shapes="_x0000_i1028" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image036.jpg" OLDSRC=W020110701520817097937.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《映山红》——水库地震研究所</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520817091584.jpg" width=589 v:shapes="_x0000_i1029" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image038.jpg" OLDSRC=W020110701520817091584.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《社会主义好》——机关服务中心</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520817258541.jpg" width=589 v:shapes="_x0000_i1045" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image040.jpg" OLDSRC=W020110701520817258541.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《党是我心中明亮的太阳》——工程地震研究院</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520817402370.jpg" width=589 v:shapes="_x0000_i1046" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image042.jpg" OLDSRC=W020110701520817402370.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520817401776.jpg" width=589 v:shapes="_x0000_i1047" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image044.jpg" OLDSRC=W020110701520817401776.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>《保卫黄河》——机关团委</SPAN></P>
+<P class=Custom_UnionStyle align=center>　　<SPAN></P>
+<DIV class=Custom_UnionStyle align=center><IMG height=394 src="./W020110701520817408202.jpg" width=589 v:shapes="_x0000_i1030" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image046.jpg" OLDSRC=W020110701520817408202.jpg/></DIV></SPAN>
+<P class=Custom_UnionStyle align=center><SPAN>全体同志高唱《团结就是力量》</SPAN>&nbsp;</P><br/>
+					  
+				  <div style="display:none">
+				     <a href="./t20110701_20132.html"><img src="./W020110701520819447552.jpg" alt="全体同志高唱《团结就是力量》"/></a>
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

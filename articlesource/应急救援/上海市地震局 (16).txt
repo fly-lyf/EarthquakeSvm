@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" class="now" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">应急救援</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海市政府召开市防震减灾联席会议2014年工作会议<span>发布时间：2014-04-25</span></div>
+                <p><p>
+	<font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2014年4月23日，上海市防震减灾联席会议2014年工作会议在市政府召开，市政府副秘书长黄融主持会议，市防震减灾联席会议主任、副市长蒋卓庆出席会议并作了重要讲话，市防震减灾联席会议副主任、市地震局局长吴建春在会上传达了国务院防震减灾工作联席会议精神并代表市联席会议做工作报告，市联席会议成员单位分管领导和联络员、各区县政府及区县地震办公室负责人出席会议。</font></p>
+<p>
+	<font face="Arial"><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>蒋卓庆副市长充分肯定了近年来我市防震减灾工作取得的显著成效。他指出，在市委市政府的领导下，市联席会议各成员单位共同努力、团结协作，防震减灾工作机制更加完善，工作基础更加扎实，防灾意识更加深入人心。同时，他强调，必须充分认识复杂的震情形势和上海防震减灾整体能力不足的现状，进一步增强防震减灾工作的使命感和责任感。最后，他对2014年上海市防震减灾工作进行了部署，并对市防震减灾联席会议各成员单位提出了几点要求：一是大力夯实防震减灾工作基础；二是着力提高地震科技支撑能力；三是不断提升公众防灾减灾能力；四是强化资源整合力度，形成工作合力。</font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

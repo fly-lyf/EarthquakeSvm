@@ -1,0 +1,483 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../images/style(2).css">
+<SCRIPT src="../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17860/" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17885';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>应急救援</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>应急预案</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>南京市地震局地震应急预案(修订稿)</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2014-01-20</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_2452567"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=2452567"></script> &nbsp; 信息来源：市地震局 </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <div class=TRS_Editor><div class="Custom_UnionStyle"><p align="justify" style="text-align: center; layout-grid-mode: char"><font face="仿宋"><img width="170" height="234" style="border-right-width: 0px; width: 671px; border-top-width: 0px; border-bottom-width: 0px; height: 819px; border-left-width: 0px" alt="" oldsrc="W020140120384510763122.jpg" complete="complete" src="./W020140120384510763122.jpg" />　　</font></p><p align="justify" style="text-align: center; layout-grid-mode: char"><font face="仿宋"><span>南京市地震局地震应急预案<span lang="EN-US">(</span>修订稿<span lang="EN-US">)</span></span>&nbsp;</font></p><p align="justify" style="text-align: center; layout-grid-mode: char"><font face="仿宋">　　<span>目<span lang="EN-US">&nbsp;&nbsp; </span>录</span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">1</span><span>总则<span lang="EN-US">.........................................................3</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">1.1</span><span>编制目的<span lang="EN-US">...................................................3</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">1.2</span><span>编制依据<span lang="EN-US">...................................................3 </span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">1.3</span><span>适用范围<span lang="EN-US">...................................................3 </span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">2.</span><span>地震应急响应原则<span lang="EN-US">.............................................3</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">2.1</span><span>分级响应原则<span lang="EN-US">................................................3</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">2.2</span><span>地震响应对应表<span lang="EN-US">..............................................3</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">3 </span><span>组织体系<span lang="EN-US">.....................................................4</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">3.1</span><span>地震应急指挥部组成<span lang="EN-US">..........................................4</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">3.2</span><span>市地震局地震应急指挥部构成图<span lang="EN-US">................................4</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">3.3</span><span>地震应急现场工作队组成<span lang="EN-US">......................................4</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">3.4</span><span>地震应急现场工作队组成图<span lang="EN-US">....................................5</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">4&nbsp;</span><span>应急处置<span lang="EN-US">....................................................5</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">4.1</span><span>地震发生后先期处置<span lang="EN-US">..........................................5</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">4.2</span><span>启动<span lang="EN-US">I</span>级响应应急处置</span><span lang="EN-US">........................................6</span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">4.3</span><span>启动Ⅱ级响应应急处置<span lang="EN-US">........................................8</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">5</span><span>地震异常及地震谣传应急处置<span lang="EN-US">...................................9</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">5.1</span><span>地震异常应急处置<span lang="EN-US">............................................9</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">5.2</span><span>短期和临震预报应急处置<span lang="EN-US">.....................................10</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">5.3</span><span>地震谣传应急处置<span lang="EN-US">..........................................11</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">6 </span><span>附则<span lang="EN-US">........................................................11</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">6.1 </span><span>总结<span lang="EN-US">......................................................11</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">6.2</span><span>预案管理<span lang="EN-US">...................................................11</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">6.3</span><span>预案实施时间<span lang="EN-US">...............................................11</span></span>&nbsp;</font></p><p align="left"><font face="仿宋">　　<span lang="EN-US">7</span><span>附件<span lang="EN-US">........................................................12</span></span>　&nbsp;&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">1 </span><span>总则&nbsp;</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">1.1 </span><span>编制目的</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>履行南京市地震局在本市地震应急响应中的职责，高效、有序应对突发地震事件，最大限度地减少人员伤亡，减轻经济损失和社会影响，维护社会稳定，协助政府做好地震应急工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">1.2 </span><span>编制依据<span lang="EN-US"> </span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>依据《中华人民共和国防震减灾法》、《破坏性地震应急条例》、《地震预报管理条例》和《江苏省防震减灾条例》、《江苏省地震应急预案》、《江苏省地震局地震应急预案》以及《南京市地震应急预案》，制定本预案。<span lang="EN-US"> </span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">1.3 </span><span>适用范围<span lang="EN-US"> </span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>本预案适用于南京市地震局对发生在南京市辖区，以及其他地区对南京有影响的地震灾害和事件的应急处置工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">2 </span><span>地震应急响应原则</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">2.1 </span><span>根据《南京市地震应急预案》分级响应原则，局分别启动<span lang="EN-US">I</span>级和Ⅱ级响应</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">2.2 </span><span>地震响应对应表</span>&nbsp;</font></p><div align="justify"><table width="559" class="MsoTableGrid" style="border-bottom: medium none; border-left: medium none; width: 419.4pt; border-collapse: collapse; margin-left: 31.7pt; border-top: medium none; border-right: medium none" border="1" cellspacing="0" cellpadding="0">    <tbody>        <tr>            <td width="115" valign="top" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 86.4pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><b><span style="font-family: 仿宋_GB2312; font-size: 12pt">地震分级</span></b>&nbsp;</font></p>            </td>            <td width="96" valign="top" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><b><span style="font-family: 仿宋_GB2312; font-size: 12pt">市响应级别</span></b>&nbsp;</font></p>            </td>            <td width="107" valign="top" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 80.4pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><b><span style="font-family: 仿宋_GB2312; font-size: 12pt">局响应级别</span></b>&nbsp;</font></p>            </td>            <td width="241" valign="top" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 180.6pt; padding-right: 5.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><b><span style="font-family: 仿宋_GB2312; font-size: 12pt">响应原则</span></b>&nbsp;</font></p>            </td>        </tr>        <tr style="height: 30.75pt">            <td width="115" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 86.4pt; padding-right: 5.4pt; height: 30.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="MsoNormal"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 12pt">特别重大地震</span>&nbsp;</font></p>            </td>            <td width="96" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72pt; padding-right: 5.4pt; height: 30.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><span lang="EN-US" style="font-family: 仿宋_GB2312; font-size: 12pt">I</span><span style="font-family: 仿宋_GB2312; font-size: 12pt">级</span>&nbsp;</font></p>            </td>            <td width="107" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 80.4pt; padding-right: 5.4pt; height: 30.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" rowspan="3">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><span lang="EN-US" style="font-family: 仿宋_GB2312; font-size: 12pt">I</span><span style="font-family: 仿宋_GB2312; font-size: 12pt">级响应</span>&nbsp;</font></p>            </td>            <td width="241" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 180.6pt; padding-right: 5.4pt; height: 30.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm" rowspan="3">            <p class="MsoNormal" style="text-indent: 12pt"><font face="仿宋"><span lang="EN-US" style="font-family: 仿宋_GB2312; font-size: 12pt">1</span><span style="font-family: 仿宋_GB2312; font-size: 12pt">、成立局应急指挥部，向灾区派遣地震现场指挥部或工作组。</span>&nbsp;</font></p>            <p class="MsoNormal" style="text-indent: 12pt"><font face="仿宋"><span lang="EN-US" style="font-family: 仿宋_GB2312; font-size: 12pt">2</span><span style="font-family: 仿宋_GB2312; font-size: 12pt">、履行市抗震救灾指挥部办公室职责，各应急工作组开展应急工作。</span>&nbsp;</font></p>            </td>        </tr>        <tr style="height: 30.75pt">            <td width="115" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 86.4pt; padding-right: 5.4pt; height: 30.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="MsoNormal"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 12pt">重大地震</span>&nbsp;</font></p>            </td>            <td width="96" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72pt; padding-right: 5.4pt; height: 30.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 12pt">Ⅱ级</span>&nbsp;</font></p>            </td>        </tr>        <tr style="height: 30.75pt">            <td width="115" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 86.4pt; padding-right: 5.4pt; height: 30.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="MsoNormal"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 12pt">较大地震</span>&nbsp;</font></p>            </td>            <td width="96" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72pt; padding-right: 5.4pt; height: 30.75pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><span lang="EN-US" style="font-family: 宋体; font-size: 12pt">Ⅲ</span><span style="font-family: 仿宋_GB2312; font-size: 12pt">级</span>&nbsp;</font></p>            </td>        </tr>        <tr>            <td width="115" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 86.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="MsoNormal"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 12pt">一般地震及其他有感地震</span>&nbsp;</font></p>            </td>            <td width="96" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 72pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><span lang="EN-US" style="font-family: 宋体; font-size: 12pt">Ⅳ</span><span style="font-family: 仿宋_GB2312; font-size: 12pt">级</span>&nbsp;</font></p>            </td>            <td width="107" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 80.4pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 12pt">Ⅱ级响应</span>&nbsp;</font></p>            </td>            <td width="241" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 180.6pt; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="MsoNormal" style="text-indent: 12pt"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 12pt">局各处室负责和协助当地政府开展地震应急工作。</span>&nbsp;</font></p>            </td>        </tr>    </tbody></table></div><p align="justify"><font face="仿宋">　　<span lang="EN-US">3 </span><span>组织体系</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">3.1 </span><span>地震应急指挥部组成</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>发生特别重大、重大、较大地震时，地震局成立地震应急指挥部，局长任指挥长、副局长任副指挥长；下设震情组、应急组、现场工作队和综合组；监测处处长任震情组组长，应急处处长任应急组组长，副局长兼任现场工作队队长，办公室主任任综合组组长；应急指挥部设在局应急指挥中心，各组在局应急指挥中心集中处置应急工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">3.2 </span><span>地震应急指挥部构成图</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">3.3 </span><span>地震应急现场工作队组成</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>地震应急现场工作队由震情监测员（<span lang="EN-US">1-2</span>人）、应急处置员（<span lang="EN-US">1-2</span>人）、综合协调员（<span lang="EN-US">1-2</span>人）和灾区地震现场工作队（<span lang="EN-US">1-2</span>人）组成，队长由副局长兼任，震情监测员由监测处和预警中心人员担任，应急处置员由应急处人员担任，综合协调员由办公室人员担任，灾区地震现场工作队由灾区地震办人员担任。必要时，市地震局统一协调其他区地震部门人员参加灾区现场工作队工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">3.4 </span><span>地震应急现场工作队组成图</span>&nbsp;</font></p><p align="justify"><font face="仿宋"><img style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" alt="" oldsrc="W020140120384510920963.jpg" complete="complete" src="./W020140120384510920963.jpg" /></font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4&nbsp;</span><span>应急处置</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.1</span><span>地震发生后先期处置</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.1.1</span><span lang="EN-US"> </span><span>值班人员</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）立即核准地震三要素，<span lang="EN-US">10</span>分钟内用电话向局长、副局长、市委、市政府、省地震局值班室报告震情。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）<span lang="EN-US">20</span>分钟内完成两项工作：一是分组、按批次发送震情短信：①局领导、处长、地办主任，②分管副市长、秘书长、副秘书长、应急办主任、二处处长、<span lang="EN-US">110</span>指挥中心，③局其他人员，④区县相关负责人、分管领导、科委领导，⑤联席会议成员单位，二是向市委总值班室、市政府总值班室、市委宣传部值班室、市政府热线“<span lang="EN-US">12345</span>”、<span lang="EN-US">110</span>指挥中心发出《地震专报信息》。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.1.2</span><span lang="EN-US"> </span><span>局工作人员</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）当发生特别重大、重大、较大地震时，局工作人员在第一时间到岗，局指挥部、工作组迅速按震情及职责开展应急工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）当接到一般及其他有感地震信息时，局相关人员根据局长指示开展应急处置。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）发生在南京市辖区范围内或其他地区发生对南京造成影响的地震，全体人员可利用微信平台、<span lang="EN-US">QQ</span>群等方式向社会转发震情信息。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.2</span><span>启动<span lang="EN-US">I</span>级响应应急处置</span><span> </span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.2.1</span><span lang="EN-US"> </span><span>局地震应急指挥部<span lang="EN-US"> </span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）向市政府、省地震局报告震情、灾情等信息。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）向市政府建议启动《南京市地震应急预案》，提出地震应急响应级别。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）履行市抗震救灾指挥部办公室职责，向市抗震救灾指挥部提出应急工作的对策建议，及时向市政府报告地震应急工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）统一领导、指挥和协调全市地震系统开展地震应急工作；向市抗震救灾指挥部提出地震应急对策建议；协助市政府做好抗震救灾和社会稳定等工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">5</span>）派出局地震现场工作队，做好省地震局及协作区现场工作队配合工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">6</span>）视震情、灾害程度、灾区救灾能力、人口疏密情况和社会影响等综合因素，指挥长建议市抗震救灾指挥部提高或降低响应级别。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">7</span>）根据市以上抗震救灾指挥部决定，指挥长宣布本部门震后应急期结束。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.2.2</span><span lang="EN-US"> </span><span>震情组</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）负责地震三要素核准、绘制有感地震震中分布图、震情信息发布和新闻媒体、地震谣言应对工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）做好局网站震情信息发布配合工作，并根据安排接受媒体采访。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）汇总地震对我市的影响范围，初步分析破坏程度，并及时报指挥长。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）加强震情监视，做好震情跟踪。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">5</span>）保持与省地震局紧密联系，了解上级地震部门有关地震监测预报和地震趋势判定意见，并及时向指挥长报告。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">6</span>）在震后应急期内，根据省地震局的意见和地震现场灾情调查结果，提出震情趋势判断，及时编发《地震专报信息》和《震情》。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">7</span>）承担市抗震救灾指挥部中地震监测及趋势研判组工作，负责与基础设施保障和生产恢复组、次生灾害防范处置组两个工作组的联络。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.2.3</span><span lang="EN-US"> </span><span>应急组<span lang="EN-US"> </span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）启动灾情速报系统，收集社会反映和灾情信息，初步确定受灾范围和破坏程度，标定受灾地区震情图、拟制《地震应急工作简报》。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）提出地震应急响应级别、应急处置、震害评估结果和辅助决策意见。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）提出派遣地震现场工作队的建议和调用地震灾害紧急救援队建议方案。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）负责地震现场工作队的联系及灾情速报系统的技术保障工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">5</span>）负责同市抗震救灾指挥部中抢险救援组、群众生活保障组、医疗救治和卫生防疫组、社会治安组和灾情损失收集评估组三个工作组的联络。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">6</span>）做好地震应急处置的总结工作，报省地震局、市人民政府。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.2.4</span><span lang="EN-US"> </span><span>地震现场工作队<span lang="EN-US"> </span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）做好出发准备工作，待指挥长发布命令后，<span lang="EN-US">30</span>分钟内出发赴地震现场。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）接受市现场指挥部领导、向市现场指挥部和局地震应急指挥部报告震、灾情等信息，适时汇报地震现场工作情况。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）迅速了解收集地震破坏程度、人员伤亡情况以及震感范围、社会影响等，开展地震现场监测，配合和协调省、华东协作联动区、南京都市圈等地震现场工作队做好应急处置、震害调查和地震考察等工作，并协助做好后勤保障工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）协助灾区政府做好抗震救灾工作，提出地震应急对策建议。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">5</span>）及时收集、保存、整理地震应急工作各类材料，应急工作结束后，及时编写上报地震现场应急工作总结报告。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.2.5</span><span lang="EN-US"> </span><span>综合组</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）保持与省地震局、市政府、区地震部门和地震现场工作队的通信联系；协助指挥长及时向上级部门报告震情、灾情信息和地震应急工作动态。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）负责局网站信息发布和网络舆情监视管理，配合市抗震救灾指挥部信息发布及宣传报道组做好宣传和新闻报道工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）负责局应急指挥部各类文件起草和有关信息的汇总、分发、报送工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）及时安排应急车辆、资金及生活必需品等后勤保障工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">5</span>）做好单位的安全保卫工作，维护正常工作秩序，处理各单位及群众的来电来访。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">6</span>）负责行使防震减灾指挥部办公室职责，并负责同市抗震救灾指挥部中信息发布及宣传报道组、救灾捐赠与涉外、涉港澳台协调事务组和通信保障组三个工作组的联络。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.3 </span><span>启动Ⅱ级响应应急处置</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.3.1</span><span>监测处（预警中心）</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）负责地震三要素核准、加强震情监视，做好震情跟踪，及时提出地震趋势判定意见；</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）配合办公室做好局网站震情信息发布工作，并根据安排接受媒体采访，做好地震谣言应对工作；</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）汇总地震对我市的影响范围，分析影响程度；</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）保持与省地震局紧密联系，了解上级地震部门有关地震监测预报和地震趋势判定意见，并及时向局长报告。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">5</span>）完成局领导安排的应急处置工作，协助和指导震区政府地震应急相关工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.3.2</span><span lang="EN-US"> </span><span>应急处</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）启动灾情速报系统，保障正常运行；</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）收集汇总震感范围、受灾情况和社会反映等信息；</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）提出应急处置建议；</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）同省地震局应急处保持通信联系。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">5</span>）完成局领导安排的应急处置工作，协助和指导震区政府地震应急相关工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">4.3.3</span><span lang="EN-US"> </span><span>办公室</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）保持与省地震局、市政府、震区地震办的通信联系，汇总震情、灾情信息和应急工作动态，做好局相关信息的报送工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）负责对外信息发布和网络舆情监视管理，接待新闻单位采访，通过媒体做好平息地震谣传和安定社会的宣传工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）协助局领导对各处室起草的《地震应急工作简报》、《地震专报信息》和《震情》进行审核并上报。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）完成局领导安排的应急处置工作，协助和指导震区政府地震应急相关工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">5 </span><span>地震异常及地震谣传应急处置</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">5.1 </span><span>地震异常应急处置</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>发现地震异常情况，监测处要迅速组织异常落实和处置工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）加强对地震异常的跟踪和值班工作，通知异常区地震部门加密异常观测、关注异常发展变化、及时向局长报告。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）对各类监测信息变化所产生的微观异常，要快速进行汇集整理，并及时到达现场，组织各区地震监测人员和测报点技术人员对异常数据进行调查研究，综合分析，组织专家召开震情会商，得出会商意见。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）对地震宏观异常，要快速到达现场，进行调查分析、及时组织专家会商，得出会商意见，消除百姓顾虑，防止谣言传播。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）及时将会商意见、异常落实情况通报省地震局、上报市政府。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">5.2 </span><span>短期和临震预报应急处置</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">5.2.1</span><span lang="EN-US"> </span><span>当省政府发布与南京关联的短期和临震预报后，成立局地震应急指挥部，由指挥长宣布全局进入临震应急状态。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）应急指挥部将震情跟踪和地震短期和临震预报意见及时向市政府报告，建议召开市防震减灾工作联席会议通报情况、部署应急准备工作；市局和各区地震部门全体人员立即取消出差和休假，进入应急待命状态。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）震情组在短期和临震预报的基础上，进一步加强震情跟踪，做好地震异常落实工作。要求全市各监测点的资料每天上报，及时分析处理，加密会商，并及时向正、副指挥长汇报震情发展变化情况；要求预报区内区地震部门在本级政府的领导和市地震局的协调、指导下，强化震情跟踪、加密观测、会商，落实各项应急措施，做好应急准备工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）应急组组织开展地震应急疏散演练和自救互救知识的培训，配合上级地震部门对预报区的各种基础设施、重大生命线工程和易发次生灾害源等进行危险评估和震害检测工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">4</span>）地震现场工作队准备好应急设备、通讯器材、震害评估表格、宏观烈度调查表格等应急装备和材料，做好随时赶赴地震现场开展应急工作的准备。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">5</span>）综合组负责部署在地震预报区适时进行防震减灾知识强化宣传工作，重点宣传防震避震以及自救互救知识。负责本局安全保卫及应急交通工具、资金、应急物资的保障工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">5.2.2</span><span lang="EN-US"> </span><span>应急结束或转化</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）若在预报期内没有发生预期地震，由市政府宣布撤消临震应急状态，局应急响应终止。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）若在预报期发生了预期地震，自动启动本预案相应的地震应急响应。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">5.3 </span><span>地震谣传应急处置</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>出现地震谣传并造成社会影响时，应迅速调查、积极做好应对工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">1</span>）监测处加强震情监视和异常落实，及时与省地震局沟通，分析谣传起因，了解省地震局地震趋势判定意见，并向局领导报告。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">2</span>）应急处及时了解当地谣传发展态势和地震部门应对工作情况，并根据地震谣传事态发展，协助当地政府做好安定民心、科普宣传和社会稳定工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（<span lang="EN-US">3</span>）办公室负责汇总有关情况，及时上报市政府、市委宣传部、市公安等部门和省地震局，同时在局网站上进行相关信息发布。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">6 </span><span>附则&nbsp;</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">6.1 </span><span>总结</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>地震应急工作结束后，对应急响应工作进行总结，对应急预案实施情况进行评估，提出改进措施。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">6.2 </span><span>预案管理</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>本预案日常管理由应急处承担。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">6.3 </span><span>预案实施时间</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>本预案自印发之日起施行，<span lang="EN-US">2007</span>年制订的《南京市地震局地震应急预案》同时废止。</span>&nbsp;&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">7 </span><span>附件</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　&nbsp; <span lang="EN-US">7.1&nbsp;</span><span>附件一</span>&nbsp;</font></p><p align="justify" style="text-align: center"><font face="仿宋">　　<span>地震专报信息</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>南京市地震局<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>第<span lang="EN-US">X</span>期<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>年<span lang="EN-US">&nbsp;&nbsp; </span>月&nbsp;日</span>&nbsp;</font></p><p align="justify" style="text-align: center"><font face="仿宋">　　<span lang="EN-US">XXXX</span><span>地点发生</span><span lang="EN-US">M</span><span lang="EN-US">X.X</span><span>级地震</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>据省、市地震台网测定：</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>年<span lang="EN-US">X</span>月<span lang="EN-US">X</span>日<span lang="EN-US">XX</span>时<span lang="EN-US">XX</span>分<span lang="EN-US">XX.X</span>秒，在<span lang="EN-US">XXXX</span>地点（北纬<span lang="EN-US">X.X<span> </span></span></span><span>o</span><span>，东经<span lang="EN-US">X.X<span> </span></span></span><span>o</span><span>）发生<span lang="EN-US">MX.X</span>级地震。我市部分市民有感。</span>&nbsp;</font></p><p align="justify" style="text-align: center"><font face="仿宋">　　<span>地震工作简报</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>南京市地震局<span lang="EN-US">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>第<span lang="EN-US">X</span>期<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>年&nbsp;月<span lang="EN-US">&nbsp;&nbsp; </span>日</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>年<span lang="EN-US">X</span>月<span lang="EN-US">X</span>日<span lang="EN-US">XX</span>时<span lang="EN-US">XX</span>分<span lang="EN-US">XX.X</span>秒，在<span lang="EN-US">XXXX</span>地点发生<span lang="EN-US">X.X</span>级地震。全市有感，<span lang="EN-US">XX</span>区（县）震感强烈，目前尚未发现人员伤亡。<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>地震发生后，市地震局立即启动地震应急预案，在市委、市政府的领导下及省地震局的指导下，正高效有序开展抗震救灾工作，维持社会稳定。详细情况随后将及时报道。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.2 附件二：&nbsp;</font></p><p align="justify" style="text-align: center"><font face="仿宋">　　<span>地震信息内容<span lang="EN-US">1</span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（在电视台、电台等各类媒体上滚动播报）</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>据省和我市地震台网测定：<span lang="EN-US">2007</span>年<span lang="EN-US">X</span>月<span lang="EN-US">X</span>日<span lang="EN-US">XX</span>时<span lang="EN-US">XX</span>分，在<span lang="EN-US">XXXX</span>地点（北纬<span lang="EN-US">X.X </span></span><span>o</span><span>，东经<span lang="EN-US">X.X </span></span><span>o</span><span>）发生<span lang="EN-US">X.X</span>级地震，我市部分市民有感。根据省地震预报研究中心分析，我市近期没有发生<span lang="EN-US">5</span>级以上破坏性地震的可能，望广大市民正常工作，安心生活，不要听信地震谣言。遭遇地震时，千万不要跳楼，以免造成不必要的损伤。</span>&nbsp;</font></p><p align="justify" style="text-align: center"><font face="仿宋">　　<span>地震信息内容<span lang="EN-US">2</span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>（手机短信播报的地震信息内容）</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>据省、市地震台网测定：</span>&nbsp;<span>年<span lang="EN-US">X</span>月<span lang="EN-US">X</span>日<span lang="EN-US">XX</span>时<span lang="EN-US">XX</span>分，在<span lang="EN-US">XXX</span>（北纬<span lang="EN-US">X.X<span> </span></span></span><span>o</span><span>，东经<span lang="EN-US">X.X<span> </span></span></span><span>o</span><span>）发生<span lang="EN-US">X.X</span>级地震，我市部分市民有感。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">7.3 </span><span>附件三：</span>&nbsp;</font></p><p align="justify" style="text-align: center"><font face="仿宋">　　<span>震情新闻通稿</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>据国家地震台网报告：北京时间××月××日上午××时××分，在南京市××××××发生××级地震，震中位于北纬××·××度，东经×××·××度。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>据最新统计，此次地震共造成×××人受伤，震中区部分房屋出现开裂，个别房屋倒塌。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>据专家介绍，此次地震为一般破坏性地震，市有关部门已启动地震应急预案。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">7.4 </span><span>附件四：</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>××××地震应急工作简报</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (</span><span>内容提纲<span lang="EN-US">)</span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　 <span>一、</span><span>主震后地震活动情况&nbsp;</span></font></p><span><p align="justify"><font face="仿宋">　　 <span>二、地震灾情情况</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>人口受灾情况、房屋受损情况、基础设施受损情况。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　 <span>三、地震应急行动</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">&nbsp;&nbsp;&nbsp;</span><span lang="EN-US">&nbsp;&nbsp;</span><span>市抗震救灾指挥部指挥抗震救灾工作情况，维护灾区正常生活和治安秩序，确保社会稳定。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　 <span>四、地震监测预报工作</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　 <span>震后异常变化、地震趋势会商判定意见。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　 <span>五、地震现场调查情况</span>&nbsp;</font></p><p align="justify"><font face="仿宋">&nbsp;　　<span>地震宏观调查、</span><span>现场震害调查情况。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　 <span>六、地震应急宣传工作</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>强化新闻报道，正确引导社会舆论、统一对外发布中央和省、市领导对抗震救灾工作的指示、批示精神，抗震救灾宣传工作情况。</span>&nbsp;</font></p><p align="justify"><font face="仿宋"><span>&nbsp;&nbsp;&nbsp; 七、应急工作下一步要开展的工作</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">7.5 </span><span>附件五：<span lang="EN-US">&nbsp;&nbsp;&nbsp; </span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>××××地震应急工作报告</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (</span><span>内容提纲<span lang="EN-US">)</span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>一、</span><span>地震基本参数&nbsp;</span></font></p><span><p align="justify"><font face="仿宋">　　<span>二、地震灾情情况</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">1</span><span>、地震有感范围、烈度分布图：</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">2</span><span>、地震灾害损失、灾情</span><span>分布图：</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>人口受灾情况、房屋受损情况、基础设施受损情况。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>三、地震应急行动</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">&nbsp;&nbsp;&nbsp;</span><span lang="EN-US">&nbsp;&nbsp; </span>&nbsp;<span lang="EN-US">1</span><span>、地震局地震应急指挥部工作：</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>启动地震应急预案，领导市、县（区）地震部门的应急工作；</span><span>市地震局履行市抗震救灾指挥部办公室职责开展应急工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">2</span><span>、地震现场应急指挥工作：</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>成立现场应急工作队，赶赴地震灾区，指导当地开展应急工作。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　<span>四、地震监测预报工作</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>震前异常变化、震情跟踪、地震趋势会商判定意见。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　<span>五、地震灾情调查情况</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>地震宏观调查、现场震害调查。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　<span>六、地震应急宣传工作</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>正确引导社会舆论宣传报道，统一抗震救灾宣传口径，加强地震知识及防御措施的宣传、及时平息地震谣传。</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　<span>七、地震应急工作中急需解决的问题</span>&nbsp;</font></p><p align="justify"><font face="仿宋">&nbsp;&nbsp;&nbsp;&nbsp; <span lang="EN-US">7.6 </span><span>附件六：<span lang="EN-US">&nbsp;&nbsp; </span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>××××地震应急工作总结报告</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (</span><span>内容提纲<span lang="EN-US">)</span></span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>前言</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">一、<span>&nbsp;&nbsp; </span></span><span>地震基本概况</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">二、<span>&nbsp;&nbsp; </span></span><span>震区基本概况</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">三、<span>&nbsp;&nbsp; </span></span><span>地震现场调查与地震烈度</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">四、<span>&nbsp;&nbsp; </span></span><span>震害损失评估报告</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">五、<span>&nbsp;&nbsp; </span></span><span>地震应急响应与抗震救灾工作</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">六、<span>&nbsp;&nbsp; </span></span><span>地震监测预报与地震趋势判定</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">七、<span>&nbsp;&nbsp; </span></span><span>地震应急宣传工作</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">八、<span>&nbsp;&nbsp;&nbsp; </span></span><span>震后应急救援与后勤保障工作</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">九、<span>&nbsp;&nbsp; </span></span><span>应急工作中取得的成绩经验</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span>十、 应急工作中存在的问题</span>&nbsp;</font></p><p align="justify"><font face="仿宋">　　<span lang="EN-US">7.7 </span><span>附件七：</span>&nbsp;</font></p><p align="justify" style="text-align: center"><font face="仿宋">　　&nbsp;<span>南京市地震局应急装备的准备与分配表</span>&nbsp;</font></p><div align="justify"><table width="638" class="MsoNormalTable" style="border-bottom: medium none; border-left: medium none; width: 478.4pt; border-collapse: collapse; border-top: medium none; border-right: medium none" border="1" cellspacing="0" cellpadding="0">    <tbody>        <tr>            <td width="32" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 23.8pt; padding-right: 1.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="11" style="text-align: center; line-height: normal; text-indent: 0cm"><font face="仿宋"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">序&nbsp;号</span></b>&nbsp;</font></p>            </td>            <td width="80" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 59.95pt; padding-right: 1.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="11" style="text-align: center; line-height: normal; text-indent: 0cm"><font face="仿宋"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">部门</span></b>&nbsp;</font></p>            </td>            <td width="144" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 108pt; padding-right: 1.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="11" style="text-align: center; line-height: normal; text-indent: 0cm"><font face="仿宋"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">应急装备</span></b>&nbsp;</font></p>            </td>            <td width="382" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 286.65pt; padding-right: 1.4pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="11" style="text-align: center; line-height: normal; text-indent: 0cm"><font face="仿宋"><b><span style="font-family: 仿宋_GB2312; font-size: 14pt">应急资料</span></b>&nbsp;</font></p>            </td>        </tr>        <tr>            <td width="32" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 23.8pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="11" style="text-align: center; line-height: normal; text-indent: 0cm"><font face="仿宋"><span lang="EN-US" style="font-family: 仿宋_GB2312; font-size: 14pt">1</span>&nbsp;</font></p>            </td>            <td width="80" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 59.95pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; letter-spacing: 0.2pt; font-size: 14pt">应急指挥部</span>&nbsp;</font></p>            </td>            <td width="144" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 108pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">笔记本电脑<span lang="EN-US">,</span>卫星电话<span lang="EN-US">1</span>部。</span>&nbsp;</font></p>            </td>            <td width="382" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 286.65pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">《江苏省地震应急预案》、《南京市地震应急预案》和《南京市地震局地震应急预案》。</span>&nbsp;</font></p>            </td>        </tr>        <tr>            <td width="32" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 23.8pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="11" style="text-align: center; line-height: normal; text-indent: 0cm"><font face="仿宋"><span lang="EN-US" style="font-family: 仿宋_GB2312; font-size: 14pt">2</span>&nbsp;</font></p>            </td>            <td width="80" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 59.95pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; letter-spacing: 0.2pt; font-size: 14pt">震情组</span>&nbsp;</font></p>            </td>            <td width="144" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 108pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">笔记本电脑<span lang="EN-US"> </span></span>&nbsp;</font></p>            </td>            <td width="382" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 286.65pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">地震台网分布图、前兆台网分布图，《震后地震趋势判定公告规定》，《关于地震应急期间采用地震参数注意事项的通知》。地震监测数据处理专用软件，地震分析预报专用软件和震后早期趋势判定工作预案。准备（附件一、二、）内容。</span>&nbsp;</font></p>            </td>        </tr>        <tr style="height: 22.7pt">            <td width="32" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 23.8pt; padding-right: 1.4pt; height: 22.7pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="11" style="text-align: center; line-height: normal; text-indent: 0cm"><font face="仿宋"><span lang="EN-US" style="font-family: 仿宋_GB2312; font-size: 14pt">3</span>&nbsp;</font></p>            </td>            <td width="80" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 59.95pt; padding-right: 1.4pt; height: 22.7pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">应急组</span>&nbsp;</font></p>            </td>            <td width="144" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 108pt; padding-right: 1.4pt; height: 22.7pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">笔记本电脑、便携式短信模块装置<span lang="EN-US">1</span>部、卫星电话<span lang="EN-US">1</span>部</span>&nbsp;</font></p>            </td>            <td width="382" valign="top" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 286.65pt; padding-right: 1.4pt; height: 22.7pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">南京市地震灾情速报系统，准备（附件三、四、五）内容。防震减灾知识读本及防震减灾应急宣传材料。</span>&nbsp;</font></p>            </td>        </tr>        <tr>            <td width="32" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 23.8pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="11" style="text-align: center; line-height: normal; text-indent: 0cm"><font face="仿宋"><span lang="EN-US" style="font-family: 仿宋_GB2312; font-size: 14pt">4</span>&nbsp;</font></p>            </td>            <td width="80" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 59.95pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; letter-spacing: 0.2pt; font-size: 14pt">现场工作队</span>&nbsp;</font></p>            </td>            <td width="144" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 108pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">笔记本电脑、卫星电话<span lang="EN-US">1</span>部、手持对讲机<span lang="EN-US">2</span>套、<span lang="EN-US">GPS</span>定位仪<span lang="EN-US">2</span>台、发电机<span lang="EN-US">1</span>台、照相机<span lang="EN-US">1</span>台、帐篷、行军床、地质罗盘<span lang="EN-US">1</span>个、望远镜<span lang="EN-US">2</span>台、个人应急装备。</span>&nbsp;</font></p>            </td>            <td width="382" valign="top" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 286.65pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">《地震现场科学考察指南》，《地震灾害损失评估工作规定（试行）》，《江苏省地震现场工作实施细则（试行）》，震灾评估有关工作系列表格、宏观调查表格，南京市电子地图及南京市纸质图<span lang="EN-US">1</span>：<span lang="EN-US">5</span>万地形图<span lang="EN-US">2</span>套，南京市行政区划图及各县（区）市行政区划图。准备（附件六、七）内容。</span>&nbsp;</font></p>            </td>        </tr>        <tr>            <td width="32" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 1.4pt; width: 23.8pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="11" style="text-align: center; line-height: normal; text-indent: 0cm"><font face="仿宋"><span lang="EN-US" style="font-family: 仿宋_GB2312; font-size: 14pt">5</span>&nbsp;</font></p>            </td>            <td width="80" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 59.95pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; letter-spacing: 0.2pt; font-size: 14pt">综合组</span>&nbsp;</font></p>            </td>            <td width="144" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 108pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">笔记本电脑、摄像机<span lang="EN-US">1</span>台、照相机<span lang="EN-US">1</span>台、应急车<span lang="EN-US">2</span>辆。</span>&nbsp;</font></p>            </td>            <td width="382" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 1.4pt; width: 286.65pt; padding-right: 1.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p class="11" style="line-height: normal; text-indent: 0cm"><font face="仿宋"><span style="font-family: 仿宋_GB2312; font-size: 14pt">《关于进一步规范地震震情灾情信息报送和新闻报道的通知》，防震减灾工作联席会议成员单位、各县（区）地震办、各地震台、有关部门的通讯录<span lang="EN-US">10</span>套。</span>&nbsp;</font></p>            </td>        </tr>    </tbody></table></div><p align="justify"><font face="仿宋">　　<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>二○一三年十二月三十日</span>&nbsp;</font></p></span></span><font face="仿宋">&nbsp;</font></div></div>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17885';var __$contentid='2452567';var __$title='南京市地震局地震应急预案(修订稿)';var __$AuthorPh='';var __$Editor='';var __$Liability='市地震局1';var __$pubtime='2014-01-20 10:20:00';var __$source='市地震局';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

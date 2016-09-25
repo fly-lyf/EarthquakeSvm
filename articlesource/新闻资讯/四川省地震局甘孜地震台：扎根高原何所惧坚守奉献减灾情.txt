@@ -1,0 +1,389 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>四川省地震局甘孜地震台：扎根高原何所惧坚守奉献减灾情</title>
+<LINK href="../../../../../images/chun_styles.css" type='text/css' rel='stylesheet'/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script ignoreapd="1" type="text/javascript" src="../../../../../zhuangtai_164.js"></script>
+
+<script type="text/javascript">
+    <!-- 换cS的jS-->
+ var objs = document.getElementsByTagName("link");
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3];   
+var url = changese(chun,xia,qiu,dong);
+ objs[0].href='../../../../../'+url;
+</script>
+
+
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+
+</head>
+
+<body>
+	<div id="box">
+		
+		<script type="text/javascript">
+function show(div){ 
+   var ids=[163,167,171,176,181,187,191,196,199,206,211,213];   
+           for(i=0;i<ids.length;i++){
+		      var obj   = document.getElementById(ids[i]+"_menu");
+			   obj.style.display='none';
+			  
+		   }    
+      var div1; 
+	  div1  = document.getElementById(div);
+	  
+	
+	  div1.style.display='block';
+	 
+   }
+   function  shut(div){
+      //salert(div);
+       var div  = document.getElementById(div);
+	  div.style.display='none';
+   }
+
+
+</script>
+<div class="top">
+			<div id="logo" class="logo">
+			      
+			</div>
+<script type="text/javascript">
+
+    <!-- 换cS的jS-->
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3]; 
+ var url ; 
+if(chun==1){
+   url="chun.swf";
+}
+if(xia==1){
+   url="xia.swf";
+}
+if(qiu==1){
+   url="qiu.swf";
+}
+if(dong==1){
+   url="dong.swf";
+}
+ url="xia.swf";
+var  value='../../../../../images/'+url;
+var content = "<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'"+ "codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='1000' height='137'>"+
+  "<param value='false' name='menu'/>"+
+     " <param value='opaque' name='wmode'/>"+
+    "<param name='movie' id='movie'  value='"+value+"'/>"+
+   "<param name='quality' value='high' />"+
+    "<embed src='"+value+"'" +"quality='high'"+ "pluginspage='http://www.adobe.com/shockwave/download/download.cgi?"+   "P1_Prod_Version=ShockwaveFlash'"+ 
+"type='application/x-shockwave-flash' width='1000' height='137'></embed>"+
+  "</object>"
+
+var logo = document.getElementById("logo");
+logo.innerHTML=content;
+
+</script>
+
+			<div class="nes">
+				<ul class="u_anes">
+					<li class="u_ali"><a class="a_nes" href="../../../../../">首 页</a><span></span></li>
+					<li class="u_ali" onmouseover="show(this.id+'_menu')"  onmouseout="shut(this.id+'_menu')" id="163" > <a   class="a_nes"   href="../../../../../jcyb/">监测预报</a>				
+					<span>  
+					</span>
+				       <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="163_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jcyb/scjctw/">四川监测台网</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/gcjs/">观测技术</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/ybyj/">预报研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/luntan/">2011年西南及华东南地区青年分析预报人员科技论坛</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  onmouseover="show(this.id+'_menu')" id="167"  ><a     class="a_nes" href="../../../../../zzfy/">震灾防御</a><span></span>
+					
+					     <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="167_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zzfy/zcfg/">政策法规</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/fzjs/">法制建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/kzsf/">抗震设防</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" id="171"  onmouseover="show(this.id+'_menu')" onmouseout="shut(this.id+'_menu')"   ><a  class="a_nes" href="../../../../../yjjy/">应急救援</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="171_menu" >
+					          
+								<li class="treeli"><a href="../../../../../yjjy/jyd/">救援队</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/bncs/">避难场所</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/yjgl/">应急管理</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/flfg/">法律法规</a></li>
+							
+						</ul>
+					</li>
+					<li  class="u_ali" onmouseout="shut(this.id+'_menu')"  id="176"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/">震情速报</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="176_menu" >
+					          
+								<li id="地震目录"   class="treeli"><a href="../../../../zqsb/dzml/">地震目录</a></li>
+							
+								<li id="全球震讯"   class="treeli"><a href="../../../../zqsb/qqzx/">全球震讯</a></li>
+							
+								<li id="震情灾情"   class="treeli"><a href="../../../../zqsb/zqzq/">震情灾情</a></li>
+							
+								<li id="省内近期四级以上地震"   class="treeli"><a href="../../../../zqsb/snsjysdz/">省内近期四级以上地震</a></li>
+							
+						</ul>
+					
+					</li>
+                                         					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="178"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/qqzx/">全球震讯</a><span></span>
+<!--
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="178_menu" >
+					          
+						</ul>
+-->
+					</li>					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="181"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../zhxx/">工作动态</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="181_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zhxx/gg/">公告信息</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/sjgzdt/">省局工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/szgzdt/">市县工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gndt/">国内动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gjdt/">国际动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/yjxx/">预警信息</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="187"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../jgjj/">机构简介</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="187_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgjj/ldjs/">领导介绍</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/znzz/">职能职责</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/nsjg/">内设机构</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="191"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../dzkj/">地震科技</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="191_menu" >
+					          
+								<li class="treeli"><a href="../../../../../dzkj/kjcg/">科技成果</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/jcyj/">基础研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/kjcx/">科技创新</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/zdxm/">重大项目</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali"  onmouseout="shut(this.id+'_menu')"  id="196"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../xzsp/">行政审批</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="196_menu" >
+					          
+								<li class="treeli"><a href="../../../../../xzsp/bszn/">办事指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../xzsp/wsbs/">网上办事</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="199"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../zfxxgk/">政府信息公开</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree02" style="display:none" id="199_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkml/">政府信息公开目录</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkzn/">政府信息公开指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgknb/">政府信息公开年报</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/ysqgk/">依申请公开</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/jdts/">监督投诉</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgg/">公告</a></li>
+							
+						</ul>
+					
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="206"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../kpxc/">科普宣传</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="206_menu" >
+					          
+								<li class="treeli"><a href="../../../../../kpxc/dzzs/">地震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/kzzs/">抗震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/dzkpsp/">地震科普宣传视频点播</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/zddz/">世界重大地震</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="211"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../jgdj/">机关党建</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="211_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgdj/djgz/">党建工作</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/xxyd/">学习园地</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/ddzs/">党的知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/wmjs/">文明建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/qtgz/">群团工作</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="213"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../lzjs/">廉政建设</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="213_menu" >
+					          
+								<li class="treeli"><a href="../../../../../lzjs/gzdt/">工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/jzcm/">警钟长鸣</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lzwh/">廉政文化</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lltt/">理论探讨</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/gzzd/">规章制度</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/sxjs/">三项建设</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" ><a  target="_blank"   class="a_nes" href="http://220.167.54.135:8088/">数据共享</a>
+				
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+		
+		<div class="bmain">
+			<div class="dqxl">
+				<span>当前位置：<a href="../../../../../">首页</a>&gt;&gt;<a href="../../../../">新闻资讯</a>&gt;&gt;<a href="../../../">重要专题</a>&gt;&gt;<a href="../../">深入开展党的群众路线教育实践活动</a>&gt;&gt;<a href="../">身边的榜样</a></span>
+			</div>
+			<div class="bxltop"><img src="../../../../../images/dz_42.jpg"/></div>
+			<div class="tyxl">
+				<h1 style="font-family:宋体;">四川省地震局甘孜地震台：扎根高原何所惧坚守奉献减灾情 </h1>
+<script>
+var futitle='';
+if(futitle.length>0){
+document.write('<br><br><span style="font-family:黑体;font-size:16px;padding-top:15px;">──&nbsp;'+futitle+'</span>');
+}
+</script>
+
+				<div class="title" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '中国地震局网站—新闻资讯';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2013-11-18 16:05:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2013-11-18 16:05:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2013-11-18 16:05:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2013-11-18 16:05:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xgljdz" id="xiangguandiv">
+					<ul id="xiangguan" >
+					     
+					</ul>
+                                    				</div>
+	                       <script type="text/javascript">
+					   //控制相关文档的显示
+	                                           var  obj = document.getElementById("xiangguan");
+                                                 var div  = document.getElementById("xiangguandiv");  
+						var eles  = obj.childNodes;
+                                                  
+						if(eles.length==0){
+						    div.style.display="none";
+                                                      
+						}
+					
+					</script>
+
+				<div class="xl_box" id="content" >
+				  <div class="spbf"><P class=Custom_UnionStyle>　　甘孜地震台始建于1970年月3月，位于四川省甘孜藏族自治州甘孜县斯俄乡境内的布绒朗山下，海拔3360米，行政隶属四川省地震局康定地震中心站，台站代码51012，台站代号GSZ。甘孜地震台是地震监测综合台，观测项目有：地电阻率、地电场、钻孔倾斜仪&nbsp;钻孔体应变仪、强震仪、数字地震仪、气象三要素自记仪、水氡、数字水氡、智能水汞、信息网络、陆态网络系统和GPS监测站。&nbsp;</P>
+<P class=Custom_UnionStyle>　　现有职工7人，其中藏族同志4人，汉族同志3人。台站距四川省地震局880公里以上。夏季雷电猛烈，冬季冰天雪地，常年气候干燥，全年无霜期仅仅只有3个月。冬季缺市电、缺自来水、缺新鲜蔬菜、小孩上学困难是甘孜地震台的现状。&nbsp;</P>
+<P class=Custom_UnionStyle>　　甘孜地震台监测资料报中国地震局、四川省震局和康定地震中心站。在参加全国、全省监测资料历年评比中，甘孜台克服种种困难，保持了优秀以上成绩。&nbsp;</P>
+<P class=Custom_UnionStyle>　　2001年2月23日四川雅江6.0级地震前，甘孜地震台根据监测资料异常反映，曾经作出过较好的地震三要素短临预报，受到四川省地震局的表彰。&nbsp;</P>
+<P class=Custom_UnionStyle>　　四川省地震局甘孜地震台建于1970年3月，至今已42年。台站位于距甘孜县南近四公里处的斯俄乡布绒朗山下，海拔3360米。现有职工7人，其中藏族4人，汉族3人，党员2名，入党积极分子1名。台站距四川省地震局880公里。夏季雷电猛烈，冬季冰天雪地，常年气候干燥，全年无霜期仅仅只有3个月。冬季缺市电、缺自来水、缺新鲜蔬菜、小孩上学困难是甘孜地震台常有的事。&nbsp;</P>
+<P class=Custom_UnionStyle>　　甘孜地震台是地震监测综合台，观测项目有：数字化监测：地电阻率、地电场、钻孔倾斜仪钻孔体应变仪、强震仪、数字地震仪、气象三要素自记仪、水氡、数字水氡、智能水汞、信息网络、陆态网络系统和GPS监测站。&nbsp;</P>
+<P class=Custom_UnionStyle>　　一、防雷电击坏仪器设备常常需要拼命精神&nbsp;</P>
+<P class=Custom_UnionStyle>　　甘孜地震台位于雷击区，常常一个火球就可以直接打到地震台院子里滚动，有时一个雷电打得台上好几只电灯泡暴裂。防雷工作从每年的4月中旬到10月中旬历时6个月。为做到及时、有效的防雷，确保宝贝仪器不遭雷电的破坏，他们轮流24小时值班，实在困了就在办公室椅子上蜷一下，能睡一两个小时就已经是件很幸福的事了。高原的天气变幻莫测，经常是临睡前晴空万里，不一会却已电闪雷鸣。听到雷鸣全台职工就会像听到紧急集合的命令，冒着随时被雷电击中的危险便往机房冲。在这一刻，有谁能顾及到自己的安危，心里装着的全是那些监测设备。有一个职工的亲戚曾经来过台上，因为台站太寂寞，呆了不到一星期就回去了，但是每一次家乡有雷电时，都会打电话问，打雷没有？仪器有没有被击坏？孤独地坚守，亲人的问候，在雷雨交加的时刻，伴随着甘孜地震台这些高原防震减灾哨兵。&nbsp;</P>
+<P class=Custom_UnionStyle>　　二、爱台如家是一种情怀&nbsp;</P>
+<P class=Custom_UnionStyle>　　从白发苍苍的老者到朝气蓬勃的年轻人，因为内心固有的坚持和梦想，远离繁华的都市，来到偏僻的小山沟，一坚守就是十几年，几十年，一代又一代，从来没有过怨言，从来没有想过要放弃，因为这就是甘孜地震台人的家，也是他们常年不变的坚守！&nbsp;</P>
+<P class=Custom_UnionStyle>　　在甘孜地震台有这样一位同志，他叫曾令华，2006年10月从九龙县来到甘孜地震台，随他而来的还有体弱多病的爱人和2岁的孩子。甘孜台的极高海拔让他爱人和孩子有了严重高原反应，氧气常不离左右。问他爱人为什么不继续呆在成都带孩子，让孩子有一个好的学习条件和生活环境。她笑着说：“把曾哥一个人放在这，我不放心。我在这，孩子在这至少还是一个完整的家”。听到这些让人想流泪，多朴实的话。&nbsp;</P>
+<P class=Custom_UnionStyle>　　三、与风雪搏斗其乐无穷&nbsp;</P>
+<P class=Custom_UnionStyle>　　高原的冬天总是来的早，去的晚。常常在夜半时分，地电阻率外线路又出了问题，于是女同志留台值班，男同志带上工具，冒着风雪出去抢修线路了。雪夹杂着冰雹，打在脸上生疼难耐，鞋没走几步就全湿了，冷得直哆嗦。为了壮胆，破嗓子吼几声，常常引来阵阵犬鸣。电杆又冷又滑，戴上手套更成了助滑剂，于是脱掉手套扔在一边，冒着风雪徒手轮换着将线路抢修好。完成抢修任务后才发现手脚早已冻得不听使唤。每一次抢修线路任务顺利完成后，胜利的笑声在空旷的夜空回荡，更给严寒的高原冬季平添几分豪气。台上同志们最喜欢说干起工作来要象个不怕流血流汗的爷们。&nbsp;</P>
+<P class=Custom_UnionStyle>　　四、年轻大学生的果敢&nbsp;</P>
+<P class=Custom_UnionStyle>　　甘孜台张海龙同志，大学毕业后从遥远的黑龙江来到甘孜地震台，女朋友多次要求他回去，并保证家里可以安排工作工作。但他喜欢地震事业，他说他本来想考个好的大学，结果上了防灾科技学院，跟地震事业结了缘，无反顾地把根扎在了风雪不断的甘孜高原。后来他女朋友舍不得放弃这段感情，不顾家人的反对，毅然放弃老家的工作，毫无怨言地来到了甘孜。&nbsp;</P>
+<P class=Custom_UnionStyle>　　五、再冷也要先保证监测工作&nbsp;</P>
+<P class=Custom_UnionStyle>　　甘孜温泉距离地震台5公里，取水人员每天8点到9点之间骑自行车到温泉采集流体样本，年年风雨无阻。甘孜台冬天特别寒冷，最低室内温度可达零下27度。而流体观测对室温要求高，最低不能低于2度。在有市电情况下，一般提前1个小时值班员需要打开电炉，升高室内温度；无市电时要发电用取暖器升温，就需要提前2个小时。发电采用柴油发电，冬天柴油易冻，需要先烧开水，再轮流摇动车头，使润滑油润滑后才能发动，往往需要1个小时左右。所以，冬天里甘孜台的职工不管上不上班，为保障水氡监测正常运行，在停电时都会在7点左右就起床发电。那时常常是满天星星。&nbsp;</P>
+<P class=Custom_UnionStyle>　　六、台长就是面旗帜&nbsp;</P>
+<P class=Custom_UnionStyle>　　共产党员、甘孜台台长赵民渊同志，患有恶性脉管炎伤筋痛骨。先后经历了好几次大手术，可即便是在手术期间，他都保持着天天与台站进行沟通联系，关注着工作进展，关注天气变化，叮嘱工作质量，吩咐需要进行检查进行标定进行记录，吩咐保持警惕注意台站的安全……在医生嘱咐还不能太多的走动的时候，他就迫不及待的赶车回到了单位，而且在其他同志外出巡视维护线路的时候他依然拄着拐杖一同前去，因为他说只有回到单位他才踏实，只有看到大家工作中的安全得以保证他才安心。&nbsp;</P>
+<P class=Custom_UnionStyle>　　甘孜县是维护稳定，反对分裂的前哨阵地。在3.14事件后，甘孜维稳任务特别艰巨。甘孜地震台的口号是，“守好自己的人，看好自己的门；加强安全意识，确保台站平安！”。除搞好自身安全外，台站人员还积极服从当地政府指挥，积极支持、参加地方治安巡逻队任务。&nbsp;</P>
+<P class=Custom_UnionStyle>　　一代又一代的甘孜地震人就是这样，执行标准先行一步，上岗值班早到一刻，维护设备独挡一面。年复一年，风雨无阻，甘于吃苦，任劳任怨，以饱满的热情积极投入到地震监测工作中，正是甘孜地震台全体职工责任感驱使的真实写照。&nbsp;</P>
+<P class=Custom_UnionStyle align=center><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020131209569432615711.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020131118580126990929.jpg" OLDSRC=W020131209569432615711.jpg/></P>
+<P class=Custom_UnionStyle align=center><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020131209569433861930.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020131118580199814463.jpg" OLDSRC=W020131209569433861930.jpg/></P>
+<P class=Custom_UnionStyle align=center><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020131209569434802889.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020131118580310293460.jpg" OLDSRC=W020131209569434802889.jpg/></P>
+<P class=Custom_UnionStyle align=center><IMG style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="./W020131209569435113877.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020131118580431235075.jpg" OLDSRC=W020131209569435113877.jpg/></P></div><br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+    			</div>
+			</div>
+			<div class="bxlbottom"><img src="../../../../../images/dz_44.jpg"/></div>
+		</div>
+		<div class="foot">
+
+
+			版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号<br />
+
+<a href="http://10.51.0.225:8080/wcm" target="_blank">网站管理</a>     <a target="_blank" href="http://mail.eqsc.gov.cn/">邮件登陆</a>     <a target='_blank' href="../../../../../wzdh/">网站地图</a>     <a href="../../../../../lxwm/" target="_blank">联系我们</a>
+		</div>
+		
+	</div>
+	
+</body>
+</html>

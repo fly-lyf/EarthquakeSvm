@@ -1,0 +1,1693 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>我省已创建146所省级防震减灾科普示范学校</title>
+<LINK href="../../../../../images/chun_styles.css" type='text/css' rel='stylesheet'/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script ignoreapd="1" type="text/javascript" src="../../../../../zhuangtai_164.js"></script>
+
+<script type="text/javascript">
+    <!-- 换cS的jS-->
+ var objs = document.getElementsByTagName("link");
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3];   
+var url = changese(chun,xia,qiu,dong);
+ objs[0].href='../../../../../'+url;
+</script>
+
+
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+
+</head>
+
+<body>
+	<div id="box">
+		
+		<script type="text/javascript">
+function show(div){ 
+   var ids=[163,167,171,176,181,187,191,196,199,206,211,213];   
+           for(i=0;i<ids.length;i++){
+		      var obj   = document.getElementById(ids[i]+"_menu");
+			   obj.style.display='none';
+			  
+		   }    
+      var div1; 
+	  div1  = document.getElementById(div);
+	  
+	
+	  div1.style.display='block';
+	 
+   }
+   function  shut(div){
+      //salert(div);
+       var div  = document.getElementById(div);
+	  div.style.display='none';
+   }
+
+
+</script>
+<div class="top">
+			<div id="logo" class="logo">
+			      
+			</div>
+<script type="text/javascript">
+
+    <!-- 换cS的jS-->
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3]; 
+ var url ; 
+if(chun==1){
+   url="chun.swf";
+}
+if(xia==1){
+   url="xia.swf";
+}
+if(qiu==1){
+   url="qiu.swf";
+}
+if(dong==1){
+   url="dong.swf";
+}
+ url="xia.swf";
+var  value='../../../../../images/'+url;
+var content = "<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'"+ "codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='1000' height='137'>"+
+  "<param value='false' name='menu'/>"+
+     " <param value='opaque' name='wmode'/>"+
+    "<param name='movie' id='movie'  value='"+value+"'/>"+
+   "<param name='quality' value='high' />"+
+    "<embed src='"+value+"'" +"quality='high'"+ "pluginspage='http://www.adobe.com/shockwave/download/download.cgi?"+   "P1_Prod_Version=ShockwaveFlash'"+ 
+"type='application/x-shockwave-flash' width='1000' height='137'></embed>"+
+  "</object>"
+
+var logo = document.getElementById("logo");
+logo.innerHTML=content;
+
+</script>
+
+			<div class="nes">
+				<ul class="u_anes">
+					<li class="u_ali"><a class="a_nes" href="../../../../../">首 页</a><span></span></li>
+					<li class="u_ali" onmouseover="show(this.id+'_menu')"  onmouseout="shut(this.id+'_menu')" id="163" > <a   class="a_nes"   href="../../../../../jcyb/">监测预报</a>				
+					<span>  
+					</span>
+				       <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="163_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jcyb/scjctw/">四川监测台网</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/gcjs/">观测技术</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/ybyj/">预报研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/luntan/">2011年西南及华东南地区青年分析预报人员科技论坛</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  onmouseover="show(this.id+'_menu')" id="167"  ><a     class="a_nes" href="../../../../../zzfy/">震灾防御</a><span></span>
+					
+					     <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="167_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zzfy/zcfg/">政策法规</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/fzjs/">法制建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/kzsf/">抗震设防</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" id="171"  onmouseover="show(this.id+'_menu')" onmouseout="shut(this.id+'_menu')"   ><a  class="a_nes" href="../../../../../yjjy/">应急救援</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="171_menu" >
+					          
+								<li class="treeli"><a href="../../../../../yjjy/jyd/">救援队</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/bncs/">避难场所</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/yjgl/">应急管理</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/flfg/">法律法规</a></li>
+							
+						</ul>
+					</li>
+					<li  class="u_ali" onmouseout="shut(this.id+'_menu')"  id="176"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/">震情速报</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="176_menu" >
+					          
+								<li id="地震目录"   class="treeli"><a href="../../../../zqsb/dzml/">地震目录</a></li>
+							
+								<li id="全球震讯"   class="treeli"><a href="../../../../zqsb/qqzx/">全球震讯</a></li>
+							
+								<li id="震情灾情"   class="treeli"><a href="../../../../zqsb/zqzq/">震情灾情</a></li>
+							
+								<li id="省内近期四级以上地震"   class="treeli"><a href="../../../../zqsb/snsjysdz/">省内近期四级以上地震</a></li>
+							
+						</ul>
+					
+					</li>
+                                         					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="178"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/qqzx/">全球震讯</a><span></span>
+<!--
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="178_menu" >
+					          
+						</ul>
+-->
+					</li>					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="181"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../zhxx/">工作动态</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="181_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zhxx/gg/">公告信息</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/sjgzdt/">省局工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/szgzdt/">市县工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gndt/">国内动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gjdt/">国际动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/yjxx/">预警信息</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="187"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../jgjj/">机构简介</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="187_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgjj/ldjs/">领导介绍</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/znzz/">职能职责</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/nsjg/">内设机构</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="191"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../dzkj/">地震科技</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="191_menu" >
+					          
+								<li class="treeli"><a href="../../../../../dzkj/kjcg/">科技成果</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/jcyj/">基础研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/kjcx/">科技创新</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/zdxm/">重大项目</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali"  onmouseout="shut(this.id+'_menu')"  id="196"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../xzsp/">行政审批</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="196_menu" >
+					          
+								<li class="treeli"><a href="../../../../../xzsp/bszn/">办事指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../xzsp/wsbs/">网上办事</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="199"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../zfxxgk/">政府信息公开</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree02" style="display:none" id="199_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkml/">政府信息公开目录</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkzn/">政府信息公开指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgknb/">政府信息公开年报</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/ysqgk/">依申请公开</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/jdts/">监督投诉</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgg/">公告</a></li>
+							
+						</ul>
+					
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="206"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../kpxc/">科普宣传</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="206_menu" >
+					          
+								<li class="treeli"><a href="../../../../../kpxc/dzzs/">地震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/kzzs/">抗震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/dzkpsp/">地震科普宣传视频点播</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/zddz/">世界重大地震</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="211"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../jgdj/">机关党建</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="211_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgdj/djgz/">党建工作</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/xxyd/">学习园地</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/ddzs/">党的知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/wmjs/">文明建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/qtgz/">群团工作</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="213"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../lzjs/">廉政建设</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="213_menu" >
+					          
+								<li class="treeli"><a href="../../../../../lzjs/gzdt/">工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/jzcm/">警钟长鸣</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lzwh/">廉政文化</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lltt/">理论探讨</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/gzzd/">规章制度</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/sxjs/">三项建设</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" ><a  target="_blank"   class="a_nes" href="http://220.167.54.135:8088/">数据共享</a>
+				
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+		
+		<div class="bmain">
+			<div class="dqxl">
+				<span>当前位置：<a href="../../../../../">首页</a>&gt;&gt;<a href="../../../../">新闻资讯</a>&gt;&gt;<a href="../../../">重要专题</a>&gt;&gt;<a href="../../">2012年地震演练专版</a>&gt;&gt;<a href="../">减灾工作</a></span>
+			</div>
+			<div class="bxltop"><img src="../../../../../images/dz_42.jpg"/></div>
+			<div class="tyxl">
+				<h1 style="font-family:宋体;">我省已创建146所省级防震减灾科普示范学校 </h1>
+<script>
+var futitle='';
+if(futitle.length>0){
+document.write('<br><br><span style="font-family:黑体;font-size:16px;padding-top:15px;">──&nbsp;'+futitle+'</span>');
+}
+</script>
+
+				<div class="title" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '？';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2012-04-16 15:50:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2012-04-16 15:50:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2012-04-16 15:50:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2012-04-16 15:50:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xgljdz" id="xiangguandiv">
+					<ul id="xiangguan" >
+					     
+					</ul>
+                                    				</div>
+	                       <script type="text/javascript">
+					   //控制相关文档的显示
+	                                           var  obj = document.getElementById("xiangguan");
+                                                 var div  = document.getElementById("xiangguandiv");  
+						var eles  = obj.childNodes;
+                                                  
+						if(eles.length==0){
+						    div.style.display="none";
+                                                      
+						}
+					
+					</script>
+
+				<div class="xl_box" id="content" >
+				  <div class="spbf"><DIV class=Custom_UnionStyle>
+<P>　　<SPAN>自<SPAN>2005</SPAN>年起，四川省地震局与省教育厅、省科协联合启动全省防震减灾科普示范学校创建活动，至今全省各地已建成省、市级防震减灾科普示范学校<SPAN>400</SPAN>多所，其中省级<SPAN>146</SPAN>所，市级<SPAN>267</SPAN>所。区（县）级防震减灾科普示范学校数量更多。这<SPAN>146</SPAN>所省级防震减灾科普学校详见下表：</SPAN></P>
+<P align=center>　　<SPAN>四川省级防震减灾科普示范学校创建情况一览表</SPAN></P><SPAN>
+<P>
+<TABLE border=1 cellSpacing=0 cellPadding=0 width=595 align=center>
+<TBODY>
+<TR>
+<TD width=55>
+<P align=center><SPAN>序号<SPAN></SPAN></SPAN></P></TD>
+<TD width=240>
+<P align=center><SPAN>学校名称</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>所在地市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>创建时间（年）</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>1</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>成都市七中育才学校<SPAN>(</SPAN>东区<SPAN>)</SPAN></SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>2</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>成都邛崃市羊安小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>3</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>江油市花园中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>4</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>自贡市外国语学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>自贡市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>5</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>攀枝花市第二初级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>攀枝花市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>6</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>攀枝花市第二十三中小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>攀枝花市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>7</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>阿坝州马尔康中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>8</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>西昌市第一小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>9</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>冕宁县城厢小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>10</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>冕宁县第二中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>11</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广元市中区北街小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>12</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>沐川县利店镇中心小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>13</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>乐山市柏杨小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>14</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>德阳市第五中学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>15</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>四川省孝泉中学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2006</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>16</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>四川省犍为县职业高级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2007</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>17</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>乐山市市中区小学素教育基地</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2007</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>18</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>雅安市雨城区小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2007</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>19</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>四川省天全中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2007</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>20</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广安实验小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2007</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>21</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广安区东方小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2007</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>22</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>大邑县北街小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2007</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>23</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>宜宾市第一中学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>宜宾市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2007</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>24</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>宜宾市第三中学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>宜宾市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2007</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>25</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>康定县东大街小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>甘孜州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2008</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>26</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>巴塘县人民小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>甘孜州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2008</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>27</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>四川省泸定中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>甘孜州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2008</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>28</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>达州市通川区第一小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>达州市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2008</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>29</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>万源市职业高级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>达州市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2008</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>30</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>达州市通川区实验小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>达州市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2008</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>31</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>成都玉林中学附属小学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>32</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>崇州市怀远中学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>33</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>郫县第四中学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>34</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>成都市青白江中学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>35</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>成都华西中学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>36</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>成都新都香城中学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>37</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>成都市树德协进中学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>38</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>金堂中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>39</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>双流县中和中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>成都市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>40</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>井研县中小学生素质教育基地</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>41</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>乐山市五通桥区实验小学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>42</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>马边县荞坝乡中学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>43</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>沐川县实验初级中学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>44</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>夹江中学校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>45</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>夹江外国语实验学校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>46</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>马尔康县第二小学校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>47</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>金川县东方红小学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>48</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>小金县两河中心校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>49</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>九寨沟县中学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>50</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>松潘县城关第二小学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>51</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>九寨沟县安乐乡中心小学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>52</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>壤塘县中学校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>53</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>红原县中学校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>54</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>阿坝县城关第二小学校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>55</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>若尔盖县达扎寺小学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>56</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>黑水县中学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>阿坝州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>57</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>巴中市平昌县西兴小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>巴中市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>58</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>巴中市巴州区三小</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>巴中市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>59</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>巴中市巴州区六中</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>巴中市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>60</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>蓬溪中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>遂宁市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>61</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>蓬溪县蓬南中学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>遂宁市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>62</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>九龙县城小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>甘孜州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>63</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>理塘县城关小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>甘孜州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>64</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>乡城县城区小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>甘孜州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>65</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>彭山县鹏利小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>眉山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>66</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>盐源县盐源中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>67</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>越西邮电贝尔小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>68</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>岳池县凤山小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>69</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>宁南县初级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>70</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>剑阁县下寺小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>71</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广元市朝天区转斗小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>72</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广元市利州区东城实验学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>73</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广元市元坝区元坝镇第一小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>74</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>苍溪县职业高级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>75</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>青川县三锅乡中心小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>76</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>旺苍职业中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>77</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>天全县城区第三完全小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>78</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>荥经县胡长保小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>79</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>汉源县第一中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>80</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>石棉县新棉镇联合小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>81</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>宣汉县第二中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>82</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>邻水县第二中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>83</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>华蓥市双河小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>84</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>武胜县民族小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2009</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>85</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>渠县第三中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>达州市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>86</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>自贡市第十四中学校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>自贡市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>87</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>自贡市富顺华英实验小学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>自贡市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>88</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>自贡市汇东实验学校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>自贡市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>89</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>自贡市育才小学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>自贡市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>90</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>自贡市自流井区檀木林小学校</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>自贡市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>91</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>自贡市荣县东街小学</SPAN></P></TD>
+<TD vAlign=top width=120>
+<P align=center><SPAN>自贡市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>92</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>绵阳市游仙区新桥镇初中</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>93</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>绵阳市游仙区小枧沟镇置信小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>94</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>江油市双河初级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>95</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>梓潼县文昌二小</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>96</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>北川羌族自治县七一职业中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>97</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>盐亭县冯河乡中心小学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>98</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>平武县北山小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>99</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>眉山市东坡区苏南小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>眉山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>100</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>眉山市东坡区大北街小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>眉山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>101</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>眉山市东坡区东坡小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>眉山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>102</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>四川省旺苍中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>103</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广元市朝天区朝天镇第二小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>104</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>剑阁县剑门关小学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>105</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广元民盟烛光初级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>106</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>宝兴县实验小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>107</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>芦山县芦阳小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>108</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>名山县第二中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>109</SPAN></P></TD>
+<TD width=240>
+<P align=left><SPAN>雅安七中</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>110</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>汉源县第二中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>111</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>四川省绵竹中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>112</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>德阳通用电子科技学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>113</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>什邡市实验中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>114</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>四川省东电中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>115</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>什邡市方亭慈济中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>116</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>会东县直属小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>117</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>德昌麻栗双喜希望小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>118</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>西昌市川兴中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>119</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>西昌市第二小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>120</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>攀枝花市第四小学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>攀枝花市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>121</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>攀枝花市第十九中小学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>攀枝花市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>122</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>米易县第二小学</SPAN><SPAN>校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>攀枝花市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>123</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>开江县骑龙乡中心校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>达州市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2010</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>124</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广元朝天区陈家乡小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>125</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>安县塔水镇初级中学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>126</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>三台县建平镇中心小学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>127</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>绵阳市涪城区龙门镇小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>绵阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>128</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>雅安荥经县严道第一初级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>雅安市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>129</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>剑阁县文锋中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>130</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>东坡区环湖中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>眉山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>131</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>彭山县谢家镇第一初级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>眉山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>132</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>青神县学道街小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>眉山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>133</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>洪雅县实验小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>眉山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>134</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>眉山市第一小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>眉山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>135</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>绵竹市新市学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>136</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>四川省罗江中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>137</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>四川省</SPAN><SPAN>中江中学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>138</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>德阳市华山路学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>139</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广汉市光华双语学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>德阳市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>140</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>会理县第一职业中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>141</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>雷波县城关小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>凉山州</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>142</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>沐川县舟坝学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>143</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>沐川县黄丹学校</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>144</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>沙湾区太平镇中心小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>145</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>乐山市沙湾小学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>乐山市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR>
+<TR>
+<TD width=55>
+<P align=center><SPAN>146</SPAN></P></TD>
+<TD width=240>
+<P><SPAN>广元羊木初级中学</SPAN></P></TD>
+<TD width=120>
+<P align=center><SPAN>广元市</SPAN></P></TD>
+<TD width=180>
+<P align=center><SPAN>2011</SPAN></P></TD></TR></TBODY></TABLE></P></SPAN></DIV></div><br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+    			</div>
+			</div>
+			<div class="bxlbottom"><img src="../../../../../images/dz_44.jpg"/></div>
+		</div>
+		<div class="foot">
+
+
+			版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号<br />
+
+<a href="http://10.51.0.225:8080/wcm" target="_blank">网站管理</a>     <a target="_blank" href="http://mail.eqsc.gov.cn/">邮件登陆</a>     <a target='_blank' href="../../../../../wzdh/">网站地图</a>     <a href="../../../../../lxwm/" target="_blank">联系我们</a>
+		</div>
+		
+	</div>
+	
+</body>
+</html>

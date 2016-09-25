@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海局代表队荣获第三届全国地震速报竞赛济南赛区第二名并成功晋级全国总决赛<span>发布时间：2016-01-05&nbsp;&nbsp;&nbsp;&nbsp;信息来源：监测中心</span></div>
+                <p><p>
+	　　2015年12月29日-30日，上海市地震局代表队参加第三届全国地震速报竞赛济南赛区复赛，并以总分第二名的优异成绩成功晋级全国总决赛。</p>
+<p>
+	　　本次竞赛共有来自上海局、台网中心、甘肃局、天津局、吉林局、内蒙古局、安徽局、河南局的8支代表队32位选手参加。与以往竞赛相比，考察范围更广、知识点更细，并引入了知识演讲等新形式，难度系数大大增加。竞赛共分为技能操作和知识竞赛两大环节，技能操作采取上机实操形式，考察近震、爆破等事件的速报以及地震编目的处理技能；知识竞赛采取知识演讲和问答形式，考察对测震学基础理论知识、测震台网运行评比办法、与测震相关的法规条例等内容的掌握情况和语言表达能力。经两个比赛日的激烈角逐，孙冬军、刘芳、王鹏、贾思超4人作为我局代表队获得知识演讲第一名、技能竞赛团体第二名、知识竞赛团体第四名的优异成绩，以740.54分荣获赛区总分第二，成功晋级全国总决赛。</p>
+<p>
+	　　赛前，我局各级领导高度重视此次竞赛，在局领导、监测处及相关部门的支持下，监测中心参赛队员积极备战，通过多次专题学习培训，全面提高自身技能水平与综合能力。因为深知参赛队伍中不乏有上届冠军安徽局代表队等实力强劲的对手，复赛备战之初，就由监测中心于海英副主任牵头，与参赛选手共同根据本届竞赛规则制定详细的备战规划；为了更好的夯实理论基础知识，监测中心及相关处室多次指派专业人员对参赛选手进行指导；在技能赛备战环节，参赛队员通过集中训练与日常工作相结合的方式，分析和处理了300余个各省市的地震事件，全面提高对速报软件的熟练程度以及地震速报、编目分析的技术水平。</p>
+<p>
+	　　我局代表队在赛场上的优异表现不仅展现了上海地震人的技术能力和精神面貌，还体现了全局各部门在面对艰难险阻时众志成城的决心。通过此次竞赛，进一步强化了我局速报岗位相关技术人员的基础技能，实现了地震监测队伍知识水平和技术能力的有力提升，对我局的地震监测工作起到积极的推动作用。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1601/201601060151166099.jpg" title="图像" wdimgid="image_482" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

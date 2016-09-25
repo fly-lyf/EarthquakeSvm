@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">严以修身立根本 坚定信念强党性<span>发布时间：2015-07-02</span></div>
+                <p><p>
+	　　6月26日，局党组中心组围绕&ldquo;严以修身，加强党性修养，坚定理想信念，把牢思想和行动的&lsquo;总开关&rsquo;&rdquo;这一主题召开&ldquo;三严三实&rdquo;专题教育专题一学习研讨会。会议由人事教育处处长主持，党组成员、各部门主要负责人、处级以上干部出席会议。</p>
+<p>
+	　　会上，局机关党委（离退休干部管理处）处长带头领学《习近平关于党风廉政建设和反腐败斗争论述摘编》，从严明党的政治纪律、自觉维护党内团结统一等四方面内容入手，详细介绍了习近平总书记的重要论述。人事教育处处长、纪检监察审计处处长分别选取了焦裕禄先进事迹和苏荣违纪违法案例作为领学内容，通过正反两方面典型开展教育，找到差距，见贤思齐，汲取教训，自警自省。之后，局党组成员、副局长李平同志及部分部门主要负责人先后作了重点发言。</p>
+<p>
+	　　局党组成员、副局长李平同志在发言中指出，领导干部严以修身,要深入学习贯彻习近平总书记系列重要讲话精神,坚持严的纪律，实的行动，以自己的言行带好头、作表率。要不断加强党性修养，增强对马克思主义的信仰，筑牢理想信念，加强理论学习与思想教育，努力在真学、真懂、真信、真用上下功夫，做到学以益智、学以励志、学以立德、学以修身。</p>
+<p>
+	　　研讨过程中，大家在读原著、学原文、悟原理的基础上，敞开思想，紧扣主题，深入交流了对&ldquo;严以修身&rdquo;内涵的认识和体会，并结合各部门工作实际，就今后如何更快更好推进我局防震减灾工作发展，对自己提出了新的要求。</p>
+<p>
+	　　会议最后，局党组书记、局长吴建春同志作总结发言。吴建春局长从中国古代传统文化与西方现代行为科学两个视角切入，借由儒家&ldquo;修身齐家治国平天下&rdquo;和马斯洛需求层次理论中&ldquo;尊重&rdquo;的意义阐释论证了&ldquo;修身&rdquo;对于个人自我价值实现的重要性，强调了严以修身既对是中华优良传统的弘扬和继承，又是价值观层面优良作风的新境界，是&ldquo;三严三实&rdquo;的起点、前提、基础，更是做人之本、从政之基、成事之道。</p>
+<p>
+	　　吴建春局长强调，作为地震工作者，要把践行&ldquo;三严三实&rdquo;要求贯彻到具体工作当中，把个人自我价值的实现与推动防震减灾事业的发展紧密相连，全力发挥开拓创新、求真务实的行业精神，树立宗旨意识和责任意识,全心全意为人民服务，特别是在地震灾害发生的时刻，要以饱满的责任感、使命感以及奉献精神，高效应对灾害，及时研判震后趋势，迅速提供信息，做好科普宣传等工作，力求最大限度地减轻地震灾害。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507020506419231.jpg" title="图像" wdimgid="image_350" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507020506423342.jpg" title="图像" wdimgid="image_350" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507020442007246.jpg" title="图像" wdimgid="image_342" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

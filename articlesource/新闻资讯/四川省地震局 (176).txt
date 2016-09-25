@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../">首页</a>><a href="../../">新闻资讯</a>><a href="../">行业动态</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>新华网：我国在应对地震灾害中不断健全综合减灾体系 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '？新华网';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-05-18 15:36:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-05-18 15:36:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-05-18 15:36:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-05-18 15:36:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<P align=center><SPAN>（今日关注</SPAN><SPAN><FONT size=+0>·</FONT></SPAN><SPAN>防震减灾）从</SPAN><SPAN><FONT size=+0>“</FONT></SPAN><SPAN>震时救灾</SPAN><SPAN><FONT size=+0>”</FONT></SPAN><SPAN>到</SPAN><SPAN><FONT size=+0>“</FONT></SPAN><SPAN>综合减灾</SPAN><SPAN><FONT size=+0>”——</FONT></SPAN><SPAN>我国在应对地震灾害中不断健全综合减灾体系</SPAN></P>
+<P align=left><SPAN>　　新华网北京</SPAN><SPAN>5</SPAN><SPAN>月</SPAN><SPAN>12</SPAN><SPAN>日</SPAN><SPAN>电（记者杨维汉、吴晶晶、崔静、余晓洁）地震是我国造成人员伤亡最多的自然灾害，我国地震频度高、震源浅、强度大、分布广。从过去的</SPAN><SPAN>“</SPAN><SPAN>震时救灾</SPAN><SPAN>”</SPAN><SPAN>到当前的</SPAN><SPAN>“</SPAN><SPAN>综合减灾</SPAN><SPAN>”</SPAN><SPAN>，地震监测预报、地震灾害防御、地震应急救援构筑了我国综合减灾三大体系，正在尽可能将震灾损失降到最低。</SPAN></P>
+<P align=left><SPAN>　　监测预报：建设地震预报实验场测震台网覆盖大陆约</SPAN><SPAN><FONT size=+0>90%</FONT></SPAN><SPAN>国土面积</SPAN></P>
+<P align=left><SPAN>　　地震预报是世界公认的科学难题。</SPAN><SPAN>“</SPAN><SPAN>不能因为地震预报难就不做，这是</SPAN><SPAN>‘</SPAN><SPAN>慢功夫</SPAN><SPAN>’</SPAN><SPAN>，更是</SPAN><SPAN>‘</SPAN><SPAN>硬功夫</SPAN><SPAN>’</SPAN><SPAN>。如果不开展这方面科学研究我们就落后了。</SPAN><SPAN>”</SPAN><SPAN>中国地震局地震预测研究所副所长张晓东说。</SPAN></P>
+<P align=left><SPAN>　　中国科学院院士张培震介绍，地震是断裂带上应力积累和突发释放的产物，地震科学研究和监测预报的重要任务是对这些断裂开展深入研究和动态监测。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>2008</SPAN><SPAN>年汶川地震后，在总结国际国内地震预报经验教训基础上，</SPAN><SPAN>“</SPAN><SPAN>建设地震预报实验场</SPAN><SPAN>”</SPAN><SPAN>被提上日程。我国川滇地区地震活动频度高、强度大，位于印度板块推挤中国大陆的</SPAN><SPAN>“</SPAN><SPAN>东构造结</SPAN><SPAN>”</SPAN><SPAN>附近，构造复杂，有着长期进行地震监测的基础，是理想的、天然的地震预报实验场。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>“</SPAN><SPAN>川滇国家地震预报实验场</SPAN><SPAN>”</SPAN><SPAN>建设去年底正式启动。</SPAN><SPAN>“</SPAN><SPAN>我们将通过对川滇地区的活动断裂探查和地壳精细结构探测，达到对强震进行以物理为基础的预测。</SPAN><SPAN>”</SPAN><SPAN>张晓东说。</SPAN></P>
+<P align=left><SPAN>　　提高地震监测能力是开展地震预测预报研究的重要基础。目前我国建成了</SPAN><SPAN>3100</SPAN><SPAN>多个地震监测台点，布设了总长度达数万公里的流动观测线路，形成了覆盖全国的地震观测网络，进一步提高了地震监测能力和地震速报能力。</SPAN></P>
+<P align=left><SPAN>　　中国地震局去年专门制定了全国７级地震危险区强化监视跟踪方案。针对地震重点地区持续强化监测，</SPAN><SPAN>2014</SPAN><SPAN>年完成了</SPAN><SPAN>1675</SPAN><SPAN>个流动地磁测点、</SPAN><SPAN>6700</SPAN><SPAN>个重力测点的观测。</SPAN></P>
+<P align=left><SPAN>　　同时，我国通过实施国家重大项目</SPAN><SPAN>“</SPAN><SPAN>首都圈地震观测网络</SPAN><SPAN>”“</SPAN><SPAN>中国数字地震观测网络</SPAN><SPAN>”“</SPAN><SPAN>中国大陆构造环境监测网络</SPAN><SPAN>”</SPAN><SPAN>等项目，基本建成了地震背景场观测台网，地震监测体系初具规模。</SPAN></P>
+<P align=left><SPAN>　　这些测震台网覆盖了我国大陆约</SPAN><SPAN>90%</SPAN><SPAN>的国土面积，陆域测震能力普遍已达到</SPAN><SPAN>2.5</SPAN><SPAN>级，华北、东北、华中、西北、华东地区基本达到</SPAN><SPAN>2.0</SPAN><SPAN>级，首都圈等人口密集地区可达到</SPAN><SPAN>1.5</SPAN><SPAN>级。</SPAN></P>
+<P align=left><SPAN>　　目前，全国</SPAN><SPAN>2/3</SPAN><SPAN>的国土面积能实现地震自动速报，一般在震后</SPAN><SPAN>2</SPAN><SPAN>到</SPAN><SPAN>3</SPAN><SPAN>分钟给出自动速报结果，正式速报在</SPAN><SPAN>10</SPAN><SPAN>到</SPAN><SPAN>30</SPAN><SPAN>分钟内完成。</SPAN></P>
+<P align=left><SPAN>　　灾害防御：把地上搞结实，把地下搞清楚</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>1976</SPAN><SPAN>年唐山大地震后，我国开始全面重视建筑物的抗震设防问题，从</SPAN><SPAN>“</SPAN><SPAN>地上不设防</SPAN><SPAN>”</SPAN><SPAN>进而到</SPAN><SPAN>“</SPAN><SPAN>把地上搞结实</SPAN><SPAN>”</SPAN><SPAN>。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>“</SPAN><SPAN>把地上搞结实</SPAN><SPAN>”</SPAN><SPAN>就是采取设防措施，提高建设工程的抗震能力。国家实施农居工程，逐步改变了农村</SPAN><SPAN>“</SPAN><SPAN>小震致灾</SPAN><SPAN>”“</SPAN><SPAN>大震巨灾</SPAN><SPAN>”</SPAN><SPAN>的状况，有效减轻了人员伤亡。截至</SPAN><SPAN>2014</SPAN><SPAN>年底，全国除上海市外</SPAN><SPAN>30</SPAN><SPAN>个省区市均开展了农居工程示范试点，共建成</SPAN><SPAN>1040</SPAN><SPAN>万户，惠及</SPAN><SPAN>4000</SPAN><SPAN>多万人。</SPAN></P>
+<P align=left><SPAN>　　农居工程已经在一些地震中发挥了重要作用。新疆</SPAN><SPAN>2004</SPAN><SPAN>年率先实施农居工程以来，实现了</SPAN><SPAN>5</SPAN><SPAN>级地震</SPAN><SPAN>“</SPAN><SPAN>零伤亡</SPAN><SPAN>”</SPAN><SPAN>，</SPAN><SPAN>6</SPAN><SPAN>级地震</SPAN><SPAN>“</SPAN><SPAN>零死亡</SPAN><SPAN>”</SPAN><SPAN>。</SPAN></P>
+<P align=left><SPAN>　　地震导致建筑损毁是造成人员伤亡重要原因。</SPAN><SPAN>“</SPAN><SPAN>减隔震新技术</SPAN><SPAN>”</SPAN><SPAN>的应用，正在成为降低震害损失的</SPAN><SPAN>‘</SPAN><SPAN>法宝</SPAN><SPAN>’</SPAN><SPAN>。</SPAN><SPAN>2011</SPAN><SPAN>年</SPAN><SPAN>3</SPAN><SPAN>月</SPAN><SPAN>11</SPAN><SPAN>日</SPAN><SPAN>，日本东北部海域发生</SPAN><SPAN>9</SPAN><SPAN>级地震，在仙台、福岛震中区域有几百栋隔震建筑，震后无损，其中包括超过</SPAN><SPAN>100</SPAN><SPAN>米</SPAN><SPAN>的高层隔震建筑。</SPAN></P>
+<P align=left><SPAN>　　中国地震局正在推广减隔震等技术应用，云南、北京、四川、甘肃、青海等地已建成减隔震建筑</SPAN><SPAN>3000</SPAN><SPAN>多栋。</SPAN><SPAN>2008</SPAN><SPAN>年开始建造的全球最大的单体隔震建筑</SPAN><SPAN>——</SPAN><SPAN>云南昆明新机场航站楼就采用了混合减隔震技术。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>“</SPAN><SPAN>把地下搞清楚</SPAN><SPAN>”</SPAN><SPAN>就是要查明地下地质结构，包括地基情况、活断层分布等，城市新建的重要设施、居民小区等就尽可能避开危险区域，已经建设的重要建筑设施就能尽早采取防范措施。我国大规模开展城市活断层探测始于</SPAN><SPAN>“</SPAN><SPAN>九五</SPAN><SPAN>”</SPAN><SPAN>期间。目前已完成</SPAN><SPAN>59</SPAN><SPAN>个大中城市活断层探查，另有</SPAN><SPAN>24</SPAN><SPAN>个大中城市的活断层探查正在开展中。</SPAN></P>
+<P align=left><SPAN>　　中国地震局表示，下一步要调动地方政府积极性，有计划、有步骤地组织开展主要活动断层的调查，加快推进省会城市、地震重点监视防御区大中城市的活动断层探测。</SPAN></P>
+<P align=left><SPAN>　　应急救援：</SPAN><SPAN><FONT size=+0>“</FONT></SPAN><SPAN>常态减灾</SPAN><SPAN><FONT size=+0>”</FONT></SPAN><SPAN>与</SPAN><SPAN><FONT size=+0>“</FONT></SPAN><SPAN>非常态救灾</SPAN><SPAN><FONT size=+0>”</FONT></SPAN><SPAN>结合</SPAN></P>
+<P align=left><SPAN>　　北京时间</SPAN><SPAN>4</SPAN><SPAN>月</SPAN><SPAN>25</SPAN><SPAN>日</SPAN><SPAN>14</SPAN><SPAN>时</SPAN><SPAN>11</SPAN><SPAN>分</SPAN><SPAN>，尼泊尔发生强烈地震，波及我国西藏部分地区。</SPAN></P>
+<P align=left><SPAN>　　驰援尼泊尔</SPAN><SPAN>——</SPAN><SPAN>中国国际救援队震后数小时即集结完毕，成为第一支到达尼泊尔的外国重型救援队；西藏抗震救灾－－地震、公安消防、民政、卫生、交通运输等部门第一时间到位，拯救生命、打通道路、通讯保障等工作迅速开展</SPAN><SPAN>……</SPAN></P>
+<P align=left><SPAN>　　快速反应、科学有序。地震发生后，</SPAN><SPAN>“</SPAN><SPAN>中国力量</SPAN><SPAN>”</SPAN><SPAN>和</SPAN><SPAN>“</SPAN><SPAN>中国速度</SPAN><SPAN>”</SPAN><SPAN>令人惊叹，而这正来源于应急机制的快速响应。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>“</SPAN><SPAN>近年来，我国加强基于应急准备的常态化应急救援体系和能力建设，坚持平时宣传、震前预防与应急处置并重、常态减灾与非常态救灾有机结合。每次地震袭来，能够做到有序快速反应，务实高效救灾。</SPAN><SPAN>”</SPAN><SPAN>中国地震局应急救援司副司长尹光辉说。</SPAN></P>
+<P align=left><SPAN>　　从汶川到玉树，从芦山到鲁甸，我国的应急救援体系经过一次次灾难的考验和磨砺，在反应速度、物资准备、技术装备、联动机制等诸多方面不断健全完善，推动着救灾效率的提升。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>——</SPAN><SPAN>国务院和</SPAN><SPAN>31</SPAN><SPAN>个省区市均建立了抗震救灾指挥机构，同时建立了地震应急指挥平台，具备监测监控、预测预警、震灾情获取、应急指挥辅助决策、信息通告和调度指挥等功能。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>——</SPAN><SPAN>以《国家地震应急预案》为核心，纵向到底、横向到边、条块结合、结构完整的全国地震应急预案体系已基本形成，全国各级各类地震应急预案近</SPAN><SPAN>50</SPAN><SPAN>万件。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>——</SPAN><SPAN>地震应急救援队伍发展迅速，全国有</SPAN><SPAN>1</SPAN><SPAN>支国家地震救援队、</SPAN><SPAN>76</SPAN><SPAN>支省级救援队，总人数在</SPAN><SPAN>1.6</SPAN><SPAN>万人以上。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>——</SPAN><SPAN>2002</SPAN><SPAN>年建成首个应急避难场所以来，全国建成各类地震应急避难场所近</SPAN><SPAN>6000</SPAN><SPAN>个，总面积</SPAN><SPAN>36000</SPAN><SPAN>多万平方米。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>——</SPAN><SPAN>不断加强救灾帐篷、衣被、应急通信、应急运输、医疗卫生资源等应急物资储备，初步建立了国家、省、市、县四级储备网络体系。</SPAN></P>
+<P align=left><SPAN>　　</SPAN><SPAN>——</SPAN><SPAN>全社会的防灾减灾意识不断提升。各地广泛开展地震应急疏散演练，开展防震减灾、应急避险、自救互救知识宣传</SPAN><SPAN>……</SPAN><SPAN>据不完全统计，</SPAN><SPAN>2008</SPAN><SPAN>年以来，全国开展各级各类地震应急演练数十万次。</SPAN></P>
+<P><SPAN>　　</SPAN><SPAN>“</SPAN><SPAN>我们也必须看到，我国应急救援体系还存在着薄弱环节，比如抗震救灾中如何形成统一指挥、信息共享、协同行动、联合保障的军地一体联动机制和能力等。</SPAN><SPAN>”</SPAN><SPAN>尹光辉表示，下一步将针对大震巨灾、城市和城市群等进行防灾对策研究和应急准备，各级政府应进一步完善工作机制，特别是地震多发区、危重区，要把应急准备与抗震救灾行动有机结合，并不断提高社会公众的防灾减灾意识、知识和技能，形成全社会应对和防范地震灾害的合力。</SPAN></P></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

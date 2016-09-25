@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">全国区域一维速度模型建设及推广使用项目通过验收<span>发布时间：2015-12-16&nbsp;&nbsp;&nbsp;&nbsp;信息来源：监测处</span></div>
+                <p><p>
+	　　通过分析19万个地震260多万条震相数据，由上海市地震局牵头的&ldquo;全国区域一维速度模型建设及推广使用&rdquo;项目建设完成了我国31个省级区域2015地壳速度模型。该项目经过两年的前期研究和两年的计算验证，于今年12月14日通过专家验收，标志着我国各省级测震台网地壳速度模型实现了从无到有的跨越。</p>
+<p>
+	　　根据中国地震局2012年对各省级测震台网的调查结果显示，全国大部分省份没有自己的地壳速度模型，其中多数省级测震台网在速报或编目工作中使用华南模型，与实际地壳结构存在一定差距，很大程度上影响了震源深度的准确测定。</p>
+<p>
+	　　为了解决上述问题，在中国地震局的支持下，2014年由上海市地震局牵头正式启动了&ldquo;全国区域一维速度模型建设及推广使用&rdquo;项目，该项目共有36家单位参与，实际参与的科研人员多达140人。经过各省级地震局的技术测试和为期3个月的试用显示，2015地壳速度模型是在充分考虑台站布局和地震分布情况下的等效平均模型，更符合现阶段测震台网工作的实际需求。目前，项目组使用2015地壳速度模型，结合测定震源速度的确定性方法，完成了各省2009年至2015年的震源深度核实复测工作，并产出优势深度分布图。该项工作对于全国各省级测震台网中心的地震速报和编目工作具有深远的意义。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

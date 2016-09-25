@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>关于转发《关于认真学习贯彻习近平总书记在党的群众路线教育实践活动工作会议上的讲话的通知》的通知</title>
+<LINK href="../../../../../images/chun_styles.css" type='text/css' rel='stylesheet'/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script ignoreapd="1" type="text/javascript" src="../../../../../zhuangtai_164.js"></script>
+
+<script type="text/javascript">
+    <!-- 换cS的jS-->
+ var objs = document.getElementsByTagName("link");
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3];   
+var url = changese(chun,xia,qiu,dong);
+ objs[0].href='../../../../../'+url;
+</script>
+
+
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+
+</head>
+
+<body>
+	<div id="box">
+		
+		<script type="text/javascript">
+function show(div){ 
+   var ids=[163,167,171,176,181,187,191,196,199,206,211,213];   
+           for(i=0;i<ids.length;i++){
+		      var obj   = document.getElementById(ids[i]+"_menu");
+			   obj.style.display='none';
+			  
+		   }    
+      var div1; 
+	  div1  = document.getElementById(div);
+	  
+	
+	  div1.style.display='block';
+	 
+   }
+   function  shut(div){
+      //salert(div);
+       var div  = document.getElementById(div);
+	  div.style.display='none';
+   }
+
+
+</script>
+<div class="top">
+			<div id="logo" class="logo">
+			      
+			</div>
+<script type="text/javascript">
+
+    <!-- 换cS的jS-->
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3]; 
+ var url ; 
+if(chun==1){
+   url="chun.swf";
+}
+if(xia==1){
+   url="xia.swf";
+}
+if(qiu==1){
+   url="qiu.swf";
+}
+if(dong==1){
+   url="dong.swf";
+}
+ url="xia.swf";
+var  value='../../../../../images/'+url;
+var content = "<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'"+ "codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='1000' height='137'>"+
+  "<param value='false' name='menu'/>"+
+     " <param value='opaque' name='wmode'/>"+
+    "<param name='movie' id='movie'  value='"+value+"'/>"+
+   "<param name='quality' value='high' />"+
+    "<embed src='"+value+"'" +"quality='high'"+ "pluginspage='http://www.adobe.com/shockwave/download/download.cgi?"+   "P1_Prod_Version=ShockwaveFlash'"+ 
+"type='application/x-shockwave-flash' width='1000' height='137'></embed>"+
+  "</object>"
+
+var logo = document.getElementById("logo");
+logo.innerHTML=content;
+
+</script>
+
+			<div class="nes">
+				<ul class="u_anes">
+					<li class="u_ali"><a class="a_nes" href="../../../../../">首 页</a><span></span></li>
+					<li class="u_ali" onmouseover="show(this.id+'_menu')"  onmouseout="shut(this.id+'_menu')" id="163" > <a   class="a_nes"   href="../../../../../jcyb/">监测预报</a>				
+					<span>  
+					</span>
+				       <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="163_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jcyb/scjctw/">四川监测台网</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/gcjs/">观测技术</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/ybyj/">预报研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/luntan/">2011年西南及华东南地区青年分析预报人员科技论坛</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  onmouseover="show(this.id+'_menu')" id="167"  ><a     class="a_nes" href="../../../../../zzfy/">震灾防御</a><span></span>
+					
+					     <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="167_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zzfy/zcfg/">政策法规</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/fzjs/">法制建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/kzsf/">抗震设防</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" id="171"  onmouseover="show(this.id+'_menu')" onmouseout="shut(this.id+'_menu')"   ><a  class="a_nes" href="../../../../../yjjy/">应急救援</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="171_menu" >
+					          
+								<li class="treeli"><a href="../../../../../yjjy/jyd/">救援队</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/bncs/">避难场所</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/yjgl/">应急管理</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/flfg/">法律法规</a></li>
+							
+						</ul>
+					</li>
+					<li  class="u_ali" onmouseout="shut(this.id+'_menu')"  id="176"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/">震情速报</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="176_menu" >
+					          
+								<li id="地震目录"   class="treeli"><a href="../../../../zqsb/dzml/">地震目录</a></li>
+							
+								<li id="全球震讯"   class="treeli"><a href="../../../../zqsb/qqzx/">全球震讯</a></li>
+							
+								<li id="震情灾情"   class="treeli"><a href="../../../../zqsb/zqzq/">震情灾情</a></li>
+							
+								<li id="省内近期四级以上地震"   class="treeli"><a href="../../../../zqsb/snsjysdz/">省内近期四级以上地震</a></li>
+							
+						</ul>
+					
+					</li>
+                                         					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="178"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/qqzx/">全球震讯</a><span></span>
+<!--
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="178_menu" >
+					          
+						</ul>
+-->
+					</li>					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="181"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../zhxx/">工作动态</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="181_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zhxx/gg/">公告信息</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/sjgzdt/">省局工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/szgzdt/">市县工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gndt/">国内动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gjdt/">国际动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/yjxx/">预警信息</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="187"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../jgjj/">机构简介</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="187_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgjj/ldjs/">领导介绍</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/znzz/">职能职责</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/nsjg/">内设机构</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="191"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../dzkj/">地震科技</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="191_menu" >
+					          
+								<li class="treeli"><a href="../../../../../dzkj/kjcg/">科技成果</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/jcyj/">基础研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/kjcx/">科技创新</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/zdxm/">重大项目</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali"  onmouseout="shut(this.id+'_menu')"  id="196"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../xzsp/">行政审批</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="196_menu" >
+					          
+								<li class="treeli"><a href="../../../../../xzsp/bszn/">办事指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../xzsp/wsbs/">网上办事</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="199"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../zfxxgk/">政府信息公开</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree02" style="display:none" id="199_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkml/">政府信息公开目录</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkzn/">政府信息公开指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgknb/">政府信息公开年报</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/ysqgk/">依申请公开</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/jdts/">监督投诉</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgg/">公告</a></li>
+							
+						</ul>
+					
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="206"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../kpxc/">科普宣传</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="206_menu" >
+					          
+								<li class="treeli"><a href="../../../../../kpxc/dzzs/">地震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/kzzs/">抗震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/dzkpsp/">地震科普宣传视频点播</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/zddz/">世界重大地震</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="211"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../jgdj/">机关党建</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="211_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgdj/djgz/">党建工作</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/xxyd/">学习园地</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/ddzs/">党的知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/wmjs/">文明建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/qtgz/">群团工作</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="213"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../lzjs/">廉政建设</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="213_menu" >
+					          
+								<li class="treeli"><a href="../../../../../lzjs/gzdt/">工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/jzcm/">警钟长鸣</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lzwh/">廉政文化</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lltt/">理论探讨</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/gzzd/">规章制度</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/sxjs/">三项建设</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" ><a  target="_blank"   class="a_nes" href="http://220.167.54.135:8088/">数据共享</a>
+				
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+		
+		<div class="bmain">
+			<div class="dqxl">
+				<span>当前位置：<a href="../../../../../">首页</a>&gt;&gt;<a href="../../../../">新闻资讯</a>&gt;&gt;<a href="../../../">重要专题</a>&gt;&gt;<a href="../../">深入开展党的群众路线教育实践活动</a>&gt;&gt;<a href="../">重要文件</a></span>
+			</div>
+			<div class="bxltop"><img src="../../../../../images/dz_42.jpg"/></div>
+			<div class="tyxl">
+				<h1 style="font-family:宋体;">关于转发《关于认真学习贯彻习近平总书记在党的群众路线教育实践活动工作会议上的讲话的通知》的通知 </h1>
+<script>
+var futitle='';
+if(futitle.length>0){
+document.write('<br><br><span style="font-family:黑体;font-size:16px;padding-top:15px;">──&nbsp;'+futitle+'</span>');
+}
+</script>
+
+				<div class="title" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '中国地震局领导小组办公室';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2013-07-11 17:15:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2013-07-11 17:15:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2013-07-11 17:15:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2013-07-11 17:15:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xgljdz" id="xiangguandiv">
+					<ul id="xiangguan" >
+					     
+					</ul>
+                                    				</div>
+	                       <script type="text/javascript">
+					   //控制相关文档的显示
+	                                           var  obj = document.getElementById("xiangguan");
+                                                 var div  = document.getElementById("xiangguandiv");  
+						var eles  = obj.childNodes;
+                                                  
+						if(eles.length==0){
+						    div.style.display="none";
+                                                      
+						}
+					
+					</script>
+
+				<div class="xl_box" id="content" >
+				  <div class="spbf"><P align=justify>各省、自治区、直辖市地震局、各直属单位：　<BR>　　现将《关于认真学习贯彻习近平总书记在党的群众路线教育实践活动工作会议上的讲话的通知》（群组发〔2013〕4号）转发给你们，请结合实际，认真贯彻落实。&nbsp;<BR>　<BR>　　　　　　　　　　　　　　　　　　　&nbsp;</P>
+<P align=center>　　&nbsp;<BR>　<BR>　　　　　　　　　　　　　　　　　　中国地震局党的群众路线教育实践&nbsp;<BR>　　　　　　　　　　　　　　　　　　　　活动领导小组办公室&nbsp;<BR>　　　　　　　　　　　　　　　　　　　&nbsp;2013年7月1日&nbsp;</P>
+<P align=center>&nbsp;</P>
+<P align=center><BR>&nbsp;<STRONG><FONT size=5 face=仿宋_GB2312> 关于认真学习贯彻习近平总书记</FONT></STRONG></P>
+<P style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 22px"><SPAN style="FONT-FAMILY: 仿宋_GB2312"><STRONG>　　在党的群众路线教育实践活动</STRONG></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: center"><STRONG><SPAN style="FONT-SIZE: 22px"><SPAN style="FONT-FAMILY: 仿宋_GB2312">　　工作会议上的讲话的通知</SPAN></SPAN></STRONG></P>
+<P style="TEXT-ALIGN: center"><STRONG><SPAN style="FONT-SIZE: 22px"><SPAN style="FONT-FAMILY: 仿宋_GB2312"></SPAN></SPAN></STRONG>&nbsp;</P>
+<P style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 22px"><SPAN style="FONT-FAMILY: 仿宋_GB2312">　　</SPAN><SPAN style="FONT-SIZE: 16px"><SPAN style="FONT-FAMILY: 楷体_GB2312"><SPAN>中央党的群众路线教育实践活动领导小组　&nbsp;</SPAN></SPAN></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 16px"><SPAN style="FONT-FAMILY: 楷体_GB2312">　　二○一三年六月二十一日</SPAN></SPAN></P>
+<P style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 16px"><SPAN style="FONT-FAMILY: 楷体_GB2312"></SPAN></SPAN>&nbsp;</P>
+<P>各省、自治区、直辖市党委教育实践活动领导小组,各副省级城市党委教育实践活动领导小组,中央和国家机关各部委、各人民团体教育实践活动领导小组,新疆生产建设兵团党委教育实践活动领导小组,各中管金融企业党委,部分国有重要骨干企业党组(党委),部分高等学校党委:</P>
+<P>　　6月18日,习近平总书记出席党的群众路线教育实践活动工作会议并发表重要讲话,对全党开展教育实践活动进行动员部署。习近平总书记的重要讲话,是深入开展党的群众路线教育实践活动的基本遵循和纲领性文件。现就认真学习贯彻习近平总书记重要讲话(以下简称《讲话》)精神通知如下:</P>
+<P>　　<STRONG>一、深刻认识《讲话》的重要意义</STRONG></P>
+<P>　　习近平总书记的重要讲话,从贯彻党的十八大精神、坚持和发展中国特色社会主义的高度,从实现党的执政使命、奋斗目标的高度,深刻论述了开展群众路线教育实践活动的现实必要性和紧迫性,精辟阐述了教育实践活动的指导思想、目标要求和重点任务。《讲话》总揽全局、立意高远,通篇贯穿着马克思主义的群众观,反映了我们党适应时代发展要求、保持先进性纯洁性的高度自觉,体现了党要管党、从严治党的坚定决心,具有很强的政治性、指导性、针对性,对于深入开展教育实践活动,有力促进党的作风建设,对于增强党的创造力凝聚力战斗力,更好地带领人民全面建成小康社会、推进社会主义现代化,具有重大而深远的意义。</P>
+<P>　　各级党组织和广大党员、干部,特别是县处级以上领导机关、领导班子和领导干部,要把认真学习贯彻《讲话》作为当前的一项重要政治任务,自觉把思想和行动统一到《讲话》精神上来,统一到中央决策部署上来。要深刻认识开展教育实践活动是实现党的十八大确定的奋斗目标的必然要求,是保持党的先进性纯洁性、巩固党的执政基础和执政地位的必然要求,是解决群众反映强烈的突出问题的必然要求。要切实增强贯彻群众路线、改进工作作风的自觉性坚定性,有针对性地解决好模糊认识、思想障碍,积极投身教育实践活动,以实际行动密切党群干群关系,确保取得群众满意的成效。</P>
+<P>　　<STRONG>二、认真领会把握《讲话》的主要内容和精神实质</STRONG></P>
+<P>　　要把学习《讲话》与学习党章和党的十八大报告,学习中央《关于在全党深入开展党的群众路线教育实践活动的意见》(中发〔2013〕4号)结合起来,着重把握以下几个方面。</P>
+<P>　　一是准确把握教育实践活动的目标任务。《讲话》强调,&nbsp;这次教育实践活动要着力解决“四风”问题,坚决反对形式主义、官僚主义、享乐主义和奢靡之风。《讲话》不仅对聚焦“四风”问题的重要性、必要性作了全面阐述,而且对“四风”问题的种种表现作了详尽的列举、透彻的剖析和刻画,鞭辟入里、振聋发馈。各级党组织和广大党员、干部要深刻认识“四风”&nbsp;问题的严重性、危害性,深刻认识解决“四风”问题的重要性、紧迫性,紧密联系各自实际,认真查找“四风”方面存在的突出问题,深刻剖析根源,拿出可行办法,坚持什么问题突出就着重解决什么问题,什么问题紧迫就抓紧解决什么问题,以解决问题的实际成效取信于民。</P>
+<P>　　二是准确把握教育实践活动的总要求。《讲话》提出,这次教育实践活动的总要求是“照镜子、正衣冠、洗洗澡、治治病”,概括起来就是要自我净化、自我完善、自我革新、自我提高,自觉把党性修养正一正、把党员义务理一理、把党纪国法紧一紧。各级党组织要系统理解、准确把握总要求的丰富内涵,把总要求贯穿落实到教育实践活动的全过程、各环节,并随着活动的进展而不断深化。要敢于直面和勇于解决党内存在的突出问题,对作风方面存在问题的党员、干部进行教育提醒,对问题严重的进行查处,对与民争利、损害群众利益的不正之风和突出问题进行专项治理。要从现在做起、从我做起、从领导带头做起,说到做到、马上就改,让人民群众看到实实在在的变化。</P>
+<P>　　三是准确把握以整风精神开展批评和自我批评。《讲话》要求,这次教育实践活动,要切实体现整风精神,在批评和自我批评上好好下一番功夫。各级党组织要引导党员、干部拿起批评和自我批评的武器,开展积极健康的思想斗争,敢于揭短亮丑,既深刻剖析和检查自己,又开展诚恳的相互批评,真正触及思想和灵魂,达到“团结一批评一团结”的目的。要坚持开门搞活动,每个环节都组织群众有序参与,让群众监督和评议。</P>
+<P>　　四是准确把握坚持领导带头。《讲话》提出,这次教育实践活动要以县处级以上领导机关、领导班子、领导干部为重点。中央政治局带头开展教育实践活动,为全党作出了示范和表率。各级领导干部特别是主要领导干部既是活动的组织者、推进者、监督者,更是活动的参与者,要带头开展教育实践活动,以普通党员身份把自己摆进去,力争认识高一层、学习深一步、实践先一着、剖析解决突出问题好一筹,要求别人做到的自己首先做到,要求别人不做的自己坚决不做。要坚持上级带下级、主要领导带班子成员、领导干部带一般干部,形成一级抓一级、层层抓落实的工作格局。</P>
+<P>　　五是准确把握注重建立长效机制。《讲话》指出,作风问题具有反复性和顽固性,必须经常抓、长期抓;强调要高度重视制度建设,建立健全促进党员、干部坚持为民务实清廉的长效机制。各级党组织要坚持把制度建设贯穿教育实践活动始终,注意把中央要求、实际需要和新鲜经验结合起来,制定新的制度,完善已有的制度,废止不适用的制度。要从活动一开始就注意研究出台加强作风建设的具体制度和规定,为反对“四风”提供政策依据。要坚持制度面前人人平等、执行制度没有例外,强化制度执行力,用严明的制度、严格的执行、严密的监督,促进作风建设的常态化长效化。</P>
+<P>　　<STRONG>三、切实把《讲话》精神落实到教育实践活动各个环节、各项工作中</STRONG></P>
+<P>　　目前,全党的教育实践活动已经正式启动。各地区各部门各单位要按照《讲话》要求,精心准备、周密安排,及时启动第一批教育实践活动,以好的作风推动教育实践活动健康有序开展。</P>
+<P>　　1、抓紧制定实施方案。《讲话》强调,要深入调查研究,&nbsp;制定切实可行的实施方案。各级党委(党组)要把调查研究工作做深做细,在广泛听取党员、干部和群众意见的基础上,&nbsp;研究制定体现中央精神、符合自身实际的实施方案。要针对机关、企事业单位和基层的不同情况,找准抓住领导班子和党员、干部“四风”方面的突出问题,设定明确目标,提出推进措施。要统筹安排每个批次、每个环节的工作重点和工作进度,&nbsp;使整个活动衔接紧凑、推进有序。</P>
+<P>　　2、及时进行工作部署。《讲话》提出,这次教育实践活动时间紧、任务重、要求高,务必抓紧抓好抓实。各级党委(党组)要认真做好启动教育实践活动的有关工作,召开工作会议进行动员部署。要抓紧组建督导组,抽调党性强、作风正、经验丰富的同志担任组长,并搞好业务培训。要从一开始就坚持高标准、严要求,确保教育实践活动有一个良好的开局。</P>
+<P>　　3、扎实推进三个环节工作。《讲话》要求,抓好教育实践活动,要遵循基本方法步骤,完成规定动作。各级党组织要认真贯彻中央的原则要求,紧紧抓住三个重要环节,确保教育实践活动扎实推进、不走过场。在学习教育、听取意见环节,要把加强理论武装摆在第一位;在查摆问题、开展批评环节,要体现整风精神,组织开好一次高质量的专题民主生活会;在整改落实、建章立制环节,要落实正风肃纪的各项措施和制度规定。要鼓励探索创造,在规定动作做到位的同时,结合自身实际,把自选动作做精彩。</P>
+<P>　　4、切实加强组织领导。《讲话》强调,各级党委(党组)是抓好本地区本部门本单位教育实践活动的责任主体,要明确责任职责,主要领导亲自抓。各级党委(党组)要高度重视、认真负责,把活动摆上重要议事日程,精心组织,加强、分类指导和督导,不折不扣落实中央部署和要求。要抓紧成立教育实践活动领导机构和工作机构,积极开展工作。纪检机关要从一开始就介入,认真抓好正风肃纪各项措施的制定和落实;&nbsp;组织部门要加强沟通、注重协调,做好组织指导工作;宣传部门要加强宣传和舆论引导,营造良好氛围。领导小组成员单位要认真履行职责,积极配合,形成工作合力。要力戒形式主义,不搞文山会海,不滥发资料简报,不搞层层检查评比。要把开展教育实践活动同做好当前改革发展稳定各项工作紧密结合起来,同完成本地区本部门本单位各项任务紧密结合起来,统筹兼顾、合理安排,做到两手抓、两促进。</P>
+<P>　　在第一批教育实践活动期间,第二批教育实践活动单位不要等待观望,要认真学习贯彻《讲话》精神,切实提高思想认识;要按照中央八项规定要求,该改的马上改,该做的马上做;要结合实际抓紧调查研究,广泛听取意见,为开展教育实践活动做好准备。</P>
+<P>　　各地区各部门各单位学习贯彻《讲话》精神的情况,要及时报中央党的群众路线教育实践活动领导小组办公室。</P></div><br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+    			</div>
+			</div>
+			<div class="bxlbottom"><img src="../../../../../images/dz_44.jpg"/></div>
+		</div>
+		<div class="foot">
+
+
+			版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号<br />
+
+<a href="http://10.51.0.225:8080/wcm" target="_blank">网站管理</a>     <a target="_blank" href="http://mail.eqsc.gov.cn/">邮件登陆</a>     <a target='_blank' href="../../../../../wzdh/">网站地图</a>     <a href="../../../../../lxwm/" target="_blank">联系我们</a>
+		</div>
+		
+	</div>
+	
+</body>
+</html>

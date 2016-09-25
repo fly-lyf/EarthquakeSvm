@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" class="now" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/hybz/index.html" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">国家法律法规</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">国家标准委批准《中国地震动参数区划图》国家标准第2号修改单<span>发布时间：2015-09-08</span></div>
+                <p><br />
+<p>
+	&nbsp;&nbsp;&nbsp; 青海玉树7.1级地震发生后，中国地震局按照《中华人民共和国防震减灾法》的相关规定，组织全国地震区划图编制委员会对灾区地震动参数开展了专门研究。<br />
+	<br />
+	&nbsp;&nbsp;&nbsp; 编委会在前期工作的基础上，进一步对青海玉树地震的发震构造、地震活动特征和震害特征开展了深入研究，并结合地震现场工作队的科学考察，通过分析计算给出了灾区范围内的地震动参数，编制了1:100万《青海、四川部分地区地震动峰值加速度区划图》和《青海、四川部分地区地震动反应谱特征周期区划图》。<br />
+	<br />
+	&nbsp;&nbsp;&nbsp; 该研究结果已于2010年5月7日通过了全国地震标准化技术委员会和国家地震安全性评定委员会的联合审查，并作为《中国地震动参数区划图》国家标准的修改内容，由中国地震局报请国家标准化管理委员会批准发布。<br />
+	<br />
+	&nbsp;&nbsp;&nbsp; 为了配合青海玉树地震灾区的恢复重建，国家标准化管理委员会启动了国家标准制修订快速程序，于2010年5月10日迅速批准了GB 18306&mdash;2001《中国地震动参数区划图》国家标准第2号修改单，作为编制灾区恢复重建规划、灾区恢复重建，以及今后该区域一般建设工程抗震设防要求管理的依据。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

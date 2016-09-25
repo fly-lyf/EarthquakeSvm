@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <title>深入学习贯彻《四川省防震减灾条列》</title>
+    <link href="../../../images/jztl_fzjz.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <div class="center">
+        <div class="head">
+        </div>
+        <div class="content wrap_news">
+            <!--Flash图片滚动-->
+            <div class="flash">
+                <span id="focusViewer"></span>
+                <script src="../../../images/lhflash_1.js" type="text/javascript" language="javascript">
+                </script>
+                <script type="text/javascript" language="javascript">
+		var focus_width = 338;
+		var focus_height = 254;
+		var text_height = 24;
+		var swf_height = focus_height + text_height;
+		var curhref = document.location.href;
+
+		var pic = new Array();
+		var linka = new Array();
+		var text = new Array();
+		
+		
+		pic.push('../../fzjzyw/201207/W020120717490739442486.jpg');
+		linka.push('../../fzjzyw/201207/t20120717_23555.html');
+		text.push('四川省地震局组织召开《四川省防震减灾条例》贯彻落实...');
+		
+		pic.push('../../fzjzyw/201207/W020120718627768039294.jpg');
+		linka.push('../../fzjzyw/201207/t20120710_23493.html');
+		text.push('四川省人大常委会调研组到雅安市调研防震减灾工作');
+		
+		pic.push('../../fzjzyw/201207/W020120718626696166227.jpg');
+		linka.push('../../fzjzyw/201207/t20120717_23552.html');
+		text.push('四川省人大常委会调研成都市防震减灾法律法规贯彻实施情况');
+		
+		pic.push('../../fzjzyw/201206/W020120711611803786878.jpg');
+		linka.push('../../fzjzyw/201206/t20120601_22829.html');
+		text.push('《四川省防震减灾条例》新闻发布会在蓉举行');
+			
+		var pics = pic.join('|');
+		var links = linka.join('|');
+		var texts = text.join('|');					
+
+		var FocusFlash = new sinaFlash("../../../images/pixviewer.swf", "focusflash", focus_width, swf_height, "7", "#FFFFFF", false, "High");
+		FocusFlash.addParam("allowScriptAccess", "sameDomain");
+		FocusFlash.addParam("menu", "false");
+		FocusFlash.addParam("wmode", "opaque");
+		FocusFlash.addVariable("pics", pics);
+		FocusFlash.addVariable("links", links);
+		FocusFlash.addVariable("texts", texts);
+		FocusFlash.addVariable("borderwidth", focus_width);
+		FocusFlash.addVariable("borderheight", focus_height);
+		FocusFlash.addVariable("textheight", text_height);
+		FocusFlash.addVariable("curhref", curhref);
+		FocusFlash.write("focusViewer");
+                </script>
+            </div>
+            <div class="item">
+                <div class="tab">
+                    <ul>
+                        <li >
+                           <strong class='title' style="font-weight:bold;"> 动态信息</strong>
+                        </li>
+                    </ul>
+
+                    <span><a href="./dtxx/" class="more" target="_blank">更多信息&gt;&gt;</a></span>
+ 
+                </div>
+                <div class="tabBox">
+                    <ul class="listNews">
+                        
+                            <li>
+                                <a href="../../sxgz/201211/t20121128_24450.html" title="雅安市天全县组织召开2012年度防震减灾工作总结暨《四川省防震减灾条例》培训会" target="_blank">雅安市天全县组织召开2012年度防震减灾工作总结暨《四川省防...</a></li>
+                        
+                            <li>
+                                <a href="./dtxx/201207/t20120717_23555.html" title="四川省地震局组织召开《四川省防震减灾条例》贯彻落实研讨会" target="_blank">四川省地震局组织召开《四川省防震减灾条例》贯彻落实研讨会</a></li>
+                        
+                            <li>
+                                <a href="./dtxx/201207/t20120710_23493.html" title="四川省人大常委会调研组到雅安市调研防震减灾工作" target="_blank">四川省人大常委会调研组到雅安市调研防震减灾工作</a></li>
+                        
+                            <li>
+                                <a href="./dtxx/201207/t20120717_23552.html" title="四川省人大常委会调研成都市防震减灾法律法规贯彻实施情况" target="_blank">四川省人大常委会调研成都市防震减灾法律法规贯彻实施情况</a></li>
+                        
+                            <li>
+                                <a href="./dtxx/201207/t20120705_23465.html" title="四川省人大调研组赴德阳市开展防震减灾法律法规贯彻实施情况调研" target="_blank">四川省人大调研组赴德阳市开展防震减灾法律法规贯彻实施情况...</a></li>
+                        
+                            <li>
+                                <a href="./dtxx/201206/t20120601_22829.html" title="《四川省防震减灾条例》新闻发布会在蓉举行" target="_blank">《四川省防震减灾条例》新闻发布会在蓉举行</a></li>
+                        
+                            <li>
+                                <a href="./dtxx/201206/t20120601_22828.html" title="四川省十一届人大常委会第三十次会议审议通过《四川省防震减灾条例》" target="_blank">四川省十一届人大常委会第三十次会议审议通过《四川省防震减...</a></li>
+                        
+                            <li>
+                                <a href="./dtxx/201206/t20120601_22826.html" title="四川省十一届人大常委会第三十次会议第三次审议《四川省防震减灾条例修订草案》" target="_blank">四川省十一届人大常委会第三十次会议第三次审议《四川省防震...</a></li>
+                        
+                    </ul>
+					
+                </div>
+            </div>
+
+            <div class="focus">
+                <div class="notice">
+                    <div class="title">
+                        <p>
+                            四川省第十一届人民代表大会</p>
+                        <p>
+                            常务委员会公告（第71号）</p>
+                    </div>
+                    <div class="detail">
+                        <p class="a">
+                            《四川省防震减灾条例》（NO：SC081063）已由四川省第十一届人民代表大会常务委员会第三十次会议于2012年5月31日修订通过，现予公布，自
+
+2012年10月1日起实施。</p>
+                        <p class="b">
+                            四川省人民代表大会常务委员会</p>
+                        <p class="b">
+                            2012年5月31日</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content wrap_news">
+            <div class="news">
+                <div class="tab">
+                    <ul>
+                        <li>
+						 <strong class='title' style="font-weight:bold;">政策法规</strong></li>
+                    </ul>
+                    <span><a href="../../../zzfy/zcfg/"
+                        class="more" target="_blank">更多信息&gt;&gt;</a></span>
+                </div>
+                <div class="tabBox">
+                    <ul class="listNews">
+                        
+                            <li>
+                                <a href="../../../zzfy/zcfg/dffg/201302/t20130228_25052.html" title="四川省凉山州政府审议通过《凉山州建设工程抗震设防要求管理办法》" target="_blank">四川省凉山州政府审议通过《凉山州建设工程抗震设防...</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="../../../zzfy/zcfg/gjfg/201209/t20120924_23953.html" title="地震安全性评价工程师执业管理办法（试行）" target="_blank">地震安全性评价工程师执业管理办法（试行）</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="../../../zzfy/zcfg/xggz/201209/t20120924_23952.html" title="关于印发《地震安全性评价工程师执业管理办法（试行）》的通知" target="_blank">关于印发《地震安全性评价工程师执业管理办法（试行...</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="../../../zzfy/zcfg/xggz/201209/t20120924_23951.html" title="关于印发《地震安全性评价工程师继续教育管理办法（试行）》的通知" target="_blank">关于印发《地震安全性评价工程师继续教育管理办法（...</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="../../../zzfy/zcfg/gjfg/201209/t20120924_23950.html" title="地震安全性评价工程师继续教育管理办法（试行）" target="_blank">地震安全性评价工程师继续教育管理办法（试行）</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="../../../zzfy/zcfg/gjfg/201207/t20120719_23567.html" title="四川省防震减灾条例" target="_blank">四川省防震减灾条例</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="../../../zzfy/zcfg/gjfg/201012/t20101229_17214.html" title="新修订的《中华人民共和国防震减灾法》" target="_blank">新修订的《中华人民共和国防震减灾法》</a> 
+                            </li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="item">
+                <div class="tab">
+                    <ul>
+                        <li >
+						<strong class='title' style="font-weight:bold;">贯彻活动</strong></li>
+                    </ul>
+                    <span><a href="./gchd/"
+                        class="more" target="_blank">更多信息&gt;&gt;</a></span>
+                </div>
+                <div class="tabBox">
+                    <ul class="listNews">
+                        
+                            <li>
+                                <a href="../../sxgz/201210/t20121011_24067.html" title="广元市积极开展《四川省防震减灾条例》宣传工作" target="_blank">广元市积极开展《四川省防震减灾条例》宣传工作</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="../../sxgz/201207/t20120726_23622.html" title="德阳市防震减灾局组织学习《四川省防震减灾条例》" target="_blank">德阳市防震减灾局组织学习《四川省防震减灾条例》</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="./gchd/201206/t20120627_23394.html" title="雅安市防震减灾局学习贯彻《四川省防震减灾条例》" target="_blank">雅安市防震减灾局学习贯彻《四川省防震减灾条例》</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="./gchd/201206/t20120627_23400.html" title="雅安市安排部署学习宣传《四川省防震减灾条例》" target="_blank">雅安市安排部署学习宣传《四川省防震减灾条例》</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="./gchd/201207/t20120705_23474.html" title="甘孜州防震减灾局组织学习相关法规" target="_blank">甘孜州防震减灾局组织学习相关法规</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="./gchd/201207/t20120711_23496.html" title="凉山州防震减灾局专题学习《四川省防震减灾条例》" target="_blank">凉山州防震减灾局专题学习《四川省防震减灾条例》</a> 
+                            </li>
+                        
+                            <li>
+                                <a href="./gchd/201207/t20120711_23495.html" title="乐山市掀起学习宣传贯彻《四川省防震减灾条例》热潮" target="_blank">乐山市掀起学习宣传贯彻《四川省防震减灾条例》热潮</a> 
+                            </li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="focus">
+                <div class="talk">
+                    <div class="sub">
+                        <span><a href="./zywjhjh/" target="_blank">重要文件和讲话</a></span>
+                    </div>
+                    <div class="tabBox">
+                        <ul class="listNews_s">
+                            
+                                <li>
+                                    <a href="./zywjhjh/201207/t20120711_23497.html" title="四川省防震减灾条例" target="_blank">四川省防震减灾条例</a> 
+                                </li>
+                            
+                        </ul>
+                   </div>
+                </div>
+                <div class="talk">
+                    <div class="sub">
+                        <span><a href="./mtgz/" target="_blank">媒体关注</a></span>
+                    </div>
+                    <div class="tabBox">
+                        <ul class="listNews_s">
+                            
+                                <li>
+                                    <a href="./mtgz/201207/t20120711_23502.html" title="成都全搜索：四川防震减灾新规 擅拆援建项目依法追责" target="_blank">成都全搜索：四川防震减灾新规 擅拆...</a> 
+                                </li>
+                            
+                                <li>
+                                    <a href="./mtgz/201207/t20120711_23501.html" title="中新社：四川规定擅拆捐建援建工程项目或将负法律责任" target="_blank">中新社：四川规定擅拆捐建援建工程...</a> 
+                                </li>
+                            
+                                <li>
+                                    <a href="./mtgz/201207/t20120711_23500.html" title="天府早报：四川防震减灾条例：擅自改变捐建援建项目用途将追责" target="_blank">天府早报：四川防震减灾条例：擅自...</a> 
+                                </li>
+                            
+                                <li>
+                                    <a href="./mtgz/201207/t20120711_23499.html" title="华西都市报：修订后的《四川省防震减灾条例》10月1日起施行" target="_blank">华西都市报：修订后的《四川省防震...</a> 
+                                </li>
+                            
+                                <li>
+                                    <a href="./mtgz/201207/t20120711_23498.html" title="四川日报：修订后的《四川省防震减灾条例》10月1日起施行" target="_blank">四川日报：修订后的《四川省防震减...</a> 
+                                </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="poster">
+        </div>
+        <div class="footer">
+           <div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+         </div>
+    </div>
+</body>
+</html>

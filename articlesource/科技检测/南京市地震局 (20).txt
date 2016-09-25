@@ -1,0 +1,483 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../images/style(2).css">
+<SCRIPT src="../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17860/" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17874';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>科技监测</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>监测手段</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>南京市2015年度震情监视和短临跟踪工作方案</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2015-03-10</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_3217396"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=3217396"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <div class=TRS_Editor><p style="text-indent: 63.25pt" class="MsoNormal">　　<b><span style="font-family: 宋体; font-size: 18pt">南京市</span></b><b><span style="font-size: 18pt" lang="EN-US">2015</span></b><b><span style="font-family: 宋体; font-size: 18pt">年度震情监视和短临跟踪</span></b>&nbsp;</p><p style="text-indent: 162.65pt" class="MsoNormal">　　<b><span style="font-family: 宋体; font-size: 18pt">工</span></b><b><span style="font-size: 18pt"> </span></b><b><span style="font-family: 宋体; font-size: 18pt">作</span></b><b><span style="font-size: 18pt"> </span></b><b><span style="font-family: 宋体; font-size: 18pt">方</span></b><b><span style="font-size: 18pt"> </span></b><b><span style="font-family: 宋体; font-size: 18pt">案</span></b>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">根据江苏省地震局《关于印发江苏省</span><span style="font-size: 14pt" lang="EN-US">2015</span><span style="font-family: 宋体; font-size: 14pt">年度震情监视和短临跟踪工作方案的通知》（苏震发</span><span style="font-size: 14pt" lang="EN-US">[2015] 8</span><span style="font-family: 宋体; font-size: 14pt">号）的要求，结合全市实际，制定本方案。</span>&nbsp;</p><p class="MsoNormal">　　<b><span style="font-size: 14pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp; </span></span></b><b><span style="font-family: 宋体; font-size: 14pt">一、指导思想</span></b>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">高度重视我市当前震情形势的严峻性和复杂性，强化“震情第一”观念，按照突出重点、立即行动、积极推进的要求，扎实做好全市</span><span style="font-size: 14pt" lang="EN-US">2015</span><span style="font-family: 宋体; font-size: 14pt">年度震情监视和短临跟踪工作，为我市国民经济建设和社会稳定服务。</span>&nbsp;</p><p class="MsoNormal">　　<b><span style="font-size: 14pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp; </span></span></b><b><span style="font-family: 宋体; font-size: 14pt">二、总体要求</span></b>&nbsp;</p><p class="MsoNormal">　　<span style="font-size: 14pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">针对当前复杂、严峻的震情形势，市、区地震部门要牢固树立“震情第一”的观念，进一步强化全市震情监视和短临跟踪工作，努力增强社会服务意识和能力，积极配合各级政府部门做好重要时段的震情监视和突发事件的应对工作，力争在破坏性地震发生前，做出有一定减灾实效的地震预测预报，为政府应急决策提供科学依据。</span>&nbsp;</p><p style="text-indent: 27.55pt" class="MsoNormal">　　<b><span style="font-family: 宋体; font-size: 14pt">三、组织领导</span></b>&nbsp;</p><p style="text-indent: 27.45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">市地震局成立</span><span style="font-size: 14pt" lang="EN-US">2015</span><span style="font-family: 宋体; font-size: 14pt">年度震情应急工作领导小组（以下简称“领导小组”），全面负责全市年度震情监视和应急保障工作，领导小组下设震情跟踪工作执行小组（以下简称“执行小组”）。</span><b><span style="font-size: 14pt" lang="EN-US"> </span></b>&nbsp;</p><p style="text-indent: 27.45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（一）</span><span style="font-size: 14pt"> </span><span style="font-family: 宋体; font-size: 14pt">领导小组：</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">组</span><span style="font-size: 14pt" lang="EN-US"><span>&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">长：蔡</span><span style="font-size: 14pt" lang="EN-US"><span>&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">艺</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">副组长：吴</span><span style="font-size: 14pt" lang="EN-US"><span>&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">东</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-size: 14pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">赵</span><span style="font-size: 14pt" lang="EN-US"><span>&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">兵</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-size: 14pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">王金宝</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">成</span><span style="font-size: 14pt" lang="EN-US"><span>&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">员：科技监测处、震害防御处（应急救援处）、办公室有关人员及区（县）地震部门主要负责人。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（二）</span><span style="font-size: 14pt"> </span><span style="font-family: 宋体; font-size: 14pt">执行小组：</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">组</span><span style="font-size: 14pt" lang="EN-US"><span>&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">长：赵</span><span style="font-size: 14pt" lang="EN-US"><span>&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">兵</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">副组长：王金宝</span><span style="font-size: 14pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp; </span></span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">成</span><span style="font-size: 14pt" lang="EN-US"><span>&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">员：科技监测处、预警中心</span><span style="font-size: 14pt" lang="EN-US">5</span><span style="font-family: 宋体; font-size: 14pt">名（郑建华、吴帆、史凯、侯跃伟、樊晓春）、应急救援处</span><span style="font-size: 14pt" lang="EN-US">3</span><span style="font-family: 宋体; font-size: 14pt">名（褚红兵、沈雁鸿、刘戎）、办公室</span><span style="font-size: 14pt" lang="EN-US">2</span><span style="font-family: 宋体; font-size: 14pt">名（曹天书、孙青），五区地震办公室领导各</span><span style="font-size: 14pt" lang="EN-US">1</span><span style="font-family: 宋体; font-size: 14pt">名（郑海峰、章利春、赵庆福、张志远、毕涛）。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">领导小组及执行小组日常工作由科技监测处承担。</span>&nbsp;</p><p style="text-indent: 27.55pt" class="MsoNormal">　　<b><span style="font-family: 宋体; font-size: 14pt">四、工作安排</span></b>&nbsp;</p><p style="text-indent: 27.45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（一）建立促进全市</span><span style="font-size: 14pt" lang="EN-US">2015</span><span style="font-family: 宋体; font-size: 14pt">年度震情监视和短临跟踪工作的组织机制，进一步强化震情监视工作的管理。实行单位一把手负责制，明确工作职责。</span>&nbsp;</p><p style="text-indent: 27.45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（二）将茅山断裂带及我市邻近地区作为我市震情监视和短临跟踪工作的重点区域，着重开展震情监视和预测研究，同时密切关注鲁南至苏皖交界中部（江苏部分）重点强化短临跟踪区（简称强化区）的地震活动。</span>&nbsp;</p><p style="text-indent: 27.45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（三）进一步明确和细化短临跟踪判断指标体系，切实做好全市观测资料数据报送、日常分析预报、短临跟踪、异常落实和上报等工作。</span>&nbsp;</p><p style="text-indent: 21pt" class="MsoNormal">　　<span style="font-size: 14pt" lang="EN-US"><span>&nbsp;</span></span><span style="font-family: 宋体; font-size: 14pt">（四）认真做好震情分析会商工作。加强日常震情分析会商，将每月会商意见及时报省地震预报研究中心，遇有紧急情况和突发震情，及时召开震情会商会。</span><span style="font-size: 14pt" lang="EN-US">2015</span><span style="font-family: 宋体; font-size: 14pt">年</span><span style="font-size: 14pt" lang="EN-US">5</span><span style="font-family: 宋体; font-size: 14pt">月、</span><span style="font-size: 14pt" lang="EN-US">10</span><span style="font-family: 宋体; font-size: 14pt">月分别召开全市下半年和</span><span style="font-size: 14pt" lang="EN-US">2016</span><span style="font-family: 宋体; font-size: 14pt">年度地震趋势会商会。全力做好节假日期间、重大活动和重要时段的震情监视和保障工作，力争在破坏性地震发生前，做出有一定减灾实效的短临预报。</span>&nbsp;</p><p style="text-indent: 27.45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（五）做好全市地震监测台网日常观测工作，严格执行台网值班制度，要充分利用已建成的数字地震台网（站）、数字前兆台网（站）、烈度速报台网、宏观观测点网以及地震信息网络系统，进一步提高地震监测能力和分析预报水平。市地震局每半年将对各台站观测仪器和观测环境进行一次全面检查，各区地震办公室每月上旬要对所负责的台网（站）仪器设备和观测资料进行详细检查，</span><span style="font-family: 宋体; font-size: 14pt">确保仪器设备无故障率和观测资料连续率达到<span lang="EN-US">98%</span>以上，要把提高地震观测资料质量作为工作重点。</span>&nbsp;</p><p style="text-indent: 27.45pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（六）加强地震台观测环境保护力度和台网加密工程建设。</span><span style="font-family: 宋体; font-size: 14pt">各区地震办公室，要认真贯彻执行宁震<span lang="EN-US">[2012]20</span>号文相关保护规定，落实好地震观测环境保护工作。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（七）加强对地震预报方法和技术方面的业务培训，适时开展地震演练，积极开展科普宣传，加强灾情速报员培训工作，建立健全“三网一员”组织机制，确保震后应急工作有效进行。</span>&nbsp;</p><p style="text-indent: 27.85pt" class="MsoNormal">　　<b><span style="font-family: 宋体; font-size: 14pt">五、工作要求</span></b>&nbsp;</p><p style="text-indent: 27.7pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（一）领导小组负责部署震情应急工作，定期检查或抽查各处室、各区地办震情监视工作的执行情况，发现问题及时提出改进意见，每季度听取一次执行小组震情跟踪工作情况汇报，遇有震情发生或地震突发事件，随时听取汇报，并提出调整和部署震情跟踪有关工作计划和任务；解决和协调震情跟踪工作中的困难和问题，确保全市震情跟踪各项工作正常进行。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（二）科技监测处根据领导小组意见，做好年度全市震情跟踪实施计划的制订，并协助领导小组组织实施、督促检查；加强与省地震局、南京都市圈防震减灾区域联防成员单位的联系，视震情发展趋势及时汇报和沟通震情最新动态；督促各区震情跟踪工作计划的落实，发现问题，及时纠正，对震情跟踪工作中应需解决的实际问题，向领导小组提出建议。</span>&nbsp;</p><p style="text-indent: 30.8pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（三）科技监测处（执行小组）要结合本地区地震短临预报指标，认真做好节假日期间、重大活动和重要时段的震情监视和保障工作。加强对我市茅山断裂带及异常突发地区地震活动规律和构造的研究，对出现的重大异常情况要立即组织调查落实，确认异常是否为临震异常。加强日常震情分析会商，进一步加强数字地震观测资料和震例总结分析研究，密切跟踪重点测项出现典型震例变化图形或出现显著变化，主要有：江宁多极距地电阻率、分量应变、地倾斜、苏</span><span style="font-size: 14pt" lang="EN-US">15</span><span style="font-family: 宋体; font-size: 14pt">井水位、水温和高淳分量应变等测项。密切跟踪省局的异常分析结果及预测结论，以进一步提高我局分析预测结论的科学性、准确性。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">针对近年来中等地震前后全市数字前兆的变化，明确细化短临判别指标体系，为未来前兆异常变化的判别提供帮助。本市及附近地区发生有感及以上地震或邻省（市）发生有感及以上地震并对我市造成影响的，必须立即进行紧急会商，在规定的时间内提出震后趋势判定意见。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（四）市数字地震台网中心要做好数字测震台及数字前兆台仪器的日常维护、保养、标定工作，做好网络维护、保养，保证运行正常。发现问题，及时检修，确保提供连续可靠观测资料，对各类地震观测资料要及时处理入库，保证分析预报使用。要加强地震速报工作，进一步提高速报精度和速度。保证地震信息及时上网、</span><span style="font-family: 宋体; font-size: 14pt">有关值班人员和测项责任人要每天查看和分析观测资料。</span><span style="font-family: 宋体; font-size: 14pt">随时做好架设流动台的准备，保证流动强震台能随时架设并正常工作。</span>&nbsp;</p><p style="text-indent: 23.5pt" class="MsoNormal">　　<span style="font-family: 仿宋_GB2312; font-size: 12pt" lang="EN-US"><span>&nbsp;</span></span><span style="font-family: 宋体; font-size: 14pt">（五）应急救援处要加强对地震现场队伍和“三网一员”人员的业务培训，适时进行应急演练和科普宣传工作；做好应急设备的日常维护和各项准备工作，确保震后应急救援工作的有效进行。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（六）各区地震办主要负责人要亲自抓震情监视工作，明确职责，责任到人；各单位加强日常震情跟踪工作的检查督促，发现问题及时解决，不留隐患；近期要求各区对本台站的仪器运行情况进行一次全面检查，以后每月进行一次全面检查，加强仪器维护和保养，保证仪器正常运行。各单位要严格执行观测规范，按时进行仪器标定，定期保养，发现故障要及时维修，无法修复的仪器要立即上报省监测中心和市局科技监测处并尽快维修，做好维修记录，确保观测资料连续、及时。对出现的突发异常，立即开展调查、核实和跟踪，并及时将有关情况书面报市局科技监测处。各区地震办要完善“三网一员”队伍建设，加强业务指导，发现宏观异常信息及时上报，遇到特殊情况，观测员立即上报区地震办领导。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">（七）地震台网</span><span style="font-family: 宋体; font-size: 14pt">值班人员要坚守岗位，保持高度警惕，做好震情值班工作，确保地震信息快速、准确传递，有感地震发生后要在</span><span style="font-size: 14pt" lang="EN-US">10</span><span style="font-family: 宋体; font-size: 14pt">分钟内将《地震信息专报》上报市政府应急办；要迅速收集震感范围和灾情并上报；凡省内</span><span style="font-size: 14pt" lang="EN-US">M 3.0</span><span style="font-family: 宋体; font-size: 14pt">级以上地震、国内</span><span style="font-size: 14pt" lang="EN-US">M 5.0</span><span style="font-family: 宋体; font-size: 14pt">级以上地震、全球</span><span style="font-size: 14pt" lang="EN-US">M 7.0</span><span style="font-family: 宋体; font-size: 14pt">级以上地震，地震短信息均须发至地震信息发布群组</span><span style="font-family: 宋体; font-size: 14pt">〔</span><span style="font-family: 宋体; font-size: 14pt">全局人员、区地办主任</span><span style="font-family: 宋体; font-size: 14pt">、</span><span style="font-family: 宋体; font-size: 14pt">分管区长、区科技局领导等</span><span style="font-family: 宋体; font-size: 14pt">〕</span><span style="font-family: 宋体; font-size: 14pt">。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">南京市发生有感地震后，工作人员要迅速到岗，按局地震应急处置的规定开展工作。南京市发生</span><span style="font-size: 14pt" lang="EN-US">M 3.5</span><span style="font-family: 宋体; font-size: 14pt">级及以上地震后，各单位每天增加一次前兆测项收数，并联系省地震局共同派出技术人员，赴现场架设流动台，监视震情发展动态。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-family: 宋体; font-size: 14pt">各单位要切实加强震情跟踪工作的领导，强化震情观念，积极探索，大胆实践地震预报新思路、新方法，在破坏性地震发生前，力争做出有一定减灾实效的短临预报。对取得突出成绩的单位和个人，市局将予以奖励；对工作安排不力、疏于职守的单位和个人将根据有关规定予以查处。市地震局将在近期对全市地震监测设备进行上半年的例行检查工作，以后根据震情的发展情况，市局将随时对重点地区的地震短临跟踪工作进行实地检查。</span>&nbsp;</p><p style="line-height: 150%; text-indent: 28pt" class="MsoNormal">　　<span style="line-height: 150%; font-family: 宋体; font-size: 14pt">（八）各区地震办应在本方案基础上，结合实际，进一步量化和细化本单位年度震情跟踪工作的具体工作措施，</span><span style="line-height: 150%; font-family: 宋体; font-size: 14pt">切实做好我市</span><span style="line-height: 150%; font-size: 14pt" lang="EN-US">2015</span><span style="line-height: 150%; font-family: 宋体; font-size: 14pt">年度震情监视、短临跟踪和地震预测工作</span><span style="line-height: 150%; font-family: 宋体; font-size: 14pt">。</span>&nbsp;</p><p style="text-indent: 28pt" class="MsoNormal">　　<span style="font-size: 14pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p class="MsoNormal">　　<span style="font-size: 14pt" lang="EN-US">&nbsp;</span>&nbsp;</p><p class="MsoNormal">　　<span style="font-size: 14pt" lang="EN-US"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: 宋体; font-size: 14pt">二</span><span style="font-size: 14pt" lang="EN-US">O</span><span style="font-family: 宋体; font-size: 14pt">一五年三月二日</span>&nbsp;</p></div>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17874';var __$contentid='3217396';var __$title='南京市2015年度震情监视和短临跟踪工作方案';var __$AuthorPh='';var __$Editor='';var __$Liability='市地震局1';var __$pubtime='2015-03-10 15:46:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

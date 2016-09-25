@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+<div id="skip" class="skip"> </div>
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                <li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                <li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" class="now" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                <li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+               
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>图片新闻</h2>
+            </div>
+            <ul class="listPic">
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai6999.html" title="我局代表队荣获第三届全国地震速报竞赛总决赛三等奖"><img src="/gb/dzj/xwzx/tpxw/images/75.jpg" alt="我局代表队荣获第三届全国地震速报竞赛总决赛三等奖" width="160" height="160"/></a><span>我局代表队荣获第三届...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai6996.html" title="我局召开2016年群团工作会议"><img src="/gb/dzj/xwzx/tpxw/images/74.jpg" alt="我局召开2016年群团工作会议" width="160" height="160"/></a><span>我局召开2016年群...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai6927.html" title="我局举办2015年上海地震系统信息员培训"><img src="/gb/dzj/xwzx/tpxw/images/68.jpg" alt="我局举办2015年上海地震系统信息员培训" width="160" height="160"/></a><span>我局举办2015年上...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai6890.html" title="2015年上海地震紧急救援联合演练举行"><img src="/gb/dzj/xwzx/tpxw/images/69.jpg" alt="2015年上海地震紧急救援联合演练举行" width="160" height="160"/></a><span>2015年上海地震紧...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai6883.html" title="我局召开上海市防震减灾科普示范学校地震科普知识培训"><img src="/gb/dzj/xwzx/tpxw/images/62.jpg" alt="我局召开上海市防震减灾科普示范学校地震科普知识培训" width="160" height="160"/></a><span>我局召开上海市防震减...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai6866.html" title="我局党员参观淞沪抗战纪念馆"><img src="/gb/dzj/xwzx/tpxw/images/61.jpg" alt="我局党员参观淞沪抗战纪念馆" width="160" height="160"/></a><span>我局党员参观淞沪抗战...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai6862.html" title="上海市首次举行地震化救实战演练"><img src="/gb/dzj/xwzx/tpxw/images/59.jpg" alt="上海市首次举行地震化救实战演练" width="160" height="160"/></a><span>上海市首次举行地震化...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai6865.html" title="我局参加2015年度华东地震应急联动协作演练"><img src="/gb/dzj/xwzx/tpxw/images/60.jpg" alt="我局参加2015年度华东地震应急联动协作演练" width="160" height="160"/></a><span>我局参加2015年度...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5549.html" title="晒职责 树公信——上海市地震局举办媒体开放日活动"><img src="/gb/dzj/xwzx/tpxw/images/54.jpg" alt="晒职责 树公信——上海市地震局举办媒体开放日活动" width="160" height="160"/></a><span>晒职责 树公信——上...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5552.html" title="我局与东方医院、武警上海九支队签署张江救援训练基地共建合作备忘录"><img src="/gb/dzj/xwzx/tpxw/images/53.jpg" alt="我局与东方医院、武警上海九支队签署张江救援训练基地共建合作备忘录" width="160" height="160"/></a><span>我局与东方医院、武警...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5545.html" title="中央纪委驻中国地震局纪检组组长张友民赴上海市地震局调研指导工作"><img src="/gb/dzj/xwzx/tpxw/images/52.jpg" alt="中央纪委驻中国地震局纪检组组长张友民赴上海市地震局调研指导工作" width="160" height="160"/></a><span>中央纪委驻中国地震局...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5541.html" title="我局举办地震新闻应对及科普知识宣讲团培训"><img src="/gb/dzj/xwzx/tpxw/images/51.jpg" alt="我局举办地震新闻应对及科普知识宣讲团培训" width="160" height="160"/></a><span>我局举办地震新闻应对...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5534.html" title="欢歌笑语颂党恩 重温誓词迎七一"><img src="/gb/dzj/xwzx/tpxw/images/49.jpg" alt="欢歌笑语颂党恩 重温誓词迎七一" width="160" height="160"/></a><span>欢歌笑语颂党恩 重温...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5533.html" title="严以修身立根本 坚定信念强党性"><img src="/gb/dzj/xwzx/tpxw/images/50.jpg" alt="严以修身立根本 坚定信念强党性" width="160" height="160"/></a><span>严以修身立根本 坚定...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5524.html" title="市科技党委吴信宝书记一行来我局调研"><img src="/gb/dzj/xwzx/tpxw/images/46.jpg" alt="市科技党委吴信宝书记一行来我局调研" width="160" height="160"/></a><span>市科技党委吴信宝书记...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5513.html" title="开展“三严三实”专题教育 树立防震减灾干事创业行为准则"><img src="/gb/dzj/xwzx/tpxw/images/45.jpg" alt="开展“三严三实”专题教育 树立防震减灾干事创业行为准则" width="160" height="160"/></a><span>开展“三严三实”专题...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5501.html" title="“震设人心”首届上海市大学生防震减灾科普作品征集活动正式启动"><img src="/gb/dzj/xwzx/tpxw/images/44.jpg" alt="“震设人心”首届上海市大学生防震减灾科普作品征集活动正式启动" width="160" height="160"/></a><span>“震设人心”首届上海...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5460.html" title="依法履职 常备不懈 协调配合 共同提升防震减灾工作水平"><img src="/gb/dzj/xwzx/tpxw/images/43.jpg" alt="依法履职 常备不懈 协调配合 共同提升防震减灾工作水平" width="160" height="160"/></a><span>依法履职 常备不懈 ...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5439.html" title="2015年上海市防震减灾工作联席会议召开"><img src="/gb/dzj/xwzx/tpxw/images/42.jpg" alt="2015年上海市防震减灾工作联席会议召开" width="160" height="160"/></a><span>2015年上海市防震...</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/tpxw/u1ai5437.html" title="地震专家进校园 安全知识在心间"><img src="/gb/dzj/xwzx/tpxw/images/41.jpg" alt="地震专家进校园 安全知识在心间" width="160" height="160"/></a><span>地震专家进校园 安全...</span></li>
+                
+            </ul>
+            <div class="page">
+            <font color=gray>首页 </font><font color=gray> 上一页 </font><A class=text-1 HREF="/gb\dzj/xwzx/tpxw/index1.html"> 下一页 </A><A  HREF=index17.html> 尾页 </A>
+                <span>第1页&nbsp;共18页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

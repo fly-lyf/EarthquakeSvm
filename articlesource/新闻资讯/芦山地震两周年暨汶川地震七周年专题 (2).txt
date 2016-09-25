@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>芦山地震两周年暨汶川地震七周年专题</title>
+<link rel="stylesheet" type="text/css" href="../../../../images/zn2015_conf_style.css"/>
+<script type="text/javascript" src="../../../../images/currPage.js"></script>
+</head>
+<body>
+<div id="mainWiap">
+  <div class="blankH10" style="height:301px;"></div>
+  <div class="contwiap">
+    <div class="blankH10"></div>
+    <div class="zn_dqwz white">当前位置：<a href="../../../../">首页</a>&gt;<a href="../../../">新闻资讯</a>&gt;<a href="../../">重要专题</a>&gt;<a href="../">芦山地震两周年暨汶川地震七周年专题</a>&gt;<a href="./">媒体聚焦</a></div>
+    <div class="blankH14"></div>
+    <div class="zz_cont3">
+      <div class="contL fl">
+        <!--menu-->
+        <div class="p_menu">
+          <h2 class="f14 white"><a href="./">媒体聚焦</a></h2>
+          <div class="blankH10"></div>
+          <ul>
+          
+          <li>&middot;<a href="../tpyw_20150415/">图片要闻</a></li>
+        
+          <li>&middot;<a href="../zhxx_20150416/">综合信息</a></li>
+        
+          <li>&middot;<a href="../gddt_20150416/">各地动态</a></li>
+        
+          <li>&middot;<a href="./">媒体聚焦</a></li>
+        
+          <li>&middot;<a href="../dzkp_20150416/">地震科普</a></li>
+        
+          <li>&middot;<a href="../spbb_20150416/">视频播报</a></li>
+        
+          <li>&middot;<a href="../tpxw_20150416/">图片新闻</a></li>
+        
+          </ul>
+        </div>
+        <!--menu end-->
+      </div>
+      <div class="contR fr">
+        <!--政策法规-->
+        <div class="i_tyMenu">
+          <h2 class="fl f14"><a href="./">媒体聚焦</a></h2>
+          <p class="clear"></p>
+        </div>
+        <div class="blankH14"></div>
+        <div class="i_list2">
+          <ul>
+           
+          <li><span>[2015-05-13]</span>&middot;<a href="./201505/t20150513_32951.html" target="_blank" title="四川日报：地震预警应用成灌线首批受益">四川日报：地震预警应用成灌线首批受益</a></li>
+         
+          <li><span>[2015-05-13]</span>&middot;<a href="./201505/t20150513_32949.html" target="_blank" title="四川日报：四川地震预警管理暂行办法拟年内出台 地震预警信息发布将有法可依">四川日报：四川地震预警管理暂行办法拟年内出台 地震预警信息发布将有法可依</a></li>
+         
+          <li><span>[2015-05-13]</span>&middot;<a href="./201505/t20150513_32943.html" target="_blank" title="四川日报：演练贵在贴近实战练出精兵">四川日报：演练贵在贴近实战练出精兵</a></li>
+         
+          <li><span>[2015-05-13]</span>&middot;<a href="./201505/t20150513_32942.html" target="_blank" title="四川日报:6.5级“地震”来袭——2015年省级防震救灾综合演练现场直击">四川日报:6.5级“地震”来袭——2015年省级防震救灾综合演练现场直击</a></li>
+         
+          <li><span>[2015-05-11]</span>&middot;<a href="./201505/t20150511_32928.html" target="_blank" title="省级防震救灾演练在乐山举行 3000人参与无人机出动">省级防震救灾演练在乐山举行 3000人参与无人机出动</a></li>
+         
+          <li><span>[2015-05-11]</span>&middot;<a href="./201505/t20150511_32926.html" target="_blank" title="全省防震救灾综合演练8日在乐山举行">全省防震救灾综合演练8日在乐山举行</a></li>
+         
+          <li><span>[2015-04-18]</span>&middot;<a href="./201504/t20150418_32842.html" target="_blank" title="四川日报：芦山震区恢复重建探索新路：民生优先着眼长远">四川日报：芦山震区恢复重建探索新路：民生优先着眼长远</a></li>
+         
+          <li><span>[2015-04-17]</span>&middot;<a href="./201504/t20150417_32840.html" target="_blank" title="人民网：芦山地震灾后重建见闻：花开芦山 家和民安">人民网：芦山地震灾后重建见闻：花开芦山 家和民安</a></li>
+         
+          <li><span>[2015-04-17]</span>&middot;<a href="./201504/t20150417_32826.html" target="_blank" title="新华网：芦山灾后重建展新颜">新华网：芦山灾后重建展新颜</a></li>
+         
+          <li><span>[2015-04-16]</span>&middot;<a href="./201504/t20150416_32821.html" target="_blank" title="四川日报：走进“4·20”芦山地震重建现场：如画新村在生长">四川日报：走进“4·20”芦山地震重建现场：如画新村在生长</a></li>
+         
+          </ul>
+        </div>
+        <!--政策法规 end-->
+        <div class="blankH20"></div>
+        <div class="p_next"><script type="text/javascript">
+		 createPageHTML(1, 0, "index", "html");
+	  </script></div>
+      </div>
+      <p class="clear"></p>
+    </div>
+    <div class="blankH16"></div>
+    <!--底部开始-->
+    <div class="botCont">
+      <div class="blankH12"></div>
+      版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+       蜀ICP备05030409号 </div>
+  </div>
+</div>
+</body>
+</html>

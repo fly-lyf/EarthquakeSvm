@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">提升地震专家三大能力 高效应对地震突发事件<span>发布时间：2015-07-20</span></div>
+                <p><p>
+	　　近年来，以互联网为代表的新媒体蓬勃发展，使得媒体环境在信息的数量、时效性、传播者、反馈内容、反馈态度等方面发生了巨大变化，为切实提高我局专家团队的媒体沟通能力、舆情应对能力和突发性事件处置能力，及时适应媒体环境变化，做好突发性地震事件的应对工作，我局于7月6日-7日举办了为期2天的地震新闻应对及科普知识宣讲团培训班，通过专家授课、模拟实训、命题讨论等课程设置，对31名地震新闻应对及科普知识宣讲团专家组成员和预备人员进行集中培训。</p>
+<p>
+	　　培训邀请到上海市委外宣办（市政府新闻办、网信办）副主任赵彦龙，中国地震局办公室新闻处处长马明，上海市地震局原巡视员、研究员朱元清为学员分别作题为《网络舆情应对案例分析及一般原则》、《防震减灾新闻宣传工作的几点思考》及《如何面对新闻媒体》的主题报告，并观看了由中国公共关系协会副会长、中国传媒大学媒介与公共事务研究院院长董关鹏主讲的《突发事件应对与媒体关系管理》报告视频，学员们纷纷表示受益匪浅。</p>
+<p>
+	　　由上海市党校公共管理教研部媒体沟通项目组开发的&ldquo;提高领导者媒体沟通能力&rdquo;的情景模拟教学是此次培训的重点及亮点课程，分为新闻访谈和新闻发布会两个环节，给学员们留下了深刻的印象。</p>
+<p>
+	　　在模拟新闻访谈环节中，上海著名电台主持人秦畅就科普宣传效果和政府信息公开这两方面的情况，采用压力式的提问方式，步步紧逼地向参训学员现场发问&ldquo;地震科普究竟有没有效果？&rdquo;&ldquo;震情信息是不是第一时间通知公众？&rdquo;等问题，为大家呈现了两场有冲突、有质疑、紧张而精彩的访谈。随后，秦畅用多年来从事媒体工作的切身体会和生动实例，向大家讲解了与媒体打交道、有效传播信息的5个技巧：一是拉近与公众的距离；二是统一回答口径；三是通过举例子、讲故事的方式，生动有趣地表达；四是将观众设定成9-12岁的儿童，用通俗的语言表达；五是留有余地，站在专业角度回答问题。</p>
+<p>
+	　　在模拟新闻发布会的环节中，参训学员被分为2组，分别扮演政府各部门要员和记者，模拟了2场突发性事件的新闻发布会。参训学员按照分配角色进行充分准备，较为圆满地按流程完成了新闻发布会的现场模拟。教学组教师就学员们的现场表现进行了点评，并向大家详细地解释了突发事件新闻发布的原则与技巧。</p>
+<p>
+	　　今后，我局还将定期开展地震新闻应对及科普知识宣讲团成员培训，将新闻应对培训工作常态化；邀请相关学者、专家授课，传授应对技巧和经验；召开内部交流分享座谈会，及时总结、交流工作经验，梳理不足；开展多种形式的地震新闻应对演练，做到&ldquo;平时熟悉流程，震时井然有序&rdquo;，积极推动我局的地震新闻应对工作和防震减灾科普宣传工作的开展。</p>
+<p>
+	　　<img alt="图像" src="/uploads/month_1507/201507200353593184.jpg" title="图像" wdimgid="image_353" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507200458378757.jpg" title="图像" wdimgid="image_356" /></p>
+<p>
+	<img alt="图像" src="/uploads/month_1507/201507200354007296.jpg" title="图像" wdimgid="image_354" /></p>
+<p>
+	　　<img alt="图像" src="/uploads/month_1507/201507200354009106.jpg" title="图像" wdimgid="image_355" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

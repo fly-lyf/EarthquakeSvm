@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/flfg/hybz/index.html" class="now" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/flfg/qt/index.html" target="_parent" title="其他"><span>其他</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">行业标准</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">新修订的《中国地震动参数区划图》国家标准发布<span>发布时间：2015-08-03</span></div>
+                <p><p>
+	&nbsp;&nbsp;&nbsp; 2015年5月15日，国家质量监督检验检疫总局、国家标准化管理委员会发布2015年第15号中国国家标准公告，新修订的强制性国家标准GB 18306-2015《中国地震动参数区划图》发布，代替GB 18306-2001,将于2016年6月1日起正式实施。</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 《中国地震动参数区划图》是贯彻落实《中华人民共和国防震减灾法》，确定我国一般建设工程抗震设防要求的强制性国家标准。该标准以地震动参数（如地震动峰值加速度和地震动反应谱特征周期）为指标，将我国国土划分为不同抗震设计要求的区域，是新建、扩建、改建一般建设工程的抗震设防要求，也是已建一般建设工程抗震加固的设防要求，同时为各级政府编制社会经济发展规划、国土利用规划、防震减灾规划和环境保护规划等相关规划的编制提供依据。新一代区划图标准由中国地震局组织修订完成。</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 新一代区划图给出的全国设防参数整体上有了适当提高，能更好的适应目前我国经济社会发展需要，对于提高我国建设工程的抗震设防能力与水平、有效减轻地震灾害、满足全社会对地震安全提出的新要求具有十分重要的意义。目前，中国地震局正在会同有关部门，共同开展新一代区划图国家标准的宣贯培训等实施准备。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,406 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>专家提示： 勿将地震预警当预报</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/515/index.html' class='navigation_style'>热点报道</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">专家提示： 勿将地震预警当预报</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											构建综合防震减灾体系才是关键
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2013-02-25 14:29:11 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国科技网
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><p>　　&nbsp;地震预警和地震预报是否是一回事？地震是否可以被准确预报？地震预警对抗震减灾有什么作用？我国地震预警系统目前建设到什么程度？围绕读者关注的种种问题，2月23日，科技日报记者独家专访了&ldquo;国家地震烈度速报与预警工程&rdquo;立项专家组成员、中国地震局工程力学研究所副所长李山有研究员。在他看来，地震预警是防震减灾的有效手段之一，但防震减灾关键是构建综合防震减灾体系。</p>
+<p>　　&nbsp;</p>
+<p>　<strong>　地震预报仍是世界难题</strong></p>
+<p>　　到底什么是地震预警？这要从地震源头说起。地震发生后，有纵波（P波）和横波（S波）两种主要地震波同时由震源向外传播。纵波传播速度较快，但震动相对较小，通常不会造成破坏；横波紧随而来，是造成危害性破坏的元凶。地震预警系统利用震中附近监测仪器捕捉到的地震纵波后，快速估算地震参数并预测地震对周边地区的影响，抢在破坏性横波达到震中周边地区之前，通过电子通讯系统发布预测地震强度和到达时间的预警信息，使相关机构和公众能提早采取应急措施，减轻人员伤亡和灾害损失。</p>
+<p>　　&ldquo;地震预警抢出了两个时间差，一个是纵波和横波传播的时间差，一个是地震波和地震信息传播的时间差。&rdquo;李山有说，&ldquo;时间差在一定区域内形成了几秒到几十秒的预警时间，距震中越远预警时间越长；地震级别越大，预警范围就越大，减灾效果越明显。&rdquo;</p>
+<p>　　与之相比，地震预报虽然和地震预警只有一字之差，但本质上却截然不同。</p>
+<p>　　李山有向记者解释说，地震预警是在地震发生后但破坏性地震波到来前发出警告；地震预报则是对尚未发生、但可能发生的地震进行事先推测，分为经验预报和物理预报两种。人们常说的&ldquo;小震闹，大震到&rdquo;和&ldquo;鸡飞狗叫&rdquo;就是经验预报，目前已有的地震预报大多属于此类。</p>
+<p>　　&ldquo;我国最著名的地震预报案例是1975年的海城地震，可是一年后发生的唐山地震却残酷地证明了经验预报具有偶然性。&rdquo;李山有说。准确做出地震预报的关键就在于构建科学模型，将经验预报提升为物理预报。&ldquo;但是人们对地震的发生机制和地壳结构的了解还很粗浅，所以目前准确地震预报仍然是一个世界难题，而且短时间内难以取得突破。&rdquo;</p>
+<p>　<strong>　地震预警难免存在盲漏误报</strong></p>
+<p>　　&ldquo;虽然地震预警的时间提前量只有几秒到几十秒，却是千钧一发之际挽救生命和财产损失的黄金时间。&rdquo;李山有反复强调，公众接到预警后可以提早采取措施避震逃生；医院正在进行的精密手术可以立即中止&hellip;&hellip;特别是在国家重大工程中，地震预警系统起到的作用更为关键。比如说对我国正在高速发展的高铁来说，高速列车在行驶中即使遇到轻微地震都有可能遭遇极大的灾难。因此，在2012年2月，铁道部和中国地震局签署了《共同推进高速铁路地震安全战略合作协议》，加快推进地震紧急自动处置系统建设，提升高铁应对地震灾害能力。而对于输油气管线、核电站等重大工程，地震预警同样可以帮助提早采取应对措施避免次生灾害。</p>
+<p>　　地震预警系统减灾效果明显，但并不是能够完全避免震灾损失的&ldquo;灵丹妙药&rdquo;。李山有解释道：&ldquo;地震震中附近地区一般破坏最为严重，但因为地震波数据获取和地震参数估算需要时间，导致预警信息发布时强烈地震波已经覆盖了震中附近一定区域，这个区域就是预警盲区。&rdquo;</p>
+<p>　　&ldquo;而且系统要利用有限台站和有限时间段的观测数据来快速自动测定地震参数和预测地震烈度，所以估算值可能存在较大误差，从而导致误报或漏报。这是地震预警系统的另一个弊端。&rdquo;李山有举例说，2007年10月&mdash;2010年8月，日本紧急地震速报系统共处理地震事件1592个，按照最大烈度5度弱（日本烈度表最高为7度）的标准进行地震预警信息发布，发生漏报、误报24个。&ldquo;如果系统预测最大烈度为4度，未发布预警信息，而实际地震烈度超过5度弱，这种情形就是漏报；而如果系统预测最大烈度超过5度弱，发布预警信息，实际未超过5度弱，就是误报。&rdquo;</p>
+<p>　　&ldquo;此外，监测设备可靠性和运营维护规范性要求高，也是地震预警系统中不能忽视的问题。&rdquo;李山有呼吁，要辩证地认识地震预警系统的作用和局限。在地震系统正在申报的&ldquo;国家地震烈度速报与地震预警工程&rdquo;中，除了在地震发生后若干秒内进行预警外，还要在震后数分钟内以完成地震参数速报、烈度速报、灾情评估等多方面任务，充分发挥拟建地震台网的作用，既满足公众、企业、政府多层级用户的震后应急需要，也为地球科学研究获取高质量的观测数据。</p>
+<p>　　他强调，地震预警只是防震减灾系统中的一个手段，防震减灾还是要走综合防御的道路，构建起包括地震监测预报、震害防御、应急救援以及恢复重建在内综合防震减灾体系，并着力提升建筑抗震能力。</p>
+<p>　　<strong>力争5年后5000&ldquo;地震哨兵&rdquo;值守家园</strong></p>
+<p>　　如果要有效缩小地震预警盲区、减少误报和漏报，就要提高台网密度、观测数据质量、数据传输和处理的实时性。李山有告诉记者：&ldquo;实现地震预警的合理台站间距应该小于30千米，但目前全国范围内台站平均分布距离有100千米。&rdquo;</p>
+<p>　　事实上，中国地震局早在2010年年初就启动了&ldquo;国家地震烈度速报与地震预警工程&rdquo;项目申报。2012年12月，该项目正式进入国家发改委立项审批阶段。</p>
+<p>　　李山有介绍说，如果国家发改委能批准立项，该工程将对现有地震台网、强震动观测台网进行适当改造和新建，在华北地区、南北地震带、东南沿海地区及新疆西北部地区建立4个重点地震预警区，平均台站间距25千米左右。每个地震台站就相当于一个站岗的&ldquo;哨兵&rdquo;，预计项目实施5年后，将有超过5000个覆盖全国的&ldquo;地震哨兵&rdquo;，可实现全国范围的地震烈度速报和4个地区的地震预警。</p>
+<p>　　地震预警系统的防震减灾效果和预警技术的成熟度仍是工程投入实际应用前的争议焦点，因此需要进行较长时间的试运行。李山有介绍，已于2012年9月开始在线试运行的福建省地震预警与烈度速报系统，估计要2&mdash;3年后才能正式投入运行并对外发布地震预警信息。&ldquo;不过对于国家地震烈度速报与预警系统建设来说，该系统无疑将起着示范和奠定基础的作用。&rdquo;</p>
+<p>　　有了地震预警系统，还要为预警信息发布加上法律的保护。&ldquo;国家必须通过建立相关法律制度和技术标准，对地震预警信息发布主体、触发条件及预警信息内容、发布对象、法律问责等做出规范。不是所有震级的地震、不是所有能监测到地震的人，都可以发布预警信息。&rdquo;李山有说。</p>
+<p style="text-align: right; ">　　（本报哈尔滨2月24日电）</p>
+<p style="text-align: right; ">　　《科技日报》 2013-02-25 （一版）</p>
+<p style="text-align: right; ">　　&nbsp;</p>
+<p style="text-align: right; ">　　(中国科技网)</p></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

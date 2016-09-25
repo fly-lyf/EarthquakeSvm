@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">2012年中国地震局局管干部研修班（第20期）结业典礼在杭州隆重举行 <span>发布时间：2012-05-15</span></div>
+                <p><p><br />
+&nbsp;&nbsp;&nbsp; 4月27日上午，中国地震局局管干部研修班（第20期）结业典礼在中国地震局干部培训中心隆重举行。中国地震局刘玉辰副局长，培训中心（浙江省地震局）苏晓梅主任(局长)、陈经华副主任（副局长）出席了结业典礼，中国地震局人事教育司刘铁胜副司长主持结业典礼。</p>
+<p>&nbsp;&nbsp;&nbsp; 结业典礼在嘹亮的国际歌声中拉开了帷幕。随后，播放了《第20期局管干部研修班视频回顾展》，对研修班一个月来的学习、生活和调研情况进行了生动的回顾。当一幅幅照片从屏幕上划过，一幕幕场景在眼前重现时，伴随着：我们今生有缘在路上，只要我们彼此永不忘，朋友啊，让我们一起牢牢铭记的歌声，学员们响起了热烈的掌声。</p>
+<p>&nbsp;&nbsp;&nbsp; 研修班班长、局机关服务中心巩曰沐主任代表研修班作总结发言，将本期研修班的特点总结为&quot;一个目标，两个尝试，三个转变，四个自觉，五个结合&quot;，通过一个月的研修班学习，使大家增长了知识，提高了水平；加强了交流，建立了友谊；开展了调研，形成了建议；强健了体魄，陶冶了身心。研修班支部书记、地球所党委书记乔森同志代表全体学员向培训中心赠送了锦旗和牌匾。&quot;创新教学，重实效；优质服务，显真情&quot;14个字充分表达了研修班全体学员对培训中心的由衷感谢。</p>
+<p>&nbsp;&nbsp;&nbsp; 苏晓梅主任对全体学员顺利结业表示热烈祝贺。她在讲话中谈到，研修班的成功举办离不开中国地震局党组关心和支持，离不开班委的积极配合，离不开全体学员的共同努力，她代表培训中心全体干部职工对学员的辛勤付出表示衷心感谢！并真诚希望学员们对培训中心的教学安排和生活服务提出宝贵意见和建议，也希望学员们多来培训中心加强交流与沟通，共同促进防震减灾事业发展。</p>
+<p>&nbsp;&nbsp;&nbsp; 刘玉辰副局长在结业典礼上作了重要讲话。首先，高度肯定了本期研修班取得的成效，学员们学有所成，学有所悟，学有所创。其次，对干部教育培训工作提出了三点希望：一是要以特色求巩固，突出防震减灾的特色，以最大限度的减轻地震灾害为目的；二是以改革求加强，建立一套适应干部现状，适应社会发展的课程体系；三是以创新求发展，跟上时代步伐，充分利用现代化的教学方式，发掘各种资源，采取研讨教学、案例教学、模拟教学，提高干部教育培训的针对性和实效性。最后，还对全体学员提出了两点要求：学无止境，学以致用，希望大家把这次研修班的学习成果作为起点，在工作中有所体现，做到真学、真懂、真用；通过学习，提高个人觉悟，提高判断和分析问题的能力，提高处理复杂问题的能力；通过有意识的自我学习，增强信心，不断提高自身综合素质，为防震减灾事业做出新的更大贡献！</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

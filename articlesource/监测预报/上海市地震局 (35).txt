@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">马钦忠研究员解读地震预报工作<span>发布时间：2015-07-02</span></div>
+                <p><p>
+	　　6月17日上午，我局预测分析中心主任马钦忠研究员为我局科技人员主讲题为《地震预报成败之启示及相关工作简介》的学术报告。</p>
+<p>
+	　　马钦忠研究员首先介绍了地震预测方法的划分方法，并通过分析海城地震、唐山地震、日本地震、美国帕克菲尔德地震预报试验场及汶川地震等几次大震预报实例，对地震预报之成败进行了总结。他认为对于地震预测，不能用狭隘的认识限制我们的创新能力，要充分认识到地下结构的复杂性，从更高的科学层面理解地震孕育、发生过程的物理本质。他强调，短临预测和预报在防震减灾中具有重大的意义，加强和提高我国地震短临预报的能力刻不容缓。目前我国已建立了世界上最为广泛和密集的地震前兆观测台站，我们地震工作者要在此平台上不断开拓新的预测途径、方法和理论，为切实减轻地震灾害做出应有的贡献。</p>
+<p>
+	　　马钦忠研究员的报告事例详实，分析深入浅出，他激励我局科技人员开拓新思路、新方法开展地震预报研究，并身体力行，将自己承担的项目成果初步应用于实践中，取得一定成效，对于我局科技人员的工作有很强的指导意义。</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

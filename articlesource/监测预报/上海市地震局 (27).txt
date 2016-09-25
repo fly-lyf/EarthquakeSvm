@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">中国地震局监测预报司在沪召开网络项目建设单位分项工程验收会<span>发布时间：2007-12-17</span></div>
+                <p><p align="center"><font face="Arial" size="3"><strong>中国地震局监测预报司在沪召开网络项目建设单位分项工程验收会 <br />
+&mdash;&mdash; 江西、湖南、江苏、浙江、上海网络项目测震、前兆、信息分项工程顺利通过验收</strong></font></p>
+<p><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11月26至30日，中国地震局监测预报司在上海召开网络项目建设单位分项工程验收会，对江西、湖南、江苏、浙江、上海等五个单位的测震、前兆、信息分项工程进行验收。中国地震局原副局长、验收专家组组长汤泉，监测预报司李克司长、余书明处长、唐毅处长，发展财务司武守春处长和上海市地震局张骏局长出席了本次会议。验收组副组长刘瑞丰以及验收组全体专家、五个单位的分管领导以及各分项负责人和财务、监理、档案等有关方面的负责人共七十余人参加了验收会。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 会上，验收专家组认真听取了五个建设单位各分项工程建设情况的汇报和验收测试组的测试报告，观看了远程演示，查阅了验收报告等相关文档，并就有关问题进行了质询。验收专家组根据项目竣工验收管理办法及测震、前兆、信息分项验收细则，从工程建设内容、规模与质量，系统功能与主要技术指标、试运行状况以及经费使用和工程档案等方面对项目进行了综合评定，并一致同意五个单位的测震、前兆、信息分项全部通过验收。其中我局的3个分项工程，均完成了中国地震局对&ldquo;上海市数字地震观测网络项目&rdquo;各分项批复的全部或总体建设内容，工程质量符合中国地震局&ldquo;十五&rdquo;项目各分项建设技术规程要求，特别地，专家们肯定了信息分项的建设特点和亮点，同时提出了进一步做好分项运行和管理工作，确保观测数据的实时报送和完整率，发挥好项目效益，迎接中国发改委对项目的总体验收。与会代表还参观了浦东地震监测中心。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 在11月29日下午举行的验收会闭幕式上，中国地震局原副局长汤泉作了总结讲话，他向五个建设单位测震、前兆、信息分项工程顺利通过验收表示祝贺，并对各建设单位在项目建设中表现出的高度责任感、使命感和严格的组织管理给予了充分肯定，最后，他对通过验收的项目，需要完善和解决的问题、投入使用后的运行管理以及充分发挥项目的功能和效益等提出了进一步的要求，并希望各单位能够在日后的工作中再接再励。<br />
+</font></p>
+<p align="right"><font face="Arial">朱寅</font></p>
+<font face="Arial">
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/1(12).jpg" /></p>
+<p align="center"><img height="428" alt="" width="600" src="http://web2.sbsn.net/resource/2(9).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/3(7).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/4(8).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/5(4).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/11(5).jpg" /></p>
+<p align="center"><img height="443" alt="" width="600" src="http://web2.sbsn.net/resource/13(4).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/15(4).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/19(3).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/21(5).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/22(6).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/23(2).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/24(3).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/25(1).jpg" /></p>
+<p align="center"><img height="450" alt="" width="600" src="http://web2.sbsn.net/resource/26(1).jpg" /></p>
+<p align="center"><img height="451" alt="" width="600" src="http://web2.sbsn.net/resource/27(1).jpg" /><br />
+</p>
+</font></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

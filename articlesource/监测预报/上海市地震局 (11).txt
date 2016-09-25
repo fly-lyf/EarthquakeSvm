@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海地震监测能力（二）<span>发布时间：2007-06-06</span></div>
+                <p><p align="center"><font face="Arial"><font face="Arial"><font size="4"><strong>二、近年来我局地震监测预报工作质量在全国统评中取得的优异成绩<br />
+</strong></font></font></font>
+<p align="center"><font face="Arial"><font face="Arial">二〇〇一年度: 我局编目组获&ldquo;地震编目（三类单位）&rdquo;第二名<br />
+</font></font></p>
+<p align="center"><font face="Arial"><font face="Arial">二〇〇二年度: 上海台网获&ldquo;遥测地震台网综合评比&rdquo;第二名<br />
+上海台网获&ldquo;区域遥测地震台网&rdquo;第一名<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 长兴岛台获&ldquo;地下流体学科水位测项&rdquo;第三名<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我局获&ldquo;分析预报综合评比（三类单位）&rdquo;第二名<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 我局获&ldquo;日常分析预报&rdquo;第三名<br />
+</font></font></p>
+<p align="center"><font face="Arial"><font face="Arial">二〇〇三年度: 上海台网获&ldquo;遥测地震台网综合评比&rdquo;第二名<br />
+上海台网获&ldquo;区域遥测地震台网&rdquo;第二名<br />
+佘山台获&ldquo;中国数字地震台网（CDSN）&rdquo;第二名<br />
+佘山台获&ldquo;地磁?类台&rdquo;第二名<br />
+</font></font></p>
+<p align="center"><font face="Arial"><font face="Arial">二〇〇四年度: 上海台网获&ldquo;区域遥测地震台网&rdquo;第三名<br />
+佘山台获&ldquo;重力潮汐台站&rdquo;第三名<br />
+佘山台获&ldquo;地磁?类台&rdquo;第三名<br />
+</font></font></p>
+<p align="center"><font face="Arial"><font face="Arial">二〇〇五年度: 上海台网获&ldquo;区域遥测地震台网&rdquo;第二名<br />
+　　　　　　　佘山台获&ldquo;中国数字地震台网（CDSN）&rdquo;第一名<br />
+　　　　　　　佘山台获&ldquo;倾斜潮汐形变综合台&rdquo;第三名<br />
+　　　　　　　佘山台获&ldquo;重力潮汐台站&rdquo;第二名<br />
+　　　　　　　佘山台获&ldquo;地磁Ⅰ类台&rdquo;第三名<br />
+　　　　　　　我局获&ldquo;年度会商报告（三类局）&rdquo;第二名<br />
+</font></font></p>
+</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

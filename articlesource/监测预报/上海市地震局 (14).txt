@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">关于对《地震监测管理条例》立法调研提纲的有关建议<span>发布时间：2007-06-01</span></div>
+                <p><p><strong>中国地震局法规司：</strong></p>
+<p>　　根据贵司&ldquo;关于征求对《地震监测管理条例》起草意见的函&rdquo;一文的要求，我局组织了计划科监处、信息研究所、预报研究所、佘山地震台等部门对《地震监测管理条例》立法调研提纲进行了认真的研讨，对《地震监测管理条例》的起草提出了如下建议：</p>
+<ol>
+    <li>自《地震监测设施和地震观测环境保护条例》实施以来，在上海地区，对保护台站监测环境，保证台站监测工作发挥了较好的作用。 </li>
+    <li>希望《地震监测管理条例》能从立法上对地方政府投资建立的台站的运行经费给予解决。 </li>
+    <li>所有地震台站的建设及管理应由地震局进行统一规划。 </li>
+    <li>希望《地震监测管理条例》能从立法上规定信息共享，并规定相应的责任。观测资料应定期由信息中心进行验收，归档并进行编辑出版或以其他形式以供使用，以保证质量，防止资料和信息的垄断。 </li>
+    <li>地震台站的技术设备应统一标准，统一要求，并采用社会招投标方式。 </li>
+    <li>地震监测人员应采用职业资格管理，并将其与工作人员所从事的具体工作相结合。 </li>
+</ol>
+<p>　　以上建议，供贵司参考。</p>
+<p><br />
+　　　　　　　　　　　　　　　　　　上海市地震局<br />
+　　　　　　　　　　　　　　　　　　二00二年八月十三日 </p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

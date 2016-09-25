@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">李克司长来我局检查“十五”项目<span>发布时间：2007-12-17</span></div>
+                <p><p align="center"><font style="BACKGROUND-COLOR: #cce8cf" face="Arial" size="4"><strong>李克司长来我局检查&ldquo;十五&rdquo;项目</strong></font></p>
+<p><font style="BACKGROUND-COLOR: #cce8cf" face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2007年9月14日至16日，中国地震局监测预报司李克司长和肖武军一行专程来我局检查&ldquo;十五&rdquo;测震、前兆、信息分项目完成情况。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9月15日上午，李克司长听取了&ldquo;十五&rdquo;测震、前兆、信息分项目完成情况的专题汇报。我局张骏局长出席会议并讲话，朱元清副局长主持了会议，监测预报司肖武军，我局计划财务处、监测预报处、监测中心、预测分析中心、应急救援保障中心相关人员参加了汇报会。有关人员介绍了东海海洋平台地震深井台项目建设方案的由来、海域地震观测项目进展情况、海洋石油平台地震深井台的设计方案、建设进度安排以及我局&ldquo;十五&rdquo;项目测震、前兆、信息分项建设完成情况、试运行情况、验收工作安排。在听取汇报后，李克司长认为上海市地震局党组高度重视 &ldquo;十五&rdquo;项目的建设和验收工作，肯定了东海海洋平台地震深井台项目和我局&ldquo;十五&rdquo;测震、前兆、信息分项取得的进展，指出了存在的问题，并传达了中国地震局领导关于做好&ldquo;十五&rdquo;项目验收工作的指示精神和监测预报司关于做好&ldquo;十五&rdquo;项目试运行工作的要求及验收工作部署。<br />
+张骏局长对会议进行了总结，感谢监测预报司对上海局&ldquo;十五&rdquo;项目工作的关心和指导，表示上海局将进一步集中精神，抓好落实工作，细化、量化、深化解决问题的方案，确保&ldquo;十五&rdquo;项目保质保量圆满完成。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9月15日下午，李克司长在张骏局长、朱元清副局长等陪同下前往浦东地震监测中心视察，并前往浦东草正船厂码头察看了海域地震观测项目活节桩的建设情况。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></p>
+<p align="right"><font style="BACKGROUND-COLOR: #cce8cf" face="Arial">监测预报处&nbsp;&nbsp;&nbsp; 许彬彬</font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

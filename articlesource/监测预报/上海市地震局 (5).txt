@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">全国深化地震分析预报领域改革工作会议在沪召开<span>发布时间：2014-08-20</span></div>
+                <p><p>
+	　　2014年8月5日至6日，由中国地震局监测预报司主办，上海地震局承办的深化地震分析预报领域改革工作会议在上海市召开。来自中国地震局监测预报司、中国地震台网中心等局直属事业单位及各省局监测预报工作分管领导、预报中心主任、特邀专家参加了会议。</p>
+<p>
+	　　会上，中国地震台网中心副主任刘桂萍表示，针对当前震情会商机制存在的突出问题，要进一步全面深化改革，通过明确各环节工作任务和产出规范、各单位的要求和责任，大力整合全地震系统的监测、科研和预报力量，形成探索地震预报的合力，使现有资料和技术方法更为有效地运用于震情跟踪，增强震情会商的观测和科研基础，从而提高地震预测的科学水平。随后，专家们分别就前兆异常现场核实规程、异常零报告制度、日常分析预报评比细则等进行了报告，参会代表针对各项议题展开了热烈的讨论。最后，监测预报司副处长马宏生对会议进行总结，并部署当前及今后一个时期的深化改革重点工作措施。</p>
+<p>
+	　　本次会议充分借鉴前期的改革经验成果，按照总体改革思路，确定了各种会商机制的改革目标、工作机制和组织机制，提出了进一步提高会商质量的技术途径，确立了以周月会商为震情监视跟踪基础、专题会商为重要科技补充、年度会商和震后趋势会商为重要预测意见产出机制，和以危险区跟踪为主线，基础扎实、过程清晰、责任明确、可考核评价的震情会商制度体系。</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

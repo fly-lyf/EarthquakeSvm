@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" class="now" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">应急救援</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">2014年上海市地震应急救援技能实战演练在浦东地震应急训练基地举行<span>发布时间：2014-11-24</span></div>
+                <p><p>
+	　　11月21日下午，2014年上海市地震应急救援技能实战演练在浦东地震应急训练基地举行。上海市政府黄融副秘书长在市政府应急指挥室通过视频指挥演练，上海市地震局局长吴建春、副局长李红芳、王硕卿、李平，武警上海总队副参谋长宋元俊，市消防局参谋长陈永胜等有关领导在现场观摩。</p>
+<p>
+	　　这是我市首次将武警、消防和地震三支专业救援队，通过混编、混装的方式举行联合协同作业实战演练。参演队伍为上海市武警特种救援队、上海市地震灾害紧急救援队和上海市地震现场应急工作队。演练主要模拟地震发生、震情速报平台发布、地震应急响应等流程，检验我市应急响应快速反应能力。</p>
+<p>
+	　　此次演练活动突出地震救援技能操作，从实战出发，根据&ldquo;救援工作怎么干，队伍就怎么练&rdquo;的要求，通过警、消、地联合作战能力，达到同台献技，互相学习，共同提高的目的。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1411/201411240238294247.jpg" title="图像" wdimgid="image_251" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1411/201411240238292262.jpg" title="图像" wdimgid="image_252" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1411/20141124023830626.jpg" title="图像" wdimgid="image_253" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1411/201411240939279405.jpg" title="图像" wdimgid="image_250" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1411/201411240240114214.jpg" title="图像" wdimgid="image_254" /></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

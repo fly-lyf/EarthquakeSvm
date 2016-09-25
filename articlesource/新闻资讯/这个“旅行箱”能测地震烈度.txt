@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>这个“旅行箱”能测地震烈度</title>
+<LINK href="../../../../../images/chun_styles.css" type='text/css' rel='stylesheet'/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script ignoreapd="1" type="text/javascript" src="../../../../../zhuangtai_164.js"></script>
+
+<script type="text/javascript">
+    <!-- 换cS的jS-->
+ var objs = document.getElementsByTagName("link");
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3];   
+var url = changese(chun,xia,qiu,dong);
+ objs[0].href='../../../../../'+url;
+</script>
+
+
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+
+</head>
+
+<body>
+	<div id="box">
+		
+		<script type="text/javascript">
+function show(div){ 
+   var ids=[163,167,171,176,181,187,191,196,199,206,211,213];   
+           for(i=0;i<ids.length;i++){
+		      var obj   = document.getElementById(ids[i]+"_menu");
+			   obj.style.display='none';
+			  
+		   }    
+      var div1; 
+	  div1  = document.getElementById(div);
+	  
+	
+	  div1.style.display='block';
+	 
+   }
+   function  shut(div){
+      //salert(div);
+       var div  = document.getElementById(div);
+	  div.style.display='none';
+   }
+
+
+</script>
+<div class="top">
+			<div id="logo" class="logo">
+			      
+			</div>
+<script type="text/javascript">
+
+    <!-- 换cS的jS-->
+var arr = getStatu();
+var chun = arr[0];
+var xia = arr[1];
+var qiu = arr[2];
+var dong = arr[3]; 
+ var url ; 
+if(chun==1){
+   url="chun.swf";
+}
+if(xia==1){
+   url="xia.swf";
+}
+if(qiu==1){
+   url="qiu.swf";
+}
+if(dong==1){
+   url="dong.swf";
+}
+ url="xia.swf";
+var  value='../../../../../images/'+url;
+var content = "<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'"+ "codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='1000' height='137'>"+
+  "<param value='false' name='menu'/>"+
+     " <param value='opaque' name='wmode'/>"+
+    "<param name='movie' id='movie'  value='"+value+"'/>"+
+   "<param name='quality' value='high' />"+
+    "<embed src='"+value+"'" +"quality='high'"+ "pluginspage='http://www.adobe.com/shockwave/download/download.cgi?"+   "P1_Prod_Version=ShockwaveFlash'"+ 
+"type='application/x-shockwave-flash' width='1000' height='137'></embed>"+
+  "</object>"
+
+var logo = document.getElementById("logo");
+logo.innerHTML=content;
+
+</script>
+
+			<div class="nes">
+				<ul class="u_anes">
+					<li class="u_ali"><a class="a_nes" href="../../../../../">首 页</a><span></span></li>
+					<li class="u_ali" onmouseover="show(this.id+'_menu')"  onmouseout="shut(this.id+'_menu')" id="163" > <a   class="a_nes"   href="../../../../../jcyb/">监测预报</a>				
+					<span>  
+					</span>
+				       <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="163_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jcyb/scjctw/">四川监测台网</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/gcjs/">观测技术</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/ybyj/">预报研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../jcyb/luntan/">2011年西南及华东南地区青年分析预报人员科技论坛</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  onmouseover="show(this.id+'_menu')" id="167"  ><a     class="a_nes" href="../../../../../zzfy/">震灾防御</a><span></span>
+					
+					     <ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="167_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zzfy/zcfg/">政策法规</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/fzjs/">法制建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../zzfy/kzsf/">抗震设防</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" id="171"  onmouseover="show(this.id+'_menu')" onmouseout="shut(this.id+'_menu')"   ><a  class="a_nes" href="../../../../../yjjy/">应急救援</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="171_menu" >
+					          
+								<li class="treeli"><a href="../../../../../yjjy/jyd/">救援队</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/bncs/">避难场所</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/yjgl/">应急管理</a></li>
+							
+								<li class="treeli"><a href="../../../../../yjjy/flfg/">法律法规</a></li>
+							
+						</ul>
+					</li>
+					<li  class="u_ali" onmouseout="shut(this.id+'_menu')"  id="176"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/">震情速报</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="176_menu" >
+					          
+								<li id="地震目录"   class="treeli"><a href="../../../../zqsb/dzml/">地震目录</a></li>
+							
+								<li id="全球震讯"   class="treeli"><a href="../../../../zqsb/qqzx/">全球震讯</a></li>
+							
+								<li id="震情灾情"   class="treeli"><a href="../../../../zqsb/zqzq/">震情灾情</a></li>
+							
+								<li id="省内近期四级以上地震"   class="treeli"><a href="../../../../zqsb/snsjysdz/">省内近期四级以上地震</a></li>
+							
+						</ul>
+					
+					</li>
+                                         					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="178"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../zqsb/qqzx/">全球震讯</a><span></span>
+<!--
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="178_menu" >
+					          
+						</ul>
+-->
+					</li>					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="181"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../zhxx/">工作动态</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="181_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zhxx/gg/">公告信息</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/sjgzdt/">省局工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/szgzdt/">市县工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gndt/">国内动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/gjdt/">国际动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../zhxx/yjxx/">预警信息</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="187"   onmouseover="show(this.id+'_menu')" ><a  class="a_nes" href="../../../../../jgjj/">机构简介</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="187_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgjj/ldjs/">领导介绍</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/znzz/">职能职责</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgjj/nsjg/">内设机构</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="191"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../dzkj/">地震科技</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="191_menu" >
+					          
+								<li class="treeli"><a href="../../../../../dzkj/kjcg/">科技成果</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/jcyj/">基础研究</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/kjcx/">科技创新</a></li>
+							
+								<li class="treeli"><a href="../../../../../dzkj/zdxm/">重大项目</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali"  onmouseout="shut(this.id+'_menu')"  id="196"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../xzsp/">行政审批</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="196_menu" >
+					          
+								<li class="treeli"><a href="../../../../../xzsp/bszn/">办事指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../xzsp/wsbs/">网上办事</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="199"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../zfxxgk/">政府信息公开</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree02" style="display:none" id="199_menu" >
+					          
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkml/">政府信息公开目录</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgkzn/">政府信息公开指南</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgknb/">政府信息公开年报</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/ysqgk/">依申请公开</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/jdts/">监督投诉</a></li>
+							
+								<li class="treeli"><a href="../../../../../zfxxgk/zfxxgg/">公告</a></li>
+							
+						</ul>
+					
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="206"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../kpxc/">科普宣传</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="206_menu" >
+					          
+								<li class="treeli"><a href="../../../../../kpxc/dzzs/">地震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/kzzs/">抗震知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/dzkpsp/">地震科普宣传视频点播</a></li>
+							
+								<li class="treeli"><a href="../../../../../kpxc/zddz/">世界重大地震</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="211"   onmouseover="show(this.id+'_menu')" ><a class="a_nes" href="../../../../../jgdj/">机关党建</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="211_menu" >
+					          
+								<li class="treeli"><a href="../../../../../jgdj/djgz/">党建工作</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/xxyd/">学习园地</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/ddzs/">党的知识</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/wmjs/">文明建设</a></li>
+							
+								<li class="treeli"><a href="../../../../../jgdj/qtgz/">群团工作</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" onmouseout="shut(this.id+'_menu')"  id="213"   onmouseover="show(this.id+'_menu')" ><a   class="a_nes" href="../../../../../lzjs/">廉政建设</a><span></span>
+					<ul onmouseover="show(this.id)" onmouseout="shut(this.id)" class="nes_tree" style="display:none" id="213_menu" >
+					          
+								<li class="treeli"><a href="../../../../../lzjs/gzdt/">工作动态</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/jzcm/">警钟长鸣</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lzwh/">廉政文化</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/lltt/">理论探讨</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/gzzd/">规章制度</a></li>
+							
+								<li class="treeli"><a href="../../../../../lzjs/sxjs/">三项建设</a></li>
+							
+						</ul>
+					</li>
+					<li class="u_ali" ><a  target="_blank"   class="a_nes" href="http://220.167.54.135:8088/">数据共享</a>
+				
+					</li>
+				</ul>
+			</div>
+		</div>
+		
+		
+		<div class="bmain">
+			<div class="dqxl">
+				<span>当前位置：<a href="../../../../../">首页</a>&gt;&gt;<a href="../../../../">新闻资讯</a>&gt;&gt;<a href="../../../">重要专题</a>&gt;&gt;<a href="../../">2012年地震演练专版</a>&gt;&gt;<a href="../">媒体聚焦</a></span>
+			</div>
+			<div class="bxltop"><img src="../../../../../images/dz_42.jpg"/></div>
+			<div class="tyxl">
+				<h1 style="font-family:宋体;">这个“旅行箱”能测地震烈度 </h1>
+<script>
+var futitle='天府早报记者探营省地震局，应急救援设备功能强大';
+if(futitle.length>0){
+document.write('<br><br><span style="font-family:黑体;font-size:16px;padding-top:15px;">──&nbsp;'+futitle+'</span>');
+}
+</script>
+
+				<div class="title" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '？天府早报';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2012-04-24 12:49:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2012-04-24 12:49:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2012-04-24 12:49:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2012-04-24 12:49:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xgljdz" id="xiangguandiv">
+					<ul id="xiangguan" >
+					     
+					</ul>
+                                    				</div>
+	                       <script type="text/javascript">
+					   //控制相关文档的显示
+	                                           var  obj = document.getElementById("xiangguan");
+                                                 var div  = document.getElementById("xiangguandiv");  
+						var eles  = obj.childNodes;
+                                                  
+						if(eles.length==0){
+						    div.style.display="none";
+                                                      
+						}
+					
+					</script>
+
+				<div class="xl_box" id="content" >
+				  <div class="spbf"><P align=center><SPAN><IMG height=257 src="./W020120424462520747659.jpg" width=410 v:shapes="图片_x0020_1" _fcksavedurl="file:///C:/DOCUME~1/kenny/LOCALS~1/Temp/msohtmlclip1/01/clip_image002.jpg" OLDSRC=W020120424462520747659.jpg/></SPAN></P>
+<P><SPAN style="LINE-HEIGHT: 150%"></SPAN>&nbsp;</P>
+<P><SPAN style="LINE-HEIGHT: 150%">记者探营</SPAN></P>
+<P><SPAN style="LINE-HEIGHT: 150%">　　</SPAN><SPAN style="LINE-HEIGHT: 150%">公元</SPAN><SPAN style="LINE-HEIGHT: 150%">132</SPAN><SPAN style="LINE-HEIGHT: 150%">年我国东汉时代</SPAN><SPAN style="LINE-HEIGHT: 150%">张衡发明了候风地动仪，用来监测地震，是世界上最早的地震仪。到了现在，人们又是采用哪些更先进的仪器来监测地震呢？随着</SPAN><SPAN style="LINE-HEIGHT: 150%">“5·12</SPAN><SPAN style="LINE-HEIGHT: 150%">防灾救灾大演练</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">即</SPAN><SPAN style="LINE-HEIGHT: 150%">将</SPAN>&nbsp;<SPAN style="LINE-HEIGHT: 150%">临</SPAN>&nbsp;<SPAN style="LINE-HEIGHT: 150%">近</SPAN>&nbsp;<SPAN style="LINE-HEIGHT: 150%">，昨日，天府早报记者探营四川省地震局应急救援处、强震组等部门应急救援时的各种</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">火力</SPAN><SPAN style="LINE-HEIGHT: 150%">”……<BR></SPAN><SPAN style="LINE-HEIGHT: 150%">震级多少，</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">顺风耳</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">打探</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR></SPAN><SPAN style="LINE-HEIGHT: 150%">假设情况：固定地震台网被毁</SPAN>&nbsp;<SPAN style="LINE-HEIGHT: 150%">出动兵力：流动测震仪作战功能：监测震级</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>“</SPAN><SPAN style="LINE-HEIGHT: 150%">地震破坏性的大小和震级、震源深度等因素有着直接的关系。</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">省地震局监测研究所所长杜文康介绍道。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">那</SPAN><SPAN style="LINE-HEIGHT: 150%">么，震级是通过哪种仪器测量出来的呢？昨日，杜文康介绍了专门测量地震震级的流动测震仪。</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">地震会使地球内部产生地震波，测震仪便是通过监测地震波来了解</SPAN><SPAN style="LINE-HEIGHT: 150%">震级。</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">众所周知，地震很容易造成建筑物的毁损。在汶川大地震中，震区便有固定地震台网被毁。地震波这些数据便无法传到省地震台网，地震震级便不能准确掌</SPAN><SPAN style="LINE-HEIGHT: 150%">握。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">经杜文康介绍，</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">所谓流动测震车，是这个专用车辆上放置有测震仪。行驶到地震区域后，专业人员便会将仪器放置在地面，进行监测。</SPAN><SPAN style="LINE-HEIGHT: 150%">”<BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">杜文康说，在汶川特大地震中，当时我省地震区内有</SPAN><SPAN style="LINE-HEIGHT: 150%">12</SPAN><SPAN style="LINE-HEIGHT: 150%">台固定地震台网被毁。</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">在这种情况下，中国地震局快速调集了包括四川省地震局在内的</SPAN><SPAN style="LINE-HEIGHT: 150%">7</SPAN><SPAN style="LINE-HEIGHT: 150%">个省地震部门和单</SPAN><SPAN style="LINE-HEIGHT: 150%">位，围绕震区布设了</SPAN><SPAN style="LINE-HEIGHT: 150%">40</SPAN><SPAN style="LINE-HEIGHT: 150%">个流动测震车，有效弥补和加强了余震监测能力。</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">据悉，流动测震车将参与</SPAN><SPAN style="LINE-HEIGHT: 150%">“5·12</SPAN><SPAN style="LINE-HEIGHT: 150%">防灾救灾大演练</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">目前国际上通用的震级标准共分</SPAN><SPAN style="LINE-HEIGHT: 150%">9</SPAN><SPAN style="LINE-HEIGHT: 150%">个等级，一般称为</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">里氏震级</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">。其中，小于</SPAN><SPAN style="LINE-HEIGHT: 150%">1</SPAN><SPAN style="LINE-HEIGHT: 150%">级的地震称为超微震，大于或等于</SPAN><SPAN style="LINE-HEIGHT: 150%">3</SPAN><SPAN style="LINE-HEIGHT: 150%">级，小于</SPAN><SPAN style="LINE-HEIGHT: 150%">4.5</SPAN><SPAN style="LINE-HEIGHT: 150%">级的称为有感地震，大于或等于</SPAN><SPAN style="LINE-HEIGHT: 150%">7</SPAN><SPAN style="LINE-HEIGHT: 150%">级的称为大地震，</SPAN><SPAN style="LINE-HEIGHT: 150%">8</SPAN><SPAN style="LINE-HEIGHT: 150%">级或</SPAN><SPAN style="LINE-HEIGHT: 150%">8</SPAN><SPAN style="LINE-HEIGHT: 150%">级以上的称为巨（特）大地震。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR></SPAN><SPAN style="LINE-HEIGHT: 150%">烈度如何，</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">耳报神</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">探知</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR></SPAN><SPAN style="LINE-HEIGHT: 150%">假设情况：震区房屋遭到破坏出动兵力：强震监测仪作战功能：监测地震烈度</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">省地震局台站管理中心强震组组长黎大虎说，除了流动测震仪以外，强震监测仪也会一同</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">作战</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">监测地震波。</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">流动测震仪主要监测的是地震震级，强震监测仪则主要监测地震烈度。</SPAN><SPAN style="LINE-HEIGHT: 150%">”<BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">昨日，记者见到了这台捕捉地震烈度的强震监测仪。从表面上看，监测仪体形秀气，长宽不超过</SPAN><SPAN style="LINE-HEIGHT: 150%">50cm</SPAN><SPAN style="LINE-HEIGHT: 150%">，更像是一个</SPAN><SPAN style="LINE-HEIGHT: 150%">Q</SPAN><SPAN style="LINE-HEIGHT: 150%">版旅行手提箱。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">黎</SPAN><SPAN style="LINE-HEIGHT: 150%">大虎解释到，</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">由于工作性质的原因，体型</SPAN><SPAN style="LINE-HEIGHT: 150%">‘</SPAN><SPAN style="LINE-HEIGHT: 150%">秀气</SPAN><SPAN style="LINE-HEIGHT: 150%">’</SPAN><SPAN style="LINE-HEIGHT: 150%">的监测仪易于携带，可以更有利地展开工作。强震监测仪就是主要捕捉</SPAN><SPAN style="LINE-HEIGHT: 150%">4</SPAN><SPAN style="LINE-HEIGHT: 150%">级以上地震烈度。</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">黎大虎说，在汶川</SPAN><SPAN style="LINE-HEIGHT: 150%">特大地震中，地震区域内的地震台网大部分被损毁，这种强震监测仪前往各个灾区收集数据，最终掌握了全面的地震烈度，对于后期的抗震救灾起到了重要作用。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">我国地震烈度采用</SPAN><SPAN style="LINE-HEIGHT: 150%">12</SPAN><SPAN style="LINE-HEIGHT: 150%">级烈度表。其中，</SPAN><SPAN style="LINE-HEIGHT: 150%">1</SPAN><SPAN style="LINE-HEIGHT: 150%">级为无感，属于仅有仪器可以记录到的，</SPAN><SPAN style="LINE-HEIGHT: 150%">12</SPAN><SPAN style="LINE-HEIGHT: 150%">级烈度则是最高烈度，会使所有建筑物普遍毁坏，汶川特大地震的最大烈度达到了</SPAN><SPAN style="LINE-HEIGHT: 150%">11</SPAN><SPAN style="LINE-HEIGHT: 150%">度。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR></SPAN><SPAN style="LINE-HEIGHT: 150%">天府早报记者郑其摄影方炜</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR></SPAN><SPAN style="LINE-HEIGHT: 150%">新闻链接</SPAN><SPAN style="LINE-HEIGHT: 150%">&gt;&gt;&gt;<BR></SPAN><SPAN style="LINE-HEIGHT: 150%">无证据表明全球地震情况异常</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">据新华社电本月</SPAN><SPAN style="LINE-HEIGHT: 150%">11</SPAN><SPAN style="LINE-HEIGHT: 150%">日以来，亚洲、美洲多个地区发生</SPAN><SPAN style="LINE-HEIGHT: 150%">5</SPAN><SPAN style="LINE-HEIGHT: 150%">级以上地震，引起人们的担忧。对此，美国地质勘探局专家表示，并无证据表明这是异常情况，也不能得出今年地震次数会比往年增加的结论，</SPAN><SPAN style="LINE-HEIGHT: 150%">“</SPAN><SPAN style="LINE-HEIGHT: 150%">地球已开启震动模式</SPAN><SPAN style="LINE-HEIGHT: 150%">”</SPAN><SPAN style="LINE-HEIGHT: 150%">的说法更是没有根据。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">美国地质勘探局公布的数据显示，格林尼治时间</SPAN><SPAN style="LINE-HEIGHT: 150%">11</SPAN><SPAN style="LINE-HEIGHT: 150%">日以来，全球</SPAN><SPAN style="LINE-HEIGHT: 150%">5</SPAN><SPAN style="LINE-HEIGHT: 150%">级以上地震频发，仅</SPAN><SPAN style="LINE-HEIGHT: 150%">11</SPAN><SPAN style="LINE-HEIGHT: 150%">日当天就达</SPAN><SPAN style="LINE-HEIGHT: 150%">40</SPAN><SPAN style="LINE-HEIGHT: 150%">次。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR></SPAN><SPAN style="LINE-HEIGHT: 150%">应急手册</SPAN><SPAN style="LINE-HEIGHT: 150%">&gt;&gt;&gt;<BR>　　</SPAN><SPAN style="LINE-HEIGHT: 150%">遇险时，可利用周围环境和可用物品，向外界发出求救信号。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　1</SPAN><SPAN style="LINE-HEIGHT: 150%">：声音信号。喊叫、吹哨子或敲打能发出声音的物品求救。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　2</SPAN><SPAN style="LINE-HEIGHT: 150%">：光线信号。用手电筒、镜子、玻璃、金属片、相机闪光灯等能发光、发光的物品反复闪照求救。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　3</SPAN><SPAN style="LINE-HEIGHT: 150%">：抛物信号。在高楼等处遇险时，可向窗外抛掷枕头、空塑料瓶等软物求救。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　4</SPAN><SPAN style="LINE-HEIGHT: 150%">：旗语信号。将旗子或色泽鲜艳的布料绑在竹竿或木棍上挥舞求救。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　5</SPAN><SPAN style="LINE-HEIGHT: 150%">：烟火信号。野外遇险时，在确保不发生火灾前提下，白天燃烧潮湿树枝、青草等植物产生浓烟；夜晚可点燃呈三角形的三堆火求救。</SPAN><SPAN style="LINE-HEIGHT: 150%"><BR>　　6</SPAN><SPAN style="LINE-HEIGHT: 150%">：</SPAN><SPAN style="LINE-HEIGHT: 150%">SOS</SPAN><SPAN style="LINE-HEIGHT: 150%">求救信号。</SPAN><SPAN style="LINE-HEIGHT: 150%">SOS</SPAN><SPAN style="LINE-HEIGHT: 150%">是国际通用的求救信号，一般情况下，重复三次的信号或三长三短的信号都表示求助。如连续敲三下墙壁或连续三次开关灯。</SPAN></P></div><br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+    			</div>
+			</div>
+			<div class="bxlbottom"><img src="../../../../../images/dz_44.jpg"/></div>
+		</div>
+		<div class="foot">
+
+
+			版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号<br />
+
+<a href="http://10.51.0.225:8080/wcm" target="_blank">网站管理</a>     <a target="_blank" href="http://mail.eqsc.gov.cn/">邮件登陆</a>     <a target='_blank' href="../../../../../wzdh/">网站地图</a>     <a href="../../../../../lxwm/" target="_blank">联系我们</a>
+		</div>
+		
+	</div>
+	
+</body>
+</html>

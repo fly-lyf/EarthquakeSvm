@@ -1,0 +1,681 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0051)http://www.njseism.gov.cn/pages/zcfg/zcfg_main.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD 
+id=Head1><TITLE>南京市地震局-政策法规</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../images/style.css">
+<SCRIPT src="../../images/plus.js"></SCRIPT>
+<script>
+var pageInclude = 15;
+function getPageInc(_currentPage){
+	var Inc = Math.ceil(_currentPage/pageInclude);
+	return Inc;
+}
+
+function toPage(_oEl,_sPageName,_sPageExt,_nPageCount){
+	var oInput = _oEl.CP;	if(!oInput || !oInput.value) return false;	var sValue = oInput.value;	if(isNaN(sValue)) return false;	if(sValue <= 0 || sValue>_nPageCount) return false;
+
+	if(sValue == 1)
+		window.location.href = _sPageName+"."+_sPageExt;
+	else 
+		window.location.href = _sPageName+"_" + (sValue-1) + "."+_sPageExt;		
+}
+
+function createPageHTML(_nPageCount, _nCurrIndex, _sPageName, _sPageExt){
+	if(_nPageCount == null || _nPageCount<=1){
+		return;
+	}
+	//document.write("当前第"+ (_nCurrIndex+1) +"页&nbsp;共"+_nPageCount+"页");
+	document.write("<span class='blue_page'>共"+_nPageCount+"页</span>");
+	document.write("&nbsp;<a href=\""+_sPageName+ "."+_sPageExt+"\">首页</a>&nbsp;");
+	var nCurrIndex = _nCurrIndex || 0;
+	if(nCurrIndex == 1)		
+		document.write("<a href=\""+_sPageName+ "."+_sPageExt+"\">上一页</a>&nbsp;");
+	if(nCurrIndex>1)
+		document.write("<a href=\""+_sPageName+"_" + (nCurrIndex-1) + "."+_sPageExt+"\">上一页</a>&nbsp;");
+
+	var pL = "";
+	var currInclude = getPageInc(_nCurrIndex+1);
+	var prePage = pageInclude*currInclude;
+
+	if(prePage > _nPageCount)
+		prePage = _nPageCount;
+	for(var pageN=(currInclude-1)*pageInclude+1;pageN<=prePage;pageN++){
+		if(pageN == (_nCurrIndex+1)){
+			pL+="<font color=red><b>"+pageN+"</b></font>&nbsp;";
+		}
+		else{
+			if(pageN == 1)
+				pL += "<a href=\""+_sPageName+"."+_sPageExt+"\">1</a>&nbsp;";
+			else 
+				pL += "<a href=\""+_sPageName+"_" + (pageN-1) + "."+_sPageExt+"\">"+ pageN +"</a>&nbsp;";
+			}
+	}
+	document.write(pL);
+
+	if(nCurrIndex < _nPageCount-1)
+		document.write("<a href=\""+_sPageName+"_" + (nCurrIndex+1) + "."+_sPageExt+"\">下一页</a>&nbsp;");
+
+		document.write("<a href=\""+_sPageName+"_" + (_nPageCount-1) + "."+_sPageExt+"\">尾页</a>&nbsp;");
+			
+	}
+</script>
+
+<SCRIPT language=JavaScript type=text/javascript src="../../images/Alert.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV style="TOP: 31%; LEFT: 16px" id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<FORM id=frmRegister 
+onkeypress="javascript:return WebForm_FireDefaultButton(event, 'imgbtnsearch')" 
+method=post name=frmRegister action=zcfg_main.aspx>
+<DIV><INPUT id=__EVENTTARGET type=hidden name=__EVENTTARGET /> <INPUT id=__EVENTARGUMENT type=hidden name=__EVENTARGUMENT /></DIV>
+<SCRIPT type=text/javascript>
+//<![CDATA[
+var theForm = document.forms['frmRegister'];
+if (!theForm) {
+    theForm = document.frmRegister;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</SCRIPT>
+
+<SCRIPT type=text/javascript>
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax 客户端框架未能加载。');
+//]]>
+</SCRIPT>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+a{ text-decoration:none; } 
+</STYLE>
+<SCRIPT language=javascript type=text/javascript>
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+</SCRIPT>
+
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../17860/" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='54702';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>
+
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=2 colSpan=2></TD></TR>
+  <TR>
+    <TD bgColor=#f5f2e1 vAlign=top width=280><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=1 width=255 align=center>
+        <TBODY>
+        <TR>
+          <TD bgColor=#cabe8c>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD bgColor=#f5f2e1><IMG src="../images/P020130802693227995266.jpg" width=252 height=33 /></TD></TR>
+              <TR>
+                <TD bgColor=#f5f2e1 vAlign=top>
+                  <TABLE border=0 cellSpacing=0 cellPadding=0 width=202 align=center>
+                    <TBODY>
+                    <TR>
+                      <TD>&nbsp;</TD></TR>
+                    <TR>
+                      <TD bgColor=#f5f2e1 vAlign=top>
+                        <TABLE border=0 cellSpacing=0 cellPadding=0 width=202 align=center>
+                          <TBODY>
+                             
+							
+							<TR>
+                            <TD height=36 background=../../images/2-button.jpg style="overflow:hidden;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="./" >
+<span id=btn_gjfl name=btn_gjfl  style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-SIZE: 11pt; BORDER-TOP: medium none; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: medium none" >
+抗震设防管理
+</span>
+</a>
+
+							</TD>
+							</TR>
+
+                            <TR>
+                            <TD>&nbsp;</TD>
+							</TR>
+							
+							<TR>
+                            <TD height=36 background=../../images/2-button.jpg style="overflow:hidden;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../dzaqsqjs/" >
+<span id=btn_gjfl name=btn_gjfl  style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-SIZE: 11pt; BORDER-TOP: medium none; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: medium none" >
+地震安全社区建设
+</span>
+</a>
+
+							</TD>
+							</TR>
+
+                            <TR>
+                            <TD>&nbsp;</TD>
+							</TR>
+							
+							<TR>
+                            <TD height=36 background=../../images/2-button.jpg style="overflow:hidden;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../fzjzkpsfxxjs/" >
+<span id=btn_gjfl name=btn_gjfl  style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-SIZE: 11pt; BORDER-TOP: medium none; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: medium none" >
+防震减灾科普示...
+</span>
+</a>
+
+							</TD>
+							</TR>
+
+                            <TR>
+                            <TD>&nbsp;</TD>
+							</TR>
+							
+							<TR>
+                            <TD height=36 background=../../images/2-button.jpg style="overflow:hidden;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../fzjzkpjyjdjs/" >
+<span id=btn_gjfl name=btn_gjfl  style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-SIZE: 11pt; BORDER-TOP: medium none; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: medium none" >
+防震减灾科普教...
+</span>
+</a>
+
+							</TD>
+							</TR>
+
+                            <TR>
+                            <TD>&nbsp;</TD>
+							</TR>
+							
+							<TR>
+                            <TD height=36 background=../../images/2-button.jpg style="overflow:hidden;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../kpxc/" >
+<span id=btn_gjfl name=btn_gjfl  style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-SIZE: 11pt; BORDER-TOP: medium none; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: medium none" >
+科普宣传
+</span>
+</a>
+
+							</TD>
+							</TR>
+
+                            <TR>
+                            <TD>&nbsp;</TD>
+							</TR>
+							
+
+                          
+                          
+                          
+                        
+                      
+                         
+                         
+							
+							</TBODY></TABLE></TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+    <TD bgColor=#f5f2e1 vAlign=top width=722>
+      <SCRIPT type=text/javascript>
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', document.getElementById('frmRegister'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tUpdatePanel1'], ['btn_gjfl','btn_gjfg','btn_bmgz','btn_dffg','btn_gfxwj','btn_qt','imgbtnsearch'], [], 90);
+//]]>
+</SCRIPT>
+
+      <DIV id=UpdatePanel1>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width=715 align=center>
+        <TBODY>
+        <TR>
+          <TD height=5 colSpan=2>&nbsp;</TD></TR>
+        <TR>
+          <TD height=30 width=12><IMG src="../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+          <TD class=wz width=695>您现在的位置：
+		  <a href="../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>震害防御</a>&nbsp;>&nbsp;<a href="./" class='wz CurrChnlCls'>抗震设防管理</a>
+		  </TD></TR>
+        <TR>
+          <TD height=1 background=../../images/xx.gif colSpan=2></TD></TR></TBODY></TABLE><BR>
+      <FIELDSET><!--查询-->
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+        <TBODY>
+        <TR>
+          <TD height=30 align=right><IMG align=absBottom src="../../images/icon00.gif" /> <SPAN id=Label3 
+            align="absmiddle">模糊查询：</SPAN><SELECT 
+            style="BACKGROUND-COLOR: #eeeeee" id=ddlkey class=select1 
+            name=ddlkey align=absMiddle> <OPTION selected 
+              value=TITLE>标题</OPTION> <OPTION 
+            value=KEYWORD>关键字</OPTION></SELECT><INPUT style="BACKGROUND-COLOR: #eeeeee; WIDTH: 96px; HEIGHT: 20px; COLOR: #999999; FONT-SIZE: 9pt" id=txtKey maxLength=25 name=txtKey /> <INPUT style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 50px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 21px; BORDER-LEFT-WIDTH: 0px" id=imgbtnsearch align=absBottom src="../../images/search.gif" type=image name=imgbtnsearch />&nbsp;&nbsp; </TD></TR></TBODY></TABLE><BR><!--文章列表-->
+      <DIV 
+      style="BORDER-BOTTOM-STYLE: none; TEXT-ALIGN: center; BORDER-RIGHT-STYLE: none; WIDTH: 100%; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" 
+      id=pnlnews>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" align=center height="100%">
+        <TBODY>
+        <TR>
+          <TD colSpan=2>
+            <DIV>
+            <TABLE style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-TOP-STYLE: none; COLOR: #333333; BORDER-LEFT-STYLE: none" id=gv_news border=0 cellSpacing=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+                     <TBODY>
+				 					                    
+                    <TR>
+                      <TD height=25 width="5%" align=middle><IMG src="../../images/icon-red.jpg" width=3 height=3 /></TD>
+                      
+					  <TD vAlign=center width="75%">
+					  <a class="STYLE18" style="cursor:hand;" hideFocus="hidefocus" href="./201502/t20150210_3195618.htm" target="_blank">
+					  	2014年南京市审批通过的地震安全性评价项目	
+				       </TD>
+                       <td width="20%" vAlign="right">
+					   [2015-02-10]
+					  </td>	
+					 				</TR>
+				                    
+                    <TR>
+                      <TD height=25 width="5%" align=middle><IMG src="../../images/icon-red.jpg" width=3 height=3 /></TD>
+                      
+					  <TD vAlign=center width="75%">
+					  <a class="STYLE18" style="cursor:hand;" hideFocus="hidefocus" href="./201502/t20150210_3195528.htm" target="_blank">
+					  	2014年开展地震安全性评价的建设工程项目（备案）	
+				       </TD>
+                       <td width="20%" vAlign="right">
+					   [2015-02-10]
+					  </td>	
+					 				</TR>
+				                    
+                    <TR>
+                      <TD height=25 width="5%" align=middle><IMG src="../../images/icon-red.jpg" width=3 height=3 /></TD>
+                      
+					  <TD vAlign=center width="75%">
+					  <a class="STYLE18" style="cursor:hand;" hideFocus="hidefocus" href="./201412/t20141202_3074050.htm" target="_blank">
+					  	2014年南京市抗震设防要求管理项目汇总表	
+				       </TD>
+                       <td width="20%" vAlign="right">
+					   [2014-12-02]
+					  </td>	
+					 				</TR>
+				                    
+                    <TR>
+                      <TD height=25 width="5%" align=middle><IMG src="../../images/icon-red.jpg" width=3 height=3 /></TD>
+                      
+					  <TD vAlign=center width="75%">
+					  <a class="STYLE18" style="cursor:hand;" hideFocus="hidefocus" href="./201410/t20141028_3034191.htm" target="_blank">
+					  	2013年南京市农村民居抗震设防工作	
+				       </TD>
+                       <td width="20%" vAlign="right">
+					   [2014-10-28]
+					  </td>	
+					 				</TR>
+				                    
+                    <TR>
+                      <TD height=25 width="5%" align=middle><IMG src="../../images/icon-red.jpg" width=3 height=3 /></TD>
+                      
+					  <TD vAlign=center width="75%">
+					  <a class="STYLE18" style="cursor:hand;" hideFocus="hidefocus" href="./201410/t20141028_3034183.htm" target="_blank">
+					  	2013年江宁等五区及高新区开展抗震设防要求管理的建设工程项目汇总表	
+				       </TD>
+                       <td width="20%" vAlign="right">
+					   [2014-10-28]
+					  </td>	
+					 				</TR>
+				                    
+                    <TR>
+                      <TD height=25 width="5%" align=middle><IMG src="../../images/icon-red.jpg" width=3 height=3 /></TD>
+                      
+					  <TD vAlign=center width="75%">
+					  <a class="STYLE18" style="cursor:hand;" hideFocus="hidefocus" href="./201410/t20141028_3034173.htm" target="_blank">
+					  	2013年南京市地震安全性评价管理	
+				       </TD>
+                       <td width="20%" vAlign="right">
+					   [2014-10-28]
+					  </td>	
+					 				</TR>
+				                    
+                    <TR>
+                      <TD height=25 width="5%" align=middle><IMG src="../../images/icon-red.jpg" width=3 height=3 /></TD>
+                      
+					  <TD vAlign=center width="75%">
+					  <a class="STYLE18" style="cursor:hand;" hideFocus="hidefocus" href="./201410/t20141028_3034164.htm" target="_blank">
+					  	2013年抗震设防要求管理工作	
+				       </TD>
+                       <td width="20%" vAlign="right">
+					   [2014-10-28]
+					  </td>	
+					 				</TR>
+				
+								</TBODY>
+                 </TABLE></TD></TR></TBODY></TABLE></DIV></TD></TR>
+        <TR>
+          <TD height=25 width="100%" valign="middle">&nbsp;&nbsp; 
+		   <SCRIPT LANGUAGE="JavaScript">
+			createPageHTML(1, 0, "index", "html");	
+		   </SCRIPT> 
+		  </TD>
+          </TR></TBODY></TABLE></DIV></FIELDSET> 
+      </DIV><BR></TD></TR></TBODY></TABLE><!--downer-->
+<div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位:南京市信息中心<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452-1号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+<SCRIPT type=text/javascript>
+//<![CDATA[
+WebForm_AutoFocus('txtKey');Sys.Application.initialize();
+//]]>
+</SCRIPT>
+</FORM></CENTER></BODY></HTML>

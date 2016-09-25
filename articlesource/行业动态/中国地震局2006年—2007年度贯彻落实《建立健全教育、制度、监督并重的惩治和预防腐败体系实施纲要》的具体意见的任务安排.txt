@@ -1,0 +1,389 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中国地震局2006年—2007年度贯彻落实《建立健全教育、制度、监督并重的惩治和预防腐败体系实施纲要》的具体意见的任务安排</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">中国地震局2006年—2007年度贯彻落实《建立健全教育、制度、监督并重的惩治和预防腐败体系实施纲要》的具体意见的任务安排</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-06-12 22:29:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局监察司
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><P>&nbsp;&nbsp;&nbsp; 按照党委统一领导，党政齐抓共管，部门各负其责，纪委组织协调，依靠广大人民群众广泛参与和支持的反腐败工作体制，依据党风廉政建设责任制规定，确定2006年—2007年度贯彻落实《建立健全教育、制度、监督并重的惩治和预防腐败体系实施纲要》（以下简称《实施纲要》）的具体意见的任务安排。</P>
+<P><STRONG>中国地震局党组</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp; 1．统一领导地震系统贯彻落实《实施纲要》工作；对贯彻落实《实施纲要》的具体意见负总责。<BR>&nbsp;&nbsp;&nbsp; 2．结合党风廉政建设责任制，建立相应的责任体系和责任追究体系。以此为龙头，抓好机关干部作风建设。<BR>&nbsp;&nbsp;&nbsp; 3．结合防震减灾工作实际，建立和完善党组民主科学决策的制度，推进地震系统构建与社会主义市场经济体制相适应的教育、制度、监督并重的惩治和预防腐败体系（以下简称惩防体系），加强地震系统党风廉政建设和反腐败工作，保障防震减灾事业可持续健康发展。<BR>&nbsp;&nbsp;&nbsp; 4．把贯彻落实中央提出的建立健全惩防体系列入重要的议事日程，纳入防震减灾事业发展的总体规划，建立健全组织机构，认真组织实施。做好宣传工作，进一步统一认识，增强各级领导干部贯彻落实《实施纲要》的自觉性、主动性，创新工作方式。<BR>&nbsp;&nbsp;&nbsp; 5．完善政务、事务、党务工作公开制度，增强权力运行的透明度，加大监督力度；完善“三安全”（干部、资金、项目）保障措施，重点加强政府采购、招投标管理工作。监督检查各单位实施情况，切实把惩治和预防腐败各项工作落到实处。</P>
+<P><STRONG>机关司室具体任务安排</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp; <STRONG>一、办公室（政策研究室）</STRONG><BR>&nbsp;&nbsp;&nbsp; 1．进一步发挥好地震系统图书、期刊、内部情况信息等在反腐倡廉宣传教育中的作用；在地震系统网站上开辟反腐倡廉专栏。<BR>&nbsp;&nbsp;&nbsp; 2．认真听取人大代表、政协委员、民主党派人士对防震减灾工作的意见和建议，自觉接受人大和政协监督。及时办理人大代表、政协委员提案，不断改进工作。<BR>&nbsp;&nbsp;&nbsp; 3．完善局长接待日制度，设立意见箱和群众热线电话，方便群众监督。<BR>&nbsp;&nbsp;&nbsp; 4．按照党务、政务、事务公开办法，及时公开群众关心的焦点、热点和涉及群众切身利益的问题，并对处理情况进行检查。及时处理群众的信访来访。<BR>&nbsp;&nbsp;&nbsp; 5．建立健全党内情况通报、情况反映、重大决策征求意见等制度。<BR>&nbsp;&nbsp;&nbsp; 6．制定《中国地震局制度执行督察办法》。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>&nbsp;&nbsp;&nbsp; <STRONG>二、人事教育和科技司（国际合作司）</STRONG><BR>&nbsp;&nbsp;&nbsp; 1．制定长远教育规划，按干部管理权限，将反腐倡廉教育纳入各类干部培训教育内容中，选好教材，保证教育质量。<BR>&nbsp;&nbsp;&nbsp; 2．定期对各单位落实干部选拔任用工作有关规定执行情况进行检查，重点检查干部推荐、提名、考察考核、讨论决定等环节，建立完善干部选拔任用的竞争机制。配合纪检监察部门组织开展巡视工作。<BR>&nbsp;&nbsp;&nbsp; 3．制定《中共中国地震局党组科学民主决策制度》；修订《中共中国地震局党组议事规则和决策程序》。<BR>&nbsp;&nbsp;&nbsp; 4．制定《中国地震局机关工作人员从政行为规范》。<BR>&nbsp;&nbsp;&nbsp; 5．制定《中国地震局领导干部选拔任用工作办法》；制定《中国地震局机关人事工作暂行办法》；制定《中国地震局干部实绩考核评价标准（暂行）》。<BR>&nbsp;&nbsp;&nbsp; 6．建立健全中国地震局关于领导干部辞职、辞退、免职和降职等规定。<BR>&nbsp;&nbsp;&nbsp; 7．建立刚性的干部轮岗、交流制度,加大干部轮岗、交流力度。<BR>&nbsp;&nbsp;&nbsp; 8．健全完善《领导干部重大事项报告制度》。<BR>&nbsp;&nbsp;&nbsp; 9、健全完善《领导干部收入申报制度》。<BR>&nbsp;&nbsp;&nbsp; <STRONG>三、直属机关党委<BR></STRONG>&nbsp;&nbsp;&nbsp; 1．协助局党组全面落实《实施纲要》具体意见。<BR>&nbsp;&nbsp;&nbsp; 2．在局机关及京区直属单位全体党员中深入开展理想信念教育、作风纪律教育、党纪条规和国家法律、法规教育；巩固共产党员先进性教育活动成果，加强对党员干部的反腐倡廉教育，增强党员廉洁自律意识；在京区直属单位开展艰苦奋斗、爱岗敬业、无私奉献、诚信友爱、勤政廉洁 、遵纪守法和警示教育；建立健全反腐倡廉信息员、评论员队伍。<BR>&nbsp;&nbsp;&nbsp; 3．对局机关及京区直属单位领导班子及党员干部进行监督，建立和完善有关廉洁自律规定和制度。<BR>&nbsp;&nbsp;&nbsp; 4．查处局机关及京区直属单位处级以下干部违反党纪案件，受理党组织和党员干部的申诉。<BR>&nbsp;&nbsp;&nbsp; 5．发挥工会组织、共青团组织及职代会的监督作用。<BR>&nbsp;&nbsp;&nbsp; 6．制订《中国地震局各级纪检组织协助党组、党委协调反腐败工作的暂行规定》。<BR>&nbsp;&nbsp;&nbsp; <STRONG>四、震害防御司（法规司）<BR></STRONG>&nbsp;&nbsp;&nbsp; 1．制定《建设工程地震安全性评价结果审定及抗震设防要求确定行政许可实施细则》；制定《地震安全性评价资质行政许可实施细则》；制定《地震安全性评价工程师制度暂行规定》及配套规章制度。<BR>&nbsp;&nbsp;&nbsp; 2．按照《地震安全性评价工程师制度暂行规定》及配套规章制度的要求,对持有地震安全性评价上岗证书人员进行考核认定,并组织考试。重新核发地震安全性评价工程师资格证书,在此基础上,按照《地震安全性评价资质行政许可实施细则》的要求,对现有地震安全性评价资质证书进行清理，重新核发地震安全性评价资质证书。<BR>&nbsp;&nbsp;&nbsp; 3．加强地震行政执法管理工作，建立行政执法程序、执法人员管理、执法责任制和责任追究等方面的制度和办法，进一步规范地震行政执法行为。<BR>&nbsp;&nbsp;&nbsp; <STRONG>五、发展与财务司<BR></STRONG>&nbsp;&nbsp;&nbsp; 1．完善《中国地震局政府采购管理暂行办法》；制定《中国地震局政府采购运行规程暂行规定》。<BR>&nbsp;&nbsp;&nbsp; 2．进一步完善地震系统预算管理，积极推进国库集中支付，完善项目管理体制，加强项目支出预算管理，完善预算编制及预算审计制，预算执行的制衡机制及预算执行绩效考评制度，强化对预算执行的监控。建立资金绩效评价体系，形成资金规范、安全、有效的运行机制。<BR>&nbsp;&nbsp;&nbsp; 3．建立招投标不良行为记录发布制度，建立和完善招投标投诉处理办法，完善政府采购招投标监督办法，切实落实集中采购考核办法，建立采购评估标准和制度。<BR>&nbsp;&nbsp;&nbsp; 4．2006年起，逐步完善财务数据库系统，充分利用会计电算化和计算机网络，实现各单位的财务和审计部门计算机联网。<BR>&nbsp;&nbsp;&nbsp; <STRONG>六、审计室<BR></STRONG>&nbsp;&nbsp;&nbsp; 1．突出对主要领导干部、分管财务和开发工作的领导干部的经济责任审计，突出对重点项目的审计，不断加大审计力度，逐步开展司局级干部负责管理的专项工作的经济责任审计。将经济责任审计结果作为领导干部业绩评定、选拔任用、奖励惩处的重要参考依据。<BR>&nbsp;&nbsp;&nbsp; 2．修订完善《中国地震局领导干部任期经济责任审计办法》<BR>&nbsp;&nbsp;&nbsp; 3．逐步实现审计电算化，审计部门对各预算单位财务收支和重大项目资金支出流向、支出方式进行实时或定期监控。</P>
+<P><STRONG>中纪委驻局纪检组(监察司)</STRONG></P>
+<P>&nbsp;&nbsp;&nbsp; 1．协助中国地震局党组按照党章和党风廉政建设责任制规定，对各单位贯彻落实责任制和《实施纲要》工作进行检查，并依据党风廉政建设责任制有关规定实施责任追究。<BR>&nbsp;&nbsp;&nbsp; 2．对地震系统各级领导班子贯彻执行党的路线方针政策和国家法律法规情况、贯彻执行民主集中制的情况进行监督检查。对中国地震局在重大事项决策、重要干部任免、重大项目安排、大额资金使用上坚持民主决策的情况进行监督，对局（司）级领导干部遵守“四大纪律八项要求”、执行个人重大事项报告和述职述廉等制度的情况进行监督检查。会同人事部门组织开展巡视工作。<BR>&nbsp;&nbsp;&nbsp; 3．经中央纪委批准，初步核实中国地震局党组及其成员违反党纪的问题；参与调查中国地震局党组及其成员违反党纪的案件；调查中国地震局局（司）级干部违反党纪的案件及其它重要案件。<BR>&nbsp;&nbsp;&nbsp; 4．协助中国地震局党组协调中国地震局及所属系统的党风廉政建设和反腐败工作。<BR>&nbsp;&nbsp;&nbsp; 5．受理中国地震局党组织、党员的检举、控告，受理党组织、党员不服处分的申诉。<BR>&nbsp;&nbsp;&nbsp; 6．制定《中国地震局领导干部违反廉洁自律规定的处理办法》《中国地震局重大项目决策失误责任追究办法》，修订完善《中国地震局党风廉政建设责任制实施办法》、《中国地震局党风廉政建设责任制考核与责任追究办法》、《中国地震局巡视工作暂行办法》。</P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

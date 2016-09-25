@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">晒职责 树公信——上海市地震局举办媒体开放日活动<span>发布时间：2015-07-29</span></div>
+                <p><p>
+	&nbsp;&nbsp;&nbsp; 7月28日，正值唐山地震39周年纪念日，为更好地宣传地震部门工作职责，树立良好的社会公信力，拉近与媒体和公众的距离，上海市地震局首次面向媒体举办了开放日活动，吸引了来自新华社上海分社、中央电视台上海记者站、中央人民广播电台上海记者站、《解放日报》、《文汇报》、《新民晚报》、上海广播电视台、东方网、澎湃新闻等15家中央及地方主流媒体、网络媒体的20余名记者前来。</p>
+<p align="left">
+	&nbsp;&nbsp;&nbsp; 新闻媒体记者一行先后参观了上海地震监测中心、防震减灾应急处置中心，观看了《面对地震，我们在行动》科普片，聆听了《地震工作的内容与意义》专题报告，详细了解了上海地震监测情况和防震减灾工作开展情况，并结合我市防震减灾工作和大家关心的热点问题与专家们进行了互动访谈，就上海市地震背景和目前地震科技的发展现状展开了热烈的讨论。随后，媒体记者们赴佘山参观了上海地震科普馆和佘山地震基准台。在台站观测大厅里，记者们同台站观测人员热切交流，详细询问了上海地震监测能力、监测方法等问题，了解地震工作者的工作状态。</p>
+<p align="left">
+	&nbsp;&nbsp;&nbsp; 活动结束后，《地震少的上海如何开展地震研究》、《上海遭遇破坏性地震可能性不大》、《仅靠天际异象预测地震不科学》等多篇报道长文占据了各大传统媒体和网络媒体的显眼位置，并被多家媒体转载，向社会公众宣传了我市的防震减灾工作发展现状。此次开放日活动以媒体为桥梁，使更多人关注地震灾害，提高防震减灾意识，为地震部门增加公信力、解惑释疑、凝聚人心发挥了纽带作用。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507290916102312.jpg" title="图像" wdimgid="image_358" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507290916111298.jpg" title="图像" wdimgid="image_359" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507290916127885.jpg" title="图像" wdimgid="image_361" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507290500079488.jpg" title="图像" wdimgid="image_363" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

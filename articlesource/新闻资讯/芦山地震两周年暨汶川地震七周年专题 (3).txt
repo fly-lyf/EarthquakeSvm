@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>芦山地震两周年暨汶川地震七周年专题</title>
+<link rel="stylesheet" type="text/css" href="../../../../images/zn2015_conf_style.css"/>
+<script type="text/javascript" src="../../../../images/currPage.js"></script>
+</head>
+<body>
+<div id="mainWiap">
+  <div class="blankH10" style="height:301px;"></div>
+  <div class="contwiap">
+    <div class="blankH10"></div>
+    <div class="zn_dqwz white">当前位置：<a href="../../../../">首页</a>&gt;<a href="../../../">新闻资讯</a>&gt;<a href="../../">重要专题</a>&gt;<a href="../">芦山地震两周年暨汶川地震七周年专题</a>&gt;<a href="./">各地动态</a></div>
+    <div class="blankH14"></div>
+    <div class="zz_cont3">
+      <div class="contL fl">
+        <!--menu-->
+        <div class="p_menu">
+          <h2 class="f14 white"><a href="./">各地动态</a></h2>
+          <div class="blankH10"></div>
+          <ul>
+          
+          <li>&middot;<a href="../tpyw_20150415/">图片要闻</a></li>
+        
+          <li>&middot;<a href="../zhxx_20150416/">综合信息</a></li>
+        
+          <li>&middot;<a href="./">各地动态</a></li>
+        
+          <li>&middot;<a href="../mtjj_20150416/">媒体聚焦</a></li>
+        
+          <li>&middot;<a href="../dzkp_20150416/">地震科普</a></li>
+        
+          <li>&middot;<a href="../spbb_20150416/">视频播报</a></li>
+        
+          <li>&middot;<a href="../tpxw_20150416/">图片新闻</a></li>
+        
+          </ul>
+        </div>
+        <!--menu end-->
+      </div>
+      <div class="contR fr">
+        <!--政策法规-->
+        <div class="i_tyMenu">
+          <h2 class="fl f14"><a href="./">各地动态</a></h2>
+          <p class="clear"></p>
+        </div>
+        <div class="blankH14"></div>
+        <div class="i_list2">
+          <ul>
+           
+          <li><span>[2015-06-29]</span>&middot;<a href="./201506/t20150629_33186.html" target="_blank" title="阿坝州地震学会第五届理事会工作会议暨汶川地震七周年学术交流会在汶川召开">阿坝州地震学会第五届理事会工作会议暨汶川地震七周年学术交流会在汶川召开</a></li>
+         
+          <li><span>[2015-05-28]</span>&middot;<a href="./201505/t20150528_33090.html" target="_blank" title="绵竹市防灾救灾综合演练常态化">绵竹市防灾救灾综合演练常态化</a></li>
+         
+          <li><span>[2015-05-27]</span>&middot;<a href="./201505/t20150527_33081.html" target="_blank" title="攀枝花市防震减灾局积极开展防震减灾科普宣传活动">攀枝花市防震减灾局积极开展防震减灾科普宣传活动</a></li>
+         
+          <li><span>[2015-05-26]</span>&middot;<a href="./201505/t20150526_33067.html" target="_blank" title="乐山市认真开展防灾减灾宣传周宣传活动">乐山市认真开展防灾减灾宣传周宣传活动</a></li>
+         
+          <li><span>[2015-05-26]</span>&middot;<a href="./201505/t20150526_33065.html" target="_blank" title="眉山市防震减灾局“5·12”期间强化防震减灾科普宣传工作">眉山市防震减灾局“5·12”期间强化防震减灾科普宣传工作</a></li>
+         
+          <li><span>[2015-05-22]</span>&middot;<a href="./201505/t20150522_33053.html" target="_blank" title="成都市防震减灾局与市交委联合开展“防灾减灾，平安交通”宣传活动">成都市防震减灾局与市交委联合开展“防灾减灾，平安交通”宣传活动</a></li>
+         
+          <li><span>[2015-05-22]</span>&middot;<a href="./201505/t20150522_33051.html" target="_blank" title="绵阳市防震减灾局参加“科技活动周”宣传活动">绵阳市防震减灾局参加“科技活动周”宣传活动</a></li>
+         
+          <li><span>[2015-05-22]</span>&middot;<a href="./201505/t20150522_33049.html" target="_blank" title="乐山市防震减灾局积极参加科技活动周启动仪式">乐山市防震减灾局积极参加科技活动周启动仪式</a></li>
+         
+          <li><span>[2015-05-22]</span>&middot;<a href="./201505/t20150522_33043.html" target="_blank" title="甘孜州扎实开展防灾减灾宣传周各项活动">甘孜州扎实开展防灾减灾宣传周各项活动</a></li>
+         
+          <li><span>[2015-05-22]</span>&middot;<a href="./201505/t20150522_33041.html" target="_blank" title="资阳市防震减灾办开展防震减灾应急知识培训">资阳市防震减灾办开展防震减灾应急知识培训</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33033.html" target="_blank" title="凉山州防震减灾宣传科普年活动在17县市同步启动">凉山州防震减灾宣传科普年活动在17县市同步启动</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33030.html" target="_blank" title="甘孜州开展防灾减灾日宣传活动">甘孜州开展防灾减灾日宣传活动</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33028.html" target="_blank" title="绵阳江油市防震减灾局参加5·12防灾减灾日宣传活动">绵阳江油市防震减灾局参加5·12防灾减灾日宣传活动</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33026.html" target="_blank" title="眉山市东坡区开展“5·12”防震减灾安全应急疏散演练">眉山市东坡区开展“5·12”防震减灾安全应急疏散演练</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33024.html" target="_blank" title="甘孜州乡城县开展防灾救灾大演练活动">甘孜州乡城县开展防灾救灾大演练活动</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33022.html" target="_blank" title="眉山市丹棱中学开展“5.12”防震救灾应急演练">眉山市丹棱中学开展“5.12”防震救灾应急演练</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33020.html" target="_blank" title="攀枝花市防震减灾局开展“5·12”防灾减灾日宣传活动">攀枝花市防震减灾局开展“5·12”防灾减灾日宣传活动</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33018.html" target="_blank" title="乐山市扎实开展防灾减灾日宣传活动">乐山市扎实开展防灾减灾日宣传活动</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33015.html" target="_blank" title="阿坝州防震减灾局开展全国防灾减灾日宣传及应急演练工作">阿坝州防震减灾局开展全国防灾减灾日宣传及应急演练工作</a></li>
+         
+          <li><span>[2015-05-18]</span>&middot;<a href="./201505/t20150518_33013.html" target="_blank" title="德阳市举办地震科普知识和预警技术讲座">德阳市举办地震科普知识和预警技术讲座</a></li>
+         
+          </ul>
+        </div>
+        <!--政策法规 end-->
+        <div class="blankH20"></div>
+        <div class="p_next"><script type="text/javascript">
+		 createPageHTML(3, 0, "index", "html");
+	  </script></div>
+      </div>
+      <p class="clear"></p>
+    </div>
+    <div class="blankH16"></div>
+    <!--底部开始-->
+    <div class="botCont">
+      <div class="blankH12"></div>
+      版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+       蜀ICP备05030409号 </div>
+  </div>
+</div>
+</body>
+</html>

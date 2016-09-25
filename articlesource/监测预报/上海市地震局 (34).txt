@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">郑斯华教授为我局技术人员讲授地震数据处理及软件应用<span>发布时间：2015-02-26</span></div>
+                <p><p>
+	　　为进一步提高工作效率，培养监测中心年轻职工的科研创新能力，监测中心于2015年2月9日至11日举办&ldquo;基于Linux系统下地震数据处理软件SAC及绘图软件GMT的操作培训班&rdquo;。此次培训是监测中心2015年的首次大规模业务培训，涉及速报、震防和预报等多个领域，受到各级领导的重视和各部门同志的欢迎。</p>
+<p>
+	　　应监测中心副主任于海英的邀请，中国地震局预测所郑斯华教授为培训学员授课。郑教授长期从事数字地震资料的研究与应用，在该领域具有较高的权威性和影响力。在培训中，郑斯华教授深入浅出地为学员们介绍了SAC和GMT软件的原理及应用，配合具体的编程实例进行讲解，并不时解答大家的问题。他严谨认真的治学态度和扎实求真的科学精神深深感染了在场的年轻同志，使大家开阔了视野，增长了见识，并对科学技术在防震减灾事业发展中所起到的引领和支撑作用充满了信心。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1503/201503120113598840.jpg" title="图像" wdimgid="image_301" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1503/201503120114009538.jpg" title="图像" wdimgid="image_302" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,694 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../images/style(2).css">
+<SCRIPT src="../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17860/" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17885';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>应急救援</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>应急预案</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>地震应急演练指南</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2011-10-08</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_988232"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=988232"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <DIV align=right>&nbsp;</DIV>
+<DIV align=right>苏震函〔2011〕116号</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>关于转发中国地震局《关于印发</DIV>
+<DIV align=center>地震应急演练指南的通知》的通知</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV>各市地震局：</DIV>
+<DIV>为进一步加强、规范和指导地震应急演练工作，增强应对地震突发事件的能力，现将中国地震局《关于印发地震应急演练指南的通知》（中震救发〔2011〕64号）转发给你们，供在组织指导地震应急演练时参照执行。</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>二○一一年八月五日</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<P><BR clear=all>&nbsp;</P>
+<DIV align=center>地震应急演练指南</DIV>
+<DIV align=center>（中国地震局&nbsp;&nbsp;&nbsp; 二○一一年七月十五日）</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV>1 总 则</DIV>
+<DIV>为加强对地震应急演练工作的指导，促进演练工作规范、安全、节约、有序地开展，根据《中华人民共和国防震减灾法》、《国家地震应急预案》、《突发事件应急演练指南》等有关规定，制定本指南。</DIV>
+<DIV><B>1.1 </B><B>演练目的</B><B></B></DIV>
+<DIV>（1）检验预案。查找地震应急预案及相关预案中存在的问题，完善预案，提高预案的针对性、实用性和可操作性。</DIV>
+<DIV>（2）完善准备。检查应对地震事件所需应急救援队伍、物资、装备、技术等方面的准备情况，发现不足及时予以调整补充，做好应急准备工作。</DIV>
+<DIV>（3）锻炼队伍。检查演练组织单位、参与单位和人员等对预案的熟悉程度，提高其应急处置能力。</DIV>
+<DIV>（4）磨合机制。进一步明确相关单位和人员的职责任务，理顺工作关系，完善应急机制。</DIV>
+<DIV>（5）科普宣教。普及地震应急知识，提高公众地震风险的防范意识、防震避险和自救互救等应对能力。</DIV>
+<DIV><B>1.2 </B><B>演练原则</B><B></B></DIV>
+<DIV>（1）结合实际，合理定位。紧密结合地震应急管理工作实际，明确演练目的，根据资源条件确定演练方式和规模。</DIV>
+<DIV>（2）着眼实战、讲求实效。着眼于提高地震应急指挥人员的指挥协调能力、应急救援队伍的实战能力、专业部门的处置能力和群众自救互救能力。重视演练效果及组织工作的总结和评估。</DIV>
+<DIV>（3）精心组织、确保安全。围绕演练目的，精心策划演练内容，科学设计演练方案，周密组织演练活动。制订并严格遵守有关安全措施，确保演练安全和社会稳定。</DIV>
+<DIV>（4）统筹规划、厉行节约。统筹规划演练活动，充分利用现有资源，努力提高演练效益。</DIV>
+<DIV><B>1.3 </B><B>演练分类</B><B></B></DIV>
+<DIV>地震应急演练按组织单位划分，可分为政府演练、部门演练、企事业单位演练、基层组织演练；按演练形式划分，可分为桌面演练和实战演练；按演练内容划分，可分为单项演练和综合演练；按演练目的与作用划分，可分为检验性演练、示范性演练和研究性演练。</DIV>
+<DIV>将不同形式、不同内容、不同目的与作用的演练相互组合，可以形成不同单位组织的单项桌面演练、综合桌面演练、单项实战演练、综合实战演练、示范性单项演练、示范性综合演练等。</DIV>
+<DIV><B>1.4 </B><B>演练规划</B><B></B></DIV>
+<DIV>演练组织单位要根据相关法律法规和应急预案的规定，结合实际情况，制订应急演练规划，按照“先简单后复杂、循序渐进、时空有序”等原则，合理规划应急演练的目标、形式、内容、规模、频次、时间、地点，以及经费筹措渠道和保障措施等。</DIV>
+<DIV>2 演练内容</DIV>
+<DIV>演练组织单位可根据本地区、本单位的实际情况以及演练形式和目的作用的不同，参考以下内容组织演练。</DIV>
+<DIV><B>2.1 </B><B>应急启动</B><B></B></DIV>
+<DIV>主要包括：地震信息速报、灾情快速获取、灾害级别与响应级别研判、应急响应启动、先期通信交通保障、应急救援队伍调集等。</DIV>
+<DIV><B>2.2 </B><B>应急指挥</B><B></B></DIV>
+<DIV>主要包括：应急指挥机构运作、重大决策部署传达贯彻、抗震救灾工作部署、技术系统辅助决策、救援力量和物资装备调运、现场应急指挥协调、应急结束研判与发布等。</DIV>
+<DIV><B>2.3 </B><B>灾情收集与报送</B><B></B></DIV>
+<DIV>主要包括：灾情侦查与获取、灾情分析与评估、灾情汇集与上报、抗震救灾需求报告等。</DIV>
+<DIV><B>2.4 </B><B>人员搜救</B><B></B></DIV>
+<DIV>主要包括：现场调配抢险救援力量和装备、搜索与营救被困人员、紧急救治与运送伤员等。</DIV>
+<DIV><B>2.5 </B><B>自救互救</B><B></B></DIV>
+<DIV>主要包括：被困人员紧急避险和自救、互救，地震志愿者队伍开展救援行动等。</DIV>
+<DIV><B>2.6 </B><B>疏散安置</B><B></B></DIV>
+<DIV>主要包括：应急避难场所启用、帐篷和生活必需品调运、被困人员紧急疏散、转移和安置等。</DIV>
+<DIV><B>2.7 </B><B>医疗救治和卫生防疫</B><B></B></DIV>
+<DIV>主要包括：医学救援队伍组织调遣、医疗器械和药品调集、受伤人员救治和转移后送、饮用水源和食品监测、传染病监控和卫生防疫等。</DIV>
+<DIV><B>2.8 </B><B>基础设施保障</B><B></B></DIV>
+<DIV>主要包括：公路、桥梁、隧道等交通设施和供电、供水、供气、通信等设施抢修维护等。</DIV>
+<DIV><B>2.9 </B><B>地震监测</B><B></B></DIV>
+<DIV>主要包括：地震台网监测、现场流动观测、地震趋势判定、震情信息报送等。</DIV>
+<DIV><B>2.10 </B><B>灾害调查评估</B><B></B></DIV>
+<DIV>主要包括：地震烈度、灾区范围、建构筑物和基础设施破坏程度、人员伤亡数量、地震灾害损失评估、地震宏观异常现象、各种地震地质灾害、发震构造、工程结构震害特征、地震社会影响等调查，以及科学考察等。</DIV>
+<DIV><B>2.11 </B><B>次生灾害防范与处置</B><B></B></DIV>
+<DIV>主要包括：火灾、水灾、危化品、毒气、地质灾害监控与处置，以及水库和饮用水源安全保障、污染物防控、环境监控和核设施安全保障等。</DIV>
+<DIV><B>2.12 </B><B>社会治安维护</B><B></B></DIV>
+<DIV>主要包括：社会治安维护与打击违法犯罪活动、交通秩序维护、要害部门和重要场所警戒等。</DIV>
+<DIV><B>2.13 </B><B>新闻及信息发布与宣传</B><B></B></DIV>
+<DIV>主要包括：震情灾情信息发布、抗震救灾新闻宣传报道、国内外舆情收集、分析和引导、国外新闻媒体采访报道组织安排等。</DIV>
+<DIV><B>2.14 </B><B>应急保障</B><B></B></DIV>
+<DIV>主要包括：物资、装备、通信、电力、交通等抗震救灾保障。</DIV>
+<DIV>3 演练准备</DIV>
+<DIV><B>3.1 </B><B>成立演练组织机构</B><B></B></DIV>
+<DIV>演练应在地震应急预案确定的应急领导机构或指挥机构领导下组织开展。演练之前，演练组织单位要成立由相关单位领导组成的演练领导小组，通常下设策划部、保障部和评估组。对于不同类型和规模的演练活动，其组织机构和职能可以适当调整。根据需要，可成立演练现场领导机构或指挥机构。</DIV>
+<DIV>3.1.1 领导小组</DIV>
+<DIV>负责演练活动全过程的组织领导，审批决定演练的重大事项。演练领导小组组长一般由演练组织单位或其上级单位的负责人担任，副组长一般由演练组织单位或主要协办单位负责人担任，领导小组其他成员一般由各演练参与单位相关负责人担任。在演练实施阶段，演练领导小组组长、副组长通常分别担任演练总指挥、副总指挥。</DIV>
+<DIV>3.1.2 策划部</DIV>
+<DIV>负责应急演练策划与演练方案设计、演练动员与培训、演练实施的组织协调、演练总结评估等工作。策划部负责人一般由演练组织单位具有应急演练组织经验和地震应急工作经验的人员担任，组织协调演练准备、演练实施、演练总结等阶段各项工作。策划部设总策划、副总策划，下设文案组、协调组、控制组和宣传组等。</DIV>
+<DIV>文案组。负责制定演练计划、设计演练方案、编写演练总结报告，以及演练文档归档与备案等。</DIV>
+<DIV>协调组。参与设计演练方案，负责与演练参与单位以及本单位有关部门之间的沟通协调。</DIV>
+<DIV>控制组。参与设计演练方案，在演练实施过程中，负责向演练人员传送各类控制信息，引导应急演练进程按计划进行。</DIV>
+<DIV>宣传组。负责设计演练宣传方案，整理演练信息、组织新闻媒体和开展新闻发布等。</DIV>
+<DIV>3.1.3 保障部</DIV>
+<DIV>负责设计演练保障方案，协调演练所需物资装备，购置和制作演练模型、道具、场景，准备演练场地，维持演练现场秩序，保障运输车辆，保障人员生活和安全保卫等。</DIV>
+<DIV>3.1.4 评估组</DIV>
+<DIV>评估组可由上级部门组织，也可由演练组织单位自行组织。负责评审演练方案、设计演练评估方案、编写演练评估报告，对演练准备、组织、实施及其安全事项等进行全过程、全方位评估，及时向演练领导小组、策划部和保障部提出意见、建议。</DIV>
+<DIV>3.1.5 参演人员</DIV>
+<DIV>包括地震应急预案规定的有关应急部门（单位）应急指挥人员和管理人员、地震现场应急队伍、地震灾害紧急救援队伍和公安消防、矿山和危化品救护、紧急医学等可从事地震抢险救灾队伍，以及各类工程抢险救灾队伍、地震志愿者队伍和社会公众（学生）等。参演人员承担具体演练任务，针对模拟地震事件场景作出应急响应行动。有时可使用模拟人员代替未参加现场演练的单位的人员，或模拟地震事件发生过程中，如释放烟雾、气体泄漏、电力中断、被压埋群众等。</DIV>
+<DIV><B>3.2 </B><B>制定演练计划</B><B></B></DIV>
+<DIV>演练计划由策划部制定后报演练领导小组批准。主要内容包括：</DIV>
+<DIV>（1）确定演练目的，明确举办演练的原因、演练要解决的问题和期望达到的效果等。</DIV>
+<DIV>（2）分析演练需求，在对事先设定地震事件的严重程度及应急预案进行认真分析的基础上，确定需演练的科目、需演练的人员、需锻炼的技能、需检验的设备、需完善的流程、需磨合的机制和需明确的职责等。</DIV>
+<DIV>（3）确定演练范围，根据演练需求、经费、资源和时间等条件的限制，确定演练类型、等级、地域、参演单位及人数、演练方式等。</DIV>
+<DIV>（4）安排演练准备与实施的日程计划，包括各种演练文件编写与审定的期限、物资器材准备的期限、演练实施的日期等。</DIV>
+<DIV>（5）编制演练经费预算，明确演练参与单位的任务和经费。</DIV>
+<DIV><B>3.3 </B><B>设计演练方案</B><B></B></DIV>
+<DIV>演练方案由策划部和保障部共同制定，主要内容包括：</DIV>
+<DIV>3.3.1 确定演练目标</DIV>
+<DIV>演练目标是需完成的主要演练任务及其达到的效果，一般说明“由谁在什么条件下完成什么任务，依据什么标准，取得什么效果”。演练目标应简单、具体、可量化、可实现。一次演练一般有若干项演练目标，每项演练目标都要在演练方案中有相应的事件和演练活动予以实现，并在演练评估中有相应的评估项目判断该目标的实现情况。</DIV>
+<DIV>3.3.2 设计演练情景</DIV>
+<DIV>演练情景要为演练活动提供初始条件，还要通过一系列的情景事件引导演练活动继续，直至演练完成。演练情景包括演练场景概述和演练场景清单。</DIV>
+<DIV>（1）演练场景概述。要对每一处演练场景的概要说明，主要说明地震事件发生的时间、地点、震级等要素、地质环境和社会环境条件、地震灾害严重程度、受影响范围、人员和物资分布、已造成的损失、灾害后续发展预测、可能出现的次生灾害等。</DIV>
+<DIV>（2）演练场景清单。要明确演练过程中各场景的时间顺序列表和空间分布情况。演练各场景之间的逻辑关系要根据地震灾害发展进程、演练控制信息和演练人员收到控制信息后应采取的行动情况进行设计。</DIV>
+<DIV>3.3.3 设计演练步骤</DIV>
+<DIV>根据演练情景和内容（科目）设计，对演练过程中应急响应与处置各环节的实施步骤进行预先设定和描述。</DIV>
+<DIV>3.3.4 编写演练方案文件</DIV>
+<DIV>演练方案文件是指导演练实施的详细工作文件。根据演练类别和规模的不同，演练方案可以编为一个或多个文件。编为多个文件时可包括演练人员手册、演练控制手册、演练脚本，以及演练宣传方案和演练保障方案等。</DIV>
+<DIV>（1）演练人员手册。内容主要包括演练概述、组织机构、时间、地点、参演单位、演练目的、演练情景概况、演练现场标识、演练后勤保障、演练规则、演练流程、安全注意事项、通信联系方式等，但不包括演练细节。演练人员手册可发放给所有参加演练的人员。</DIV>
+<DIV>（2）演练控制手册。内容主要包括演练场景概述、演练场景清单、演练场景说明、参演人员及其位置、演练控制规则、控制人员组织结构与职责、通信联系方式等。演练控制手册主要供演练控制人员使用。</DIV>
+<DIV>（3）演练脚本。内容主要包括演练场景、处置行动、执行人员、指令与对白、视频背景与字幕、解说词等。实战演练随着熟练程度的提高，可由有脚本演练向无脚本演练转化，以更加贴近实战。</DIV>
+<DIV>（4）演练宣传方案。内容主要包括宣传目标、宣传方式、传播途径、主要任务及分工、技术支持、通信联系方式等。对涉密应急预案的演练或不宜公开的演练内容，还要制订保密措施。对可能影响公众生活、易于引起公众误解和恐慌的演练，应提前向社会发布公告，告示演练内容、时间、地点和组织单位，并做好应对方案，避免造成负面影响。</DIV>
+<DIV>（5）演练保障方案。内容主要包括以下方面：</DIV>
+<DIV>①人员保障。演练组织单位和参与单位应合理安排工作，保证演练领导小组、演练总指挥、总策划、文案人员、控制人员、评估人员、保障人员、参演人员、模拟人员等参与演练活动的时间。通过组织培训，提高演练参与人员的素质和技能。</DIV>
+<DIV>②经费保障。演练组织单位要根据按照演练计划及时拨付经费。对经费使用情况进行监督检查，确保演练经费专款专用、节约高效。</DIV>
+<DIV>③场地保障。根据演练方式和内容，经现场勘察后选择合适的演练场地。演练场地应有足够的空间，良好的交通、生活、卫生和安全条件，尽量避免干扰公众生产生活。</DIV>
+<DIV>④物资器材保障。根据需要，准备必要的演练材料、物资和器材，制作必要的模型设施等。</DIV>
+<DIV>⑤通信保障。应急演练过程中应急指挥机构、总策划、控制人员、参演人员、模拟人员等之间要有及时可靠的信息传递渠道。根据演练需要，可以采用多种公用或专用通信系统，必要时可组建演练专用通信与信息网络，确保演练控制信息的快速传递。</DIV>
+<DIV>⑥安全保障。大型综合地震应急演练活动要按规定制定专门的应急预案，采取预防措施，避免或应对演练活动中发生非演练内容的突发事件，必要时需要为演练人员配备个体防护装备，购买商业保险。演练现场要有必要的安保措施，必要时对演练现场进行封闭或管制，保证演练安全进行。</DIV>
+<DIV>3.3.5 演练方案文件评审</DIV>
+<DIV>演练方案通过评估组评审后由演练领导小组批准，以确保演练方案科学可行和演练工作的顺利进行。必要时，演练方案还需报有关主管单位同意并备案。</DIV>
+<DIV><B>3.4 </B><B>设计演练评估方案</B><B></B></DIV>
+<DIV>3.4.1 设计评估标准和方法</DIV>
+<DIV>演练评估是通过观察、体验和记录演练活动，比较演练实际效果与目标之间的差异，总结演练成效和不足的过程。演练评估应以演练目标为基础。每项演练目标都要设计合理的评估方法、标准。根据演练目标的不同，可以用选择项（如：是/否判断，多项选择）、主观评分（如：1—差、3—合格、5—优秀）、定量测量（如:响应时间、被困人数、获救人数）等方法进行评估。</DIV>
+<DIV>为便于演练评估操作，通常事先设计好评估表格，包括演练目标、评估标准、评估方法和相关记录项等。有条件时还可以采用专业评估软件等工具。</DIV>
+<DIV>3.4.2 制定演练评估指南</DIV>
+<DIV>演练评估指南主要包括演练情景概况、演练目标、演练场景清单、参演人员及其位置、评估人员组织结构与职责、评估人员位置、评估表格及相关工具、评估程序、评估方法和标准、通信联系方式等。演练评估指南主要供演练评估人员使用。</DIV>
+<DIV>3.4.3 编写演练评估报告</DIV>
+<DIV>依据演练评估指南，在现场观察、体验和记录演练准备、组织、实施、宣传及保障等情况的基础上，对演练活动进行全过程、全方位的评价，并形成演练评估报告报演练领导小组或演练组织单位。</DIV>
+<DIV><B>3.5 </B><B>演练动员和培训</B><B></B></DIV>
+<DIV>策划部根据地震应急预案和演练方案适时组织会议，对参演单位和主要参演人员进行演练动员，以及技术和必要的保密工作等培训。</DIV>
+<DIV>4 演练实施</DIV>
+<DIV><B>4.1 </B><B>演练启动</B><B></B></DIV>
+<DIV>演练启动一般以模拟地震事件发生后，地震三要素速报完成为启动时间，或者由演练总指挥宣布演练开始并启动演练活动。</DIV>
+<DIV><B>4.2 </B><B>演练执行</B><B></B></DIV>
+<DIV>4.2.1 演练指挥与行动</DIV>
+<DIV>（1）演练总指挥或由演练总指挥授权总策划负责演练实施全过程的指挥控制。</DIV>
+<DIV>（2）按照演练方案要求，应急指挥机构指挥各参演队伍和人员，开展对模拟地震事件的应急处置行动，完成各项演练活动。</DIV>
+<DIV>（3）演练控制人员应充分掌握演练方案，熟练发布控制信息，协调参演人员完成各项演练任务。</DIV>
+<DIV>（4）参演人员根据控制信息和指令，按照演练方案规定的程序开展应急处置行动，完成各项演练活动。</DIV>
+<DIV>（5）模拟人员按照演练方案要求，模拟未参加演练的单位或人员的行动，与参演人员共同完成演练任务。</DIV>
+<DIV>4.2.2 演练过程控制</DIV>
+<DIV>（1）桌面演练过程控制。在桌面演练中，演练活动主要是围绕设定的背景信息和注入信息进行。由信息注入人员以口头或书面形式，按照地震灾害发展进程注入若干信息。参演人员根据应急预案及有关规定，讨论应采取的行动，完成应急处置活动，并作出应急处置信息反馈。</DIV>
+<DIV>（2）实战演练过程控制。在实战演练中，要通过传递控制信息来控制演练进程。控制人员向参演人员和模拟人员按照演练方案传递控制信息。参演人员和模拟人员接收到信息后，按照发生真实地震事件时的应急处置程序，或根据应急预案，采取相应的应急处置行动，并作出应急处置信息反馈。</DIV>
+<DIV>控制信息可由人工传递，也可以用对讲机、电话、手机、传真机、网络等方式传送，或者通过特定的声音、标志、视频等呈现。演练过程中，控制人员应随时掌握演练进展情况，并向演练总指挥报告演练过程中出现的各种问题。</DIV>
+<DIV>4.2.3 演练解说和记录</DIV>
+<DIV>在演练实施过程中，演练组织单位可以安排专人对演练过程进行解说。解说内容一般包括演练背景描述、进程讲解、行动旁白、案例介绍等。</DIV>
+<DIV>演练实施过程中，一般要安排专门人员，采用文字、照片和音像等方式记录演练过程。文字记录一般可由评估人员完成，主要包括演练实际开始与结束时间、演练过程控制情况、演练进展及阶段性成果、演练活动中参演人员的表现、意外情况及其处置等内容。</DIV>
+<DIV>4.2.4 演练宣传报道</DIV>
+<DIV>按照演练宣传方案作好演练宣传报道工作。认真做好信息采集、媒体组织、广播电视节目现场采编和播报等工作，扩大演练的宣传教育效果。对涉密应急演练要做好相关保密工作。</DIV>
+<DIV><B>4.3 </B><B>演练结束</B><B></B></DIV>
+<DIV>演练完毕，演练总指挥宣布演练结束。演练结束后所有人员停止演练活动，按预定方案集合进行现场总结讲评或者组织疏散。保障部负责组织人员对演练场地进行清理和恢复。</DIV>
+<DIV>5 演练总结与评估</DIV>
+<DIV><B>5.1 </B><B>演练总结</B><B></B></DIV>
+<DIV>演练总结可分为现场总结和事后总结。</DIV>
+<DIV>（1）现场总结。在演练的一个或所有阶段结束后，由演练总指挥或者总策划、评估组组长等在演练现场有针对性地进行讲评和总结。内容主要包括演练的组织情况、演练目标及效果、参演队伍及人员的表现、演练中暴露的问题、解决问题的办法等。</DIV>
+<DIV>（2）事后总结。在演练结束后，由文案组根据演练记录、演练评估报告、应急预案、现场总结等材料，对演练进行系统和全面的总结，并形成演练总结报告。演练参与单位也可对本单位的演练情况进行总结。</DIV>
+<DIV>演练总结报告的内容包括:演练准备及组织情况，演练的目的，演练的时间和地点，参演单位和人员表现，发现的问题与原因，经验和教训，以及改进有关工作的措施建议等。</DIV>
+<DIV><B>5.2 </B><B>演练评估</B><B></B></DIV>
+<DIV>演练评估是在全面分析演练记录及相关资料的基础上，对比参演人员表现与演练目标要求，对演练活动及其组织过程作出客观评价，并编写演练评估报告的过程，主要侧重对演练实施全过程的效果评价。所有应急演练活动都应进行演练评估。</DIV>
+<DIV>演练结束后可通过组织评估会议、填写演练评价表和对参演人员进行访谈等方式，也可要求参演单位提供自我评估总结材料，进一步收集演练组织实施的情况。</DIV>
+<DIV>演练评估报告的主要内容一般包括：演练执行情况、预案的合理性与可操作性、应急指挥人员的指挥协调能力、参演人员的处置能力、演练所用设备装备的适用性、演练目标的实现情况、演练的成本效益分析、对完善预案的建议等。</DIV>
+<DIV><B>5.3 </B><B>成果应用</B><B></B></DIV>
+<DIV>对演练中暴露出来的问题，演练参与单位应当及时采取措施予以改进，包括修改完善应急预案、有针对性地加强应急人员的教育和培训、对应急物资装备有计划地更新等，并建立改进任务表，按规定时间对改进情况进行监督检查。</DIV>
+<DIV><B>5.4 </B><B>文件归档与备案</B><B></B></DIV>
+<DIV>演练组织单位在演练结束后应将演练计划、演练方案、演练总结报告、演练评估报告等资料归档保存。</DIV>
+<DIV><B>5.5 </B><B>考核与奖惩</B><B></B></DIV>
+<DIV>演练组织单位要注重对演练参与单位及人员进行考核。对在演练中表现突出的单位及个人，可给予表彰和奖励。对不按要求参加演练，或影响演练正常开展的，可给予相应批评。</DIV>
+<DIV>6 附 则</DIV>
+<DIV><B>6.1 </B><B>适用范围</B><B></B></DIV>
+<DIV>本指南适用于各级各类应急管理领导机构组织开展的地震应急演练活动。有关行业、部门和单位可根据实际情况制定具体的地震应急演练实施细则或专项指南。</DIV>
+<DIV><B>6.2 </B><B>名词解释</B><B></B></DIV>
+<DIV>（1）地震应急演练。指各级人民政府及其部门、企事业单位、社会团体和基层组织等组织相关单位及人员，依据有关地震应急预案，模拟应对地震事件的活动。</DIV>
+<DIV>（2）政府演练。指各级政府组织的地震应急演练。</DIV>
+<DIV>（3）部门演练。指各级政府部门组织的地震应急演练。</DIV>
+<DIV>（4）企事业单位演练。指交通、铁路、水利、电力、通信等基础设施和学校、医院等人员密集场所的经营管理单位，以及可能发生次生灾害的核电、矿山、危险物品等生产经营单位，以及事业和团体等单位组织的地震应急演练。</DIV>
+<DIV>（5）基层组织演练。指城市街道办事处、居民委员会、村民委员会组织的地震应急演练。</DIV>
+<DIV>（6）桌面演练。指参演人员利用地图、沙盘、流程图、计算机模拟、视频会议等辅助手段，针对事先假定的地震事件，通过场景再现、信息注入，讨论和推演应急决策及现场处置的过程，从而促进相关人员掌握应急预案中所规定的职责和程序，提高指挥决策和协同配合能力。桌面演练注重程序的讨论和推演，通常在室内完成。</DIV>
+<DIV>（7）实战演练。指参演人员利用应急处置涉及的设备和物资，针对事先设定的地震事件及其后续的发展情景，通过实际决策、行动和操作，完成真实应急响应的过程，从而检验和提高相关人员的临场组织指挥、队伍调动、应急处置技能和后勤保障等应急能力。实战演练通常要在特定场所完成。</DIV>
+<DIV>（8）单项演练。指涉及应急预案中特定应急响应功能或现场处置方案中一系列应急响应功能的演练活动。注重针对一个或少数几个参与单位（岗位）的特定环节和功能进行检验。</DIV>
+<DIV>（9）综合演练。指涉及应急预案中多项或全部应急响应功能的演练活动。注重对多个环节和功能进行检验，特别是对不同单位之间应急联动机制和联合应对地震灾害能力的检验。</DIV>
+<DIV>（10）检验性演练。指为检验应急预案的可行性、应急准备的充分性、应急机制的协调性、应急指挥人员的指挥协调能力及应急救援队伍的处置能力而组织的演练。</DIV>
+<DIV>（11）示范性演练。指为向观摩人员展示应急能力或提供示范教学，严格按照应急预案规定开展的表演性演练。</DIV>
+<DIV>（12）研究性演练。指为研究和解决地震事件应急处置的重点、难点问题，试验新方案、新技术、新装备而组织的演练。</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV>主题词：地震&nbsp; 应急&nbsp; 演练△&nbsp; 转发&nbsp; 通知</DIV>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17885';var __$contentid='988232';var __$title='地震应急演练指南';var __$AuthorPh='';var __$Editor='';var __$Liability='Administrator';var __$pubtime='2011-10-08 09:48:11';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

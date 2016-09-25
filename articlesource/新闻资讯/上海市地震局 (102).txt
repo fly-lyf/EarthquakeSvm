@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">阴朝民副局长赴江西调研防震减灾工作 <span>发布时间：2012-07-23</span></div>
+                <p><br />
+&nbsp;&nbsp;&nbsp; 2012年7月10日至14日，中国地震局阴朝民副局长率调研组到江西调研防震减灾工作。在赣期间，阴朝民同志先后与江西省委常委、省委宣传部部长姚亚平，省政府副省长谢茹就进一步深化局省合作、共同加强江西省防震减灾工作深入交换了意见。中国地震局政策法规司方韶东司长、监测预报司车时副司长以及有关工作人员参加调研。 <br />
+<br />
+&nbsp;&nbsp;&nbsp; 江西省政府和有关市政府及相关部门对此次调研活动高度重视。调研之前，省地震局专门向省政府领导进行了工作汇报，会同有关市地震局对全省防震减灾工作进行了认真总结，便于调研组全面了解工作情况，共同研究工作中面临的问题，有针对性地探讨如何促进事业更好发展。省地震局王建荣局长以及有关人员陪同调研。 <br />
+<br />
+&nbsp;&nbsp; 在南昌市，调研组听取了江西省防震减灾工作汇报，省政府谢茹副省长主持汇报会。在汇报会上，阴朝民副局长与谢茹副省长分别作重要讲话，对新时期推进江西省防震减灾工作提出重要指导意见。阴朝民副局长、谢茹副省长和晏驹腾副秘书长还共同视察了南昌中心地震台。 <br />
+<br /></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

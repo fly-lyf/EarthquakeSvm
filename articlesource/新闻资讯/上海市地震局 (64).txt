@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" class="now" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/hydt/index.html" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">区县动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">闵行区地震办领导视察浦江二中地震科普室<span>发布时间：2007-06-02</span></div>
+                <p><p align="center"><font face="Arial" size="4"><strong>闵行区地震办领导视察浦江二中地震科普室</strong></font></p>
+<p align="center"><img style="WIDTH: 539px; HEIGHT: 406px" height="547" width="623" alt="" src="/resource/区地办干部参观二中专用教室.jpg" /></p>
+<p align="left"><font face="Arial">　　4月26日下午，区地震办李学正科长等来到了浦江二中，在校长刘亚波老师的陪同下，兴致勃勃地参观了该校地震科普室。地震科普室是在闵行区地震办领导的关心和支持下建立起来的。浦江二中地震科普教室建立一年多来，已经接纳了来自校内和校外的参观者2000多人次。李科长一行在教室里观看了活动展板和有关地震音像资料等，并仔细地询问了有关设备的使用情况，学校科技总辅导顾海华老师详细介绍了我校地震科普教育&ldquo;防震减灾&rdquo;特色项目的深化、拓展和提高等情况。</font></p>
+<p align="left"><font face="Arial">　　李学正科长要求我校科技教育形式要更加多样化，在学校的防震减灾教育和生命教育方面要发挥更大的作用，要进一步开拓创新、挖掘内涵、拓展外延。他建议学校可以请更多的社区人员和其他学校的教师和学生来参观，包括民工子弟学校的师生，以进一步扩大地震科普知识普及面，更好地发挥特色学校的示范作用。</font></p>
+<p align="right"><font face="Arial">&nbsp;浦江二中&nbsp;&nbsp; 顾海华</font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

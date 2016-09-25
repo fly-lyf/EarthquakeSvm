@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">政务公开</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/zwgk/jggk/index.html" target="_parent" title="机构概况"><span>机构概况</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/ldjj/index.html" target="_parent" title="领导简介"><span>领导简介</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/jdsj/index.html" target="_parent" title="局大事记"><span>局大事记</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/xxgk/index.html" target="_parent" title="政府信息公开"><span>政府信息公开</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/xxgkzn/index.html" target="_parent" title="政府信息公开指南"><span>政府信息公开指南</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/ysqgk/index.html" target="_parent" title="依申请公开"><span>依申请公开</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/zwgk/tzgg/index.html" class="now" target="_parent" title="通知公告"><span>通知公告</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/zwgk/dflzjs/index.html" target="_parent" title="党风廉政建设"><span>党风廉政建设</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/cxzyhd/index.html" target="_parent" title="创先争优活动"><span>创先争优活动</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/2012fzjzr/index.html" target="_parent" title="2014防灾减灾日"><span>2014防灾减灾日</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/zwgk/n107/index.html" target="_parent" title="政府采购公开事项"><span>政府采购公开事项</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">政务公开</A> &gt; <A class=black-y-text HREF="index.html">通知公告</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">关于废止沪震函〔2014〕67号文件的通知<span>发布时间：2015-07-29</span></div>
+                <p><p>
+	上海市灾害防御协会：</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 根据中国地震局《关于废止地震安全性评价执业资格管理工作移交学会协会实施的有关文件的函》（中震函〔2015〕159号）的精神，经我局研究，决定废止《关于移交上海市地震安全性评价人员执业资格核准相关工作的函》（沪震函〔2014〕67号）。</p>
+<p>
+	&nbsp;&nbsp;&nbsp; 特此通知。</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: right;">
+	上海市地震局</p>
+<p style="text-align: right;">
+	2015年7月16日</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/flfg/hybz/index.html" class="now" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/flfg/qt/index.html" target="_parent" title="其他"><span>其他</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">行业标准</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">GB/T 23648－2009《社区志愿者地震应急与救援工作指南》<span>发布时间：2009-11-09</span></div>
+                <p><div><strong><br />
+标准名称：</strong><span>GB/T 23648</span>－<span>2009</span>《社区志愿者地震应急与救援工作指南》</div>
+<div><strong>英文名称：</strong><span>Guideline of earthquake emergency response and rescue for community volunteer</span></div>
+<div><strong>发布日期：</strong><span>2009</span>年<span>04</span>月<span>17</span>日</div>
+<div><strong>实施日期：</strong><span>2009</span>年<span>09</span>月<span>01</span>日</div>
+<div><strong>范围：</strong>本标准规定了社区志愿者地震应急与救援队伍建设要求和地震应急服务内容以及震后参与应急救援服务的方法、程序和要求。</div>
+<div>本标准适用于社区志愿者地震应急与救援队伍建设以及地震应急与救援服务，其他应急与救援工作亦可参照使用。</div>
+<div><strong>目次：</strong></div>
+<div>前言</div>
+<div>引言</div>
+<div>1 范围</div>
+<div>2 术语和定义</div>
+<div>3 队伍建设</div>
+<div>4 地震应急服务内容</div>
+<div>5 地震应急救援方法</div>
+<div>附录<span>A（资料性附录）社区志愿者地震应急与救援队伍装备</span></div>
+<div>附录<span>B（规范性附录）窒息和呼吸道梗阻处理</span></div>
+<div>附录<span>C（规范性附录）创伤性休克处理</span></div>
+<div>附录<span>D（规范性附录）止血方法</span></div>
+<div>附录<span>E（规范性附录）包扎方法</span></div>
+<div>附录<span>F（规范性附录）固定</span></div>
+<div>附录<span>G（规范性附录）搬运</span></div>
+<div>参考文献</div></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

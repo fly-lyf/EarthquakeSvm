@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/flfg/hybz/index.html" class="now" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/flfg/qt/index.html" target="_parent" title="其他"><span>其他</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">行业标准</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">GB/T 24888－2010《地震现场应急指挥数据共享技术要求》信息摘要 <span>发布时间：2010-08-05</span></div>
+                <p>英文名称：Technical requirements of data share for emergency command in earthquake occurrence site <br />
+<br />
+发布日期：2010年06月30日 <br />
+<br />
+实施日期：2010年10月01日 <br />
+<br />
+发布机关：国家质量监督检验检疫总局、中国国家标准化管理委员会 <br />
+<br />
+提出机构：中国地震局 <br />
+<br />
+主管部门：中国地震局政策法规司 <br />
+<br />
+技术归口：全国地震标准化技术委员会（SAC/TC 225） <br />
+<br />
+起草单位：中国地震局地震预测研究所、中国地震局工程力学研究所、福建省地震局、中国地震应急搜救中心 <br />
+<br />
+内容范围：本标准规定了地震现场应急指挥数据共享的数据类型、数据编码、数据格式、元数据、数据字典，以及数据汇交、数据质量控制、共享数据服务和共享数据维护的基本要求 <br />
+<br />
+本标准适用于地震现场应急指挥技术系统建设（或开发）和相关数据的获取、处理、维护、交换和共享 <br />
+<br />
+技术领域：地震应急救援 <br />
+<br />
+标准状态：现行有效 <br />
+<br />
+替代标准：无 <br />
+<br />
+标准分类：国际标准分类号91.120.25，中国标准分类号P15 <br />
+<br />
+出版单位：中国标准出版社 <br />
+<br />
+获取方式：如需获取相关标准，请与授权发行单位北京震恒科学技术开发公司联系，联系电话：010-62009061，传真：010-62009069 <br />
+<br />
+目次： <br />
+<br />
+前言 <br />
+<br />
+1 范围 <br />
+<br />
+2 规范性引用文件 <br />
+<br />
+3 术语和定义 <br />
+<br />
+4 共享数据 <br />
+<br />
+5 元数据 <br />
+<br />
+6 数据字典 <br />
+<br />
+7 数据汇交 <br />
+<br />
+8 数据质量控制 <br />
+<br />
+9 共享服务与维护 <br />
+<br />
+附录A （规范性附录） 地震现场应急指挥共享数据格式 <br />
+<br />
+附录B （规范性附录） 地震现场应急指挥共享数据编码规则 <br />
+<br />
+附录C （规范性附录） 地震现场应急指挥共享数据元数据格式 <br />
+<br />
+附录D （规范性附录） 地震现场应急指挥共享数据的数据字典 <br />
+<br />
+参考文献 <br /></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

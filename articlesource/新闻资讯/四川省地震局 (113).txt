@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../images/conf_style.css"/>
+<script type="text/javascript" src="../../../../images/sechange.js"></script>
+<link rel="stylesheet" type="text/css" href="../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script>
+ function initmap(){
+
+ var appdixurl = '';
+  var appdixurl2 = '';
+  var  apps =   "pic0;pic1;pic2"
+               var  apparr=apps.split(";");
+  var picApp = './W020151220722756121920.png;./W020151220722756599271.png;./W020151220722757061285.png';
+  
+  var picAppArray = new Array();
+  picAppArray = picApp.split(";");
+             for(i=0;i<picAppArray.length;i++){
+                  if(apparr[i]=="pic0"){
+                       appdixurl  = picAppArray[i];
+                   }
+                  if(apparr[i]=="pic1"){
+                       appdixurl2 = picAppArray[i];
+                   }
+            }
+
+var cendiv  =  document.getElementById("setpic");
+var content="<center><img src='"+appdixurl+"' style='width:800px; height:500px;'/><br/><img src='"+appdixurl2+"' style='width:800px; height:500px;'/></center>";
+
+ cendiv.innerHTML= content;
+ }
+</script>
+
+</head>
+
+<body onload="initmap();">
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../">首页</a>><a href="../../../">新闻资讯</a>><a href="../../">震情速递</a>><a href="../">地震目录</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>四川省雅安市雨城区发生3.2级地震 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;"> 据地震台网测定，北京时间2015-12-20 19:43:01 在四川省雅安市雨城区(北纬30.1,东经103.0) 发生3.2级地震。</div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" id="setpic" style="width:940px;">
+                   
+
+				
+				  <div style="display:none">
+				     <img src="./W020151220722756121920.png" alt="pic0"/><BR/><img src="./W020151220722756599271.png" alt="pic1"/><BR/><img src="./W020151220722757061285.png" alt="pic2"/>
+				  </div>
+    			</div>
+			</div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     <a href="./t20151220_33856.html"><img src="./W020151220722756121920.png" alt="pic0"/></a><BR/><a href="./t20151220_33856.html"><img src="./W020151220722756599271.png" alt="pic1"/></a><BR/><a href="./t20151220_33856.html"><img src="./W020151220722757061285.png" alt="pic2"/></a>
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

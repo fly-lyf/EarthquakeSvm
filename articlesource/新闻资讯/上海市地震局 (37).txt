@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">宣教中心荣获2015上海科普教育创新奖科普贡献三等奖<span>发布时间：2015-11-16&nbsp;&nbsp;&nbsp;&nbsp;信息来源：宣教中心</span></div>
+                <p><p>
+	　　11月8日，2015年上海科普教育创新奖颁奖典礼在上海儿童艺术剧场举行，我局宣传教育中心申报的&ldquo;上海市中学生防震减灾科普校园行活动&rdquo;荣获科普贡献奖（组织）三等奖。</p>
+<p>
+	　　上海科普教育创新奖是上海科普教育发展基金会自2012年起设立的全国首个由社会力量出资的综合性科普奖项，也是上海首个市级科普类奖项，分设&ldquo;科普杰出人物奖&rdquo;、&ldquo;科普贡献奖&rdquo;、&ldquo;科普成果奖&rdquo;和&ldquo;科普传媒奖&rdquo;四类，旨在调动社会力量，加速上海科普事业发展，并为政府科普奖励提供&ldquo;拓荒地&rdquo;与&ldquo;蓄水池&rdquo;。此次主办方共收到116个推荐申报项目，经过材料审核及由多名院士和知名专家组成评审团和奖励委员会四个阶段的审议评选，最终评出含提名奖在内的51个奖项，其中有三位中国科学院院士获奖，创下历届&ldquo;院士获奖人数之最&rdquo;。</p>
+<p>
+	　　我局宣教中心申报的&ldquo;上海市中学生防震减灾科普校园行活动&rdquo;因历史悠久、主题鲜明、形式丰富获得评审团肯定，该活动自1988年至今已成功举办18届，参与学生逾百万，通过&ldquo;教育一个学生，带动一个家庭，影响整个社会&rdquo;的教育模式，层层递进，不断努力增强全社会防震减灾意识，提高整体市民应对突发地震灾害的综合能力，以求达到防震减灾知识家喻户晓、人人皆知的效果。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1511/201511160112007827.jpg" title="图像" wdimgid="image_426" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1511/20151116011201161.jpg" title="图像" wdimgid="image_427" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

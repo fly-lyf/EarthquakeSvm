@@ -1,0 +1,1857 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../images/style(2).css">
+<SCRIPT src="../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17860/" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17884/" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17872';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>科技监测</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>地震目录</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>2011年江苏省内震情动态</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2012-01-08</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_988171"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=988171"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <P>
+<TABLE style="WIDTH: 689pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=918>
+<COLGROUP>
+<COL style="WIDTH: 133pt; mso-width-source: userset; mso-width-alt: 5664" width=177>
+<COL style="WIDTH: 76pt; mso-width-source: userset; mso-width-alt: 3232" width=101>
+<COL style="WIDTH: 108pt; mso-width-source: userset; mso-width-alt: 4608" width=144>
+<COL style="WIDTH: 85pt; mso-width-source: userset; mso-width-alt: 3616" width=113>
+<COL style="WIDTH: 54pt" width=72>
+<COL style="WIDTH: 233pt; mso-width-source: userset; mso-width-alt: 9952" width=311>
+<TBODY>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="WIDTH: 133pt; HEIGHT: 13.5pt" class=xl65 height=18 width=177>日期</TD>
+<TD style="WIDTH: 76pt" class=xl67 width=101>时间</TD>
+<TD style="WIDTH: 108pt" class=xl65 width=144>纬度</TD>
+<TD style="WIDTH: 85pt" class=xl65 width=113>经度</TD>
+<TD style="WIDTH: 54pt" class=xl65 width=72>震级</TD>
+<TD style="WIDTH: 233pt" class=xl65 width=311>参考地名</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年12月31日</TD>
+<TD class=xl67>20:39:35</TD>
+<TD class=xl65>3111</TD>
+<TD class=xl65>12052</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏苏州</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年12月28日</TD>
+<TD class=xl67>23:42:51</TD>
+<TD class=xl65>3104</TD>
+<TD class=xl65>12213</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>东海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年12月28日</TD>
+<TD class=xl67>1:30:44</TD>
+<TD class=xl65>3547</TD>
+<TD class=xl65>12201</TD>
+<TD class=xl65>Ml=2.6</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年12月5日</TD>
+<TD class=xl67>16:20:58</TD>
+<TD class=xl65>3206</TD>
+<TD class=xl65>11942</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏丹阳</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年12月2日</TD>
+<TD class=xl67>20:37:51</TD>
+<TD class=xl65>3350</TD>
+<TD class=xl65>11943</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏阜宁、滨海交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年12月1日</TD>
+<TD class=xl67>4:40:06</TD>
+<TD class=xl65>3354</TD>
+<TD class=xl65>11914</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏涟水</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年11月30日</TD>
+<TD class=xl67>20:34:21</TD>
+<TD class=xl65>3249</TD>
+<TD class=xl65>11936</TD>
+<TD class=xl65>Ml=2.3</TD>
+<TD class=xl65>江苏高邮</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年11月25日</TD>
+<TD class=xl67>21:23:21</TD>
+<TD class=xl65>3246</TD>
+<TD class=xl65>11938</TD>
+<TD class=xl65>Ml=1.6</TD>
+<TD class=xl65>江苏高邮</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年11月22日</TD>
+<TD class=xl67>20:41:58</TD>
+<TD class=xl65>3515</TD>
+<TD class=xl65>11515</TD>
+<TD class=xl65>Ml=2.8</TD>
+<TD class=xl65>山东荷泽</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年11月15日</TD>
+<TD class=xl67>8:27:06</TD>
+<TD class=xl65>3343</TD>
+<TD class=xl65>12011</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏射阳</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年11月15日</TD>
+<TD class=xl67>5:59:39</TD>
+<TD class=xl65>3246</TD>
+<TD class=xl65>12025</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>江苏东台</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年11月13日</TD>
+<TD class=xl67>9:57:52</TD>
+<TD class=xl65>3147</TD>
+<TD class=xl65>12316</TD>
+<TD class=xl65>Ml=3.2</TD>
+<TD class=xl65>东海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年11月3日</TD>
+<TD class=xl67>9:56:07</TD>
+<TD class=xl65>3119</TD>
+<TD class=xl65>12102</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏昆山</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年11月2日</TD>
+<TD class=xl67>21:39:45</TD>
+<TD class=xl65>3115</TD>
+<TD class=xl65>12014</TD>
+<TD class=xl65>Ml=1.2</TD>
+<TD class=xl65>江苏苏州</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月22日</TD>
+<TD class=xl67>8:11:10</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>12049</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏大丰附近海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月21日</TD>
+<TD class=xl67>19:13:49</TD>
+<TD class=xl65>3206</TD>
+<TD class=xl65>12104</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏通州</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月19日</TD>
+<TD class=xl67>21:58:13</TD>
+<TD class=xl65>3231</TD>
+<TD class=xl65>12132</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>江苏如东附近海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月18日</TD>
+<TD class=xl67>21:17:02</TD>
+<TD class=xl65>3401</TD>
+<TD class=xl65>11925</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏灌南、涟水交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月17日</TD>
+<TD class=xl67>19:26:30</TD>
+<TD class=xl65>3206</TD>
+<TD class=xl65>12007</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏泰兴</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月16日</TD>
+<TD class=xl67>9:02:37</TD>
+<TD class=xl65>3436</TD>
+<TD class=xl65>12230</TD>
+<TD class=xl65>Ml=3.5</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月16日</TD>
+<TD class=xl67>5:26:14</TD>
+<TD class=xl65>3121</TD>
+<TD class=xl65>12029</TD>
+<TD class=xl65>Ml=1.0</TD>
+<TD class=xl65>江苏苏州</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月16日</TD>
+<TD class=xl67>1:35:14</TD>
+<TD class=xl65>3420</TD>
+<TD class=xl65>12222</TD>
+<TD class=xl65>Ml=3.2</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月15日</TD>
+<TD class=xl67>11:07:37</TD>
+<TD class=xl65>3434</TD>
+<TD class=xl65>12219</TD>
+<TD class=xl65>Ml=4.0</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月11日</TD>
+<TD class=xl67>2:48:59</TD>
+<TD class=xl65>3201</TD>
+<TD class=xl65>12107</TD>
+<TD class=xl65>Ml=1.3</TD>
+<TD class=xl65>江苏通州</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月9日</TD>
+<TD class=xl67>4:40:43</TD>
+<TD class=xl65>3200</TD>
+<TD class=xl65>12139</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>江苏启东</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月8日</TD>
+<TD class=xl67>19:29:11</TD>
+<TD class=xl65>3212</TD>
+<TD class=xl65>12030</TD>
+<TD class=xl65>Ml=1.6</TD>
+<TD class=xl65>江苏如皋</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月8日</TD>
+<TD class=xl67>19:25:16</TD>
+<TD class=xl65>3213</TD>
+<TD class=xl65>12030</TD>
+<TD class=xl65>Ml=3.6</TD>
+<TD class=xl65>江苏如皋</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月8日</TD>
+<TD class=xl67>13:09:18</TD>
+<TD class=xl65>3222</TD>
+<TD class=xl65>12012</TD>
+<TD class=xl65>Ml=2.3</TD>
+<TD class=xl65>江苏姜堰、泰兴交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月8日</TD>
+<TD class=xl67>1:23:19</TD>
+<TD class=xl65>3411</TD>
+<TD class=xl65>12101</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月7日</TD>
+<TD class=xl67>3:31:01</TD>
+<TD class=xl65>3229</TD>
+<TD class=xl65>11924</TD>
+<TD class=xl65>Ml=1.3</TD>
+<TD class=xl65>江苏扬州、仪征交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月6日</TD>
+<TD class=xl67>17:00:12</TD>
+<TD class=xl65>3231</TD>
+<TD class=xl65>11920</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏扬州、仪征交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月6日</TD>
+<TD class=xl67>3:41:31</TD>
+<TD class=xl65>3230</TD>
+<TD class=xl65>11922</TD>
+<TD class=xl65>Ml=1.0</TD>
+<TD class=xl65>江苏扬州、仪征交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月6日</TD>
+<TD class=xl67>2:38:48</TD>
+<TD class=xl65>3229</TD>
+<TD class=xl65>11923</TD>
+<TD class=xl65>Ml=1.0</TD>
+<TD class=xl65>江苏扬州、仪征交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月6日</TD>
+<TD class=xl67>2:35:30</TD>
+<TD class=xl65>3230</TD>
+<TD class=xl65>11922</TD>
+<TD class=xl65>Ml=1.3</TD>
+<TD class=xl65>江苏扬州、仪征交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月6日</TD>
+<TD class=xl67>2:31:07</TD>
+<TD class=xl65>3230</TD>
+<TD class=xl65>11919</TD>
+<TD class=xl65>Ml=2.5</TD>
+<TD class=xl65>江苏扬州、仪征交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月5日</TD>
+<TD class=xl67>5:07:08</TD>
+<TD class=xl65>3426</TD>
+<TD class=xl65>12219</TD>
+<TD class=xl65>Ml=3.0</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月3日</TD>
+<TD class=xl67>4:50:44</TD>
+<TD class=xl65>3317</TD>
+<TD class=xl65>12112</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏大丰附近海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年10月2日</TD>
+<TD class=xl67>10:56:44</TD>
+<TD class=xl65>3322</TD>
+<TD class=xl65>12109</TD>
+<TD class=xl65>Ml=2.6</TD>
+<TD class=xl65>江苏大丰附近海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年9月30日</TD>
+<TD class=xl67>9:16:57</TD>
+<TD class=xl65>3517</TD>
+<TD class=xl65>11958</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年9月23日</TD>
+<TD class=xl67>22:24:44</TD>
+<TD class=xl65>3412</TD>
+<TD class=xl65>11904</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏沭阳</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年9月22日</TD>
+<TD class=xl67>20:09:49</TD>
+<TD class=xl65>3231</TD>
+<TD class=xl65>11918</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏扬州</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年9月12日</TD>
+<TD class=xl67>1:50:08</TD>
+<TD class=xl65>3103</TD>
+<TD class=xl65>11959</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏苏州</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年9月9日</TD>
+<TD class=xl67>7:59:44</TD>
+<TD class=xl65>3258</TD>
+<TD class=xl65>12048</TD>
+<TD class=xl65>Ml=2.9</TD>
+<TD class=xl65>江苏东台</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年8月30日</TD>
+<TD class=xl67>0:20:15</TD>
+<TD class=xl65>3211</TD>
+<TD class=xl65>11917</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏丹徒</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年8月27日</TD>
+<TD class=xl67>7:34:03</TD>
+<TD class=xl65>3159</TD>
+<TD class=xl65>12016</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>江苏靖江</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年8月25日</TD>
+<TD class=xl67>17:04:15</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>12045</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年8月19日</TD>
+<TD class=xl67>13:21:08</TD>
+<TD class=xl65>3211</TD>
+<TD class=xl65>12205</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年8月10日</TD>
+<TD class=xl67>12:36:48</TD>
+<TD class=xl65>3304</TD>
+<TD class=xl65>12026</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏大丰</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年8月7日</TD>
+<TD class=xl67>3:52:52</TD>
+<TD class=xl65>3447</TD>
+<TD class=xl65>12039</TD>
+<TD class=xl65>Ml=2.3</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年8月5日</TD>
+<TD class=xl67>21:58:29</TD>
+<TD class=xl65>3447</TD>
+<TD class=xl65>12235</TD>
+<TD class=xl65>Ml=3.1</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月31日</TD>
+<TD class=xl67>13:54:53</TD>
+<TD class=xl65>3257</TD>
+<TD class=xl65>11857</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏金湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月31日</TD>
+<TD class=xl67>13:43:36</TD>
+<TD class=xl65>3257</TD>
+<TD class=xl65>11858</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>江苏金湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月31日</TD>
+<TD class=xl67>13:22:26</TD>
+<TD class=xl65>3259</TD>
+<TD class=xl65>11855</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏金湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月30日</TD>
+<TD class=xl67>21:39:05</TD>
+<TD class=xl65>3330</TD>
+<TD class=xl65>11935</TD>
+<TD class=xl65>Ml=2.7</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月24日</TD>
+<TD class=xl67>3:23:09</TD>
+<TD class=xl65>3401</TD>
+<TD class=xl65>12052</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月22日</TD>
+<TD class=xl67>22:19:09</TD>
+<TD class=xl65>3328</TD>
+<TD class=xl65>11851</TD>
+<TD class=xl65>Ml=1.3</TD>
+<TD class=xl65>江苏淮安</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月13日</TD>
+<TD class=xl67>10:54:09</TD>
+<TD class=xl65>3138</TD>
+<TD class=xl65>12026</TD>
+<TD class=xl65>Ml=1.1</TD>
+<TD class=xl65>江苏江阴</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月13日</TD>
+<TD class=xl67>3:43:45</TD>
+<TD class=xl65>3152</TD>
+<TD class=xl65>12000</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏常州</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月9日</TD>
+<TD class=xl67>4:33:24</TD>
+<TD class=xl65>3452</TD>
+<TD class=xl65>11941</TD>
+<TD class=xl65>Ml=1.0</TD>
+<TD class=xl65>江苏连云港海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月8日</TD>
+<TD class=xl67>20:57:43</TD>
+<TD class=xl65>3256</TD>
+<TD class=xl65>12142</TD>
+<TD class=xl65>Ml=3.5</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月7日</TD>
+<TD class=xl67>20:41:12</TD>
+<TD class=xl65>3246</TD>
+<TD class=xl65>11934</TD>
+<TD class=xl65>Ml=2.6</TD>
+<TD class=xl65>江苏高邮</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月5日</TD>
+<TD class=xl67>12:57:09</TD>
+<TD class=xl65>3140</TD>
+<TD class=xl65>11913</TD>
+<TD class=xl65>Ml=2.3</TD>
+<TD class=xl65>江苏句容、南京溧水交界地区</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年7月3日</TD>
+<TD class=xl67>16:41:37</TD>
+<TD class=xl65>3359</TD>
+<TD class=xl65>12105</TD>
+<TD class=xl65>Ml=2.7</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月30日</TD>
+<TD class=xl67>10:51:26</TD>
+<TD class=xl65>3343</TD>
+<TD class=xl65>12011</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏射阳</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月24日</TD>
+<TD class=xl67>11:07:57</TD>
+<TD class=xl65>3218</TD>
+<TD class=xl65>12130</TD>
+<TD class=xl65>Ml=3.3</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月24日</TD>
+<TD class=xl67>8:57:31</TD>
+<TD class=xl65>3230</TD>
+<TD class=xl65>12139</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月24日</TD>
+<TD class=xl67>5:14:57</TD>
+<TD class=xl65>3225</TD>
+<TD class=xl65>12139</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月20日</TD>
+<TD class=xl67>0:49:50</TD>
+<TD class=xl65>3413</TD>
+<TD class=xl65>11904</TD>
+<TD class=xl65>Ml=1.0</TD>
+<TD class=xl65>江苏沭阳</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月19日</TD>
+<TD class=xl67>13:27:21</TD>
+<TD class=xl65>3449</TD>
+<TD class=xl65>11950</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月17日</TD>
+<TD class=xl67>5:34:47</TD>
+<TD class=xl65>3215</TD>
+<TD class=xl65>11918</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>江苏仪征</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月13日</TD>
+<TD class=xl67>11:58:25</TD>
+<TD class=xl65>3121</TD>
+<TD class=xl65>11930</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏溧阳</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月8日</TD>
+<TD class=xl67>4:06:50</TD>
+<TD class=xl65>3143</TD>
+<TD class=xl65>11910</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>江苏句容</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年6月2日</TD>
+<TD class=xl67>2:55:15</TD>
+<TD class=xl65>3345</TD>
+<TD class=xl65>12101</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月23日</TD>
+<TD class=xl67>16:51:27</TD>
+<TD class=xl65>3352</TD>
+<TD class=xl65>12113</TD>
+<TD class=xl65>Ml=3.6</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月23日</TD>
+<TD class=xl67>16:23:13</TD>
+<TD class=xl65>3413</TD>
+<TD class=xl65>11656</TD>
+<TD class=xl65>Ml=2.5</TD>
+<TD class=xl65>安徽萧县</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月23日</TD>
+<TD class=xl67>9:33:40</TD>
+<TD class=xl65>3316</TD>
+<TD class=xl65>12037</TD>
+<TD class=xl65>Ml=2.6</TD>
+<TD class=xl65>江苏大丰</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月20日</TD>
+<TD class=xl67>23:53:13</TD>
+<TD class=xl65>3209</TD>
+<TD class=xl65>12042</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏如皋</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月17日</TD>
+<TD class=xl67>14:32:36</TD>
+<TD class=xl65>3156</TD>
+<TD class=xl65>12054</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏南通</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月17日</TD>
+<TD class=xl67>0:59:54</TD>
+<TD class=xl65>3352</TD>
+<TD class=xl65>11907</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>江苏涟水</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月16日</TD>
+<TD class=xl67>4:51:36</TD>
+<TD class=xl65>3305</TD>
+<TD class=xl65>11845</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏洪泽、盱眙交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月16日</TD>
+<TD class=xl67>3:10:34</TD>
+<TD class=xl65>3209</TD>
+<TD class=xl65>12041</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏如皋</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月15日</TD>
+<TD class=xl67>22:45:38</TD>
+<TD class=xl65>3525</TD>
+<TD class=xl65>11947</TD>
+<TD class=xl65>Ml=1.6</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月15日</TD>
+<TD class=xl67>8:51:40</TD>
+<TD class=xl65>3445</TD>
+<TD class=xl65>11925</TD>
+<TD class=xl65>Ml=1.5</TD>
+<TD class=xl65>江苏连云港附近海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月5日</TD>
+<TD class=xl67>7:03:15</TD>
+<TD class=xl65>3539</TD>
+<TD class=xl65>12013</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月4日</TD>
+<TD class=xl67>8:23:25</TD>
+<TD class=xl65>3146</TD>
+<TD class=xl65>12032</TD>
+<TD class=xl65>Ml=1.1</TD>
+<TD class=xl65>江苏张家港</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月4日</TD>
+<TD class=xl67>7:42:33</TD>
+<TD class=xl65>3328</TD>
+<TD class=xl65>12024</TD>
+<TD class=xl65>Ml=2.9</TD>
+<TD class=xl65>江苏射阳</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年5月3日</TD>
+<TD class=xl67>22:16:31</TD>
+<TD class=xl65>3508</TD>
+<TD class=xl65>11940</TD>
+<TD class=xl65>Ml=1.2</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年4月16日</TD>
+<TD class=xl67>10:25:01</TD>
+<TD class=xl65>3446</TD>
+<TD class=xl65>12010</TD>
+<TD class=xl65>Ml=2.3</TD>
+<TD class=xl65>江苏连云港附近海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年4月4日</TD>
+<TD class=xl67>18:15:21</TD>
+<TD class=xl65>3135</TD>
+<TD class=xl65>12117</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏太仓</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年4月3日</TD>
+<TD class=xl67>22:33:48</TD>
+<TD class=xl65>3330</TD>
+<TD class=xl65>12145</TD>
+<TD class=xl65>Ml=3.0</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年4月3日</TD>
+<TD class=xl67>0:06:48</TD>
+<TD class=xl65>3236</TD>
+<TD class=xl65>11936</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏扬州</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年3月28日</TD>
+<TD class=xl67>11:01:24</TD>
+<TD class=xl65>3417</TD>
+<TD class=xl65>12101</TD>
+<TD class=xl65>Ml=2.8</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年3月18日</TD>
+<TD class=xl67>4:42:41</TD>
+<TD class=xl65>3148</TD>
+<TD class=xl65>12314</TD>
+<TD class=xl65>Ml=2.3</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年3月14日</TD>
+<TD class=xl67>21:08:42</TD>
+<TD class=xl65>3258</TD>
+<TD class=xl65>12209</TD>
+<TD class=xl65>Ml=2.9</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年3月14日</TD>
+<TD class=xl67>2:48:24</TD>
+<TD class=xl65>3150</TD>
+<TD class=xl65>12057</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏南通</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年3月14日</TD>
+<TD class=xl67>2:42:08</TD>
+<TD class=xl65>3147</TD>
+<TD class=xl65>12056</TD>
+<TD class=xl65>Ml=1.2</TD>
+<TD class=xl65>江苏南通</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年3月1日</TD>
+<TD class=xl67>7:49:38</TD>
+<TD class=xl65>3148</TD>
+<TD class=xl65>12134</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏启东</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月27日</TD>
+<TD class=xl67>5:31:14</TD>
+<TD class=xl65>3149</TD>
+<TD class=xl65>12058</TD>
+<TD class=xl65>Ml=1.5</TD>
+<TD class=xl65>江苏南通</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月26日</TD>
+<TD class=xl67>12:27:03</TD>
+<TD class=xl65>3149</TD>
+<TD class=xl65>12058</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏南通</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月25日</TD>
+<TD class=xl67>22:21:41</TD>
+<TD class=xl65>3349</TD>
+<TD class=xl65>12111</TD>
+<TD class=xl65>Ml=3.3</TD>
+<TD class=xl65>黄海海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月25日</TD>
+<TD class=xl67>0:41:25</TD>
+<TD class=xl65>3149</TD>
+<TD class=xl65>12058</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏南通</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月17日</TD>
+<TD class=xl67>8:28:37</TD>
+<TD class=xl65>3114</TD>
+<TD class=xl65>12210</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>长江口</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月13日</TD>
+<TD class=xl67>23:12:36</TD>
+<TD class=xl65>3340</TD>
+<TD class=xl65>11934</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月12日</TD>
+<TD class=xl67>2:36:36</TD>
+<TD class=xl65>3504</TD>
+<TD class=xl65>11955</TD>
+<TD class=xl65>Ml=1.3</TD>
+<TD class=xl65>黄海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月6日</TD>
+<TD class=xl67>5:00:03</TD>
+<TD class=xl65>3121</TD>
+<TD class=xl65>12100</TD>
+<TD class=xl65>Ml=1.6</TD>
+<TD class=xl65>江苏昆山</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月4日</TD>
+<TD class=xl67>21:11:52</TD>
+<TD class=xl65>3247</TD>
+<TD class=xl65>12028</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏东台</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月4日</TD>
+<TD class=xl67>8:48:09</TD>
+<TD class=xl65>3409</TD>
+<TD class=xl65>11945</TD>
+<TD class=xl65>Ml=1.6</TD>
+<TD class=xl65>江苏响水</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月2日</TD>
+<TD class=xl67>18:02:19</TD>
+<TD class=xl65>3335</TD>
+<TD class=xl65>11947</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月2日</TD>
+<TD class=xl67>2:12:47</TD>
+<TD class=xl65>3155</TD>
+<TD class=xl65>12025</TD>
+<TD class=xl65>Ml=1.3</TD>
+<TD class=xl65>江苏苏州张家港、无锡江阴交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年2月1日</TD>
+<TD class=xl67>13:02:01</TD>
+<TD class=xl65>3333</TD>
+<TD class=xl65>11949</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月31日</TD>
+<TD class=xl67>18:44:32</TD>
+<TD class=xl65>3225</TD>
+<TD class=xl65>12142</TD>
+<TD class=xl65>Ml=2.5</TD>
+<TD class=xl65>黄海海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月27日</TD>
+<TD class=xl67>1:10:15</TD>
+<TD class=xl65>3253</TD>
+<TD class=xl65>12052</TD>
+<TD class=xl65>Ml=2.6</TD>
+<TD class=xl65>江苏东台(爆破)</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月25日</TD>
+<TD class=xl67>22:43:23</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月24日</TD>
+<TD class=xl67>17:30:21</TD>
+<TD class=xl65>3246</TD>
+<TD class=xl65>12024</TD>
+<TD class=xl65>Ml=2.5</TD>
+<TD class=xl65>江苏东台</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月24日</TD>
+<TD class=xl67>5:40:28</TD>
+<TD class=xl65>3128</TD>
+<TD class=xl65>11916</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏溧阳</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月21日</TD>
+<TD class=xl67>23:58:55</TD>
+<TD class=xl65>3246</TD>
+<TD class=xl65>12021</TD>
+<TD class=xl65>Ml=1.5</TD>
+<TD class=xl65>江苏东台</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月21日</TD>
+<TD class=xl67>23:56:10</TD>
+<TD class=xl65>3245</TD>
+<TD class=xl65>12024</TD>
+<TD class=xl65>Ml=3.6</TD>
+<TD class=xl65>江苏东台</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月21日</TD>
+<TD class=xl67>23:54:51</TD>
+<TD class=xl65>3253</TD>
+<TD class=xl65>12034</TD>
+<TD class=xl65>Ml=2.8</TD>
+<TD class=xl65>江苏东台</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月21日</TD>
+<TD class=xl67>23:54:26</TD>
+<TD class=xl65>3245</TD>
+<TD class=xl65>12027</TD>
+<TD class=xl65>Ml=2.8</TD>
+<TD class=xl65>江苏东台</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月21日</TD>
+<TD class=xl67>7:27:38</TD>
+<TD class=xl65>3333</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月20日</TD>
+<TD class=xl67>17:35:54</TD>
+<TD class=xl65>3437</TD>
+<TD class=xl65>12004</TD>
+<TD class=xl65>Ml=1.5</TD>
+<TD class=xl65>黄海海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月19日</TD>
+<TD class=xl67>12:07:43</TD>
+<TD class=xl65>3036</TD>
+<TD class=xl65>11708</TD>
+<TD class=xl65>Ml=4.9</TD>
+<TD class=xl65>安徽安庆</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月19日</TD>
+<TD class=xl67>1:53:26</TD>
+<TD class=xl65>3438</TD>
+<TD class=xl65>11827</TD>
+<TD class=xl65>Ml=1.6</TD>
+<TD class=xl65>江苏东海</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月13日</TD>
+<TD class=xl67>15:11:55</TD>
+<TD class=xl65>3304</TD>
+<TD class=xl65>12349</TD>
+<TD class=xl65>Ml=3.2</TD>
+<TD class=xl65>黄海海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月12日</TD>
+<TD class=xl67>9:22:39</TD>
+<TD class=xl65>3323</TD>
+<TD class=xl65>12353</TD>
+<TD class=xl65>Ml=4.6</TD>
+<TD class=xl65>黄海海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月12日</TD>
+<TD class=xl67>9:19:54</TD>
+<TD class=xl65>3323</TD>
+<TD class=xl65>12352</TD>
+<TD class=xl65>Ml=5.4</TD>
+<TD class=xl65>黄海海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月10日</TD>
+<TD class=xl67>23:51:09</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11953</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月8日</TD>
+<TD class=xl67>13:35:30</TD>
+<TD class=xl65>3449</TD>
+<TD class=xl65>11939</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏连云港附近海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月8日</TD>
+<TD class=xl67>9:42:08</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11950</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月8日</TD>
+<TD class=xl67>4:15:22</TD>
+<TD class=xl65>3337</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=1.0</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月8日</TD>
+<TD class=xl67>4:04:54</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11951</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月7日</TD>
+<TD class=xl67>23:46:03</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11954</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月7日</TD>
+<TD class=xl67>15:10:57</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>12000</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏建湖、射阳交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月7日</TD>
+<TD class=xl67>2:18:26</TD>
+<TD class=xl65>3335</TD>
+<TD class=xl65>11953</TD>
+<TD class=xl65>Ml=1.6</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月5日</TD>
+<TD class=xl67>17:28:55</TD>
+<TD class=xl65>3505</TD>
+<TD class=xl65>12005</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>黄海海域</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月5日</TD>
+<TD class=xl67>4:59:35</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11955</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月5日</TD>
+<TD class=xl67>0:29:17</TD>
+<TD class=xl65>3340</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=1.5</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月4日</TD>
+<TD class=xl67>18:49:31</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月4日</TD>
+<TD class=xl67>3:02:58</TD>
+<TD class=xl65>3333</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月4日</TD>
+<TD class=xl67>2:27:19</TD>
+<TD class=xl65>3335</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月4日</TD>
+<TD class=xl67>2:26:49</TD>
+<TD class=xl65>3332</TD>
+<TD class=xl65>11954</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月4日</TD>
+<TD class=xl67>2:26:04</TD>
+<TD class=xl65>3332</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月3日</TD>
+<TD class=xl67>20:48:14</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11954</TD>
+<TD class=xl65>Ml=2.6</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月3日</TD>
+<TD class=xl67>19:00:19</TD>
+<TD class=xl65>3332</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=2.6</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月3日</TD>
+<TD class=xl67>16:22:27</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月3日</TD>
+<TD class=xl67>10:05:05</TD>
+<TD class=xl65>3335</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月3日</TD>
+<TD class=xl67>6:42:36</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11951</TD>
+<TD class=xl65>Ml=2.5</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月3日</TD>
+<TD class=xl67>4:52:27</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11955</TD>
+<TD class=xl65>Ml=2.1</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月3日</TD>
+<TD class=xl67>2:47:22</TD>
+<TD class=xl65>3335</TD>
+<TD class=xl65>11948</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>22:17:56</TD>
+<TD class=xl65>3339</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>19:51:01</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>11956</TD>
+<TD class=xl65>Ml=2.3</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>19:21:14</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>11956</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>19:01:51</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>11956</TD>
+<TD class=xl65>Ml=1.3</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>18:44:11</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11954</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>18:06:45</TD>
+<TD class=xl65>3337</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>13:13:53</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11948</TD>
+<TD class=xl65>Ml=2.5</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>8:44:18</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>11955</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>6:32:24</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11947</TD>
+<TD class=xl65>Ml=2.6</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>6:00:40</TD>
+<TD class=xl65>3340</TD>
+<TD class=xl65>11955</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>5:55:53</TD>
+<TD class=xl65>3339</TD>
+<TD class=xl65>11956</TD>
+<TD class=xl65>Ml=1.1</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>5:51:56</TD>
+<TD class=xl65>3335</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=3.0</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>5:49:13</TD>
+<TD class=xl65>3335</TD>
+<TD class=xl65>11955</TD>
+<TD class=xl65>Ml=1.1</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>5:44:34</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11953</TD>
+<TD class=xl65>Ml=1.5</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>5:06:20</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>4:33:17</TD>
+<TD class=xl65>3339</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=1.3</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>4:15:53</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11953</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>3:04:11</TD>
+<TD class=xl65>3342</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=1.1</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>2:28:17</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>11955</TD>
+<TD class=xl65>Ml=1.2</TD>
+<TD class=xl65>江苏阜宁</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>2:07:36</TD>
+<TD class=xl65>3342</TD>
+<TD class=xl65>11949</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>1:58:25</TD>
+<TD class=xl65>3340</TD>
+<TD class=xl65>11958</TD>
+<TD class=xl65>Ml=1.6</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>1:53:30</TD>
+<TD class=xl65>3333</TD>
+<TD class=xl65>11951</TD>
+<TD class=xl65>Ml=1.4</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>1:11:26</TD>
+<TD class=xl65>3332</TD>
+<TD class=xl65>11950</TD>
+<TD class=xl65>Ml=3.2</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>1:09:12</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11953</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月2日</TD>
+<TD class=xl67>0:00:57</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>22:52:02</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>11954</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>22:34:46</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11955</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>22:18:22</TD>
+<TD class=xl65>3335</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=2.3</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>22:03:55</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=2.4</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>21:52:09</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11954</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>21:46:11</TD>
+<TD class=xl65>3332</TD>
+<TD class=xl65>11953</TD>
+<TD class=xl65>Ml=2.0</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>21:42:55</TD>
+<TD class=xl65>3337</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>21:39:17</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11951</TD>
+<TD class=xl65>Ml=3.0</TD>
+<TD class=xl65>江苏建湖、阜宁交界</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>21:33:48</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11950</TD>
+<TD class=xl65>Ml=3.0</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>20:58:27</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11954</TD>
+<TD class=xl65>Ml=1.5</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>19:45:49</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11955</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>19:35:20</TD>
+<TD class=xl65>3332</TD>
+<TD class=xl65>11950</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>19:25:34</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=1.9</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>19:17:36</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11950</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>18:26:17</TD>
+<TD class=xl65>3334</TD>
+<TD class=xl65>11958</TD>
+<TD class=xl65>Ml=2.2</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>17:07:41</TD>
+<TD class=xl65>3333</TD>
+<TD class=xl65>11950</TD>
+<TD class=xl65>Ml=3.5</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>15:10:26</TD>
+<TD class=xl65>3338</TD>
+<TD class=xl65>11957</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>14:22:46</TD>
+<TD class=xl65>3337</TD>
+<TD class=xl65>11956</TD>
+<TD class=xl65>Ml=1.8</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>11:26:01</TD>
+<TD class=xl65>3336</TD>
+<TD class=xl65>11954</TD>
+<TD class=xl65>Ml=1.7</TD>
+<TD class=xl65>江苏建湖</TD></TR>
+<TR style="HEIGHT: 13.5pt" height=18>
+<TD style="HEIGHT: 13.5pt" class=xl66 height=18>2011年1月1日</TD>
+<TD class=xl67>10:57:44</TD>
+<TD class=xl65>3333</TD>
+<TD class=xl65>11952</TD>
+<TD class=xl65>Ml=3.3</TD>
+<TD class=xl65>江苏建湖</TD></TR></TBODY></TABLE></P>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17872';var __$contentid='988171';var __$title='2011年江苏省内震情动态';var __$AuthorPh='';var __$Editor='';var __$Liability='Administrator';var __$pubtime='2012-01-08 17:35:16';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

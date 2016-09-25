@@ -1,0 +1,685 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>截至25日16时整 云南省盈江县M5.6级地震情况统计</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/515/index.html' class='navigation_style'>热点报道</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">截至25日16时整 云南省盈江县M5.6级地震情况统计</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2014-05-25 16:54:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局办公室
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">云南省盈江县</span></b><b style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 16pt"><font face="Times New Roman">M5.6级</font></span></b><b style="mso-bidi-font-weight: normal"><span style="font-size: 16pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">地震情况统计</span></b><b style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 16pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><b style="mso-bidi-font-weight: normal"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">（</span></b><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="25" month="05" year="2014"><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">2014</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">年</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">05</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">月</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">25</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">日</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">16</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">时</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">00</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">分</span></u></b></st1:chsdate><b style="mso-bidi-font-weight: normal"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">统计）</span></b><b style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 14pt"><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 28pt; text-align: left; mso-char-indent-count: 2.0" align="left"><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="24" month="5" year="2014"><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">2014</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">年</span><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">5</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">月</span><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">24</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">日</span></st1:chsdate><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">04</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">时</span><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">49</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">分云南省盈江县发生</span><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">5.6</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">级强震，</span><span style="font-size: 14pt"><font face="Times New Roman"> </font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">截至</span><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="25" month="05" year="2014"><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">2014</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">年</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">05</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">月</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">25</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">日</span></u></b></st1:chsdate><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">16</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">时</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">00</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">分</span></u></b><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">共记录到地震总数为</span><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">465</font></span></u></b><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">个。</span><span lang="EN-US" style="font-size: 14pt"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-indent: 28pt; text-align: left; mso-char-indent-count: 2.0" align="left"><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">截至</span><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="25" month="05" year="2014"><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">2014</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">年</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">05</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">月</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">25</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">日</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">16</font></span></u></b><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">时</span></u></b><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">00</font></span></u></b></st1:chsdate><b style="mso-bidi-font-weight: normal"><u><span style="font-size: 14pt; color: red; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">分</span></u></b><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">，</span><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">3.0</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">级以上地震余震</span><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">6</font></span></u></b><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">个，其中</span><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">5.0~5.9</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">级地震余震</span><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">0</font></span></u></b><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">个，</span><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">4.0~4.9</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">级地震余震</span><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">0</font></span></u></b><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">个，</span><span lang="EN-US" style="font-size: 14pt"><font face="Times New Roman">3.0~3.9</font></span><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">级地震余震</span><b style="mso-bidi-font-weight: normal"><u><span lang="EN-US" style="font-size: 14pt; color: red"><font face="Times New Roman">6</font></span></u></b><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">个。</span></p>
+<p><span style="font-size: 14pt; font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">
+<div align="center">
+<table class="MsoNormalTable" style="border-right: medium none; border-top: medium none; border-left: medium none; width: 493.95pt; border-bottom: medium none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 160; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext" cellspacing="0" cellpadding="0" width="659" border="1">
+    <tbody>
+        <tr style="height: 31pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 31pt; background-color: transparent; mso-border-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">序号</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 31pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">发震日期</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 31pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">发震时刻</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 31pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">纬度</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">（&deg;</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><font face="Times New Roman">N</font></span><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">）</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 31pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">经度</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">（&deg;</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><font face="Times New Roman">E</font></span><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">）</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 31pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">震源深度</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">（</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><font face="Times New Roman">Km</font></span><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">）</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 31pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">震级</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">（</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><font face="Times New Roman">M</font></span><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">）</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 31pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span style="font-size: 10pt; font-family: 宋体; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">震中地点</span><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 1">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><font size="3"><font face="Times New Roman">1<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="24" month="5" year="2014"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt">2014-05-24</span></st1:chsdate><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">04:49:21<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">25.0<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">97.8<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt">12</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">5.6<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: left" align="left"><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">云南省德宏傣族景颇族自治州盈江县</span><span lang="EN-US" style="font-size: 10pt; font-family: ？？; mso-bidi-font-family: Tahoma"><o:p></o:p></span></font></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 2">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><font size="3"><font face="Times New Roman">2<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="24" month="5" year="2014"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt">2014-05-24</span></st1:chsdate><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">04:50:51</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">25.0</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">97.9</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">14</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">3.0</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">云南省德宏傣族景颇族自治州盈江县</span><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 3">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><font size="3"><font face="Times New Roman">3<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="24" month="5" year="2014"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt">2014-05-24</span></st1:chsdate><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">05:00:39</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">25.0</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">97.8</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">15</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">3.3</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">云南省德宏傣族景颇族自治州盈江县</span><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p></o:p></span></font></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 4">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><font size="3"><font face="Times New Roman">4<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="24" month="5" year="2014"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt">2014-05-24</span></st1:chsdate><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">05:06:32</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><font size="3"><font face="Times New Roman">25.0<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">97.8</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">5<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">3.3</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">云南省德宏傣族景颇族自治州盈江县</span><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 5">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><font size="3"><font face="Times New Roman">5<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="24" month="5" year="2014"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt">2014-05-24</span></st1:chsdate><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">05:55:11</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">25.0</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">97.8</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">5<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">3.9<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">云南省德宏傣族景颇族自治州盈江县</span><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 6">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><font size="3"><font face="Times New Roman">6<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="24" month="5" year="2014"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt">2014-05-24</span></st1:chsdate><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">06:29:51</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><font size="3"><font face="Times New Roman">25.0<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">97.8</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">5<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">3.0<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">云南省德宏傣族景颇族自治州盈江县</span><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 7">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><font size="3"><font face="Times New Roman">7<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><st1:chsdate w:st="on" isrocdate="False" islunardate="False" day="24" month="5" year="2014"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt">2014-05-24</span></st1:chsdate><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">07:41:40</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">25.0</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><font size="3"><font face="Times New Roman"><span lang="EN-US" style="mso-bidi-font-size: 10.5pt">97.8</span><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><o:p></o:p></span></font></font></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">13<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="color: black; font-family: ??; mso-bidi-font-size: 10.5pt"><font size="3"><font face="Times New Roman">3.0<o:p></o:p></font></font></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><font size="3"><span style="font-family: 宋体; mso-ascii-font-family: ''Times New Roman''; mso-hansi-font-family: ''Times New Roman''">云南省德宏傣族景颇族自治州盈江县</span><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??; mso-bidi-font-family: 宋体"><o:p></o:p></span></font></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 8">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 9">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+        </tr>
+        <tr style="height: 15.9pt; mso-yfti-irow: 10; mso-yfti-lastrow: yes">
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 0pt"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 45.2pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="60">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 44.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="59">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 52.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="70">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 39.7pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="53">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt; text-align: center" align="center"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+            <td style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #ece9d8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #ece9d8; width: 181.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 15.9pt; background-color: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" width="242">
+            <p class="MsoNormal" style="margin: 0cm 0cm 0pt"><span lang="EN-US" style="font-size: 10pt; color: black; font-family: ??"><o:p><font face="Times New Roman">&nbsp;</font></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</span></p>
+<p>&nbsp;</p></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

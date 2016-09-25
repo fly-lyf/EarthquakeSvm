@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">失传千年张衡地动仪在山西成功复原<span>发布时间：2008-08-07</span></div>
+                <p><strong>山西新闻网8月7日报道</strong> 失传千年的东汉张衡地动仪又重现人间!8月5日，受国家&ldquo;张衡地动仪科学复原&rdquo;课题组委托，山西夏县宇达青铜文化产业园宇达集团成功铸造完成&ldquo;张衡地动仪&rdquo;。其造型设计由清华大学美术学院雕塑系王培波教授等完成，宇达集团选用优质青铜精心铸造，将在新落成的中国科技博物馆展出。
+<div>　　据悉，国家&ldquo;张衡地动仪科学复原&rdquo;课题组由中国地震台网中心、清华大学美术学院、国家博物馆、北京机械工业自动化所、河南博物馆等多学科的专家组成，中国地震台网中心研究员、地震学家冯锐任课题组组长。</div>
+<div>　　东汉科学家张衡于公元132年创制地动仪，成为人类第一次利用惯性成功测震的仪器，是现代地震学的奠基石，后失传于东汉末年。而今公众看到的地动仪既非原物又非出土文物，而是后人根据史料记载所设计的复原模型。为了正确介绍中国古代伟大的科技成就，针对传统复原模型不能&ldquo;工作&rdquo;等早期研究中的失误与问题，该国家课题组经过两年多的艰难研制，攻克了张衡地动仪的工作原理和验震等难题。新模型不仅更加符合史料，而且既能够验震又可以强抗干扰，直观生动地展示出张衡的科学思想，填补了国内外研究空白。 (本文来源：<font color="#000000">山西新闻网</font> 作者：李尚鸿) </div>
+<div></div>
+<div align="center"><img height="350" width="268" alt="" src="/resource/Image/20080807082816394f2.jpg" /></div></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

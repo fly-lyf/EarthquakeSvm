@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>四川省地震局</title>
+<link rel="stylesheet" type="text/css" href="../../../../../images/conf_style.css"/>
+<link rel="stylesheet" type="text/css" href="../../../../../images_V/conf_style.css" ignoreapd="1"/>
+<script type="text/javascript" src="../../../../../images/sechange.js"></script>
+<script type="text/javascript" src="../../../../../images/jquery-1.7.2.min.js"></script>
+
+<script type="text/javascript">
+//改变字体
+     function changefont(size){
+         // var Custom_UnionStyle = $("div.Custom_UnionStyle");
+		//  alert(Custom_UnionStyle.className);
+ 		// Custom_UnionStyle.removeClass("Custom_UnionStyle");
+		 
+
+		 
+		 
+		 //.p_right .txtbox p
+		  
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+</script>
+
+
+
+</head>
+
+<body>
+<div class="bg">
+ <!--头部-->
+ <script src="../../../../../images/2012searchv6.js" type="text/javascript"></script>
+<script>
+function writeDateInfo(){
+	var day=""
+	var month="";
+	var ampm="";
+	var ampmhour="";
+	var myweekday="";
+	var year="";
+	mydate=new Date();
+	myweekday=mydate.getDay();
+	mymonth=mydate.getMonth()+1;
+	myday= mydate.getDate();
+	myyear= mydate.getYear();
+	year=(myyear > 200) ? myyear : 1900 + myyear;
+	
+	weekday = '星期'+'日一二三四五六'.charAt(mydate.getDay());
+	document.write(year+"年"+mymonth+"月"+myday+"日"+weekday);
+}
+</script>
+
+<div class="top">
+    <span class="fl">今天是：<script>writeDateInfo();</script></span>
+    <a href="http://mail.scdzj.gov.cn/" target="_blank">邮箱登录</a>
+    <a href="../../../../../V2lxwm/" target="_blank">联系我们</a>
+    <a href="../../../../../wzdt/" target="_blank">网站地图</a>
+      <p class="clear"></p>
+    </div>
+    <div class="banner"><img src="../../../../../images_V/banner.jpg" width="981" height="166" ignoreapd="1"/></div>
+<div class="main">
+      <div class=" main_but">
+        
+        <ul>
+          <li><a  href="../../../../../" TARGET="_top">首页</a></li>
+          <li><a href="../../../../" target="_top">新闻资讯</a></li>
+          <li><a href="../../../../../zwgk/" target="_top">政务公开</a></li>
+          <li><a href="../../../../../fwbs/" target="_top">服务办事</a></li>
+          <li><a href="../../../../../jlhd/" target="_top">交流互动</a></li>
+          <li><a href="../../../../../dzpd/" target="_top">地震频道</a></li>
+        </ul>
+        <div class="form_div fr">
+       <form name="search" onSubmit="eqscwebsearch();return false;">
+          <table width="260" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="194"><input id="searchtitle" name="searchtitle" type="text" value="请输入关键字" onfocus="if(this.value == '请输入关键字') this.value='';" onblur="if(this.value == '') this.value='请输入关键字';"/></td>
+              <td width="66"><a href="#" onclick="eqscwebsearch();"></a></td>
+            </tr>
+          </table>
+        </form>
+        </div>
+    </div>
+<script>
+//网站搜索js
+function eqscwebsearch(){
+	var _title = document.getElementById("searchtitle").value;
+	if(_title == "" || _title == "请输入关键字"){
+		alert("请输入关键字");
+		return false;
+	}
+	_title = encodeURI(encodeURI(_title));//内容
+	var tempUrl = "http://www.scdzj.gov.cn/eqscwebsearch/search/search!jump.action?site=eqsc&type=index&siteid=5&title="+_title+"&intitlecontent=0&sclassid=1&searchname=&pageSize=20&orderBy=";
+	var _clientWidth = window.innerWidth;
+	var _clientHeight = window.innerHeight;
+	//showDialogSize(tempUrl,_clientWidth,_clientHeight);
+	window.open(tempUrl);
+}
+function showDialogSize(url,width,height){
+	var availHeight = window.screen.availHeight;
+	var availWidth = window.screen.availWidth;
+	// 大致居中
+	var iWidth = width - 10; // 窗口宽度
+	var iHeight = height - 30;// 窗口高度
+	var iLeft = (availWidth - width) / 2;
+	var iTop = (availHeight - height) / 2;
+	var newWindow1 = window.open(url, "","scrollbars=yes,toolbar=no,location=no,Direction=no,resizable=no,Width="+ iWidth + ",Height=" + iHeight + ",top=" + iTop + ",left="+ iLeft);
+	newWindow1.focus();// 窗口获取焦点
+}
+</script>
+   <!--头部结束-->
+<div class="main">
+     
+<div class="centerbox">
+        <div class="wz">
+          <ul>
+            <li>您所在的位置:<a href="../../../../../">首页</a>><a href="../../../../">新闻资讯</a>><a href="../../../">重要专题</a>><a href="../../">芦山地震两周年暨汶川地震七周年专题</a>><a href="../">综合信息</a></li>
+          
+          </ul>
+      </div>
+        <div class="blankH20"></div>
+
+  <div class="p_right" style="width:940px;">
+        <h1>震后芦山花更妍—— “4·20”芦山强烈地震两周年回眸 </h1>
+        <div class="blankH12"></div>
+        <div id="title" class="xltop" style="width:940px;">	<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '四川新闻网';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2015-04-17 18:18:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-17 18:18:00&nbsp;&nbsp;&nbsp;   ';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2015-04-17 18:18:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2015-04-17 18:18:00&nbsp;&nbsp;&nbsp;   ';
+					
+					}
+				
+				</script></div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"  >
+		
+		<div id="content" style="font-size:14px">
+         <DIV class=Custom_UnionStyle>
+<P>　　产业振兴：提升灾区“造血”能力</P>
+<P>　　灾后重建的东风，吹拂过姜城大地。芦山灾区群众陆续住进了新房子，还盼着过上好日子。灾后重建中，芦山县坚持实施五大战略，大力推进5平方公里的产业集中区和10平方公里的现代生态农业示范园建设。目前，产业集中区已有350余名受灾群众实现“家门口”就业，全部建成后可解决4500人就业。依托园区示范，全县重点建设了茶叶、猕猴桃两个“万亩亿元”基地，发展壮大五大特色种养殖业，带动2014年农民人均纯收入增幅由2013年全省盆周山区县的倒数第一跃居前列。</P>
+<P>　　“现在在园区里上班，每个月有两三千元的稳定收入。政府为我们重建新房协调的贴息贷款就能早日还清了。”芦山产业集中区建设发展，让飞仙关镇朝阳村群众竹枝茂找到工作，解决了“饭碗”问题。</P>
+<P>　　大规划带来大产业。</P>
+<P>　　大产业带来大市场。</P>
+<P>　　大市场也必将带来芦山的大发展和新腾飞!</P>
+<P>　　震后两年，芦山现代生态农业示范园基本成型，引进农业产业化龙头企业11家;茶叶、猕猴桃两个“万亩亿元”产业基地初具规模，“锦烨”(茶叶)商标荣获四川省著名商标，2家专业合作社被评定命名为省级示范社。精心规划建设乌木根雕产业园，根雕艺术城一期项目和配套游客接待中心主体完工，根雕产业园相继获得省级文化产业示范基地、第三批省级小企业创业示范基地称号;启动飞仙、县城、龙门3个国家4A级景区创建前期工作和7个旅游示范村镇创建，生态文化旅游进一步融合发展。</P>
+<P>　　4月的芦山，阳光透过薄雾洒向大地，暖意渐起，猕猴桃长出了新叶。昔日震中芦山县，重建热度不减，奏响了灾区震后依然美丽的交响乐。</P>
+<P align=center>&nbsp;</P>
+<P align=center><IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 437px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 303px; BORDER-LEFT-WIDTH: 0px" src="./W020150417663876715504.jpg" width=403 height=272 _fcksavedurl="/webpic/W0201504/W020150417/W020150417663876715504.jpg" OLDSRC="W020150417663876715504.jpg"/></P>
+<P align=center>芦山县产业集中区，华创科技公司即将建成生产</P>
+<P>　　</P>
+<P>　　　 </P>
+<P>　　　&nbsp; 地方主体：积极创新探索重建新路子</P>
+<P>　　灾后重建中，芦山县做出“1+1&gt;2”的命题，积极创新探索重建新路子。</P>
+<P>　　如何圆满完成任务，让芦山既能完成恢复重建，又能抓住重建机遇实现跨越发展。这是一场关于执政能力和创新能力的考验。</P>
+<P>　　“赶考”路上，芦山县探索了“1+4+7”( 1：即重建委，4：即重建办、征收办、城房办、农房办，7：即飞仙、芦阳、龙门、产业集中区、现代生态农业示范园、汉姜古城、华西总承包七个灾后恢复重建指挥部)整体联动的组织领导机制。</P>
+<P>　　一方面，结合实际，在灾后重建工作中着重创新了“五个总”(规划设计总负责、建筑施工总承包、项目建设总管理、规划建设总督查、组织领导总指挥)重大项目推进机制，项目管理目标倒逼机制、高效无缝的援建协调机制、群众主体的自建自管机制、规范严格的监管机制和建立强有力的要素保障机制，逐步探索出了一条中央负责统筹、地方作为主体、灾区群众广泛参与的恢复重建新路子。</P>
+<P>　　同时，广大干部责任意识、“主人翁”意识普遍增强，克服自身也是受灾户的实际困难，“5+2”、“白加黑”成为工作常态。引导40个新村聚居点建立自建委，并逐步向自管委转型，有效实现了群众自我管理、自我服务、自我教育、自我监督。同时，通过“走基层”引导群众互帮互助、感恩奋进，有效化解了大量矛盾纠纷，维护了社会稳定。</P>
+<P>　　“社会关爱 我们感动 回报祖国 我们行动”、“自己的活路自己干 自己的家园自己建”……已经成为灾区干部群众感恩奋进、自力更生、顽强拼搏精神的生动写照。</P>
+<P>　　重建奠定的新基础，必将鼓舞我们乘势而上，奋勇争先;</P>
+<P>　　重建肩负的新使命，必将鼓舞我们勇于担责，锐意进取;</P>
+<P>　　重建催生的新目标，必将鼓舞我们倍增斗志，推进跨越。</P>
+<P>　　决战2014。决胜2015。崛起2016。2015年，芦山县全县上下继续把握新形势，适应新常态，坚定信心，勇于担当，全力加快灾后重建，推动经济社会又好又快发展。</P>
+<P>　　敢于战天斗地者，方能为人先。且看三年重建任务完成后的芦山，城乡居民住进新房幸福指数不断攀升;交通路网不断完善连接四通八达;医院学校环境提升条件更加优越;产业重建发动引擎支撑县域经济驶向快车道;秀美芦山实现灾后重建发展新跨越。</P>
+<P align=center><IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 433px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 288px; BORDER-LEFT-WIDTH: 0px" src="./W020150417663876713083.jpg" width=467 height=274 _fcksavedurl="/webpic/W0201504/W020150417/W020150417663876713083.jpg" OLDSRC="W020150417663876713083.jpg"/></P>
+<P align=center>象征着德阳芦山手足情深的德阳大桥已经竣工</P>
+<P align=center>&nbsp;</P></DIV>
+		 </div>
+		 <br/>
+				  
+				  <div style="display:none">
+				     
+				  </div>
+        </div>
+        <div class=" blankH30"></div>
+        <div class="txtbox" style="width:940px;"></div>
+        
+      <p class="clear"></p>
+      <div class=" blankH24"></div>
+      <div class=" p_bottomline"></div>
+      <div class=" blankH24"></div>
+     <div class="bottom_txt">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/33/000/0000/40707692/CA330000000407076920002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<br />
+版权所有:四川省地震局  蜀ICP备05030409号 | 技术支持：四川凯普顿信息技术有限公司 <br />
+          地址：成都市人民南路三段29号 <br />
+       <a target="_blank" href="http://mail.scdzj.gov.cn/">邮件登陆</a>   |  <a target="_blank" href="../../../../../wzdt/">网站地图</a>  |   <a href="" target="_blank">联系我们</a> </div>
+          
+      <div class=" blankH24"></div>
+      <div class=" blankH24"></div>
+</div>
+        
+      </div>
+</div>
+</div>
+</body>
+</html>

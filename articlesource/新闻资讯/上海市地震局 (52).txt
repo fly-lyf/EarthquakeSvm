@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">中央纪委驻中国地震局纪检组组长张友民赴上海市地震局调研指导工作<span>发布时间：2015-07-27</span></div>
+                <p><p>
+	　　2015年7月7日-9日，中央纪委驻中国地震局纪检组组长、局党组成员张友民同志赴上海市地震局，就党风廉政建设等方面工作进行专题调研。</p>
+<p>
+	　　张友民同志听取了上海市地震局关于防震减灾和党风廉政建设工作的情况汇报，并与上海市地震局领导班子成员和相关管理部门负责人进行了座谈。</p>
+<p>
+	　　张友民同志指出，上海市地震局党组认真履行主体责任，在业务工作、党风廉政、人才队伍等方面取得了新的成效、新的进展。上海市地震局纪检组认真履行监督责任，狠抓执纪问责，认真执行&ldquo;三转&rdquo;，将中国地震局布置的各项任务与上海的实际有机结合起来，工作扎实、富有成效。张友民同志强调，党的十八大以来，中央对&ldquo;党要管党、从严治党&rdquo;的要求一直不断加强，中央反腐败的态度更加坚决，措施更加严厉，重点更加突出，成效更加显著，党风政风为之一振。上海市地震局一是要认清形势，严格贯彻执行中央、中国地震局和上海市的相关政策和规定，对腐败现象零容忍，发现问题要及时查处。二是要明确责任。党风廉政责任主体是领导班子全体成员，党组书记是第一责任人，党组其他成员都要担负起相应的责任。主体责任里包含监督责任，党组所有成员都要对各自分管领域的重点环节进行监督，做到纵向到底、横向到边、不留空档。三是要狠抓落实。要将党风廉政建设各项任务落实到位。纪律要挺在法律的前面，对苗头性、倾向性的事件要早打招呼、早提醒、早防范。要狠抓履职不到位、甚至失职渎职的行为。</p>
+<p>
+	　　张友民同志最后指出，当前全国地震系统正在开展&ldquo;三严三实&rdquo;专题教育，上海市地震局要按照&ldquo;三严三实&rdquo;的要求，树立优良的工作作风，强化忧患意识，扎实做好防震减灾各项工作。</p>
+<p>
+	　　张友民同志还赴浦东地震救援基地、佘山地震台等地进行实地考察。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1507/201507271031125726.jpg" title="图像" wdimgid="image_357" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

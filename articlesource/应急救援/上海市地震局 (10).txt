@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" class="now" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">应急救援</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">我局指导长宁应急演练<span>发布时间：2007-12-29</span></div>
+                <p><p align="center"><font face="Arial"><strong>市地震局指导&nbsp; 区联席会议牵头<br />
+长宁区举行2007年防震减灾应急综合演练</strong></font></p>
+<p><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 为检验区县地震应急专项预案的实用性和可操作性，进一步提高区各有关部门的协同作战能力和快速处置能力，在上海市地震局的直接指导下，长宁区于12月26日下午，在上海工程技术大学成功地举行了我市首次区级实战性地震应急综合演练。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 演练由长宁区区防震减灾联席会议办公室牵头，区防震减灾联席会议常务副主席、分管区长乔志刚担任演练总指挥长，区地震办公室负责实施。上海市防震减灾联席会议办公室主任、市地震局副局长王建军出席并观看了演练。演练结束后，现场观摩演练的19个区县地震办公室有关负责人参加了由市地震局主持的现场观摩总结会，共同研讨上海地震演练工作，王建军副局长在总结会上作了重要讲话。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 参加这次地震应急综合演练的有武警三支队、区公安、消防、民防、卫生等系统共十支应急救援队，上海市地震局专门派出地震现场工作队监测特混分队参加了这次演练。演练取得圆满成功，达到了预期目的。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></p>
+<p align="right"><font face="Arial">宣教中心 刘洪建</font></p>
+<font face="Arial">
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/01(14).jpg" /></p>
+<p align="center"><img height="525" alt="" width="700" src="http://web.sbsn.net/resource/02(6).jpg" /></p>
+<p align="center"><img height="509" alt="" width="700" src="http://web.sbsn.net/resource/03(6).jpg" /></p>
+<p align="center"><img height="525" alt="" width="700" src="http://web.sbsn.net/resource/04(5).jpg" /></p>
+<p align="center"><img height="525" alt="" width="700" src="http://web.sbsn.net/resource/05(7).jpg" /></p>
+<p align="center"><img height="522" alt="" width="700" src="http://web.sbsn.net/resource/06(5).jpg" /></p>
+<p align="center"><img height="525" alt="" width="700" src="http://web.sbsn.net/resource/07(5).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/08(6).jpg" /></p>
+<p align="center"><img height="518" alt="" width="700" src="http://web.sbsn.net/resource/09(5).jpg" /></p>
+<p align="center"><img height="525" alt="" width="700" src="http://web.sbsn.net/resource/10(6).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/11(6).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/12(6).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/13(5).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/14(14).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/15(6).jpg" /></p>
+<p align="center"><img height="525" alt="" width="700" src="http://web.sbsn.net/resource/16(6).jpg" /></p>
+<p align="center"><img height="509" alt="" width="700" src="http://web.sbsn.net/resource/17(5).jpg" /></p>
+<p align="center"><img height="525" alt="" width="700" src="http://web.sbsn.net/resource/18(5).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/19(5).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/20(4).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/21(7).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/22(8).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/23(4).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/24(5).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/25(3).jpg" /></p>
+<p align="center"><img height="525" alt="" width="700" src="http://web.sbsn.net/resource/26(3).jpg" /></p>
+<p align="center"><img height="525" alt="" width="700" src="http://web.sbsn.net/resource/27(3).jpg" /></p>
+<p align="center"><img height="497" alt="" width="700" src="http://web.sbsn.net/resource/28(2).jpg" /></p>
+<p align="center"><img alt="" src="http://web.sbsn.net/resource/29(2).jpg" /><br />
+</p>
+</font></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

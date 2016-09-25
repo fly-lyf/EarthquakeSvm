@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>行业动态</h2>
+            </div>
+            <ul class="listTxt">
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1290.html" title="中国地震局启动应急响应应对新疆乌恰县6.8级地震">中国地震局启动应急响应应对新疆乌恰县6.8级地震</a><span>2008-10-07</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1287.html" title="中国地震局启动地震应急预案Ⅲ级应急响应决定">中国地震局启动地震应急预案Ⅲ级应急响应决定</a><span>2008-09-01</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1285.html" title="中国地震局召开全国视频会议全面部署四川5.12汶川8.0级地震科学总结与反思工作">中国地震局召开全国视频会议全面部署四川5.12汶川8.0级地震科学总结...</a><span>2008-08-13</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1284.html" title="失传千年张衡地动仪在山西成功复原">失传千年张衡地动仪在山西成功复原</a><span>2008-08-07</span></li>
+                
+            	<li><a href="/gb/dzj/xwzx/hydt/u1ai1283.html" title="中国国际救援队参加联合国地震救援演练 ">中国国际救援队参加联合国地震救援演练 </a><span>2007-08-23</span></li>
+                
+            </ul>
+            <div class="page">
+<A HREF=index.html> 首页 </A><A  HREF="/gb\dzj/xwzx/hydt/index11.html"> 上一页 </A><font color=gray> 下一页 </font><font color=gray> 尾页 </font>
+                <span>第13页&nbsp;共13页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

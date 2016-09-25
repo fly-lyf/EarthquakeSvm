@@ -1,0 +1,371 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>芦山地震两周年暨汶川地震七周年纪念专题</title>
+<link rel="stylesheet" type="text/css" href="../../../images/zn2015_conf_style.css"/>
+</head>
+<body>
+<div id="mainWiap">
+  <div class="blankH10" style="height:301px;"></div>
+  <div class="contwiap">
+    <div class="blankH10"></div>
+    <!--编者按-->
+    <div class="nav f16 white"><a href="./tpyw_20150415/">图片要闻</a> |    <a href="./gddt_20150416/">各地动态</a> |    <a href="./mtjj_20150416/">媒体聚焦</a> |    <a href="./dzkp_20150416/">地震科普</a> |    <a href="./spbb_20150416/">视频播报</a></div>
+    <!--编者按 end-->
+    <div class="blankH20"></div>
+    <div class="cont1">
+      <!--幻灯-->
+      <div class="i_flash fl"><div class="flash" align="left">
+					
+<span id="focusViewer"></span>
+	<script src="../../../images/lhflash.js" type="text/javascript" language="javascript">
+</script>
+	<script type="text/javascript" language="javascript">
+
+		var focus_width = 500;
+		var focus_height = 255;
+		var text_height = 20;
+		var swf_height = focus_height + text_height;
+		var curhref = document.location.href;
+
+		 var pic = new Array();
+		var linka = new Array();
+		var text = new Array();
+		var  countpic =0;
+		  var  countdoc=0;
+		
+		var arr = new Array();
+		
+		countdoc++;
+	       var pic1 = './tpyw_20150415/201505/W020150515428139530958.jpg';
+ var appdescs='0306.1.jpg';
+		var  title='四川省地震局开展“防灾减灾日”科普宣传活动';
+		var  url = "./tpyw_20150415/201505/t20150515_32974.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./tpyw_20150415/201505/t20150515_32974.html');
+				//text.push('四川省地震局开展“防灾减灾日”科普宣传活动');
+		
+			}
+		
+		
+		countdoc++;
+	       var pic1 = './tpyw_20150415/201505/W020150513428548907092.jpg';
+ var appdescs='0291.1.jpg';
+		var  title='四川省举行2015年省级防震救灾综合演练';
+		var  url = "./tpyw_20150415/201505/t20150513_32945.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./tpyw_20150415/201505/t20150513_32945.html');
+				//text.push('四川省举行2015年省级防震救灾综合演练');
+		
+			}
+		
+		
+		countdoc++;
+	       var pic1 = './tpyw_20150415/201504/W020150416642100157184.jpg';
+ var appdescs='0213.1.jpg';
+		var  title='地震应急宣传交流研讨会在西昌召开';
+		var  url = "./tpyw_20150415/201504/t20150416_32799.html";
+		pic1 = pic1.split(";");
+		appdescs=appdescs.split(";");
+		
+			for(var i  = 0 ; i < pic1.length ; i++){
+			
+			   var chArr=[title,url,pic1[i],appdescs[i]];
+			   
+			     arr.push(chArr);
+				//pic.push(pic[i]);
+				//linka.push('./tpyw_20150415/201504/t20150416_32799.html');
+				//text.push('地震应急宣传交流研讨会在西昌召开');
+		
+			}
+		
+		
+		for(var i=0;i<countdoc;i++){
+		   pic.push(arr[i][2]);
+		   linka.push(arr[i][1]);
+                   if(arr[i][3].indexOf(".jpg")>0){
+		    text.push(arr[i][0]);
+		   }else{
+                      text.push(arr[i][3]);
+
+                  }
+		      
+
+		}
+		
+			
+		var pics = pic.join('|');
+
+		var links = linka.join('|');
+		var texts = text.join('|');				
+
+		var FocusFlash = new sinaFlash("../../../images/pixviewer.swf", "focusflash", focus_width, swf_height, "7", "#ffffff", false, "High");
+		FocusFlash.addParam("allowScriptAccess", "sameDomain");
+		FocusFlash.addParam("menu", "false");
+		FocusFlash.addParam("wmode", "opaque");
+		FocusFlash.addVariable("pics", pics);
+		FocusFlash.addVariable("links", links);
+		FocusFlash.addVariable("texts", texts);
+		FocusFlash.addVariable("borderwidth", focus_width);
+		FocusFlash.addVariable("borderheight", focus_height);
+		FocusFlash.addVariable("textheight", text_height);
+		FocusFlash.addVariable("curhref", curhref);
+		FocusFlash.write("focusViewer");
+	</script>
+
+				
+				</div></div>
+      <!--幻灯 end-->
+      <!--综合信息-->
+      <div class="i_zhxx fr">
+        <dl>
+		
+          <dt class="red f16 fontB" >四川各地举办防震减灾主题宣传系列活动</dt>
+          <dd> 　　5月12日是我国第七个全国防灾减灾日，也是汶川特大地震7周年纪念日。近期，四川各地以多种形式隆重组织开展了系列主题宣传纪念活动。<br/>　　5月8日，四川省...</dd>
+		  
+        </dl>
+        <div class="blankH8"></div>
+        <ul class="f14">
+		    
+          <li>·<a href="./zhxx_20150416/201505/t20150515_32991.html">四川各地举办防震减灾主题宣传系列活动</a></li>
+		  
+          <li>·<a href="./zhxx_20150416/201505/t20150515_32987.html">四川省中小学校“5·12”防震减灾应急演练活动正式启动</a></li>
+		  
+          <li>·<a href="./zhxx_20150416/201505/t20150515_32975.html">四川省地震局开展“防灾减灾日”科普宣传活动</a></li>
+		  
+          <li>·<a href="./zhxx_20150416/201505/t20150513_32963.html">“平安中国”防灾宣导千城大行动德阳站启动</a></li>
+		  
+         
+        </ul>
+      </div>
+      <p class="clear"></p>
+      <!--综合信息 end-->
+    </div>
+    <div class="blankH14"></div>
+    <div class="cont1">
+      <!--各地动态-->
+      <div class="i_list fl">
+        <div class="title">
+          <h2 class="fl f14 white">各地动态</h2>
+          <h5 class="fr f12 fontNb white"><a href='./gddt_20150416/'>更多>></a></h5>
+          <p class="clear"></p>
+        </div>
+        <div class="blankH10"></div>
+        <ul class="f14">
+		  
+         <li><span>2015-06-29</span>&middot;<a href="./gddt_20150416/201506/t20150629_33186.html" target="_blank" title="阿坝州地震学会第五届理事会工作会议暨汶川地震七周年学术交流会在汶川召开">阿坝州地震学会第五届理事会工作会议暨汶川地震七周年学术交流会在...</a></li>
+		  
+         <li><span>2015-05-28</span>&middot;<a href="./gddt_20150416/201505/t20150528_33090.html" target="_blank" title="绵竹市防灾救灾综合演练常态化">绵竹市防灾救灾综合演练常态化</a></li>
+		  
+         <li><span>2015-05-27</span>&middot;<a href="./gddt_20150416/201505/t20150527_33081.html" target="_blank" title="攀枝花市防震减灾局积极开展防震减灾科普宣传活动">攀枝花市防震减灾局积极开展防震减灾科普宣传活动</a></li>
+		  
+         <li><span>2015-05-26</span>&middot;<a href="./gddt_20150416/201505/t20150526_33067.html" target="_blank" title="乐山市认真开展防灾减灾宣传周宣传活动">乐山市认真开展防灾减灾宣传周宣传活动</a></li>
+		  
+         <li><span>2015-05-26</span>&middot;<a href="./gddt_20150416/201505/t20150526_33065.html" target="_blank" title="眉山市防震减灾局“5·12”期间强化防震减灾科普宣传工作">眉山市防震减灾局“5·12”期间强化防震减灾科普宣传工作</a></li>
+		  
+         
+        </ul>
+      </div>
+      <!--各地动态 end-->
+      <!--媒体聚焦-->
+      <div class="i_list fr">
+        <div class="title">
+          <h2 class="fl f14 white">媒体聚焦 </h2>
+          <h5 class="fr f12 fontNb white"><a href='./mtjj_20150416/'> 更多>></a></h5>
+          <p class="clear"></p>
+        </div>
+        <div class="blankH10"></div>
+        <ul class="f14">
+          
+          <li><span>2015-05-13</span>&middot;<a href="./mtjj_20150416/201505/t20150513_32951.html" target="_blank" title="四川日报：地震预警应用成灌线首批受益">四川日报：地震预警应用成灌线首批受益</a></li>
+      
+          <li><span>2015-05-13</span>&middot;<a href="./mtjj_20150416/201505/t20150513_32949.html" target="_blank" title="四川日报：四川地震预警管理暂行办法拟年内出台 地震预警信息发布将有法可依">四川日报：四川地震预警管理暂行办法拟年内出台 地震预警信息发布将...</a></li>
+      
+          <li><span>2015-05-13</span>&middot;<a href="./mtjj_20150416/201505/t20150513_32943.html" target="_blank" title="四川日报：演练贵在贴近实战练出精兵">四川日报：演练贵在贴近实战练出精兵</a></li>
+      
+          <li><span>2015-05-13</span>&middot;<a href="./mtjj_20150416/201505/t20150513_32942.html" target="_blank" title="四川日报:6.5级“地震”来袭——2015年省级防震救灾综合演练现场直击">四川日报:6.5级“地震”来袭——2015年省级防震救灾综合演练现场直击</a></li>
+      
+          <li><span>2015-05-11</span>&middot;<a href="./mtjj_20150416/201505/t20150511_32928.html" target="_blank" title="省级防震救灾演练在乐山举行 3000人参与无人机出动">省级防震救灾演练在乐山举行 3000人参与无人机出动</a></li>
+      
+        </ul>
+      </div>
+      <!--媒体聚焦 end-->
+      <p class="clear"></p>
+    </div>
+    <div class="blankH14"></div>
+    <div class="cont1">
+      <!--相关文章-->
+      <div class="i_list fl" style="height:280px;">
+        <div class="title">
+          <h2 class="fl f14 white">地震科普</h2>
+          <h5 class="fr f12 fontNb white"><a href='./dzkp_20150416/'> 更多>></a></h5>
+          <p class="clear"></p>
+        </div>
+        <div class="blankH10"></div>
+        <ul class="f14">
+           
+          <li><span>2007-07-14</span>&middot;<a href="./dzkp_20150416/201504/t20150416_32819.html" target="_blank" title="如何认定错层住宅抗震性">如何认定错层住宅抗震性</a></li>
+      
+          <li><span>2007-07-14</span>&middot;<a href="./dzkp_20150416/201504/t20150416_32818.html" target="_blank" title="建筑防震也是百年大计">建筑防震也是百年大计</a></li>
+      
+          <li><span>2007-07-14</span>&middot;<a href="./dzkp_20150416/201504/t20150416_32817.html" target="_blank" title="房屋的抗震性能不可轻视">房屋的抗震性能不可轻视</a></li>
+      
+          <li><span>2007-07-14</span>&middot;<a href="./dzkp_20150416/201504/t20150416_32816.html" target="_blank" title="从古建筑中获取抗震技术">从古建筑中获取抗震技术</a></li>
+      
+          <li><span>2007-07-14</span>&middot;<a href="./dzkp_20150416/201504/t20150416_32815.html" target="_blank" title="砖墙怎样砌才防震">砖墙怎样砌才防震</a></li>
+      
+        </ul>
+        <div class="blankH8"></div>
+        <div align="center"><a href="http://www.scdzj.gov.cn/dzpd/dzzj/ljysdzzt_2191/"><img src="../../../images/zn_2015_162.jpg" width="464" height="41"/></a></div>
+        <div class="blankH8"></div>
+        <div align="center"><a href="http://www.scdzj.gov.cn/zt/kzjzzzcc/"><img src="../../../images/zn_2015_163.jpg" width="464" height="41"/></a></div>
+        <div class="blankH8"></div>
+        <div align="center"><a href="#"><img src="../../../images/zn_2015_164.jpg" width="464" height="41"/></a></div>
+      </div>
+      <!--相关文章 end-->
+      <!--地震科普-->
+      <div class="i_list fr" style="height:280px;">
+        <div class="title">
+          <h2 class="fl f14 white">视频播报</h2>
+          <h5 class="fr f12 fontNb white"><a href='./spbb_20150416/'> 更多>></a></h5>
+          <p class="clear"></p>
+        </div>
+        <div class="blankH8"></div>
+        <dl>
+		  
+          <dt class="fontB"><a href="http://news.cntv.cn/2015/05/12/VIDE1431430284256755.shtml" target="_blank" title="《新闻联播》全国防灾减灾日">《新闻联播》全国防灾减灾日</a></TRS_Document> </dt>
+          <dd class="pic"><a href="http://news.cntv.cn/2015/05/12/VIDE1431430284256755.shtml" target="_blank"><img src="./spbb_20150416/201505/W020150513380306096693.jpg" alt="新闻联播2.jpg" width="122" height="91"/></a></dd>
+          <dd class="text">央视网消息(新闻联播)：今天是汶川特大地震7周年的日子，也是我国的...<font class="red"><a href="http://news.cntv.cn/2015/05/12/VIDE1431430284256755.shtml">[详情]</a></font></dd>
+		  
+        </dl>
+		
+        <div class="blankH6"></div>
+        <ul class="f14">
+		
+           <li><span> 2015-05-13 </span>&middot; <a href="http://news.cntv.cn/2015/05/12/VIDE1431430284256755.shtml" target="_blank" title="《新闻联播》全国防灾减灾日">《新闻联播》全国防灾减灾日</a> </li>
+          
+           <li><span> 2015-05-13 </span>&middot; <a href="http://tv.cntv.cn/video/C10326/2a3c9b11969647b392efe5ac17845584" target="_blank" title="《焦点访谈》 防灾减灾 中国力量">《焦点访谈》 防灾减灾 中国力量</a> </li>
+          
+           <li><span> 2015-04-17 </span>&middot; <a href="./spbb_20150416/201504/t20150417_32828.html" target="_blank" title="【科学重建·芦山新模式】地质灾害治理：钱要花在刀刃上">【科学重建·芦山新模式】地质灾害治理：钱要花在刀刃上</a> </li>
+          
+           <li><span> 2015-04-17 </span>&middot; <a href="./spbb_20150416/201504/t20150417_32838.html" target="_blank" title="芦山地震两周年产业新发展——到名山品一杯自己采的茶">芦山地震两周年产业新发展——到名山品一杯自己采的茶</a> </li>
+          
+        </ul>
+      </div>
+      <!--地震科普 end-->
+      <p class="clear"></p>
+    </div>
+    <div class="blankH16"></div>
+    <!--图片-->
+    <div class="i_ptList">
+      <ul>
+        <DIV id=demo class="piimgb" style="OVERFLOW: hidden; WIDTH: 958px;margin-top:0px; ">
+
+<TABLE cellSpacing=0 cellPadding=0 width=915 border=0>
+  <TBODY>
+  <TR>
+    <TD id=demo1 valign=middle>
+      <TABLE cellSpacing=0 cellPadding=2 border=0>
+        <TBODY>
+        <TR align=middle>
+          <TD style="PADDING:13px 0px 0px 15px" vAlign=middle align=middle>
+		  
+		  <a href="./tpxw_20150416/201505/t20150522_33044.html" target="_blank"><img src="./tpxw_20150416/201505/W020150522411041098140.jpg" alt="0339.1.jpg" style="float:left;
+	width:165px;
+	height:130px;
+	border:1px solid #B5D5EE;
+	padding:2px;"/></a>
+<a href="./tpxw_20150416/201505/t20150522_33044.html" target="_blank" title="甘孜州扎实开展防灾减灾宣传周各项活动">甘孜州扎实开展防灾减灾...</a>
+			</TD> <TD style="PADDING:13px 0px 0px 15px" vAlign=middle align=middle>
+		  
+		  <a href="./tpxw_20150416/201504/t20150417_32841.html" target="_blank"><img src="./tpxw_20150416/201504/W020150417671893754633.jpg" alt="4.jpg" style="float:left;
+	width:165px;
+	height:130px;
+	border:1px solid #B5D5EE;
+	padding:2px;"/></a>
+<a href="./tpxw_20150416/201504/t20150417_32841.html" target="_blank" title="人民网：芦山地震灾后重建见闻：花开芦山 家和民安">人民网：芦山地震灾后重...</a>
+			</TD> <TD style="PADDING:13px 0px 0px 15px" vAlign=middle align=middle>
+		  
+		  <a href="./tpxw_20150416/201504/t20150417_32827.html" target="_blank"><img src="./tpxw_20150416/201504/W020150417402506567567.jpg" alt="新华网1.jpg" style="float:left;
+	width:165px;
+	height:130px;
+	border:1px solid #B5D5EE;
+	padding:2px;"/></a>
+<a href="./tpxw_20150416/201504/t20150417_32827.html" target="_blank" title="新华网：芦山灾后重建展新颜">新华网：芦山灾后重建展新颜</a>
+			</TD> <TD style="PADDING:13px 0px 0px 15px" vAlign=middle align=middle>
+		  
+		  <a href="./tpxw_20150416/201504/t20150416_32822.html" target="_blank"><img src="./tpxw_20150416/201504/W020150416658196094919.jpg" alt="四川日报.jpg" style="float:left;
+	width:165px;
+	height:130px;
+	border:1px solid #B5D5EE;
+	padding:2px;"/></a>
+<a href="./tpxw_20150416/201504/t20150416_32822.html" target="_blank" title="四川日报：走进“4·20”芦山地震重建现场：如画新村在生长">四川日报：走进“4·20”...</a>
+			</TD> <TD style="PADDING:13px 0px 0px 15px" vAlign=middle align=middle>
+		  
+		  <a href="./tpxw_20150416/201504/t20150416_32805.html" target="_blank"><img src="./tpxw_20150416/201504/W020150416649636872093.jpg" alt="0212.2.jpg" style="float:left;
+	width:165px;
+	height:130px;
+	border:1px solid #B5D5EE;
+	padding:2px;"/></a>
+<a href="./tpxw_20150416/201504/t20150416_32805.html" target="_blank" title="宜宾市举行2015年地震救援暨反恐维稳应急拉动演练">宜宾市举行2015年地震救...</a>
+			</TD> <TD style="PADDING:13px 0px 0px 15px" vAlign=middle align=middle>
+		  
+		  <a href="./tpxw_20150416/201504/t20150416_32804.html" target="_blank"><img src="./tpxw_20150416/201504/W020150416648816407460.jpg" alt="0177.1.jpg" style="float:left;
+	width:165px;
+	height:130px;
+	border:1px solid #B5D5EE;
+	padding:2px;"/></a>
+<a href="./tpxw_20150416/201504/t20150416_32804.html" target="_blank" title="宜宾市积极开展2015年地震应急救援队伍拉动演练准备工作">宜宾市积极开展2015年地...</a>
+			</TD>
+          
+         
+         </TR></TBODY></TABLE></TD>
+    <TD id=demo2 vAlign=middle></TD></TR></TBODY></TABLE></DIV>
+	
+		
+		
+	
+<SCRIPT> 
+var speed=25 //速度数值越大速度越慢
+document.getElementById('demo2').innerHTML=document.getElementById('demo1').innerHTML 
+function Marquee(){ 
+if(document.getElementById('demo').scrollLeft<=0) 
+document.getElementById('demo').scrollLeft+=document.getElementById('demo2').offsetWidth 
+else{ 
+document.getElementById('demo').scrollLeft-- 
+} 
+} 
+var MyMar=setInterval(Marquee,speed) 
+document.getElementById('demo').onmouseover=function() {clearInterval(MyMar)} 
+document.getElementById('demo').onmouseout=function() {MyMar=setInterval(Marquee,speed)} 
+</SCRIPT>
+      </ul>
+    </div>
+    <!--图片end-->
+    <div class="blankH16"></div>
+    <!--底部开始-->
+    <div class="botCont">
+      <div class="blankH12"></div>
+      版权所有:四川省地震局 地址：成都市人民南路三段29号<br />
+      防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号 </div>
+  </div>
+</div>
+</body>
+</html>

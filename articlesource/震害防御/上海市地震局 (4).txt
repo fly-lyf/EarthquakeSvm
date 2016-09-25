@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" class="now" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">震害防御</A>
+            </div>
+            <div class="xwzxtitle">
+                <h2>震害防御</h2>
+            </div>
+            <ul class="listTxt">
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai6928.html" title="上海市防震减灾行政执法人员上岗培训暨行政执法证考试在我局举行">上海市防震减灾行政执法人员上岗培训暨行政执法证考试在我局举行</a><span>2015-12-11</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai6884.html" title="上海地震社会服务工程单位子项目通过验收">上海地震社会服务工程单位子项目通过验收</a><span>2015-10-23</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai6883.html" title="我局召开上海市防震减灾科普示范学校地震科普知识培训">我局召开上海市防震减灾科普示范学校地震科普知识培训</a><span>2015-10-16</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai5549.html" title="晒职责 树公信——上海市地震局举办媒体开放日活动">晒职责 树公信——上海市地震局举办媒体开放日活动</a><span>2015-07-29</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai5542.html" title="2015年度地震安全示范社区评选工作启动">2015年度地震安全示范社区评选工作启动</a><span>2015-07-20</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai5541.html" title="我局举办地震新闻应对及科普知识宣讲团培训">我局举办地震新闻应对及科普知识宣讲团培训</a><span>2015-07-20</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai5460.html" title="依法履职 常备不懈 协调配合 共同提升防震减灾工作水平">依法履职 常备不懈 协调配合 共同提升防震减灾工作水平</a><span>2015-04-30</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai5051.html" title="2014年上海市区县防震减灾工作会议召开">2014年上海市区县防震减灾工作会议召开</a><span>2014-05-07</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai15.html" title="关于公示2012年上海市二级地震安全性评价工程师初始注册拟同意人员名单的通告">关于公示2012年上海市二级地震安全性评价工程师初始注册拟同意人员名单...</a><span>2012-12-21</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai8.html" title="上海市地震安全性评价从业单位一览表">上海市地震安全性评价从业单位一览表</a><span>2012-06-08</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai16.html" title="建设工程地震安全性评价结果的审定及抗震设防要求的确定行政许可流程">建设工程地震安全性评价结果的审定及抗震设防要求的确定行政许可流程</a><span>2011-08-12</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai17.html" title="上海市地震局 上海市教育委员会关于开展创建防震减灾科普示范学校活动的通知">上海市地震局 上海市教育委员会关于开展创建防震减灾科普示范学校活动的通...</a><span>2011-08-12</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai19.html" title="上海市地震安全性评价收费项目和收费标准">上海市地震安全性评价收费项目和收费标准</a><span>2011-08-12</span></li>
+                
+            	<li><a href="/gb/dzj/gzdt/zhfy/u1ai18.html" title="关于印发《上海市二级地震安全性评价工程师注册实施办法》的通知">关于印发《上海市二级地震安全性评价工程师注册实施办法》的通知</a><span>2011-08-12</span></li>
+                
+            </ul>
+            <div class="page">
+<font color=gray>首页 </font><font color=gray> 上一页 </font><font color=gray> 下一页 </font><font color=gray> 尾页 </font>
+                <span>第1页&nbsp;共1页</span>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

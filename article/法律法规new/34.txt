@@ -1,0 +1,9 @@
+上海市地震局
+
+            	DB/T 33.3－2009《地震地电观测方法 地电阻率观测 第3部分：大地电磁重复测量》 发布时间：2009-11-09
+                标准名称：DB/T 33.3－2009《地震地电观测方法&nbsp;地电阻率观测&nbsp;第3部分：大地电磁重复测量》
+英文名称：The method of earthquake-related geoelectrical monitoring&nbsp;Geoelectrical resistivity observation&nbsp;Part 3:Repeated magnetotelluric measurement
+发布日期：2009年02月09日
+实施日期：2009年06月01日
+起草单位：中国地震局地震预测研究所、海南省地震局、中国地震局地质研究所、甘肃省地震局。
+内容范围：本部分规定了地震地电阻率方法中大地电磁重复测量的观测对象和原理，观测系统、观测环境以及数据处理的技术要求，适用于在地震监测和相关科学研究中的地电阻率大地电磁重复测量。

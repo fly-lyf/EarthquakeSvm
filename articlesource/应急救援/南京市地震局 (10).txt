@@ -1,0 +1,483 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0068)http://www.njseism.gov.cn/pages/InfoShow.aspx -->
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD id=Head1><TITLE>南京市地震局</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type><LINK rel=stylesheet type=text/css href="../../../images/style.css"><LINK rel=stylesheet type=text/css href="../../../images/style_plus.css"><LINK rel=stylesheet type=text/css href="../../../images/style(1).css"><LINK rel=stylesheet type=text/css href="../../../images/style(2).css">
+<SCRIPT src="../../../images/plus.js"></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript src=""></SCRIPT>
+
+<SCRIPT language=JavaScript type=text/javascript>
+var t_id = setInterval(animate,20);
+var pos=0;
+var dir=2;
+var len=0;
+function animate()
+{
+    var elem = document.getElementById('progress');
+    if(elem != null) {
+    if (pos==0) len += dir;
+    if (len>32 || pos>79) pos += dir;
+    if (pos>79) len -= dir;
+    if (pos>79 && len==0) pos=0;
+    elem.style.left = pos;
+    elem.style.width = len;
+    }
+}
+function remove_loading() {
+    this.clearInterval(t_id);
+    var targelem = document.getElementById('loader_container');
+    targelem.style.display='none';
+    targelem.style.visibility='hidden';
+}
+</SCRIPT>
+
+<SCRIPT id=clientEventHandlersJS language=javascript>
+<!--
+function CheckKey() {
+	var strkey = document.getElementById('txtUser').value.replace(/(^\s*)|(\s*$)/g,"");
+	var strtxtPwd=document.getElementById('txtPwd').value.replace(/(^\s*)|(\s*$)/g,"");
+	if (strkey == "") {
+		alert("请填写用户名！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtUser').focus();
+		return false;	
+	}
+	if (strtxtPwd == "") {
+		alert("请填写密码！");
+		buySelName.style.display='none';disableDiv.style.display='none';
+		document.getElementById('txtPwd').select();
+		return false;	
+	}
+	return true;
+}
+//-->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+function UserCheck()
+{
+var strhidu_id = document.frmRegister.hidu_id.value.replace(/(^\s*)|(\s*$)/g,"");
+
+
+if (strUserNamec ==""){
+alert("请您输入用户名！");
+document.frmRegister.userid.focus();
+}
+else if (patc.test(strUserNamec)==true)
+{
+alert("用户名含有非法字符,请更换！");
+document.frmRegister.userid.focus();
+}
+else
+{
+var strurl="UserCheck.aspx?id=" + document.frmRegister.userid.value.replace(/(^\s*)|(\s*$)/g,"");
+ // window.open(strurl,"UserCheck","scrollbars,left=100,top=100,width=134,height=152");
+A_openBrWindow(strurl,'namecheck','left=100,top=100,width=135,height=152');
+}
+}
+</SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16821"></HEAD>
+<BODY onload=remove_loading(); leftMargin=0 topMargin=0>
+<DIV id=loader_container>
+<DIV id=loader>
+<DIV align=center>请稍等<BR>页面正在加载中 ...</DIV>
+<DIV id=loader_bg>
+<DIV id=progress></DIV></DIV></DIV></DIV>
+<!--header-->
+<STYLE type=text/css>BODY {
+	FONT-FAMILY: 宋体
+}
+TD {
+	FONT-FAMILY: 宋体
+}
+TH {
+	FONT-FAMILY: 宋体
+}
+.STYLE7 {
+	COLOR: #fed482
+}
+.STYLE8 {
+	COLOR: #fdd381; FONT-WEIGHT: bold
+}
+.STYLE9 {
+	COLOR: #4f411e; FONT-WEIGHT: bold
+}
+.STYLE10 {
+	COLOR: #4f411e
+}
+.STYLE12 {
+	COLOR: #79663c; FONT-SIZE: 11pt; FONT-WEIGHT: bold
+}
+.STYLE13 {
+	COLOR: #79663c
+}
+.STYLE14 {
+	COLOR: #bb2d15; FONT-WEIGHT: bold
+}
+.STYLE15 {
+	COLOR: #504122; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+.STYLE16 {
+	FONT-SIZE: 11pt
+}
+.STYLE17 {
+	COLOR: #ffffff
+}
+.STYLE18 {
+	COLOR: #654c0c
+}
+</STYLE>
+
+<SCRIPT language=javascript type=text/javascript>
+ 
+  function homesubmenu(){
+    for (i=1;i<6;i++) {
+      document.getElementById("dtbwxfu"+i).style.display="none";     
+     }
+     window.location.href='/index.aspx'
+  }
+  
+</SCRIPT>
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+<TBODY>
+  <TABLE border="0" cellSpacing="0" cellPadding="0" width="1002" align="center">
+  <TBODY>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r1_c5.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="98%" align="center">
+        <TBODY>
+        <TR>
+          <TD style="height: 22px;" width="84%"><SPAN class="STYLE7">
+<SCRIPT language="javascript">
+<!--
+var bsYear;  
+var bsDate;  
+var bsWeek;  
+var arrLen=8;	//数组长度
+var sValue=0;	//当年的秒数
+var dayiy=0;	//当年第几天
+var miy=0;	//月份的下标
+var iyear=0;	//年份标记
+var dayim=0;	//当月第几天
+var spd=86400;	//每天的秒数
+
+var year1999="30;29;29;30;29;29;30;29;30;30;30;29";	//354
+var year2000="30;30;29;29;30;29;29;30;29;30;30;29";	//354
+var year2001="30;30;29;30;29;30;29;29;30;29;30;29;30";	//384
+var year2002="30;30;29;30;29;30;29;29;30;29;30;29";	//354
+var year2003="30;30;29;30;30;29;30;29;29;30;29;30";	//355
+var year2004="29;30;29;30;30;29;30;29;30;29;30;29;30";	//384
+var year2005="29;30;29;30;29;30;30;29;30;29;30;29";	//354
+var year2006="30;29;30;29;30;30;29;29;30;30;29;29;30";
+
+var month1999="正月;二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2001="正月;二月;三月;四月;闰四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2004="正月;二月;闰二月;三月;四月;五月;六月;七月;八月;九月;十月;十一月;十二月"
+var month2006="正月;二月;三月;四月;五月;六月;七月;闰七月;八月;九月;十月;十一月;十二月"
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+
+var Ys=new Array(arrLen);
+Ys[0]=919094400;Ys[1]=949680000;Ys[2]=980265600;
+Ys[3]=1013443200;Ys[4]=1044028800;Ys[5]=1074700800;
+Ys[6]=1107878400;Ys[7]=1138464000;
+
+var Yn=new Array(arrLen);   //农历年的名称
+Yn[0]="己卯年";Yn[1]="庚辰年";Yn[2]="辛巳年";
+Yn[3]="壬午年";Yn[4]="癸未年";Yn[5]="甲申年";
+Yn[6]="乙酉年";Yn[7]="丙戌年"; 
+var D=new Date();
+var yy=D.getYear();
+var mm=D.getMonth()+1;
+var dd=D.getDate();
+var ww=D.getDay();
+if (ww==0) ww="<font color=red>星期日";
+if (ww==1) ww="<font color=#fed482>星期一";
+if (ww==2) ww="<font color=#fed482>星期二";
+if (ww==3) ww="<font color=#fed482>星期三";
+if (ww==4) ww="<font color=#fed482>星期四";
+if (ww==5) ww="<font color=#fed482>星期五";
+if (ww==6) ww="<font color=RED>星期六";
+ww=ww;
+var ss=parseInt(D.getTime() / 1000);
+if (yy<100) yy="19"+yy;
+
+for (i=0;i<arrLen;i++)
+	if (ss>=Ys[i]){
+		iyear=i;
+		sValue=ss-Ys[i];    //当年的秒数
+		}
+dayiy=parseInt(sValue/spd)+1;    //当年的天数
+
+var dpm=year1999;
+if (iyear==1) dpm=year2000;
+if (iyear==2) dpm=year2001;
+if (iyear==3) dpm=year2002;
+if (iyear==4) dpm=year2003;
+if (iyear==5) dpm=year2004;
+if (iyear==6) dpm=year2005;
+if (iyear==7) dpm=year2006;
+dpm=dpm.split(";");
+
+var Mn=month1999;
+if (iyear==2) Mn=month2001;
+if (iyear==5) Mn=month2004;
+if (iyear==7) Mn=month2006;
+Mn=Mn.split(";");
+
+var Dn="初一;初二;初三;初四;初五;初六;初七;初八;初九;初十;十一;十二;十三;十四;十五;十六;十七;十八;十九;二十;廿一;廿二;廿三;廿四;廿五;廿六;廿七;廿八;廿九;三十";
+Dn=Dn.split(";");
+
+dayim=dayiy;
+
+var total=new Array(13);
+total[0]=parseInt(dpm[0]);
+for (i=1;i<dpm.length-1;i++) total[i]=parseInt(dpm[i])+total[i-1];
+for (i=dpm.length-1;i>0;i--)
+	if (dayim>total[i-1]){
+		dayim=dayim-total[i-1];
+		miy=i;
+		}
+bsWeek=ww;
+bsDate=yy+"年"+mm+"月";
+bsDate2=dd;
+bsYear="农历"+Yn[iyear];
+bsYear2=Mn[miy]+Dn[dayim-1];
+if (ss>=Ys[7]||ss<Ys[0]) bsYear=Yn[7];
+/* 修改下面的表格属性*/ 
+function CAL(){
+document.write("&nbsp;&nbsp;<span style=\"color:#fed482; font-size:9pt\">"+bsDate+""+bsDate2+"日&nbsp;"+bsWeek+"&nbsp;</span>");
+
+
+//document.write("&nbsp;&nbsp;<font color=#000000>"+bsDate+""+bsDate2+"日&nbsp;</font><font color=#008040><span>");
+//document.write(bsWeek+"&nbsp;</span>"+"<font color=#9B4E00><span style='FONT-SIZE: 11px'>");
+//document.write(bsYear+""+bsYear2+""+"</span>");
+}
+//-->
+</SCRIPT>
+<SCRIPT language=JavaScript type=text/JavaScript>
+var pic_index1=1;
+var max_index1=9;
+var inter=null;
+inter=setInterval(next1,90000000);
+function changeall3() {
+for (i=1;i<10;i++) {
+//document.getElementById("dtbwxfu"+i).style.display="none";
+document.getElementById("dtbwxfu0").style.display="none";
+document.getElementById("cbtwxfu"+i).src='../../../images/'+i+'-caidan-a.gif';
+}
+}
+function change3(a) {
+changeall3();
+pic_index3=a;
+//document.getElementById("dtbwxfu"+a).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+a).src='../../../images/'+a+'-caidan-b.gif';
+}
+function next3(){
+pic_index3++;
+changeall3();
+if(pic_index3>max_index3){pic_index3=1}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+function prev3(){
+pic_index3--;
+changeall3();
+if(pic_index3<1){pic_index3=max_index3}
+//document.getElementById("dtbwxfu"+pic_index1).style.display="";
+document.getElementById("dtbwxfu0").style.display="";
+document.getElementById("cbtwxfu"+pic_index3).src='../../../images/'+pic_index3+'-caidan-b.gif';
+}
+</SCRIPT>
+
+            
+<SCRIPT language="javascript">CAL();</SCRIPT>
+            </SPAN></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            onclick="this.style.behavior='url(#default#homepage)';this.sethomepage('http://www.njseism.gov.cn');" 
+            href="http://www.njseism.gov.cn/#"><IMG style="" src="../../../images/dzj_r2_c1.gif" width="65" height="18" /></A></TD>
+          <TD style="height: 22px;" width="8%" align="center"><A class="head" 
+            href="javascript:window.external.addfavorite('http://www.njseism.gov.cn','南京市地震局')"><IMG style="" src="../../../images/dzj_r2_c3.gif" width="65" height="18" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="114"><IMG src="../../../images/dzj_r5_c1.gif" width="1002" height="114" />
+    
+   <!-- <div style=" position:relative;margin-top:-105px; right:20px;width:95px;height:38px;float:right;z-index:10000;clear:both"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" /></a></div>-->
+     
+    </TD></TR>
+  <TR>
+    <TD height="32" background="../../../images/dzj_r6_c1.gif">
+      <TABLE border="0" cellSpacing="0" cellPadding="0" width="810" align="center">
+        <TBODY>
+        <TR>
+          <TD><A class="banner" 
+            href="../../../"target="_self" ><IMG id="cbtwxfu1" onmouseover="javascript:change3(1)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu1" src="../../../images/1-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17860/" target="_self"><IMG id="cbtwxfu2" onMouseOver="javascript:change3(2)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu2" src="../../../images/2-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17891/" target="_self"><IMG id="cbtwxfu3" onMouseOver="javascript:change3(3)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu3" src="../../../images/3-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17871/" target="_self"><IMG id="cbtwxfu4" onMouseOver="javascript:change3(4)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu4" src="../../../images/4-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17877/" target="_self"><IMG id="cbtwxfu5" onMouseOver="javascript:change3(5)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu5" src="../../../images/5-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../" target="_self"><IMG id="cbtwxfu6" onMouseOver="javascript:change3(6)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu6" src="../../../images/6-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17922/" target="_self"><IMG id="cbtwxfu7" onMouseOver="javascript:change3(7)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu7" src="../../../images/7-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17925/" target="_self"><IMG id="cbtwxfu8" onMouseOver="javascript:change3(8)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu8" src="../../../images/8-caidan-a.gif" width="90" height="32" /></A></TD>
+          <TD><A class="banner" href="../../../17927/" target="_self"><IMG id="cbtwxfu9" onMouseOver="javascript:change3(9)" onMouseOut="javascript:inter=setInterval(next1,25000000);" border="0" name="cbtwxfu9" src="../../../images/9-caidan-a.gif" width="90" height="32" /></A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height="29" background="../../../images/dzj_r7_c1.gif">
+      <TABLE style="display: none;" id="dtbwxfu0" border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <TBODY>
+        <TR>
+          <TD align="center"><SPAN style="color: white; font-size: x-small; font-weight: bold;" 
+            id="header_Label34">&nbsp;                
+    </SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+
+<div style="z-index: 10000; position: absolute; margin-top: -150px; width: 95px; float: right; height: 38px; clear: both; right: 300px;">
+<a href="http://www.nj.gov.cn" target="_blank">
+<IMG src="../../../images/zgnj_logo_20130918.png" width=95 height=38 border="0" />
+</a>
+</div>
+
+
+<!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17885';</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->
+</TBODY>
+</TABLE>            
+<STYLE>BODY {
+	SCROLLBAR-ARROW-COLOR: #403f3f; SCROLLBAR-FACE-COLOR: #fcfcfc; 滚动条突出部分颜色: #00b4fc; 滚动条亮边部分颜色: #00b4fc; 滚动条暗边部分颜色: #fcfcfc; 上下箭头三角形的颜色: #fcfcfc; 滚动条背景颜色: #fcfcfc; 滚动条强阴影颜色: #d84800; 滚动条基本颜色: 
+}
+.zz {
+	LINE-HEIGHT: 25px; FONT-SIZE: 12px
+}
+</STYLE>
+
+<SCRIPT language=javascript>
+<!--
+if (self!=top){top.location=self.location;} 
+-->
+</SCRIPT>
+
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1001 align=center>
+  <TBODY>
+  <TR>
+    <TD bgColor=#f5f2e1><BR>
+      <TABLE border=0 cellSpacing=0 cellPadding=0 width="83%" align=center>
+        <TBODY>
+        <TR>
+          <TD colSpan=3>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD height=21 background="" width=27 align=middle><IMG src="../../../images/2-icon_1.jpg" width=12 height=12 /></TD>
+                <TD class=wz height=21 background="" width=788>
+				当前位置：
+				<a href="../../../" class='wz CurrChnlCls'>首页</a>&nbsp;>&nbsp;<a href="../../" class='wz CurrChnlCls'>应急救援</a>&nbsp;>&nbsp;<a href="../" class='wz CurrChnlCls'>应急预案</a>
+				</TD>
+                <TD height=21 background="" width=15></TD></TR>
+              <TR>
+                <TD bgColor=#cccccc height=1 colSpan=3></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+                    <TD bgColor=#ffffff width=828>
+            <TABLE border=0 cellSpacing=0 cellPadding=0 width="98%" align=center>
+              <TBODY>
+              <TR>
+                <TD id=article>
+                  <TABLE id=tabinfo border=0 cellSpacing=5 width="100%">
+                    <TBODY>
+                    <TR>
+                      <TD class=word14 height=30 vAlign=center width="9%" align=middle><BR><STRONG><SPAN 
+                        style="FONT-SIZE: 18pt; FONT-WEIGHT: bold" 
+                        id=lbltitle>南京市地震应急预案（2013 年修订版）</SPAN> </STRONG><BR></TD></TR>
+                    <TR>
+                      <TD height=30 vAlign=top align=middle><SPAN 
+                        style="COLOR: #333333">发布时间： <SPAN 
+                        id=lblupdatetime>2014-01-06</SPAN> &nbsp; 阅读次数： 
+                        <span id="art_2368313"></span>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/server_counts_json.php?website=10000045&action=article&artid=2368313"></script> &nbsp; 信息来源： </SPAN></TD></TR>
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px" class=newfont align=left><SPAN id=lblcontent>
+                        <DIV align=left><TABLE style="WIDTH: 566pt; BORDER-COLLAPSE: collapse" border=0 cellSpacing=0 cellPadding=0 width=755 align=center>
+                          <COLGROUP>
+                          <COL 
+                          style="WIDTH: 159pt; mso-width-source: userset; mso-width-alt: 6784" 
+                          width=212>
+                          <COL style="WIDTH: 54pt" span=4 width=72>
+                          <COL 
+                          style="WIDTH: 191pt; mso-width-source: userset; mso-width-alt: 8160" 
+                          width=255>
+                          <TBODY>                         
+						   <div class=TRS_Editor><p align="justify" class="Custom_UnionStyle" style="text-align: center"><img style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" alt="" complete="complete" oldsrc="W020140106612575424626.jpg" src="./W020140106612575424626.jpg" /></p><p align="justify" class="Custom_UnionStyle" style="text-align: center">　　</p><p align="justify" class="Custom_UnionStyle" style="text-align: center"><strong><span>南京市地震应急预案</span><span>（<span lang="EN-US">2013 </span>年修订版）</span>&nbsp;</strong></p><p align="justify" class="Custom_UnionStyle">　　<span>一、 总则<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（一）编制目的<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>建立健全我市地震应急救援体系和运行机制，规范应急救援行为，提高应急救援能力，科学、有序、高效地做好应急救援工作，最大限度地减少人员伤亡和经济损失，维护社会稳定。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（二）编制依据<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>依据《中华人民共和国防震减灾法》、《破坏性地震应急条例》、《江苏省防震减灾条例》、《江苏省地震应急预案》和《南京市突发公共事件总体应急预案》等，制定本预案。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（三）适用范围<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>本预案适用于发生在南京市辖区，以及其他地区对南京有影响的地震灾害和事件的应急处置工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（四）工作原则<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>抗震救灾工作坚持统一领导、分级负责、资源共享、快速反应、以人为本、科学救灾的工作原则。地震发生后，各区政府和市相关部门立即按照职责分工和专项预案开展前期处置工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>二、灾害分级及响应原则<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（一）灾害分级<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1 </span><span>．一般地震灾害<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>发生在南京市辖区<span lang="EN-US"> 3.0 </span>以上、<span lang="EN-US">4.0 </span>级以下地震；造成<span lang="EN-US"> 10 </span>人以下死亡（含失踪），或造成一定经济损失和影响的地震，或其他地区发生对本市造成影响的有感地震，可初判为一般地震灾害。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2 </span><span>．较大地震灾害<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>发生在南京市辖区<span lang="EN-US"> 4.0 </span>级以上、<span lang="EN-US"> 5.0 </span>级以下地震或者发生在本市相邻地区<span lang="EN-US"> 5.0 </span>级以上、<span lang="EN-US"> 6.0 </span>级以下地震；造成<span lang="EN-US"> 10</span>人以上、<span lang="EN-US">50 </span>人以下死亡（含失踪），或造成较大经济损失和影响的地震，可初判为较大地震灾害。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">3 </span><span>．重大地震灾害<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>发生在南京市辖区<span lang="EN-US">5.0</span>级以上、<span lang="EN-US">6.0</span>以下级地震或者发生在本市相邻地区<span lang="EN-US">6.0</span>级以上、<span lang="EN-US">7.0 </span>级以下地震；造成<span lang="EN-US"> 50</span>人以上、<span lang="EN-US">300 </span>人以下死亡（含失踪），或造成严重经济损失和影响的地震，可初判为重大地震灾害。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">4 </span><span>．特别重大地震灾害<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>发生在南京市辖区<span lang="EN-US"> 6.0 </span>级以上地震或者发生在本市相邻地区<span lang="EN-US"> 7.0 </span>级以上地震；造成<span lang="EN-US"> 300 </span>人以上死亡（含失踪），或造成直接经济损失占全市上半年国内生产总值<span lang="EN-US"> 1% </span>以上的地震灾害，可初判为特别重大地震灾害。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（二）分级响应原则<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>根据地震灾害分级情况，将地震灾害应急响应分为Ⅳ级、Ⅲ级、Ⅱ级和Ⅰ级。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>应对一般地震灾害，启动Ⅳ级响应。由灾区所在地区政府负责领导、指挥和协调抗震救灾工作。市相关单位根据需求协助做好抗震救灾工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>应对较大地震灾害，启动Ⅲ级响应。由市政府成立市抗震救灾指挥部，领导、指挥和协调抗震救灾工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>应对重大和特别重大地震灾害，分别启动Ⅱ级和Ⅰ级响应。由市政府成立市抗震救灾指挥部先期处置抗震救灾工作。待省政府成立抗震救灾指挥部后，接受省抗震救灾指挥部统一领导、指挥和协调抗震救灾工作，并提供相应的后勤保障工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（三）响应级别调整<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>地震应急响应启动后，可视震情和灾情发展情况对响应级别及时进行相应调整，避免响应不足或者响应过度。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>三、 组织体系</span></p><p align="center" class="Custom_UnionStyle"><span><img style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" alt="" complete="complete" oldsrc="W020140106612575425488.jpg" src="./W020140106612575425488.jpg" /></span></p><p align="justify" class="Custom_UnionStyle">&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　</p><p align="justify" class="Custom_UnionStyle">　　<span>（一）市抗震救灾指挥部<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1 </span><span>．市抗震救灾指挥部的组成<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>指挥长：市长或副市长<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（启动Ⅰ级或Ⅱ级响应时，由市长担任指挥长）<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>副指挥长：副市长或分管秘书长<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（启动Ⅰ级或Ⅱ级响应时， 由副市长担任副指挥长）<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>成 员：南京警备区、市委宣传部、市地震局、市发改委、市经信委、 市住建委、市科委、市教育局、市公安局、市民政局、市财政局、市国土局、市药监局、市安监局、市金融办、市环保局、市规划局、市城管局、市交通运输局、市农委、市水利局、市商务局、市旅游委、市文广新局、市卫生局、市人防办、市侨办、市外办、市国资委、市园林局、市气象局、市台办、团市委、市红十字会、武警南京支队、 市公安消防局、南京供电公司、上海铁路局南京办事处、江苏电信南京分公司、中国移动江苏公司南京分公司、中国联通江苏公司南京分公司等有关部门和单位负责同志。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>指挥部下设办公室，办公室主任由分管秘书长担任，副主任由市地震局局长与市应急办主任担任，成员由抗震救灾指挥部成员单位联络员组成，办公室具体工作由市地震局与市应急办共同承担。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2 </span><span>．市抗震救灾指挥部主要职责<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 1 </span>） 负责统一指挥、 协调、 部署全市地震应急处置和救灾工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 2 </span>）启动、调整或终止地震应急响应级别。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 3 </span>）向省政府报告震情、灾情，视灾情请求省政府援助。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 4 </span>）处置与地震应急和救灾工作有关的各类突发事件。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 5 </span>） 视灾情可派出现场指挥部或现场工作组承担指挥部的其他工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 6 </span>）统一、领导、组织受灾地区灾后重建工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 7 </span>）协调军队系统（现役、预备役、武警部队和民兵）参加抢险救灾。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">3 </span><span>．市抗震救灾指挥部办公室职责<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 1 </span>）汇集震情、灾情和救灾进展情况，报市抗震救灾指挥部，并通报指挥部成员单位。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 2 </span>）提出启动地震应急响应级别。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 3 </span>）传达、贯彻指挥部的指示和部署，并督促检查、落实相关工作开展情况。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 4 </span>）协调市抗震救灾指挥部成员单位、地震灾害紧急救援队伍和灾区政府之间的应急救援工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 5 </span>）承担抗震救灾指挥部的其他工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">4 </span><span>．市抗震救灾指挥部成员单位职责<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>南京警备区：在市抗震救灾指挥部的指挥下，按市政府需求协调驻军投入抗震救灾工作；组织民兵预备役人员参与地震灾区工程抢险、重要目标防卫、 人员搜救、 转移灾民和治安防 控工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市委宣传部：负责震情、灾情和救灾信息新闻发布的组织和管理；负责把握抗震救灾宣传导向；及时协调、指导新闻单位做好抗震救灾现场情况新闻宣传报道和防灾减灾科普知识宣传工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市地震局：负责震情监测，及时通报余震信息；组织对损毁的地震监测设施设备的修复和维护；迅速收集、了解震情，向市政府和省地震局报告；提出震后地震趋势判定，及时上报。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>指挥部；派出地震现场工作组，开展震灾评估、科学考察、社会调查等工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市发改委：负责地震灾害项目和应急治理项目计划的协调安排和监督管理；负责制定震后恢复生产和灾后重建方案。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市经信委：负责组织、协调地震应急物资的储存、调拨和紧急供应； 负责调查核实统计企业的灾情； 指导企业抗震救灾、恢复生产和重建工作；做好煤、电、油、气、运综合协调落实工作；负责邮政通讯、天然气、电力、电信等企业的抢险排危；协调保障电力、通信畅通；负责协调企业生产救灾急需物资。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市住建委：组织专家做好灾区建筑物的安全鉴定，房屋损失评估认定，对危房排查和抢险加固；开展灾区市政设施的防护、巡查、 抢修和排险，保障灾区供水、供气；帮助灾区制定和实施重建规划。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市科委：负责在抗震救灾过程中，提供专家和技术保障。市教育局：负责统计学校灾情；做好学生的疏散、紧急救援和心理抚慰、灾后复学复课、学校恢复重建等工作；开展好学校防灾减灾科普知识宣传。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市公安局：负责地震应急工作中的治安保障；组织抗震救灾现场治安警戒，协助组织灾区群众安全撤离或转移；依法实施道路交通管制；严惩趁火打劫和制造事端的违法犯罪行为，加强对重点地区、重点场所、重点人群、重要物资设备的保护。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市民政局：负责灾情统计；负责受灾群众安置；负责抗震救灾救助物资储存调拨和紧急供应；组织募集、接受救灾物资和资金；负责救灾物资的接受、管理、分配、发放；协助转运、接受地震伤员；妥善处置遇难者遗体；协助指导抗震救灾义卖、义演等活动。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市财政局：制定和贯彻落实救灾的财政政策；负责救灾资金的调度、 筹措；及时下达救灾经费，并监督使用，确保救灾急需物资及时到位；落实灾后恢复生产和重建资金。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市国土局：负责灾毁耕地和地质灾害情况统计；做好受灾群众过渡房安置建设用地保障和地质灾害防治工作；编制地质灾害防治规划和灾后重建土地利用规划；加强对地质灾害险情的动态监测和预防。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市药监局：建立健全食品药品安全信息数据库和信息报告系统； 负责组织对地震应急及灾区救治药品、医疗器械的质量安全监督与管理；负责灾区餐饮服务仪器卫生的监督、监测。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市安监局：组织企业救援队参与搜救被压埋的群众；对企业的灾害隐患加强监测、预警和抢险排危；对化工类生产地区、行业和生产设施、仓库等采取紧急措施，防御次生灾害发生。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市金融办：统计金融系统（银行、保险、证券）灾情；指导金融系统防灾、减灾； 协调相关部门采取措施保障金融系统场所的安全；协调银行解决企业、农业贷款等资金；协助制定金融系统恢复生产方案，并组织实施。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市环保局：组织对地震灾害引发的次生环境问题进行环境影响评价和启动环境污染事故应急响应机制；加强对饮用水源、环境的监测，负责指导、督促产生次生环境污染的单位及所在地区（园区）政府做好环境污染控制工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市规划局：根据受灾情况，组织编制灾后重建规划方案。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市城管局：及时向灾区调派环卫设施及设备；选派洒水作业车辆向灾区运送生活用水；做好市政设施抢险排危。市交通运输局：负责保证紧急情况下应急交通工具的优先安排、优先调度、优先放行，确保运输安全畅通；负责组织恢复被毁干线公路、水路等基础设施；开设救援“绿色通道”，保障交通干线和抢险救灾重要路线的畅通； 负责组织车辆运送救灾应急物资，做好抢险救灾人员、物资以及需转移灾民的紧急运输工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市农委：负责地震突发事件中农业安全生产；指导农业抗震减灾， 负责农业应急救灾资金、救灾化肥、备荒种子等管理和灾后恢复生产。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市水利局：负责对水利工程的监测预警和震毁、受损工程的抢修； 对易发生次生灾害的水利工程采取紧急防御措施，加强监控。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市商务局：负责组织、协调抗震应急物资、粮油的储存、调拨和紧急供应。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市旅游委：负责统计和掌握在宁国内外游客以及旅游团情况，安排游客有序撤离；负责开放有条件旅游景点作为应急避险场所，并提供必要生活设施；配合相关部门组织恢复被毁的基础旅游设施。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市文广新局：负责组织广播电台、电视台对抗震救灾工作的宣传报道；负责抢修广电基础设施；负责全市文物保护和重点文物建筑的抗震加固。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市卫生局：负责组织调度全市医疗卫生技术力量，开展紧急医疗卫生保障；负责灾区传染病疫情监测以及生活饮用水的监督、监测，预防和控制传染病疫情、食源性疾病的发生、蔓延。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市人防办：负责人防设施的应急开放使用；适时组织人防机动指挥所参与抗震应急抢险救援的通讯保障。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市侨办、市外办、市台办：负责协助国外、境外（港澳除外）新闻媒体采访报道组织管理和服务；协助做好在宁工作的港澳台专家、教师和在宁生活的外国人和港澳同胞的安全善后工作；做好对入境游客的救护工作；全力协助受灾华人华侨、归侨、侨眷属、侨资企业和台胞、台属、台资企业处理相关事宜；协助接收、统计外来物资、赈灾资金。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市国资委：负责调查核实所管理企业的灾情并指导企业抗震救灾、恢复生产和重建工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市园林局：负责开放应急避险场所，提供必要生活设施。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市气象局：负责监测天气形势，为抗震救灾及时提供天气</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>预报和其他相关气象资料。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>团市委：及时组织志愿者开展自救互救，做好境内外志愿者前往灾区参加救援工作的管理与服务工作；加大防震减灾宣传，做好安定群众情绪的工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市红十字会：开展社会募捐及对受灾群众进行救护救助。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>武警南京支队：负责组建抗震救灾骨干队伍，营救、安置、转移群众、运送物资、承担急难险重的抗震救灾和灾后重建工作；负责重点部门和重要设施的安全保卫，维护社会治安稳定。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市公安消防局：负责调派抗震救援力量先期投入救援，调集重型救援队、轻型救援队、战勤保障分队，并在第一时间向抗震救灾指挥部报告灾情和救援情况。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>南京供电公司：负责保障抗震救灾指挥部和现场指挥部工作所需用电；尽快恢复全市范围内电力供应，保证各行业尽快恢复生产和群众的正常生活。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>上海铁路局南京办事处：负责组织协调抗震救灾物资铁路专运、 特运以及安全警卫等工作；负责辖区内铁路交通检测维修，及时排除险情，确保铁路畅通，保障通过铁路的抗震救灾物资迅速、及时运往灾区。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>江苏电信南京分公司、中国移动江苏公司南京分公司、中国联通江苏公司南京分公司：负责实现灾区现场与市抗震救灾指挥部之间视频、音频、数据信息的双向传递；组织和协调灾区受损通信设施的抢修和恢复重建，保证通信畅通。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（二）市抗震救灾指挥部工作组<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>指挥部根据抗震救灾工作需要，设立若干工作小组，其组成如下： 地震监测及趋势研判组、抢险救援组、群众生活保障组、医疗救治和卫生防疫组、基础设施保障和生产恢复组、次生灾害防范处置组、社会治安组、救灾捐赠与涉外、涉港澳台协调事务组、灾情损失收集评估组、信息发布及宣传报道组等。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">&nbsp;</p><div class="Custom_UnionStyle" align="justify"><table class="MsoNormalTable" style="border-bottom: medium none; border-left: medium none; border-collapse: collapse; margin-left: 36.9pt; border-top: medium none; border-right: medium none" border="1" cellspacing="0" cellpadding="0">    <tbody>        <tr style="height: 18.25pt">            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; height: 18.25pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">序号</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; height: 18.25pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">工作组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; height: 18.25pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">组长单位</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; height: 18.25pt; border-top: windowtext 1pt solid; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">参加单位</span>&nbsp;</p>            </td>        </tr>        <tr style="height: 17.65pt">            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; height: 17.65pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">1</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; height: 17.65pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">地震监测及趋势研判组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; height: 17.65pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">地震局</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; height: 17.65pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">&nbsp;</span>&nbsp;</p>            </td>        </tr>        <tr style="height: 46.5pt">            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; height: 46.5pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">2</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; height: 46.5pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">抢险救援组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; height: 46.5pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">南京警备区</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; height: 46.5pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">公安局、消防局、安监局、武警南京支队等</span>&nbsp;</p>            </td>        </tr>        <tr>            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">3</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">群众生活保障组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">民政局</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">发改委、教育局、经信委、财政局、住建委、农委、商务局、旅游委、供销合作总社、红十字会、人防办、团市委等</span>&nbsp;</p>            </td>        </tr>        <tr>            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">4</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">医疗救治和卫生防疫组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">卫生局</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">发改委、财政局、民政局、经信委、交通局、农委、食药监局、武警南京支队、红十字会等</span>&nbsp;</p>            </td>        </tr>        <tr>            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">5</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">基础设施保障和生产恢复组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">发改委</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">住建委、经信委、民政局、财政局、国土局、环保局、交通局、上海铁路局南京办事处、水利局、农委、商务局、文广新局等</span>&nbsp;</p>            </td>        </tr>        <tr>            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">6</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">次生灾害防范处置组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">安监局</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">公安局、水利局、住建委、经信委、交通局、科委、国土局、环保局、人防办、气象局等</span>&nbsp;</p>            </td>        </tr>        <tr>            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">7</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">社会治安组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">公安局</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">司法局、武警南京支队等</span>&nbsp;</p>            </td>        </tr>        <tr>            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">8</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">救灾捐赠与涉外、涉港澳台协调事务组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">民政局</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">侨办、外办、台办、南京海关、商务局、食药监局、旅游委、红十字会等</span>&nbsp;</p>            </td>        </tr>        <tr>            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">9</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">灾情损失收集评估组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">民政局</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">住建委、财政局、经信委、国土局、国资委、水利局、教育局等</span>&nbsp;</p>            </td>        </tr>        <tr>            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">10</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">信息发布及宣传报道组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">市委宣传部</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">文广新局、旅游委、侨办、外办、台办、民政局、地震局等</span>&nbsp;</p>            </td>        </tr>        <tr>            <td width="11%" style="border-bottom: windowtext 1pt solid; border-left: windowtext 1pt solid; padding-bottom: 0cm; padding-left: 5.4pt; width: 11.36%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span lang="EN-US" style="font-family: 宋体; font-size: 12pt">11</span>&nbsp;</p>            </td>            <td width="25%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 25.06%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">通信保障组</span>&nbsp;</p>            </td>            <td width="17%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 17.66%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">经信委</span>&nbsp;</p>            </td>            <td width="45%" style="border-bottom: windowtext 1pt solid; border-left: medium none; padding-bottom: 0cm; padding-left: 5.4pt; width: 45.92%; padding-right: 5.4pt; border-top: medium none; border-right: windowtext 1pt solid; padding-top: 0cm">            <p align="center" class="MsoNormal" style="text-align: center; line-height: 24pt">　　<span style="font-family: 宋体; font-size: 12pt">江苏电信南京分公司、中国移动江苏公司南京分公司、中国联通江苏公司南京分公司</span>&nbsp;</p>            </td>        </tr>    </tbody></table></div><p align="justify" class="Custom_UnionStyle">　　</p><p align="justify" class="Custom_UnionStyle">&nbsp;&nbsp;&nbsp; <span>（三）市抗震救灾现场指挥部<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>发生特别重大、重大、较大地震灾害后，由市抗震救灾指挥部根据抗震救灾需要，成立现场指挥部。特别重大、重大地震灾害现场总指挥一般由分管副市长或市政府秘书长担任，较大地震灾害现场总指挥一般由市政府秘书长或分管副秘书长担任。现场副指挥由南京警备区、市发改委、市民政局、市公安局、市住建委、市地震局等相关部门的负责同志和灾区所在的区政府负责同志担任。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市抗震救灾现场指挥部主要职责：</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1</span><span>．分析、判断地震灾害趋势，确定并实施现场应急处置方案。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2</span><span>．部署和组织指挥现场紧急救援工作，尽快沟通、汇集和上报地震破坏、人员伤亡和被压埋情况、灾民自救互救结果、救援行动进展等信息。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">3</span><span>．分配救援任务、划分责任区域，协调各类紧急救援队伍的行动。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">4</span><span>．调动和调配各类应急资源，做好现场应急保障工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">5</span><span>．及时汇报震情、灾情，传达落实上级抗震救灾指示。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">6</span><span>．接待新闻单位来访，开展安定民心、稳定社会的宣传教育工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（四）区抗震救灾指挥部<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>区抗震救灾指挥部是区政府设立的本级抗震救灾工作的组织领导机构， 在上级抗震救灾指挥部和本级政府领导下，负责本辖区内一般地震灾害的应急处置工作；遇到较大以上地震灾害，纳入市抗震救灾指挥部统一指挥。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>四、预警预防 </span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（一）地震预警级别<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>依据地震的紧迫程度，分为三个级别：<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1</span><span>．地震临震预报为Ⅰ级预报，预报期一般为<span lang="EN-US"> 10 </span>日。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2</span><span>．地震短期预报为Ⅱ级预报，预报期一般为<span lang="EN-US"> 3 </span>个月。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">3</span><span>．地震中期预报为Ⅲ级预报， 预报期一般为<span lang="EN-US"> 1 </span>年或稍长时</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>间。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（二）短临预报发布后应急处置<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1</span><span>．短临预报发布<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>当省政府发布短期临震地震预报（指未来<span lang="EN-US"> 3 </span>个月内可能发生破坏性地震）后，预报区内进入临震应急状态。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2</span><span>．短临预报发布后应急处置流程<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 1 </span>）市政府成立抗震救灾指挥部（临震应急处置的领导机关），由分管副市长为指挥长，负责统一组织、指挥和协调全市临震应急处置工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 2 </span>）根据省政府和省抗震救灾指挥部的统一部署，结合本</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>地实际，做好抢险救援、防震抗震准备，做好群众应急疏散准备。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 3 </span>）市、区地震部门加强短临跟踪，核实出现的地震宏观</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>微观异常，密切注意各项观测资料的实时变化，及时进行震情会商，做好地震预警预报工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 4 </span>）区政府负责强化群测群防工作，发现地震宏观异常情况及时上报市地震局。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（三）临震预报发布后应急处置<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1</span><span>．临震预报发布<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>如果发现明显临震异常， 在紧急情况下，市政府可以发布<span lang="EN-US"> 48 </span>小时之内的临震预报，并同时向省政府和省地震局报告。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2 </span><span>．临震预报发布后应急处置流程<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 1 </span>）及时向社会公布临震预警情况。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 2 </span>）发布避震通知，组织避震疏散。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（ <span lang="EN-US">3 </span>） 部署本辖区各类抢险救援队伍，做好抢险救援和物资准备。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 4 </span>）对生命线工程和次生灾害源采取紧急防护措施。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 5 </span>）加强对重点单位和重要基础设施的安全保卫工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 6 </span>）采取必要措施维护社会治安。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（四）预警预报解除<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1</span><span>．省政府发布短临预报延期或解除后，市、区政府做好善后处置工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2</span><span>．根据临震异常情况变化，市政府向社会发布<span lang="EN-US">48</span>小时临震预报延期或解除并做好善后处置工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>五、应急处置</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（一）应对一般地震灾害，启动Ⅳ级响应<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1</span><span>．市地震局向市政府和省地震局报告震情，同时加强震情趋势研判。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2</span><span>．当一般地震造成较大灾情或社会影响时，市地震局视情向震区所在地区政府提出处置建议，并派出现场工作组。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">3</span><span>．震区所在地区政府根据地震部门处置建议组织领导当地的地震应急工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">4</span><span>．市委宣传部、市文广新局通过新闻媒体、网络进行信息发布， 加强防震减灾宣传，做好稳定民心的宣传，防止地震谣言的产生。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">5</span><span>．市公安局视情出动警力维护社会稳定，保护重点目标和单位。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（二）应对较大地震灾害，启动Ⅲ级响应<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1</span><span>．应急响应启动</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（ <span lang="EN-US">1 </span>）市地震局在震后<span lang="EN-US"> 15 </span>分钟内完成地震速报参数的测定，并上报市政府和省地震局， 根据初判指标提出启动Ⅲ级响应的建议；通过宣传部门利用各种媒介向社会发布地震信息。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 2 </span>）市政府做出启动Ⅲ级响应的决定，成立市抗震救灾指挥部，宣布进入震后应急期，并报省政府。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 3 </span>）市抗震救灾指挥部运作，分管副市长为负责人，统一领导指挥全市地震应急救援工作；市抗震救灾指挥部成员单位按照各自的应急工作职责和应急预案，迅速响应，实施应急处置。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2</span><span>．指挥协调和处置<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市抗震救灾指挥部召开紧急会议，成立工作组，部署抗震救灾行动。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 1 </span>）地震监测及趋势研判组：加强地震监测，做好震情趋势判定工作，组织震情会商；派出地震应急现场工作队，进行地震现场震情监测、宏观异常考察、地震烈度判定、地震科学考察等工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 2 </span>）抢险救援组：派遣地震应急救援队、医疗卫生救援队伍等各类专业现场救援队伍，协调驻宁解放军和武警部队，赶赴灾区抢救被压埋人员和被困群众。指挥灾区政府迅速组织群众防震避震、自救互救，动员社会组织、志愿者及社会公众参与地震应急与救援行动，协助各类救援队开展紧急救援工作。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 3 </span>）群众生活保障组：迅速启用地震应急避难场所，设置临时住所和救灾物资供应点，组织转移和安置灾民；迅速启用救灾准备金和各类救灾物资，保障灾民食品、饮用水等基本生活需求。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 4 </span>） 医疗救治和卫生防疫组：迅速组织医疗卫生部门，开展伤员救治；协调伤员的转移、接收与救治；组织开展卫生防疫，预防和控制传染病疫情的发生。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 5 </span>）基础设施保障和生产恢复组：迅速组织工程抢修抢险</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>专业队伍，修复毁坏的公路、铁路、供水、供电、燃气以及广播电视等基础设施。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 6 </span>）次生灾害防范处置组：指挥迅速控制危险源，封锁危险场所，关闭人员密集场所，停止可能发生严重次生灾害的生产经营活动；划定可能引发次生灾害的危险区域和警戒区域，设置警戒标志，并采取紧急防控措施。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 7 </span>）社会治安组：依法采取紧急措施，维护社会秩序、维持社会治安、加强对党政机关等要害部门和金融单位、储备仓库、救灾物资集散点、监狱、看守所等重点目标的警戒，预防和打击各种违法犯罪活动。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 8 </span>）救灾捐赠与涉外、涉港澳台协调事务组：妥善安置在灾区的国（境）外人员，及时向有关国家和地区的驻华机构通报有关情况；及时办理国（境）外救援队伍、专家和救灾物资入宁事宜；办理和安排国（境）外新闻记者到灾区的采访事宜。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 9 </span>）灾情损失收集评估组：迅速收集灾情信息了解震害情况，向当地政府和有关部门收集灾害损失情况，如有新的突出灾情随时报告，特殊情况下可直接越级报送。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 10 </span>）信息发布及宣传报道组：适时召开新闻发布会（首次新闻发布会原则上在震后<span lang="EN-US">2</span>小时内召开），向社会公告震情、灾情以及地震应急救援的动态信息；及时掌握社会舆情，平息地震谣言、误传事件。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 11 </span>）通信保障组：组织和协调灾区受损通信设施的抢修和恢复重建，保证通信畅通。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">3</span><span>．应急结束</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>在地震灾害紧急处置工作基本结束、紧急转移和安置工作基本完成、地震次生灾害基本消除或得到有效控制，以及交通、电力、通信和供水等基本抢修抢通、灾区生活秩序基本恢复后，由市抗震救灾指挥部决定应急期结束。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">4</span><span>．恢复生产</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市抗震救灾指挥部成员单位按照各自职责分工组织对受灾工业、 商贸、农业、公共安全设施等工程建筑损毁情况进行调查、核实，落实扶持资金和物资，帮助灾区恢复生产和经营。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（三）应对重大和特别重大地震灾害，启动Ⅱ级或Ⅰ级响应<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1</span><span>．应急响应启动<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 1 </span>）市地震局在震后<span lang="EN-US">15</span>分钟内完成地震速报参数的测定，并上报市政府和省地震局，根据初判指标提出启动Ⅰ级或Ⅱ级响应的建议；通过宣传部门利用各种媒介向社会发布地震信息。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 2 </span>）市政府启动Ⅰ级或Ⅱ级响应， 成立市抗震救灾指挥部，<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>宣布进入震后应急期，并报省政府和省地震局。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 3 </span>）市抗震救灾指挥部运作，市长为负责人，统一领导指挥全市地震应急救援工作；市抗震救灾指挥部成员单位按照各自的应急工作职责和应急预案，迅速响应，实施先期处置。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2</span><span>．指挥协调和处置</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（ <span lang="EN-US">1 </span>）震后<span lang="EN-US">1</span>小时内汇总信息上报市抗震救灾指挥部，如有新的突出灾情随时报告，特殊情况下可直接越级报送；市抗震救灾指挥部成员单位及时了解、收集和汇总本行业灾情信息，分析评估救灾需求，并及时报告市政府和市抗震救灾指挥部办公室。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 2 </span>）市抗震救灾指挥部及时将初步掌握的震情、灾情上报省抗震救灾指挥部办公室。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（<span lang="EN-US"> 3 </span>）市抗震救灾指挥部依据应对较大地震灾害指挥协调和应急处置流程先期开展地震应急救援工作。省抗震救灾指挥部成立后，接受省抗震救灾指挥部指挥。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">3</span><span>．应急结束</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>在地震灾害紧急处置工作基本结束、紧急转移和安置工作基本完成、地震次生灾害基本消除或得到有效控制，以及交通、电力、通信和供水等基本抢修抢通、灾区生活秩序基本恢复后，省抗震救灾指挥部宣布应急期结束后，市抗震救灾指挥部成员单位按照各自职责分工进行震后恢复工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">4 </span><span>． 恢复生产<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市抗震救灾指挥部成员单位按照各自职责分工组织对受灾工业、 商贸、农业等工程建筑损毁情况进行调查、核实，落实扶持资金和物资，帮助灾区恢复生产和经营。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle" style="text-align: center">　　<span>Ⅰ级、Ⅱ级、Ⅲ级地震应急处置流程图</span></p><p align="justify" class="Custom_UnionStyle" style="text-align: center"><span><img style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" alt="" complete="complete" oldsrc="W020140106612575587899.jpg" src="./W020140106612575587899.jpg" /></span></p><p align="justify" class="Custom_UnionStyle">　　</p><p align="justify" class="Custom_UnionStyle">　　<span>六、 恢复重建<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>市政府根据灾情和本地经济社会发展水平编制灾后恢复重建规划，并组织实施本行政区域灾后恢复重建工作。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>七、地震谣传事件的应急处置<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>地震谣传事件是指某地区出现广泛的地震谣传 对正常社会秩序造成严重影响的地震事件<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（一）地震谣传事件<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>地震谣传事件发生地区政府是地震谣传事件应急处置的领导机关， 负责统一领导、指挥、部署和实施本行政区地震谣传事件的地震应急处置工作，市政府派出相关工作组对事发地地震应急处置工作进行指导。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（二）地震谣传事件应急处置流程<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">1</span><span>．迅速组织地震、新闻等有关部门采取有力措施，尽快平息地震谣言，严防事态扩大。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span lang="EN-US">2</span><span>．当地震谣传扩散迅速，对社会正常生产生活秩序造成严重影响， 公安部门负责追查谣传来源，公开处置谣传散布者，阻止谣传的进一步传播；地震、公安、教育等有关部门做好宣传工作，尽快稳定社会秩序。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>八、 附则<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（一）名词术语解释<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>生命线设施：指对社会生活、生产有重大影响的电力、交通、通信、供水、排水、热力、燃气、输油等系统及公用设施。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>次生灾害：指地震造成工程结构、设施和自然环境破坏而引发的灾害。如水灾、泥石流、滑坡、火灾、爆炸、瘟疫、有毒有害物质污染等。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>本预案有关数量的表述中，“以上”含本数，“以下”不含本数。<span lang="EN-US"> </span></span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（二）预案解释部门 </span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>本预案由市政府办公厅负责解释。 </span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>（三）预案实施时间 </span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>本预案自<span lang="EN-US">2013</span>年<span lang="EN-US">11</span>月<span lang="EN-US">1</span>日起施行，市政府<span lang="EN-US">2007</span>年发布的《南京市地震应急预案》（宁政发〔<span lang="EN-US"> 2007 </span>〕<span lang="EN-US">50</span>号）同时废止。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>抄送：市委各部门，市人大常委会办公厅，市政协办公厅，市法院，市检察院，南京警备区。</span>&nbsp;</p><p align="justify" class="Custom_UnionStyle">　　<span>南京市人民政府办公厅<span lang="EN-US">2013 </span>年<span lang="EN-US">10</span>月<span lang="EN-US">22</span>日印发</span>&nbsp;</p></div>
+						 </TBODY></TABLE>                          						  
+						  </DIV></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE border=0 cellSpacing=5 cellPadding=0 width="100%">
+                    <TBODY>
+
+
+                    <TR>
+                      <TD>
+                        
+						<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff>
+                          <TBODY>
+                          <TR>
+                            <TD class=word14 bgColor=#e9e9e9 height=22><STRONG>&nbsp;附件下载：</STRONG></TD></TR>
+                          <TR>
+                            <TD bgColor=#f3f3f3>
+
+
+</TD></TR></TBODY></TABLE>
+
+
+</TD></TR>
+
+
+
+                    <TR>
+                      <TD style="LINE-HEIGHT: 150%; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; HEIGHT: 30px" class=newfont vAlign=bottom align=right><IMG align=absMiddle src="../../../images/printer.gif" width=16 height=14 /> <A hideFocus class=STYLE18 
+                        href="javascript:doPrint();"><SPAN 
+                        class=wht>打印本页</SPAN></A>&nbsp; <IMG align=absMiddle src="../../../images/close.gif" width=14 height=14 /> <A 
+                        hideFocus class=STYLE18 
+                        href="javascript:window.close()"><SPAN 
+                        class=wht>关闭窗口</SPAN></A> </TD></TR>
+
+					
+					
+				
+
+
+</TBODY></TABLE></TD></TR></TBODY></TABLE>
+								          <TD bgColor=#cccccc width=1></TD></TR>
+
+        <TR>
+          <TD bgColor=#cccccc height=1 colSpan=3>
+</TD></TR></TBODY></TABLE><BR></TD></TR></TBODY></TABLE><!--downer-->
+  <div style="position:relative; width:1002px; margin:0 auto;">
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+  <TBODY>
+  <TR>
+    <TD height=5></TD></TR>
+  <TR>
+   <td>   <div style="margin-left:30px;width:95px;height:38px;float:left;z-index:10000;"><a href="http://www.nj.gov.cn" target="_blank"><img src="../../../images/zgnj_logo_20130918.png" width="95" height="38" style="border:0px;" /></a></div></td>
+    <TD height=90 align=middle>
+      <P style="LINE-HEIGHT: 15pt"><A hideFocus 
+      href="http://www.njseism.gov.cn/pages/manage/login.aspx" 
+      target=_blank><IMG style="BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none" src="../../../images/a1.gif" /></A> Copyright？2012 
+      南京市地震局&nbsp;&nbsp;&nbsp;震情值班电话 : 
+      025-68787763<BR>地址：江苏省南京市建邺区江东中路265号新城大厦二期D座7楼&nbsp;&nbsp;邮编：210019<BR>承办单位：南京市科技信息研究所<BR><FONT 
+      color=#000000><A class=hlk href="http://www.miibeian.gov.cn/" 
+      target=_blank>苏ICP备05064452号</A></FONT></P></TD></TR></TBODY></TABLE>
+<div style="position:absolute; right:20px; top:10px;">
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/11/173/0000/40663238/CA111730000406632380001.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+  </div>
+  </CENTER></BODY></HTML>
+  
+  
+    <!-- PHPStat Start -->
+<script language="javascript">var __$nodeid='17885';var __$contentid='2368313';var __$title='南京市地震应急预案（2013 年修订版）';var __$AuthorPh='';var __$Editor='';var __$Liability='市地震局1';var __$pubtime='2014-01-06 16:42:00';var __$source='';
+</script>
+<script language="JavaScript" charset="utf-8" src="http://221.226.86.190/phpstat/count/10000045/10000045.js"></script><noscript><img src="http://221.226.86.190/phpstat/count/10000045/10000045.php" alt="" style="border:0" /></noscript>
+<!-- /PHPStat End -->

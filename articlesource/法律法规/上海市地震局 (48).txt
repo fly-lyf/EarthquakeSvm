@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">法律法规</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/flfg/gjflfg/index.html" target="_parent" title="国家法律法规"><span>国家法律法规</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/flfg/dfgltl/index.html" target="_parent" title="地方管理条例"><span>地方管理条例</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/flfg/hybz/index.html" class="now" target="_parent" title="行业标准"><span>行业标准</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/flfg/qt/index.html" target="_parent" title="其他"><span>其他</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">法律法规</A> &gt; <A class=black-y-text HREF="index.html">行业标准</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">GB/T 24362－2009《地震公共信息图形符号与标志》<span>发布时间：2009-12-23</span></div>
+                <p><div><strong>标准名称：</strong><span>GB/T 24362</span>－<span>2009</span>《地震公共信息图形符号与标志》</div>
+<div><strong>英文名称：</strong><span>Public information graphical symbols and signs on earthquake administration</span></div>
+<div><strong>发布日期：</strong><span>2009</span>年<span>07</span>月<span>22</span>日</div>
+<div><strong>实施日期：</strong><span>2010</span>年<span>01</span>月<span>01</span>日</div>
+<div><strong>范围：</strong>本标准规定了与防震减灾有关的公共信息图形符号与标志。</div>
+<div>本标准适用于防震减灾相关的场所、设施、仪器设备及相关环境，也适用于出版物及其他信息载体中尺寸大于<span>10mm&times;10mm的图形标志。</span></div>
+<div><strong>目次：</strong></div>
+<div>前言</div>
+<div>1 范围</div>
+<div>2 规范性引用文件</div>
+<div>3 术语和定义</div>
+<div>4 图形符号与标志</div>
+<div>5 应用</div>
+<div>6 标志的制作要求</div>
+<div>7 标志牌的设置要求</div>
+<div>附录<span>A （规范性附录） 常用的地震公共信息图形标志</span></div>
+<div>参考文献</div></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

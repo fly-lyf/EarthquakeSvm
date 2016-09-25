@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/hydt/index.html" class="now" target="_parent" title="行业动态"><span>行业动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/zqzq/index.html" target="_parent" title="震情灾情"><span>震情灾情</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">行业动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">全国地震监测预报工作会议在广州召开<span>发布时间：2013-05-24</span></div>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;<br />
+&nbsp;&nbsp;&nbsp; 全国地震监测预报工作会议于<span>2013年5月16日至17日在广东省广州市召开。党组成员、副局长阴朝民同志出席会议并讲话，会议由监测预报司司长李克同志主持。</span>
+<p>　　<br />
+&nbsp;&nbsp;&nbsp; 阴朝民副局长充分肯定了近年来地震监测预报工作在大震快速响应、预测预报研究与实践以及地震信息快速服务等方面取得的进展。　<br />
+&nbsp;&nbsp;&nbsp; <br />
+&nbsp;&nbsp;&nbsp; 阴朝民副局长深入分析了当前地震监测预报工作面临的形势与任务，强调党中央、国务院和地方各级政府对防震减灾、特别是监测预报工作高度重视，社会公众对提高监测预报科学水平的需求更加紧迫，当前我国震情形势仍然复杂严峻，全体地震监测预报工作者要认清形势、任务要求，勤于学习，善于总结，勇于创新，不断提高工作水平，推进监测预报工作科学发展。</p>
+<p>　　<br />
+&nbsp;&nbsp;&nbsp; 阴朝民副局长要求,近期地震监测预报工作要以芦山地震科学总结为契机，要以进一步地落实《中国地震局关于加强监测预报工作的意见》为抓手，全力做好震情监视跟踪、地震预测科学探索、预警体系建设、预报实验场建设等重点工作，不断提升地震监测预报工作的科学水平和综合服务能力。<br />
+　　<br />
+&nbsp;&nbsp;&nbsp; 李克司长代表监测预报司向大会作了工作报告，回顾总结了两年来地震监测预报工作取得的进展和成效，安排部署了当前及今后一个时期监测预报工作的重点任务。　<br />
+&nbsp;&nbsp;&nbsp;<br />
+&nbsp;&nbsp;&nbsp; &nbsp;针对当前形势与重点任务，会议安排了地震烈度速报与预警、我国震情形势、前兆观测资料应用等<span>6个专题报告。李克司长对会议进行了总结。</span></p>
+<p><span>&nbsp;&nbsp;&nbsp; </span>中国地震局直属事业单位和部分省局的监测预报工作分管负责人、各单位监测预报工作管理部门代表、中国地震局机关有关司室负责人以及特邀专家参加了会议。</p>
+<p>&nbsp;</p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

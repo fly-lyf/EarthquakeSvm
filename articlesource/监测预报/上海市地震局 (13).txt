@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		 
+        	<div class="zqsdtitle"><h2 class="h2right">工作动态</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/gzdt/jcyb/index.html" class="now" target="_parent" title="监测预报"><span>监测预报</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/gzdt/zhfy/index.html" target="_parent" title="震害防御"><span>震害防御</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/gzdt/yjjy/index.html" target="_parent" title="应急救援"><span>应急救援</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">工作动态</A> &gt; <A class=black-y-text HREF="index.html">监测预报</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">上海地震监测能力（四）<span>发布时间：2007-06-06</span></div>
+                <p><p align="center"><font face="Arial"><font size="4"><strong>四、上海地震活动<br />
+</strong></font></font>
+<p><font face="Arial">上海地区自有地震记录（公元1475年）以来至1949年的500余年间，据不完全记载，遭受过160余次中强地震袭击，其中发生在今上海行政区及其东侧海域内的地震为70余次，地震烈度达六度的地震有以下四次：<br />
+1、1668年7月25日山东郯城 级地震：崇明、嘉定有破坏记载，前者为地面崩裂，后者为嘉定城南一里的留光寺（今废）殿倾。其他只是地大动，河水尽沸，浦水（黄浦江水）腾跃，楼房有倾倒之势。<br />
+2、1853年4月14日南黄海 级地震：上海全境地大震，百姓喧哗，出立户外，竟夕不寐。上海有的烟囱和墙壁倒塌。川沙（今浦东新区）民居有倾者。奉贤沿海产生地滑，盐田受损。崇明河水翻激等。<br />
+3、1927年2月3日南黄海连续两次 级地震：上海江湾赛马场（原万国体育场，今废，现为建筑机械厂附近）俱乐部及钟塔大片墙皮及多处石块脱落，甚至有部分石墙坍倒。<br />
+4、1624年9月1日上海地震：上海境内唯一的一次破坏性地震，上海民居有倾者，最远波及江苏常熟，震级 级，震中位置北纬31.2&deg;，东经121.5&deg;，正好位于大场&mdash;南市中更新世断裂段的东南端部。<br />
+</font></p>
+<p><font face="Arial">上海东侧长江口海域地震较之陆上地震频度高、强度大，曾发生多次强烈有感地震：<br />
+1、1855年11月20日长江口5级地震，震中位置北纬31.5&deg;，东经122.0&deg;，波及上海地区、江苏如皋、靖江、苏州、吴江、震泽及浙江嘉善、慈溪、镇海、鄞县等。<br />
+2、1971年12月30日18时46分长江口4.9级地震，震中位置北纬31&deg;18&prime;，东经122&deg;18&prime;，波及上海地区、江苏南通、常熟、苏州、吴江及浙江嘉兴、海盐、舟山、慈溪、三门、象山等。佘山岛、鸡骨礁、嵊泗、花鸟山岛烈度五度，建筑物有轻微损坏。<br />
+3、1984年5月21日23时39分南黄海6.2级地震，震中位置北纬32&deg;27&prime;，东经121&deg;33&prime;，波及苏、沪、浙、皖、鲁四省一市，江苏大丰、东台、常熟及上海东北部以东地区五度强烈有感，建筑物轻微损坏，上海间接死亡3人，90余人跳楼受伤，其中30余人去医院治疗，川沙少数厩棚倒塌，砸死砸伤家畜数头。<br />
+4、1996年11月9日21时56分长江口东6.1级地震，震中位置北纬31&deg;49&prime;，东经123&deg;13&prime;。江苏阜宁、南京，安徽芜湖，浙江建德、金华、台州以东有感，等震线成北东向展布。崇明东部江口乡、港东乡有轻微损坏。上海普遍有感，高层建筑震感强烈，东方明珠电视塔顶有三根避雷针折断坠落，书柜倾倒，大花盆翻地等。<br />
+</font></p>
+<p><font face="Arial">上海地区地震灾害除建筑物破损的现象外，还有：<br />
+1、地裂缝：如1668年崇明及1984年北站宝山路虬江路口，均为砂土液化所致。<br />
+2、地滑：1853年4月14日南黄海 级地震时，奉贤钱桥北张村&mdash;桃花村一带海堤南侧滩涂盐田向海中滑移，造成庐舍、船只、晒盐工具尽失。<br />
+3、地震海啸波及：上海及其附近沿海历史上曾遭受数次海啸波及，但影响不大。如1498年7月9日日本海&ge;8级地震时，崇明、宝山、上海、川沙、金山等曾引起海水溢； 1854年12月24日日本南海（北纬33.2&deg;，东经135.6&deg;）发生8.4级地震，产生的海啸影响我国江浙沪沿海，上海黄浦江水沸，有高二三尺者，松江河水涌，突起二三尺；嘉定水溢；青浦河水涌，突起尺余，海啸级别为-0.5～1级，上海地区无破坏报导。1960年5月23日智利8.9级地震，海啸横扫太平洋，上海吴淞口增水15～20cm。<br />
+</font></p>
+<p><font face="Arial">上海地区地震分布极不均匀，历史上多则一年（1855年）可感受6次地震波及，少则数十年也没有一次有感地震记载。在地震的频度和强度方面，海域大于陆地，陆域除4次有破坏外，绝大部分只是不同程度的有感地震。震源深度据仪器监测绝大部分在10km以内。最大地震烈度为六度。</font></p>
+<p>&nbsp;</p>
+<p align="center"><img alt="" src="/resource/image027.jpg" /></p>
+<p align="center"><font face="Arial">上海及其邻近地区有记载以来的地震分布见图6。</font></p>
+<p align="center">&nbsp;</p>
+<font face="Arial">
+<p align="left"><br />
+1980年以来上海有感地震<br />
+</p>
+<p align="left">1984.5.21&nbsp;&nbsp; 南黄海&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.2级&nbsp;上海强烈有感<br />
+1990.2.10&nbsp;&nbsp; 江苏省常熟太仓&nbsp; 5.1级&nbsp;上海强烈有感<br />
+1991.2.17&nbsp;&nbsp; 上海青浦练塘&nbsp;&nbsp;&nbsp; 3.0级&nbsp;上海当地有感<br />
+1994.9.16&nbsp;&nbsp; 台湾海峡&nbsp;&nbsp;&nbsp;&nbsp; 7.3级&nbsp;上海15层以上有感<br />
+1995.4.2&nbsp;&nbsp;&nbsp; 上海西南 &nbsp;&nbsp;&nbsp;&nbsp; 2.9级&nbsp;上海大部有感<br />
+1996.11.9&nbsp;&nbsp; 长江口以东海域&nbsp; 6.1级&nbsp;上海强烈有感<br />
+1997.7.28&nbsp;&nbsp; 南黄海&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.2级&nbsp;上海东北部有感<br />
+1997.8.3&nbsp;&nbsp;&nbsp; 长江口&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9级&nbsp;上海东部有感<br />
+1999.5.12&nbsp;&nbsp; 南黄海&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.9级&nbsp;上海东北部有感<br />
+</p>
+</font></p></p>
+            </div>
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

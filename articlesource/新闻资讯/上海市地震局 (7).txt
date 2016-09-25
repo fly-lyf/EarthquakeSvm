@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" class="now" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">区县动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">“平安中国”金山区防震减灾电影公益放映专场顺利完成<span>发布时间：2015-08-18</span></div>
+                <p><p>
+	　　2015年7月25日至8月4日，金山区地震办公室在市地震局的大力支持下，分别在廊下镇、朱泾镇、张堰镇和山阳镇开展了4场防震减灾公益电影放映，共有200余名社区居民、学生参加了活动。</p>
+<p>
+	　　第四届&ldquo;平安中国&rdquo;防灾减灾文化季电影季共提供了12部防灾减灾相关内容的电影，包括故事片、纪录片、动画片、科教片等多种形式。金山区地震办根据不同电影观众的需求，分别选择了《惊天动地》、《乐乐熊奇幻记》两部电影作为展播电影。同时，为进一步丰富防灾减灾电视宣传手段，电影放映前还开展了地震宣传片的播放及地震知识有奖问答，得到了观众的积极参与，活动取得了良好的防震减灾宣传效果。</p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1508/201508180302226565.jpg" title="图像" wdimgid="image_391" /></p>
+<p align="center">
+	<img alt="图像" src="/uploads/month_1508/201508180302239978.jpg" title="图像" wdimgid="image_392" /></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

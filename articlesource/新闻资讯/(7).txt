@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>  </title>
+<LINK href="../../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+<script type="text/javascript">
+   
+
+//改变字体
+     function changefont(size){
+          
+	    var  content = document.getElementById("content");
+	      content.style.fontSize= size;
+	 }   
+   
+</script>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>建党90周年</span></h1>
+			<div class="xlxm">
+				<h2>机关党建信息简报 </h2>
+				
+				<div class="titxl" id="title"> </div>
+				<script type="text/javascript">
+					var title  = document.getElementById("title");
+					var authorcontent = '';
+					var sourcecontent = '？';
+					authorcontent = authorcontent.replace("？","");
+					sourcecontent = sourcecontent.replace("？","");
+					if(authorcontent==''&&sourcecontent==''){
+						title.innerHTML='时间:2011-06-30 15:05:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent==''&&sourcecontent!=''){
+					
+						title.innerHTML='来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:05:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					}else if(authorcontent!=''&&sourcecontent==''){
+						title.innerHTML='作者:  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:05:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}else{
+						title.innerHTML='作者: &nbsp;&nbsp;&nbsp; 来源:'+sourcecontent+'  &nbsp;&nbsp;&nbsp; 时间:2011-06-30 15:05:00&nbsp;&nbsp;&nbsp;   【<a href="#" onclick="changefont(16)">大</a>  <a href="#" onclick="changefont(14)">中</a>   <a href="#" onclick="changefont(12)">小</a>】';
+					
+					}
+				
+				</script>
+				<div class="xl_box" id="content">
+					<P align=center><B><SPAN style="FONT-SIZE: 16pt; COLOR: black">（第十期）</SPAN></B></P>
+<P><B>&nbsp;</B></P>
+<P><B>&nbsp;</B></P>
+<P align=center><B><SPAN style="FONT-SIZE: 16pt; COLOR: black">中共四川省地震局直属机关委员会<SPAN><SPAN>　　&nbsp; </SPAN>2011<SPAN><SPAN>年6</SPAN></SPAN><SPAN><SPAN>月20</SPAN></SPAN><SPAN><SPAN>日</SPAN></SPAN></SPAN></SPAN></B></P>
+<P style="LINE-HEIGHT: 200%"><SPAN style="FONT-SIZE: 16pt; COLOR: black; LINE-HEIGHT: 200%">编者按：</SPAN></P>
+<P style="TEXT-INDENT: 32pt; LINE-HEIGHT: 200%"><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%">为纪念中国共产党成立<SPAN>90</SPAN>周年，四川省地震局直属机关党委安排部署了征文、红色教育、观看电影、红歌演唱以及表彰大会等活动。在这期“机关党建信息”栏里，我们将刊登部分参加了这次红色教育活动的同志们的观感文章。希望全局职工通过 “机关党建信息”这一平台，充分抒发对党的无限崇敬和热爱之情。欢迎广大职工积极参与，踊跃投稿。</SPAN></P>
+<P style="TEXT-INDENT: 32pt; LINE-HEIGHT: 200%"><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%">为继承和弘扬优良传统，在中国共产党成立<SPAN>90</SPAN>周年之际，四川省地震局机关及在蓉下属单位<SPAN>20</SPAN>多名基层党务工作者在局直属机关党委的组织下，于<SPAN>2011</SPAN>年<SPAN>6</SPAN>月１３－１４日前往重庆参观了渣滓洞、白公馆等红色革命教育基地。这次革命传统的教育活动，受到了局党组的</SPAN><SPAN style="FONT-SIZE: 16pt; COLOR: black; LINE-HEIGHT: 200%">高度重视。局党组书记、局长张宏卫同志，机关党委书记、副局长李广俊同志要求直属机关党委精心组织，周密安排，务必使党员同志们通过活动受到启发，受到教育。在</SPAN><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%">回</SPAN><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%">顾历史、缅怀先烈的活动中，同志们进一步加深了对中国特色社会主义政治发展道路的认识，坚定了大家坚持中国共产党领导、始终不渝走中国特色社会主义道路的信念。</SPAN></P>
+<P style="TEXT-INDENT: 32pt; LINE-HEIGHT: 200%" align=center><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%"><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110630545349592184.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110630544787567475.jpg" OLDSRC=W020110630545349592184.jpg/></SPAN></P>
+<P style="TEXT-INDENT: 32pt; LINE-HEIGHT: 200%" align=center><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 楷体_GB2312; mso-hansi-font-family: Verdana; mso-bidi-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">重温入党誓词</SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; LINE-HEIGHT: 200%" align=center><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 楷体_GB2312; mso-hansi-font-family: Verdana; mso-bidi-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110630545349597568.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110630544887407686.jpg" OLDSRC=W020110630545349597568.jpg/></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; LINE-HEIGHT: 200%" align=center><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 楷体_GB2312; mso-hansi-font-family: Verdana; mso-bidi-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 楷体_GB2312; mso-hansi-font-family: Verdana; mso-bidi-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">红色教育</SPAN></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; LINE-HEIGHT: 200%" align=center><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 楷体_GB2312; mso-hansi-font-family: Verdana; mso-bidi-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 楷体_GB2312; mso-hansi-font-family: Verdana; mso-bidi-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><IMG style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px" src="./W020110630545349591913.jpg" _fcksavedurl="/wcm/WCMV6/system/read_image.jsp?FileName=U020110630545193652283.jpg" OLDSRC=W020110630545349591913.jpg/></SPAN></SPAN></SPAN></P>
+<P style="TEXT-INDENT: 32pt; LINE-HEIGHT: 200%" align=center><SPAN style="FONT-SIZE: 16pt; LINE-HEIGHT: 200%"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 楷体_GB2312; mso-hansi-font-family: Verdana; mso-bidi-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 楷体_GB2312; mso-hansi-font-family: Verdana; mso-bidi-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><SPAN style="FONT-SIZE: 14pt; FONT-FAMILY: 楷体_GB2312; mso-hansi-font-family: Verdana; mso-bidi-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">白公馆前许建业烈士塑像</SPAN></SPAN></SPAN></SPAN></P><br/>
+					  
+				  <div style="display:none">
+				     
+				  </div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>地震行政法制监督规定</title>
+<link type="text/css" rel="stylesheet" href="/publish/dizhenj/css/allcss.css" />
+<script language="javascript" src="/publish/dizhenj/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/dropdowntabs.js"></script>
+<script language="javascript" src="/publish/dizhenj/js/pic_preview.js"></script>
+</head>
+
+<body>
+<div class="top">
+
+	<div style="width:980px; margin:0 auto;">
+
+    	<div class="top_l" id="time">
+
+<script language="javascript">
+
+today=new Date();
+
+ function initArray(){
+
+  this.length=initArray.arguments.length
+
+  for(var i=0;i<this.length;i++)
+
+  this[i+1]=initArray.arguments[i]
+
+  }
+
+  var d=new initArray(
+
+  "星期日",
+
+  "星期一",
+
+  "星期二",
+
+  "星期三",
+
+  "星期四",
+
+  "星期五",
+
+  "星期六");
+
+  document.write(
+
+  "<font style='font-size:12px;font-family:宋体'>",
+
+   (today.getYear() < 1900) ? (1900 + today.getYear()) : today.getYear(),"年",
+
+  today.getMonth()+1,"月",
+
+  today.getDate(),"日",
+
+  "&nbsp;",d[today.getDay()+1],
+
+  "</font>")
+
+</script> 
+
+		</div>
+
+        <script src="/publish/dizhenj/js/jquery-1.6.1.min.js" type="text/javascript" language="javascript"></script>
+
+<script src="/publish/dizhenj/js/change.js" type="text/javascript" language="javascript"></script>
+
+        <div class="top_r">
+
+        <span class="spanlink">
+
+        <li><a href="#;" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cea.gov.cn');" >设为首页</a>&nbsp;|
+        <A href="#" onclick="javascript:window.external.AddFavorite('http://www.cea.gov.cn','中国地震局')" title="收藏本站到你的收藏夹">加入收藏</A>&nbsp;|
+<script type="text/javascript" language="javascript">
+if(navigator.userAgent.indexOf("MSIE")>0) {document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){document.write('<a href="/publish/dizhenj/100100/index.html">Rss订阅</a>');
+} 
+if(isChrome=navigator.userAgent.indexOf("Chrome")>0){document.write('<a>Rss订阅</a>');
+}
+if(issougou=navigator.userAgent.indexOf("sougou"+"explor")>0) {document.write('<a href="javascript:void(0)">Rss订阅</a>');
+} 
+</script>
+</li>
+</span>
+
+<li><a href="javascript:transformLan();" id="StranLink" >繁體中文</a></li>
+
+<li><a >WAP</a></li></div>
+
+        <div class="clearer"></div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!--将以下代码加入HTML的<Body></Body>之间-->
+
+<div>
+
+<div class="banner">
+
+ <div class="banner_top"><a class="menu_ty"  href="/publish/dizhenj/984/index.html">政务版</a><a class="menu_zw" style="color:#fff;background:url(/publish/dizhenj/images/banben_move.gif) no-repeat;" href="/publish/dizhenj/index.html">通用版</a></div>
+<div class="nav">
+    <div class="nav_l"></div>
+    <div class="nav_c"> 
+        <div id="slidemenu" class="zwbnav_one">
+<ul>
+<li><a class="nav_menu" href="/publish/dizhenj/index.html">首 页</a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/464/477/index.html" rel="dropmenu1_c"><span>新闻资讯</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/465/470/index.html" rel="dropmenu2_c"><span>政务公开</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/466/774/index.html" rel="dropmenu3_c"><span>服务办事</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/467/638/index.html" rel="dropmenu4_c"><span>交流互动</span></a></li>
+<li><a class="nav_menu" href="/publish/dizhenj/468/496/index.html" rel="dropmenu5_c"><span>地震频道</span></a></li>
+<li><a class="nav_menu" href="http://www.eq-tsg.cn/default.aspx"><span>资料库</span></a></li>
+</ul>
+</div>
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/464/477/index.html">时政要闻</a><a class="xialamenu_right" href="/publish/dizhenj/464/478/index.html">防震减灾要闻</a></li>
+<li><a href="/publish/dizhenj/464/495/index.html">行业动态</a><a class="xialamenu_right" href="/publish/dizhenj/464/521/index.html">市县工作</a></li>
+<li><a  href="/publish/dizhenj/464/522/index.html">媒体播报<!--震情速递--></a><a class="xialamenu_right" href="/publish/dizhenj/464/515/index.html">热点报道</a></li>
+<li><a  href="/publish/dizhenj/464/756/index.html">重要专题</a><a class="xialamenu_right" href="/publish/dizhenj/464/479/index.html">震情速递<!--媒体播报--></a></li>
+</div>
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/465/471/index.html">机构概况</a><a class="xialamenu_right" href="/publish/dizhenj/465/472/index.html">领导简介</a></li>
+<li><a href="/publish/dizhenj/465/527/index.html">政策法规</a><a class="xialamenu_right" href="/publish/dizhenj/465/531/index.html">规划计划</a></li>
+<li><a href="/publish/dizhenj/465/533/index.html">财政资金</a><a class="xialamenu_right" href="/publish/dizhenj/465/538/index.html">统计信息</a></li>
+<li><a href="/publish/dizhenj/465/532/index.html">招标采购</a><a class="xialamenu_right" href="/publish/dizhenj/465/539/index.html">通知公告</a></li>
+<li><a href="/publish/dizhenj/465/534/index.html">人事信息</a><a class="xialamenu_right" href="/publish/dizhenj/465/802/index.html">行政审批</a></li>
+<li><a href="/publish/dizhenj/465/470/index.html">政府信息公开</a><a class="xialamenu_right" href="/publish/dizhenj/125/234/237/100552/index.html" style="margin-left:36px;">行业标准</a></li>
+</div>
+
+<!--3nd drop down menu -->                                                
+<div id="dropmenu3_c" class="firstmenudiv_a" style="width:300px;">
+<li><a href="/publish/dizhenj/466/774/index.html">建设工程地震安全性评价结果的审定及抗震设防要求的确定</a></li>
+<li><a href="/publish/dizhenj/466/775/index.html">地震安全性评价单位资质认定</a></li>
+<li><a href="/publish/dizhenj/466/101940/index.html">服务规范</a></li>
+<!--<li><a href="">地震安全性评价人员执业资格核准</a></li>-->
+<li><a href="/publish/dizhenj/466/499/index.html">我要了解应急避难场所</a></li>
+<li><a href="/publish/dizhenj/466/500/index.html">我想了解科普教育基地</a></li>
+<li><a href="/publish/dizhenj/466/498/index.html">我要订阅地震速报信息</a></li>
+<!--<li><a href="/publish/dizhenj/466/639/index.html">采访申请</a></li>-->
+</div>
+<!--4nd drop down menu -->                                                
+<div id="dropmenu4_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/467/485/index.html">12322咨询平台</a><a style="margin-left:25px;" href="/publish/dizhenj/467/489/index.html">在线访谈</a></li>
+<li><a href="/publish/dizhenj/467/638/index.html">公众留言</a><a class="xialamenu_right" href="/publish/dizhenj/467/487/index.html">网上调查</a></li>
+<li><a href="/publish/dizhenj/467/486/index.html">信访信箱</a><a class="xialamenu_right" href="/publish/dizhenj/467/490/index.html">常见问题解答</a></li>
+<li><a href="/publish/dizhenj/467/570/index.html">视频点播</a></li>
+</div>
+<!--5nd drop down menu -->                                                
+<div id="dropmenu5_c" class="firstmenudiv_a">
+<li><a href="/publish/dizhenj/468/496/index.html">历史地震目录</a><a style="margin-left:36px;" href="/publish/dizhenj/468/545/index.html">台站建设</a></li>
+<li><!--<a href="/publish/dizhenj/468/804/index.html">台网产出</a>--><a href="/publish/dizhenj/468/553/index.html">地震专题</a><a class="xialamenu_right" href="/publish/dizhenj/468/807/index.html">地震科普</a></li>
+<li><a href="/publish/dizhenj/468/1072/index.html">校安工程</a><a class="xialamenu_right" href="/publish/dizhenj/468/1073/index.html">农居安全</a></li>
+<li><a href="/publish/dizhenj/468/549/index.html">灾评通告</a><a class="xialamenu_right" href="/publish/dizhenj/468/806/index.html">院士风采</a></li>
+</div>
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("slidemenu")
+</script>
+         <div class="nav_two">
+
+
+
+
+
+
+
+          <form id="form1" name="form1" method="post" action="http://www.cea.gov.cn/zaixian/search/search.jsp">
+
+
+
+
+
+
+
+            <label for="textfield"></label>
+
+
+
+
+
+
+
+            <input class="text_one" type="text" name="textfield" id="textfield" />
+
+
+
+
+
+
+
+            <input class="sub" type="submit" name="button" id="button" value="搜  索" />
+
+
+
+
+
+
+
+          </form>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <div class="clearer"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+    <div class="nav_r" style="float:left"></div>
+
+
+
+
+
+
+
+    <div class="clearer_heng"></div>
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</div><div class="allall_bg">
+<div class="all_bg">
+ <div class="heng"></div>
+ <div class="list_main">
+ 	
+<div class="list_main_left">
+<div class="list_main_left_tit">
+<a>新闻资讯</a>
+</div>
+<div class="list_main_left_nav">
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/477/index.html" >时政要闻</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/478/index.html" >防震减灾要闻</a>
+    </li>
+
+
+
+<li>
+                <a class="yijiA" href="/publish/dizhenj/464/495/index.html" >行业动态</a>
+        </li>
+
+
+	    
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/521/index.html" >市县工作</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/522/index.html" >媒体播报</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/515/index.html" >热点报道</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/756/index.html" >重要专题</a>
+    </li>
+
+
+<li>
+        <a class="yiji" href="/publish/dizhenj/464/479/index.html" >震情速递</a>
+    </li>
+
+</div>
+</div>
+<script type="text/javascript">
+function switchUrl(url){
+window.location.href=url;
+}
+function switchstyle01(obj){
+obj.className="yiji";
+}
+function switchstyle02(obj){
+obj.className="yijiA";
+}
+function switchstyle03(obj){
+obj.className="nav_sanji";
+}
+function switchstyle04(obj){
+obj.className="nav_sanjiB";
+} 
+</script>
+    
+    <div class="detail_main_right">
+    	<div class="list_main_right_tit cna_new_main_right_tit">
+您所在的位置:<A href='/publish/dizhenj/index.html' class='navigation_style'>主页</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/index.html' class='navigation_style'>新闻资讯</a><strong style="color:#000000;">&nbsp;&nbsp;&gt;&nbsp;&nbsp;</strong><A href='/publish/dizhenj/464/495/index.html' class='navigation_style'>行业动态</a>
+</div>        <div class="detail_main_right_con">
+        	<div class="detail_main_right_conbg">
+            	<div class="detail_main_right_conbg_tit" >
+                
+                    <div style="text-align:center; font-size:24px;font-weight:bolder;font-family:'黑体';padding-top:5px;">地震行政法制监督规定</div>
+                    <div style="text-align:center; font-size:16px;font-family:'宋体';padding:10px 0 5px 0;">
+											
+					</div>
+                	<div style="text-align:center;font-size:12px;margin-top:6px;font-family:'宋体';">发布时间：2006-10-16 11:11:00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信息来源：中国地震局震害防御司(法规司)
+                    
+                    </div>
+                
+                </div>
+                <div class="detail_main_right_conbg_con">
+                	
+                    <div style="font-size:16px;"><P align=center><FONT size=5><STRONG>中&nbsp; 国&nbsp; 地&nbsp; 震&nbsp; 局&nbsp; 令</STRONG></FONT></P>
+<P align=center><FONT size=4><STRONG>第 5 号</STRONG></FONT></P>
+<P>&nbsp;&nbsp;&nbsp; 《地震行政法制监督规定》，已于2000年1月18日经中国地震局局务会议通过，现予发布，自2000年3月1日起施行。</P>
+<P align=right>局&nbsp; 长&nbsp;&nbsp; 陈章立&nbsp;&nbsp; <BR>二○○○年一月十八日</P>
+<P align=center><FONT size=5><STRONG>地震行政法制监督规定</STRONG></FONT></P>
+<P>&nbsp;&nbsp;&nbsp; <STRONG>第一条</STRONG>&nbsp; 为了推进依法行政，加强地震行政法制监督，根据国家有关法律、法规，制定本规定。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第二条</STRONG>&nbsp; 本规定所称地震行政法制监督，是指上级地震工作部门或者机构（以下统称地震行政机关）对下级地震行政机关、各级地震行政机关对所属工作机构及其委托的执法机构行政行为进行的督促、检查与纠正活动。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第三条</STRONG>&nbsp; 地震行政法制监督，应当遵循合法、公正、公开、及时、有效的原则，保障法律、法规的正确实施。<BR>&nbsp;&nbsp; &nbsp;<STRONG>第四条</STRONG>&nbsp; 各级地震行政机关的法制工作机构是地震行政法制监督的执行机构。<BR>&nbsp;&nbsp;&nbsp; 国务院地震行政机关的法制工作机构负责本部门和全国地震行政法制监督工作的组织与实施。<BR>&nbsp;&nbsp;&nbsp; 省、市（地）、县（市）地震行政机关的法制工作机构负责本部门和辖区内地震行政法制监督工作的组织与实施。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第五条</STRONG>&nbsp; 地震行政机关的法制工作机构履行下列职责：<BR>&nbsp;&nbsp; （一）制定行政法制监督工作计划和实施办法；<BR>&nbsp;&nbsp; （二）负责地震行政执法检查的组织工作，并配合有关监督部门进行执法检查工作；<BR>&nbsp;&nbsp; （三）受理规范性文件的备案；<BR>&nbsp;&nbsp; （四）受理行政复议和承担本部门行政诉讼案件的应诉工作；<BR>&nbsp;&nbsp; （五）协调行政执法争议；<BR>&nbsp;&nbsp; （六）审查具体行政行为；<BR>&nbsp;&nbsp; （七）调查违法行政行为案件；<BR>&nbsp;&nbsp; （八）管理、培训行政执法人员和行政监督人员；<BR>&nbsp;&nbsp; （九）建立健全行政法制监督档案；<BR>&nbsp;&nbsp; （十）法律法规规定的其他行政法制监督任务。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第六条</STRONG>&nbsp; 地震行政法制监督的主要内容：<BR>&nbsp;&nbsp; （一）实施法律、法规和规章的情况；<BR>&nbsp;&nbsp; （二）法定职责的履行情况；<BR>&nbsp;&nbsp; （三）规范性文件的合法性；<BR>&nbsp;&nbsp; （四）行政执法主体和执法程序的合法性；<BR>&nbsp;&nbsp; （五）具体行政行为的合法性、适当性；<BR>&nbsp;&nbsp; （六）行政执法中违法行政行为或者失职行为的查处情况；<BR>&nbsp;&nbsp; （七）其他法律法规规定的法制监督事项。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第七条</STRONG>&nbsp; 地震行政法制监督通过下列制度或者方式实施：<BR>&nbsp;&nbsp;&nbsp; （一）地方性法规、规章及政府规范性文件报告制度。省级地震行政机关应当在防震减灾地方性法规、规章和政府规范性文件发布后30日内，将法规、规章和政府规范性文件文本一式三份报送国务院地震行政机关。<BR>&nbsp;&nbsp;&nbsp; 有立法权的市的地震行政机关应当在本市地方性法规、政府规章和规范性文件发布后30日内，将法规、规章和政府规范性文件文本一式三份报上级地震行政机关，同时报送国务院地震行政机关。<BR>&nbsp;&nbsp;&nbsp; （二）地震行政机关规范性文件备案制度。地方各级地震行政机关制定的规范性文件，应当于发布后30日内，将文本一式三份报送上级地震行政机关备案。<BR>&nbsp;&nbsp;&nbsp; （三）地震行政机关规范性文件起草审核制度。各级地震行政机关所属工作部门起草的规范性文件，应当经本级法制工作机构审查、会签后，提请本级行政负责人签发。<BR>&nbsp;&nbsp;&nbsp; （四）实施法律、法规、规章情况的报告制度。地方各级地震行政机关，应当在防震减灾法律、法规、规章正式实施一年后的30日内，将本地区的实施情况、存在问题以及建议以书面形式向上级地震行政机关报告。<BR>&nbsp;&nbsp;&nbsp; 地方各级地震行政机关应当在每年1月底前将前一年度本辖区内防震减灾法律、法规和规章的实施情况、实施效果、存在问题及建议，以书面形式报送上一级地震行政机关。<BR>&nbsp;&nbsp;&nbsp; （五）行政执法检查制度。各级地震行政机关应当定期或者不定期组织对本部门地震行政执法的检查。地方地震行政机关可以组织本辖区内的地震行政执法检查；国务院地震行政机关可以根据需要组织全国性的地震行政执法检查。<BR>&nbsp;&nbsp;&nbsp; （六）行政执法责任制度。地方各级地震行政机关应当按照法律规定和行政管理权限，把法律、法规和规章规定的管理职责逐级分解到负责组织实施的工作机构及基层执法单位和执法人员，并进行监督和考评。<BR>&nbsp;&nbsp;&nbsp; （七）重大行政处罚案件备案制度。省级地震行政机关对本辖区内3万元以上罚款、吊销许可证的行政处罚案件，应当在各级地震行政机关作出行政处罚决定后30日内向国务院地震行政机关备案。<BR>&nbsp;&nbsp;&nbsp; 省级地震行政机关根据需要可以对本辖区行政处罚案件的备案作出具体规定。<BR>&nbsp;&nbsp;&nbsp; （八）行政执法统计制度。地方地震行政机关应当按照上级地震行政机关的要求，定期对行政执法情况进行统计，并由省级地震行政机关负责汇总，及时报国务院地震行政机关备案。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第八条</STRONG>&nbsp; 地震行政法制监督中发现的问题，按下列规定处理：<BR>&nbsp;&nbsp;&nbsp; （一）规范性文件设定的内容违法或者不当的，上级地震行政机关应当责令限期改正；逾期不改的，上级地震行政机关予以撤销。<BR>&nbsp;&nbsp;&nbsp; （二）作出的具体行政行为不合法、不适当的，上级地震行政机关应当责令限期改正；逾期不改的，上级地震行政机关予以变更或者撤销。<BR>&nbsp;&nbsp;&nbsp; （三）不履行法定职责的，上级地震行政机关或者本级法制工作机构应当督促其履行，仍不履行的，上级或者本级地震行政机关应当依法追究有关行政负责人和其他直接责任人的行政责任。<BR>&nbsp;&nbsp;&nbsp; （四）对国家权力机关、人民政府交办的地震行政违法案件和群众举报或者通过其他途径获知的行政违法行为，地震行政机关应当认真审查，属于自己管辖的，应当及时立案；属于上级地震行政机关管辖的，应当及时移送；属于下级地震行政机关管辖的，应当及时督促其依法查处。负责办案的地震行政机关应当在案件处理后30日内将处理情况报告督办机关。<BR>&nbsp;&nbsp;&nbsp; （五）公民、法人或者其他组织对地震行政机关和地震行政执法人员作出的具体行政行为不服，提出申诉和检举的，上级地震行政机关应当认真审查，对符合复议条件的，应当告知申诉人或者检举人向有管辖权的机关申请行政复议；对不符合复议条件，或者在法定期限内，当事人既未申请复议，又未提起行政诉讼，发现具体行政行为确有错误的，由上级地震行政机关责令下级地震行政机关改正、变更或者予以撤销。<BR>&nbsp;&nbsp; &nbsp;<STRONG>第九条</STRONG>&nbsp; 地震行政机关的法制工作机构在履行行政法制监督职责时，有权查询、调阅有关执法案卷和其他相关材料，有关地震行政机关及其工作人员，必须予以配合和协助。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第十条</STRONG>&nbsp; 国务院地震行政机关负责统一制发地震行政法制监督证。地方各级地震行政机关负责将本辖区地震行政法制监督证持证人员情况向本级人民政府的法制工作部门备案。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第十一条</STRONG>&nbsp; 地震行政法制监督人员的主要职责是：<BR>&nbsp;&nbsp;&nbsp; （一）检查行政执法人员持证执法情况；<BR>&nbsp;&nbsp;&nbsp; （二）维护合法的行政执法活动；<BR>&nbsp;&nbsp;&nbsp; （三）制止、纠正行政执法人员正在实施的违法执法行为，保护公民、法人和其他组织的合法权益；<BR>&nbsp;&nbsp;&nbsp; （四）对行政执法中的违法行为进行调查；<BR>&nbsp;&nbsp;&nbsp; （五）督促行政执法人员履行法定职责；<BR>&nbsp;&nbsp;&nbsp; （六）对解决行政执法中带有普遍性的问题提出建议。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第十二条</STRONG>&nbsp; 在地震行政法制监督工作中成绩显著的，由本级地震行政机关或者上级地震行政机关给予表彰或者奖励。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第十三条</STRONG>&nbsp; 在地震行政法制监督中违反本规定，造成不良后果或者影响，情节较轻的，由上级地震行政机关责令限期改正；情节严重的，依法追究单位主管人员和直接责任人员的行政责任。<BR>&nbsp;&nbsp; &nbsp;<STRONG>第十四条</STRONG>&nbsp; 本规定所称规范性文件，是指各级地震行政机关为贯彻实施法律、法规和规章，依职责权限制定的，在一定范围内适用，并具有普遍约束力的文件的总称。<BR>&nbsp;&nbsp; &nbsp;<STRONG>第十五条</STRONG>&nbsp; 本规定由中国地震局负责解释。<BR>&nbsp;&nbsp;&nbsp; <STRONG>第十六条</STRONG>&nbsp; 本规定自2000年3月1日起施行。</P></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="clearer"></div>
+    <div class="list_main_border"></div>
+ </div>
+<div class="copyright">
+ 	<div class="copyright_top"><a href="/publish/dizhenj/809/796/index.html">网站地图</a> | <a href="/publish/dizhenj/809/811/index.html">网站声明</a> | <a href="mailto:ceaweb@seis.ac.cn">联系我们</a></div>
+    <div class="copyright_bottom">
+    	中华人民共和国计算机信息网络国际联网单位备案号<br />
+京ICP备06029777号  中国地震局版权所有&nbsp;&nbsp;建议使用IE浏览器浏览本网站
+    </div>
+ </div></div>
+</div>
+</body>
+</html>

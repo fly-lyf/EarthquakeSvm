@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+
+            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" class="now" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">我局动态</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">国家前兆台网中心李正媛研究员应邀到我局作学术报告<span>发布时间：2015-11-27&nbsp;&nbsp;&nbsp;&nbsp;信息来源：监测处</span></div>
+                <p><p>
+	　　11月25日，中国地震台网中心前兆部主任李正媛研究员应邀为我局技术人员作题为《前兆台网运维管理与数据跟踪分析》的学术报告，我局监测预报处、预测中心、监测中心、佘山地震台、崇明地震台等部门相关技术人员聆听了报告。</p>
+<p>
+	　　李正媛研究员首先从2009年以来国家前兆台网工作的的推进情况入手，向我局广大预测分析工作人员讲解了国家前兆台网中心的质量要求以及前兆台网的产出，并对前兆台网当前的专项建设进行了详细分析介绍。然后针对当前前兆数据跟踪分析的任务要求，结合上海前兆台网的观测质量年度评比成绩和其他省局数据报告，对数据跟踪分析任务的来源和当前完成现状，给出了详细的分析介绍，为我局预测分析工作者提供了极富参考价值的信息。李教授针对上海地震局前兆台网较小，设备台套数少的特点，给出了具体的建议与意见，并点评了当前存在的问题。整个报告内容丰富，有很强的指导性和针对性，对上海前兆工作人员后续工作有很大的启发，为我局人员进一步做好数据跟踪分析工作有切实帮助。</p>
+<p>
+	　　</p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

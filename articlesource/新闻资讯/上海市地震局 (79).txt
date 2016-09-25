@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>上海市地震局</title>
+<link href="/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/css/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/public.js"></script>
+</head>
+<body class="indexBg">
+
+<div class="container" id="container">
+	<iframe width="100%" height="350" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局头部" name="上海地震局头部" src="/gb/dzj/fzlm/top/index.html"></iframe>
+	
+	<div class="listMain" id="main">
+		<div class="leftSidebar" id="leftSidebar">
+		
+        		<div class="zqsdtitle"><h2 class="h2right">新闻资讯</h2></div>
+            <ul class="listMenu">
+             
+                            	<li><a href="/gb/dzj/xwzx/wjdt/index.html" target="_parent" title="我局动态"><span>我局动态</span><em>&gt;&gt;</em></a></li>
+                
+                            	<li><a href="/gb/dzj/xwzx/qxdt/index.html" target="_parent" title="区县动态"><span>区县动态</span><em>&gt;&gt;</em></a></li>
+                
+
+            	<li><a href="/gb/dzj/xwzx/tpxw/index.html" class="now" target="_parent" title="图片新闻"><span>图片新闻</span><em>&gt;&gt;</em></a></li>
+                            	<li><a href="/gb/dzj/xwzx/spxw/index.html" target="_parent" title="视频新闻"><span>视频新闻</span><em>&gt;&gt;</em></a></li>
+                
+            </ul>
+        </div>
+        <div class="rightSidebar" id="rightSidebar">
+        	<div class="breadCrumbNav">
+            	当前位置：
+                <a href="/gb/dzj/index.html" title="主页">主页</a> > <A class=black-y-text HREF="../index.html">新闻资讯</A> &gt; <A class=black-y-text HREF="index.html">图片新闻</A>
+            </div>
+            <div class="viewMin" id="content">
+            
+            	<div class="viewTitle">勇于拼搏,重在参与<span>发布时间：2007-06-01</span></div>
+                <p><p align="center"><font face="Arial"><strong><img style="WIDTH: 538px; HEIGHT: 362px" height="543" width="725" alt="" src="/resource/yanzhengyidai.jpg" /></strong></font></p>
+<p><font face="Arial"><strong>勇于拼搏，重在参与<br />
+</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &mdash;&mdash;记我局乒乓队参加首届科教工作者运动会乒乓赛</font></p>
+<p><font face="Arial">　　4月21日上午8时，首届上海市科教工作者运动会乒乓球比赛在华东理工大学体育馆拉开了帷幕。比赛由市科技教育工作委员会、市科学技术委员会、市教育委员会和市科技教育工会主办，由华东理工大学承办。我局派出了以朱元清副局长为队长的上海市地震局队参加了这次比赛，由方华根处长任领队，刘维克处长任教练，其它队员分别为寿海涛、李峥、于海英、张丰等。<br />
+　　这次比赛规模之大、人数之多、参与面之广都是前所未有的，整个市科教系统共有84支乒乓队参加了本次比赛，参赛的领队、教练、运动员多达678人。经过抽签，我局乒乓队和生命科学院、计划生育研究所参赛队在小组赛相逢。整个比赛场面精彩纷呈，角逐激烈难分难舍，参赛队员们你推我挡、高抛低削，小小银球在汗水和欢笑中尽情飞旋，谱写了友谊、和谐、拼搏的旋律。<br />
+　　虽然最后我局未能出线，但通过这次比赛，大家积极参与、努力拼搏，既锻炼了身体、磨炼了意志，又陶冶了情操、结交了朋友，真正体现了发展体育运动、弘扬奥运精神，并做到了健康生活、健康工作，将能为我们的防震减灾事业发展做出更大的贡献。</font></p>
+<p><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>财务室 李峥</strong></font><font face="Arial"><br />
+</font></p></p>
+            </div>
+ 
+        </div>
+	</div>
+	<iframe width="100%" height="136" scrolling="No" frameborder="0" allowtransparency="true" title="上海地震局底部" name="上海地震局底部" src="/gb/dzj/fzlm/bottom/index.html"></iframe>
+</div>
+</body>
+</html>

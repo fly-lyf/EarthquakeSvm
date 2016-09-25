@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>光辉历程</title>
+
+<script type="text/javascript" src="../../../../images/currPage.js"></script>
+<LINK href="../../../../images/qd_style.css" type="text/css" rel="stylesheet"/>
+</head>
+
+<body>
+<div id="box">
+	<div class="logo">
+		<!--<img src="../../../../images/qd_logo.jpg"/>-->
+		
+		 	<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0' width='990' height='162'>
+  <param value='false' name='menu'/>
+      <param value='opaque' name='wmode'/>
+    <param name='movie' id='movie'  value='../../../../images/jd90.swf'/>
+   	<param name='quality' value='high' />
+     <embed src='../../../../images/jd90.swf' quality='high' pluginspage='http://www.adobe.com/shockwave/download/download.cgi?   P1_Prod_Version=ShockwaveFlash' type='application/x-shockwave-flash' width='990' height='162'></embed>
+  </object>
+	</div>
+	<div class="cnetbo">
+		<div class="glb">
+			<h1><span>光辉历程</span></h1>
+			<div class="glx">
+				<ul>
+			
+			
+				<li><img src="../../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="伟大征程中不断书写“中国传奇”" href="./201106/t20110630_20091.html">伟大征程中不断书写“中国传奇”</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="鲜红党旗上永远铭刻人民利益" href="./201106/t20110630_20092.html">鲜红党旗上永远铭刻人民利益</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="现代化进程中不懈探索“中国道路”" href="./201106/t20110630_20093.html">现代化进程中不懈探索“中国道路”</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="社会发展中始终引领时代进步" href="./201106/t20110630_20094.html">社会发展中始终引领时代进步</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="全国党员总数8026.9万名（红旗飘飘）" href="./201106/t20110630_20095.html">全国党员总数8026.9万名（红旗飘飘）</a>
+				<span>2011-06-30</span></li>
+			
+				<li><img src="../../../../images/qd_img05.jpg"/>
+					<a target="_blank" title="星火燎原的坚定信念（纵横）" href="./201106/t20110630_20097.html">星火燎原的坚定信念（纵横）</a>
+				<span>2011-06-30</span></li>
+			
+				</ul>
+				<div class="fy">   <script type="text/javascript">
+		 createPageHTML(1, 0, "index", "html");
+	  </script>
+</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="foot">
+		版权所有:四川省地震局 地址：成都市人民南路三段29号<br>
+防震减灾公众信箱：fzjz@eqsc.gov.cn 蜀ICP备05030409号
+	</div>
+</div>
+</body>
+</html>
